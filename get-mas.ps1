@@ -8,8 +8,8 @@ function Exit-Script {
     )
 
     process {
-        if (Test-Path -Path "$env:TEMP\MAS.cmd") {
-            Remove-Item -Path "$env:TEMP\MAS.cmd" -Force
+        if (Test-Path -Path "$env:USERPROFILE\Desktop\MAS.cmd") {
+            Remove-Item -Path "$env:USERPROFILE\Desktop\MAS.cmd" -Force
         }
 
         exit $ExitCode
