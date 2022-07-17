@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<title>Readme - $OEM$ Folders</title>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color: #DfDfDf;">
+<pre>
+<code>
+====================================================================================================
+   $OEM$ Folders [Windows Pre-Activation]:
+====================================================================================================
+
+ - To create a preactivated Windows installation .iso, do the following things:
+   - Extract $OEM$ folder to desktop using the script.
+   - Copy the "$OEM$" folder to the "sources" folder in the Windows installation media (.iso or USB).
+   - The directory will appear like this: \sources\$OEM$ in your altered .iso or on your bootable 
+     USB drive.
+
+   Now use this .iso or bootable USB drive to install Windows and it will either already be activated 
+   (KMS38) as soon as it boots, or will self-activate at first internet contact.
+
+====================================================================================================
+   Activation Type     Supported Product         Activation Period
+====================================================================================================
+
+   HWID             -  Windows 10-11          -  Permanent
+   KMS38            -  Windows 10-11-Server   -  Until the year 2038
+   Online KMS       -  Windows / Office       -  For 180 Days, renewal task needs to be 
+                                                 created for lifetime auto-activation.
+
+   * For more details, use the respective activations read me.
+
+====================================================================================================
+
+========================
+   HWID Pre-Activation:
+========================
+
+ - When using Digital License (HWID), no files are stored on the system, and when connected to the 
+   internet for the first time, the system will self-activate at that time.
+   
+========================
+   KMS38 Pre-Activation:
+========================
+
+ - When using KMS38, no files are stored on the system, and Windows becomes activated immediately 
+   without further actions or connectivity of any kind being required.
+
+=============================================
+   HWID (Fallback to KMS38) Pre-Activation:
+=============================================
+  
+ - In this method, KMS38 will be used for the activation in case the Windows version is not 
+   supported by HWID. For example, Windows 10 LTSC N 2019 / 2021 and Windows server.
+
+======================================================================
+   Online KMS (separately, or in combination with HWID and/or KMS38):
+======================================================================
+
+ - In this method, a script will run on system login if connected to Internet, which will 
+   activate Windows / Office.
+
+   By default online KMS applies the following two methods. 
+   You can turn off any of them in setupcomplete.cmd file
+   _________________________________________________________
+
+   1- Automatic Renewal via Task Scheduler---
+
+   It creates following files and tasks,
+
+   - Scheduled tasks
+     \Online_KMS_Activation_Script-Renewal   (Renewal Task / Weekly)
+     \Online_KMS_Activation_Script-Run_Once  (Activation Task / runs on system login and deletes itself once activated)
+     The scheduled tasks runs only if the system is connected to the Internet.
+
+   - Files
+     C:\ProgramData\Online_KMS_Activation\Activate_tsk.cmd
+     C:\ProgramData\Online_KMS_Activation\Info.html
+     C:\ProgramData\Online_KMS_Activation\Logs.txt
+   _________________________________________________________
+   
+   2- Manual Renewal via Desktop Context Menu---
+
+   It creates Desktop context Menu for manual activation and renewal.
+   It creates the following files and registry entries.
+
+   - Registry
+     HKCR\DesktopBackground\shell\Activate Windows - Office
+
+   - Files
+     C:\ProgramData\Online_KMS_Activation\Activate_dcm.cmd
+     C:\ProgramData\Online_KMS_Activation\Info.html
+     C:\ProgramData\Online_KMS_Activation\BIN\cleanosppx64.exe
+     C:\ProgramData\Online_KMS_Activation\BIN\cleanosppx86.exe
+
+   It creates an easy to reach the Desktop context menu for the manual activation renewal.
+
+   Further read: https://massgrave.dev/readme-programdata-online-kms-files.html
+   _________________________________________________________
+   
+ - When using Online KMS plus HWID Digital License, Online KMS script will be set to only activate
+   Office if the HWID activation is supported for Windows.
+
+ - When using Online KMS plus KMS38, Online KMS will not skip Windows activation but skip KMS38 
+   activation and will register the KMS for other products.
+
+====================================================================================================
+</code></pre>
+
+<p>&nbsp;</p>
+</body>
+</html>
+
