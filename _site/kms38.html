@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>kms38</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Microsoft Activation Scripts</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li>
+      <a href="install_hwid_key.html">Install HWID Key</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unreadable-codes-in-mas-aio.html">Unreadable Codes In MAS AIO</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="kms38-activation" class="section level1">
+<h1>KMS38 Activation</h1>
+<hr />
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<ul>
+<li><p>How to use it? Please find the instructions <a
+href="https://massgrave.dev">here</a>.</p></li>
+<li><p>This activation method activates Windows 10/11 and Windows Server
+(14393 and later builds), until 19 january 2038 03:14:07 UTC.</p></li>
+<li><p>This activation method does not store any files on the
+system.</p></li>
+<li><p>This activation method works offline.</p></li>
+<li><p>Unlike HWID and Online KMS activation option, KMS38 does not
+match with any official activation method.</p></li>
+<li><p>Make sure the following things have been accounted for, before
+applying KMS38 Activation:</p>
+<ul>
+<li><p>Before the activation, if any KMS activator is installed, then
+make sure to uninstall it completely.</p></li>
+<li><p>After KMS38 activation has been achieved, if you want to use the
+180 Days KMS Activator for MS Office, then you must make sure that it
+(the 180 Days KMS Activator for MS Office) is compatible with Windows
+KMS38 activation. FYI, the following activators are compatible and can
+activate Office without disrupting the Windows KMS38 activation.</p>
+<p><a
+href="(https://github.com/abbodi1406/KMS_VL_ALL_AIO)">KMS_VL_ALL</a> by
+abbodi1406</p>
+<p><a href="https://massgrave.dev">MAS</a> (Online KMS option)</p></li>
+</ul></li>
+<li><p>Any KMS Activator which is not compatible with KMS38, may
+overwrite the KMS38 activation for Windows with its own 180 days
+activation, thereby destroying the KMS38 activation for Windows. To
+prevent this accidental overwriting, you can select KMS38 protection
+option.</p></li>
+</ul>
+<hr />
+</div>
+<div id="how-does-it-work" class="section level2">
+<h2>How does it work?</h2>
+<ul>
+<li><p>In a genuine <a
+href="https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview">KMS</a>
+activation environment, activation last maximum up-to 180 days. This is
+done using a valid license and server setup.</p></li>
+<li><p>However in the Windows major upgrade process, system uses
+<code>gatherosstate.exe</code> to carry over the remaining KMS
+activation period. It does it by creating a ticket which can be used
+offline.</p></li>
+<li><p>The trick is that we can fool the <code>gatherosstate.exe</code>
+about the remaining KMS activation period and manually put the desired
+period maximum up-to 19 january 2038 03:14:07 UTC.</p></li>
+<li><p>Why it’s limited to year 2038?<br />
+It’s related to the <a
+href="https://en.wikipedia.org/wiki/Year_2038_problem">Y2K38 problem</a>
+as this date (19 january 2038 03:14:07 UTC) is the maximum date we can
+give to <code>gatherosstate.exe</code> without it looping back to year
+1970.</p></li>
+</ul>
+<p><strong>Q:</strong> Can Microsoft block this kind of
+activation?<br />
+<strong>A:</strong> Not directly. They could only update Clipup to allow
+for a maximum activation period of 180 days. Not much beside that can be
+done on their part. The tickets are not sent to Microsoft at all, so
+they can’t block them or take action directly.</p>
+<hr />
+</div>
+<div id="supported-products" class="section level2">
+<h2>Supported Products</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Windows 10/11</th>
+<th align="left">Generic Volume License Key</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Education</td>
+<td align="left"><code>NW6C2-QMPVW-D7KKK-3GKT6-VCFB2</code></td>
+</tr>
+<tr class="even">
+<td align="left">Education N</td>
+<td align="left"><code>2WH4N-8QGBV-H22JP-CT43Q-MDWWJ</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise</td>
+<td align="left"><code>NPPR9-FWDCX-D2C8J-H872K-2YT43</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise N</td>
+<td align="left"><code>DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise G</td>
+<td align="left"><code>YYVX9-NTFWV-6MDM3-9PT4T-4M68B</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise G N</td>
+<td align="left"><code>44RPN-FTY23-9VTTB-MP9BX-T84FV</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise LTSC 2015</td>
+<td align="left"><code>WNMTR-4C88C-JK8YV-HQ7T2-76DF9</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise LTSC 2016</td>
+<td align="left"><code>DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise LTSC 2019</td>
+<td align="left"><code>M7XTQ-FN8P6-TTKYV-9D4CC-J462D</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise LTSC 2021</td>
+<td align="left"><code>M7XTQ-FN8P6-TTKYV-9D4CC-J462D</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise N LTSC 2015</td>
+<td align="left"><code>2F77B-TNFGY-69QQF-B8YKP-D69TJ</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise N LTSC 2016</td>
+<td align="left"><code>QFFDN-GRT3P-VKWWX-X7T3R-8B639</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Enterprise N LTSC 2019</td>
+<td align="left"><code>92NFX-8DJQP-P6BBQ-THF9C-7CG2H</code></td>
+</tr>
+<tr class="even">
+<td align="left">Enterprise N LTSC 2021</td>
+<td align="left"><code>92NFX-8DJQP-P6BBQ-THF9C-7CG2H</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Home</td>
+<td align="left"><code>TX9XD-98N7V-6WMQ6-BX7FG-H8Q99</code></td>
+</tr>
+<tr class="even">
+<td align="left">Home N</td>
+<td align="left"><code>3KHY7-WNT83-DGQKR-F7HPR-844BM</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Home China</td>
+<td align="left"><code>PVMJN-6DFY6-9CCP6-7BKTT-D3WVR</code></td>
+</tr>
+<tr class="even">
+<td align="left">Home Single Language</td>
+<td align="left"><code>7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH</code></td>
+</tr>
+<tr class="odd">
+<td align="left">IoT Enterprise LTSC (Win11)</td>
+<td align="left"><code>KBN8V-HFGQ4-MGXVD-347P6-PDQGT</code></td>
+</tr>
+<tr class="even">
+<td align="left">Lean</td>
+<td align="left"><code>NBTWJ-3DR69-3C4V8-C26MC-GQ9M6</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Pro</td>
+<td align="left"><code>W269N-WFGWX-YVC9B-4J6C9-T83GX</code></td>
+</tr>
+<tr class="even">
+<td align="left">Pro N</td>
+<td align="left"><code>MH37W-N47XK-V7XM9-C7227-GCQG9</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Pro Education</td>
+<td align="left"><code>6TP4R-GNPTD-KYYHQ-7B7DP-J447Y</code></td>
+</tr>
+<tr class="even">
+<td align="left">Pro Education N</td>
+<td align="left"><code>YVWGF-BXNMC-HTQYQ-CPQ99-66QFC</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Pro for Workstations</td>
+<td align="left"><code>NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J</code></td>
+</tr>
+<tr class="even">
+<td align="left">Pro N for Workstations</td>
+<td align="left"><code>9FNHH-K3HBT-3W4TD-6383H-6XYWF</code></td>
+</tr>
+<tr class="odd">
+<td align="left">SE</td>
+<td align="left"><code>37D7F-N49CB-WQR8W-TBJ73-FM8RX</code></td>
+</tr>
+<tr class="even">
+<td align="left">SE N</td>
+<td align="left"><code>6XN7V-PCBDC-BDBRH-8DQY7-G6R44</code></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr class="header">
+<th align="left">Windows Server (LTSC)</th>
+<th align="left">Generic Volume License Key</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Windows Server 2022 Datacenter</td>
+<td align="left"><code>WX4NM-KYWYW-QJJR4-XV3QB-6VM33</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2022 Standard</td>
+<td align="left"><code>VDYBN-27WPP-V4HQT-9VMD4-VMK7H</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2022 Azure Core</td>
+<td align="left"><code>6N379-GGTMK-23C6M-XVVTC-CKFRQ</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2019 Datacenter</td>
+<td align="left"><code>WMDGN-G9PQG-XVVXX-R3X43-63DFG</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2019 Standard</td>
+<td align="left"><code>N69G4-B89J2-4G8F4-WWYCC-J464C</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2019 Essentials</td>
+<td align="left"><code>WVDHN-86M7X-466P6-VHXV7-YY726</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2019 Azure Core</td>
+<td align="left"><code>FDNH6-VW9RW-BXPJ7-4XTYG-239TB</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2019 ARM64</td>
+<td align="left"><code>GRFBW-QNDC4-6QBHG-CCK3B-2PR88</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2016 ARM64</td>
+<td align="left"><code>K9FYF-G6NCK-73M32-XMVPY-F9DRR</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2016 Datacenter</td>
+<td align="left"><code>CB7KF-BWN84-R7R2Y-793K2-8XDDG</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2016 Standard</td>
+<td align="left"><code>WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2016 Essentials</td>
+<td align="left"><code>JCKRF-N37P4-C2D82-9YXRT-4M63B</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server 2016 Cloud Storage</td>
+<td align="left"><code>QN4C6-GBJD2-FB422-GHWJK-GJG2R</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server 2016 Azure Core</td>
+<td align="left"><code>VP34G-4NPPG-79JTQ-864T4-R3MQX</code></td>
+</tr>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col width="53%" />
+<col width="46%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Windows Server (Semi-Annual Channel)</th>
+<th align="left">Generic Volume License Key</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Windows Server Azure Datacenter</td>
+<td align="left"><code>NTBV8-9K7Q8-V27C6-M2BTV-KHMXV</code></td>
+</tr>
+<tr class="even">
+<td align="left"><strong>20H2, 2004, 1909, 1903, and 1809</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server Datacenter</td>
+<td align="left"><code>6NMRW-2C8FM-D24W7-TQWMY-CWH2D</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server Standard</td>
+<td align="left"><code>N2KJX-J94YW-TQVFB-DG9YT-724CC</code></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>1803</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server Datacenter</td>
+<td align="left"><code>2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server Standard</td>
+<td align="left"><code>PTXN8-JFHJM-4WC78-MPCBR-9W4KR</code></td>
+</tr>
+<tr class="even">
+<td align="left"><strong>1709</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Windows Server Datacenter</td>
+<td align="left"><code>6Y6KB-N82V8-D8CQV-23MJW-BWTG6</code></td>
+</tr>
+<tr class="even">
+<td align="left">Windows Server Standard</td>
+<td align="left"><code>DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4</code></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Notes:</strong></p>
+<ul>
+<li><p>X86-X64 and ARM64 architecture systems are supported.</p></li>
+<li><p>Any Evaluation version of Windows (i.e. ‘EVAL’ LTSB/C) cannot be
+activated.</p></li>
+<li><p>KMS38 only supports Windows/server version 14393 (1607) and newer
+versions.</p></li>
+<li><p>ServerRdsh edition does not <a
+href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
+support activation on non-azure systems. However on all builds except in
+range of 22000 will activate Windows.</p></li>
+</ul>
+<hr />
+</div>
+<div id="kms38-protection" class="section level2">
+<h2>KMS38 Protection</h2>
+<ul>
+<li><p>By default, KMS38 Activation is vulnerable to unintended
+replacement by a 180-Day KMS Activator.</p></li>
+<li><p>If you are going to use <a
+href="(https://github.com/abbodi1406/KMS_VL_ALL_AIO)">KMS_VL_ALL</a> by
+abbodi1406 or <a href="https://massgrave.dev">MAS</a> (Online KMS
+option) for <strong>Office activation</strong>, then you don’t need to
+enable this protection.</p></li>
+<li><p>However, with a few tricks you can ensure that no alternative KMS
+Activator can replace KMS38 Activation by accident or even on purpose.
+below is the explanation for how to do/undo that.</p></li>
+<li><p>In the KMS activation method, the Windows first checks the KMS IP
+registered as a specific KMS, and if that is not defined then it checks
+the Global KMS IP. Another fact is that if Localhost (IP range
+127.0.0.0/8) is defined as KMS IP in the Windows 8 and later OS’s then
+Windows will not accept it as a valid KMS IP. This script simply
+utilizes the above facts to protect the KMS38 activation from being
+overwritten by any alternative ‘normal’ 180-Day KMS Activation and at
+the same time that KMS activator can be used for Office
+activation.</p></li>
+<li><p>Script steps-</p>
+<ul>
+<li><p>Set the Windows edition specific KMS IP to Localhost
+(127.0.0.2)</p></li>
+<li><p>Lock the below Registry with <a
+href="https://github.com/AveYo/LeanAndMean">reg_own</a> snippet by
+AveYo</p></li>
+<li><p>Done.</p></li>
+</ul></li>
+</ul>
+<p><code>HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\</code></p>
+<hr />
+</div>
+<div id="command-line-switches" class="section level2">
+<h2>Command line Switches</h2>
+<ul>
+<li><p>This is applicable only in separate files version.</p></li>
+<li><p>If any parameter is used then script will automatically run in
+unattended mode.</p></li>
+<li><p>To activate,</p>
+<p><code>"KMS38_Activation.cmd" /a</code></p></li>
+<li><p>To activate along with KMS38 protection (from being replaced by
+180 days KMS activation),</p>
+<p><code>"KMS38_Activation.cmd" /ap</code></p></li>
+<li><p>To only generate GenuineTicket.xml,</p>
+<p><code>"KMS38_Activation.cmd" /g</code></p></li>
+<li><p>To remove KMS38 protection,</p>
+<p><code>"KMS38_Activation.cmd" /x</code></p></li>
+</ul>
+<hr />
+</div>
+<div id="file-details" class="section level2">
+<h2>File Details</h2>
+<p>Besides plain batch script, KMS38 activation requires the use of
+official gatherosstate.exe (x86) file.</p>
+<pre><code>     File: gatherosstate.exe
+    SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 </code></pre>
+<p>It’s taken from <a
+href="https://go.microsoft.com/fwlink/p/?LinkId=526740">Windows 10
+Version 1607 ADK</a> (Section: User State Migration Tool)</p>
+<p><strong>Further</strong>, in case of Windows Server Core editions,
+system doesn’t have <code>clipup.exe</code> file. So to activate it, MAS
+separate files version contains the below file. (It’s not included in
+MAS AIO)</p>
+<pre><code>      File: ClipUp.exe
+     SHA-1: 48D928B1BEC25A56FE896C430C2C034B7866AA7A</code></pre>
+<p>It’s taken from <a
+href="https://www.microsoft.com/en-us/evalcenter/">Windows Server 2016
+x64 ISO</a></p>
+<hr />
+</div>
+<div id="manual-activation" class="section level2">
+<h2>Manual Activation</h2>
+<ul>
+<li><p>You need the <code>gatherosstate.exe</code> file, get it from MAS
+separate files version.</p></li>
+<li><p>Make a folder named <code>Files</code> in C drive,
+<code>C:\Files</code> and copy the <code>gatherosstate.exe</code> file
+in that folder.</p></li>
+<li><p>Open Windows Powershell as administrator, and enter following
+listed commands in the the sequence in which they are given.</p></li>
+<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
+from the above list) with the following command</p></li>
+</ul>
+<p><code>slmgr /ipk &lt;key&gt;</code></p>
+<ul>
+<li>Copy the below code all at once and enter in PowerShell to modify
+the <code>gatherosstate.exe</code> file.</li>
+</ul>
+<!-- -->
+<pre><code>$bytes  = [System.IO.File]::ReadAllBytes(&quot;C:\Files\gatherosstate.exe&quot;)
+$bytes[320] = 0x9c
+$bytes[321] = 0xfb
+$bytes[322] = 0x05
+$bytes[13672] = 0x25
+$bytes[13674] = 0x73
+$bytes[13676] = 0x3b
+$bytes[13678] = 0x00
+$bytes[13680] = 0x00
+$bytes[13682] = 0x00
+$bytes[13684] = 0x00
+$bytes[32748] = 0xe9
+$bytes[32749] = 0x9e
+$bytes[32750] = 0x00
+$bytes[32751] = 0x00
+$bytes[32752] = 0x00
+$bytes[32894] = 0x8b
+$bytes[32895] = 0x44
+$bytes[32897] = 0x64
+$bytes[32898] = 0x85
+$bytes[32899] = 0xc0
+$bytes[32900] = 0x0f
+$bytes[32901] = 0x85
+$bytes[32902] = 0x1c
+$bytes[32903] = 0x02
+$bytes[32904] = 0x00
+$bytes[32906] = 0xe9
+$bytes[32907] = 0x3c
+$bytes[32908] = 0x01
+$bytes[32909] = 0x00
+$bytes[32910] = 0x00
+$bytes[32911] = 0x85
+$bytes[32912] = 0xdb
+$bytes[32913] = 0x75
+$bytes[32914] = 0xeb
+$bytes[32915] = 0xe9
+$bytes[32916] = 0x69
+$bytes[32917] = 0xff
+$bytes[32918] = 0xff
+$bytes[32919] = 0xff
+$bytes[33094] = 0xe9
+$bytes[33095] = 0x80
+$bytes[33096] = 0x00
+$bytes[33097] = 0x00
+$bytes[33098] = 0x00
+$bytes[33449] = 0x64
+$bytes[33576] = 0x8d
+$bytes[33577] = 0x54
+$bytes[33579] = 0x24
+$bytes[33580] = 0xe9
+$bytes[33581] = 0x55
+$bytes[33582] = 0x01
+$bytes[33583] = 0x00
+$bytes[33584] = 0x00
+$bytes[34189] = 0x59
+$bytes[34190] = 0xeb
+$bytes[34191] = 0x28
+$bytes[34238] = 0xe9
+$bytes[34239] = 0x4f
+$bytes[34240] = 0x00
+$bytes[34241] = 0x00
+$bytes[34242] = 0x00
+$bytes[34346] = 0x24
+$bytes[34376] = 0xeb
+$bytes[34377] = 0x63
+[System.IO.File]::WriteAllBytes(&quot;C:\Files\gatherosstatemodified.exe&quot;, $bytes)</code></pre>
+<ul>
+<li>Now we need to generate the ticket, to do that, enter the below
+command.</li>
+</ul>
+<!-- -->
+<pre><code>C:\Files\gatherosstatemodified.exe GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1</code></pre>
+<ul>
+<li>A GenuineTicket.xml file should be created in the folder
+<code>C:\Files\</code> now let’s apply it.</li>
+</ul>
+<p><code>clipup -v -o -altto C:\Files\</code></p>
+<ul>
+<li>Check Activation Status with the following command:</li>
+</ul>
+<p><code>slmgr /xpr</code></p>
+<ul>
+<li>Done.</li>
+</ul>
+<hr />
+</div>
+<div id="setup-preactivate" class="section level2">
+<h2>Setup Preactivate</h2>
+<ul>
+<li><p>Check Extract OEM option in the MAS <code>Extras</code> section
+if you want pre-activated Windows installation.</p></li>
+<li><p>Further read <a
+href="https://massgrave.dev/oem-folder.html">here</a>.</p></li>
+</ul>
+<hr />
+</div>
+<div id="troubleshooting" class="section level2">
+<h2>Troubleshooting</h2>
+<ul>
+<li>Reach out to us on <a
+href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
+with an error screenshot.</li>
+</ul>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

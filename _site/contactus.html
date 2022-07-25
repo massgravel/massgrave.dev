@@ -11,7 +11,7 @@
 
 
 
-<title>office-license-is-not-genuine</title>
+<title>contactus</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -394,165 +394,23 @@ div.tocify {
 </div>
 
 
-<div id="get-genuine-office-banner" class="section level1">
-<h1>‘Get genuine Office’ banner</h1>
-<p><img src="office-license-is-not-genuine.png" /></p>
-<p><strong>TL;DR</strong> To solve it, use the latest abbodi1406’s <a
-href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a> or
-<a href="https://massgrave.dev/">MAS</a> to activate Office.</p>
+<div id="contact-us" class="section level1">
+<h1>Contact Us</h1>
 <hr />
-<div id="reasons" class="section level2">
-<h2>Reasons</h2>
+<p>Please feel free to share feedback regarding bug reports,
+documentation errors, troubleshooting etc.</p>
 <ul>
-<li><p>Office Click-to-Run builds (since February 2021) that are
-activated with KMS checks the existence of the KMS server name in the
-registry. If KMS server is not present, a banner is shown in Office
-programs notifying that “Office isn’t licensed properly”</p></li>
-<li><p>In case of 32-bit Office installed on 64-bit Windows, Office
-checks the KMS server existence in corresponding WOW6432Node registry
-key as well.</p></li>
-<li><p>Apart from this, they also detect if registered KMS server is in
-their blacklist or not. As far as I know, they blacklisted below 3
-addresses.</p>
-<p><code>km-s8.MSG-uides.com</code> <code>km-s9.MSG-uides.com</code>
-<code>0.0.0.0</code>(Remove hyphen)<br />
-First two are public KMS servers and last one in simple words is neither
-a public or private IP.</p></li>
-<li><p>Please note that these checks are not performed by Office if
-proper installation of Volume version of Office is done with
-Perpetual2019 / 2021 VL channel.</p></li>
+<li><p><a href="https://discord.gg/gjJEfq7ux8">Discord</a> ❤️
+(preferred) (signup not required)</p></li>
+<li><p><a
+href="https://github.com/massgravel/Microsoft-Activation-Scripts">GitHub</a>
+/ <a
+href="https://gitlab.com/massgrave/microsoft-activation-scripts">GitLab</a></p></li>
+<li><p>Email: windowsaddict@protonmail.com</p></li>
+<li><p><a
+href="https://nsaneforums.com/topic/316668-microsoft-activation-scripts/">Nsaneforums</a></p></li>
 </ul>
 <hr />
-</div>
-<div id="solutions" class="section level2">
-<h2>Solutions:</h2>
-<p>Please find below various ways you can avoid this banner. Simplest
-option for you is to just use a Office activation tool mentioned
-here.</p>
-<hr />
-<div id="activation-tools" class="section level3">
-<h3>1- Activation Tools</h3>
-<ul>
-<li>Use the latest abbodi1406’s <a
-href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a> or
-<a href="https://massgrave.dev/">MAS</a> to activate Office.</li>
-</ul>
-<hr />
-</div>
-<div id="manual-activation" class="section level3">
-<h3>2- Manual Activation</h3>
-<p>In this section I’m only going to mention how to setup KMS server in
-registry properly.</p>
-<ul>
-<li><p><strong>If using Public KMS server:</strong><br />
-Since they can put any public KMS server in blacklist, as a permanent
-solution, we can instead use server IP instead of hostname.</p></li>
-<li><p><strong>If using private KMS server IP:<br />
-</strong>Make sure to use a valid private IP address.</p></li>
-</ul>
-<p>Please find below how to set the KMS server address in registry.
-Example with a private IP <code>10.0.0.10</code></p>
-<pre><code>reg delete &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663&quot; /f
-
-reg delete &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663&quot; /f /reg:32
-
-reg add &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform&quot; /f /v KeyManagementServiceName /t REG_SZ /d &quot;10.0.0.10&quot;
-
-reg add &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform&quot; /f /v KeyManagementServiceName /t REG_SZ /d &quot;10.0.0.10&quot; /reg:32</code></pre>
-<hr />
-</div>
-<div id="install-vl-office" class="section level3">
-<h3>3- Install VL Office</h3>
-<p>As mentioned in reasons section, these checks are performed only if
-Retail Office is installed and later converted to VL. Office doesn’t
-perform any such checks if proper installation of VL office is done.</p>
-<p>Please find below guide on how to properly install Volume C2R
-Office.</p>
-<p><strong>Clear previous installation of Office:</strong></p>
-<ul>
-<li><p>Uninstall the office with App and Features option in Windows
-settings.</p></li>
-<li><p>Run <code>Full_Scrub.cmd</code> file from <a
-href="https://forums.mydigitallife.net/posts/1466365/">Office
-Scrubber</a> (<a
-href="https://github.com/abbodi1406/WHD/tree/master/scripts">Mirror</a>)
-by abbodi1406 and reboot the system.<br />
-Full Scrub is optional, you can skip this step if you want to save
-outlook related data.<br />
-It’s recommended to at-least run <code>Remove_Licenses.cmd</code> file
-from this package.</p></li>
-</ul>
-<p><strong>Install Office 2021 VL with Official method:</strong></p>
-<p>Please note that in the official VL office installation method, there
-is no ISO or any one click solution available. Below is the simplest
-guide to install VL office.</p>
-<ul>
-<li><p>Download <a
-href="https://officecdn.microsoft.com/pr/wsus/setup.exe">Office
-Deployment Tool</a> (ODT)</p></li>
-<li><p>Copy the downloaded <code>setup.exe</code> file to the root of
-the C drive, i.e. <code>C:\setup.exe</code></p></li>
-<li><p>Goto <a
-href="https://config.office.com/deploymentsettings">config.office.com</a></p></li>
-<li><p>Select
-<code>Office LTSC Professional Plus 2021 - Volume License</code> in the
-office suites section. You can add Visio and Project apps if you need.
-Customize other things and leave as default where you don’t understand
-something.</p></li>
-<li><p>Once you go through all the options, click on the export button
-and it will download a file named
-<code>Configuration.xml</code></p></li>
-<li><p>Copy the downloaded <code>Configuration.xml</code> file to the
-root of the C drive, i.e. <code>C:\Configuration.xml</code></p></li>
-<li><p>Open the command prompt as admin and run the below commands</p>
-<pre><code>cd /d C:\
-setup.exe /configure Configuration.xml</code></pre></li>
-</ul>
-<p>It will now download and install Office. You can activate it with
-your preferred method.</p>
-<hr />
-</div>
-<div id="change-update-channel" class="section level3">
-<h3>4- Change Update Channel</h3>
-<ul>
-<li><p>If we change the Insider or Current update channel
-<strong>to</strong> Monthly Enterprise or Semi-Annual channel then such
-non-genuine banners won’t appear by default.</p></li>
-<li><p>Before doing this, make sure your Office update channel is either
-Insider or Current.</p></li>
-<li><p>Make sure Internet is connected</p></li>
-<li><p>Open command prompt as admin and enter below lines and press
-enter,</p></li>
-</ul>
-<!-- -->
-<pre><code>reg add HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v CDNBaseUrl /t REG_SZ /d &quot;http://officecdn.microsoft.com/pr/55336B82-A18D-4DD6-B5F6-9E5095C314A6&quot; /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v UpdateUrl /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v UpdateToVersion /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Updates /v UpdateToVersion /f
-
-reg delete HKLM\SOFTWARE\Policies\Microsoft\Office\16.0\Common\OfficeUpdate\ /f
-
-&quot;%CommonProgramFiles%\microsoft shared\ClickToRun\OfficeC2RClient.exe&quot; /update user</code></pre>
-<ul>
-<li><p>It will change the update channel to Production::MEC |
-MonthlyEnterprise</p></li>
-<li><p>Make sure Office starts updating with the last command.</p></li>
-</ul>
-<hr />
-</div>
-</div>
-<div id="report-an-issue" class="section level2">
-<h2>Report an issue</h2>
-<ul>
-<li>If you have any conflicting info or any other useful info regarding
-this then please reach out to us on <a
-href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not
-required).</li>
-</ul>
-</div>
 </div>
 
 
