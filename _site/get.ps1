@@ -8,5 +8,5 @@ if($PSVersionTable.PSVersion.Major -lt 3){
 }else {
 Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
 }
-   
+    
 Start-Process -FilePath $FilePath
