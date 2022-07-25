@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<title>Troubleshoot ReadMe - Online KMS</title>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color: #DfDfDf;">
+<pre>
+<code>
+These instructions are written in context of Activation Troubleshoot option in MAS.
+
+______________________________
+
+ KMS Activation Troubleshoot:
+______________________________
+
+ - Make sure you are using the latest version of the activator, to check it, browse the links listed 
+   in the bottom of this page.
+
+ - Make sure the Internet is connected.
+
+ - Reboot the system.
+
+ - Now run the script to activate, if still unsuccessful and you want to try another activator then use,
+   'KMS_VL_ALL' by @abbodi1406  https://github.com/abbodi1406/KMS_VL_ALL_AIO
+
+   Tip - Don't start to search and use other unknown tools found on unreliable sites via google search 
+   result, they may (some already do) ruin your system with malwares.
+ 
+ - If still unsuccessful then try additional troubleshoot steps listed below.
+_______________________________________________________________________________________________________
+
+ - Apply: [4] Dism RestoreHealth | (Not in Windows 7)
+
+   Reboot the system 
+
+ - Apply: [5] SFC Scannow
+
+   Reboot the system (If error found in SFC Scan, run the scan again) and run the activation script, 
+   and if unsuccessful, 
+
+ - If Windows activation is the issue:
+ 
+   Apply: [6] Windows Rearm - Specific SKU ID  | (Windows 8/8.1/10)
+
+ - If office activation is the issue,
+   Goto add and remove programs in control panel and repair the Office from there,
+   Reboot the system and run the activation script, and if unsuccessful, 
+
+   Apply: [7] Office  Rearm - Specific KMS SKU ID
+
+ - Reboot the system and run the activation script, and if unsuccessful, 
+
+ - Apply: [9] Rebuild Licensing Tokens
+
+   Reboot the system and run the activation script, and if unsuccessful, 
+
+ - Enable debug log in the KMS script and share it with me
+
+ - As a last step, you may need to do repair install of Windows with an In-place upgrade, 
+   check below links for how to.
+ 
+   Windows 11    - elevenforum.com/t/repair-install-windows-11-with-an-in-place-upgrade.418/
+   Windows 10    - tenforums.com/tutorials/16397-repair-install-windows-10-place-upgrade.html
+   Windows 8/8.1 - eightforums.com/threads/repair-install-windows-8.26095/
+_______________________________________________________________________________________________________
+
+ - If you wish to remove Office and leftovers completely and start clean:
+   Uninstall Office normally from Control Panel (Programs and Feature),
+   Download Office Scrubber pack [forums.mydigitallife.net/posts/1466365/]
+   Run Full_Scrub.cmd file, afterwards, install new Office.
+
+ - Can't activate Windows 7 with KMS: [Error 0xC004F035]
+   Some OEM licensed computers cannot be activated with KMS on WINDOWS 7. 
+
+   Quote from the MS page support.microsoft.com/en-us/help/942962
+   Computers obtained through OEM channels that have an ACPI_SLIC table in the (BIOS) are 
+   required to have a valid Windows marker in the same ACPI_SLIC table.
+   ---Computers that have an ACPI_SLIC table without a valid Windows marker generate an error 
+   when a volume edition of Windows 7 is installed.
+_______________________________________________________________________________________________________
+
+   Homepage: massgrave.dev
+      Email: windowsaddict@protonmail.com
+_______________________________________________________________________________________________________
+</code></pre>
+
+<p>&nbsp;</p>
+
+</body>
+</html>
