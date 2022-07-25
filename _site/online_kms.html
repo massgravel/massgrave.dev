@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>online_kms</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Microsoft Activation Scripts</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li>
+      <a href="install_hwid_key.html">Install HWID Key</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unreadable-codes-in-mas-aio.html">Unreadable Codes In MAS AIO</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="online-kms-activation" class="section level1">
+<h1>Online KMS Activation</h1>
+<hr />
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<ul>
+<li><p>How to use it? Please find the instructions <a
+href="https://massgrave.dev">here</a>.</p></li>
+<li><p>This Online KMS Activation script is a fork of abbodi1406’s <a
+href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a></p></li>
+<li><p>This fork’s purpose is to avoid having any KMS binary files and
+activate Windows / Office using only transparent batch script with
+online public KMS servers IP (Not hostname).</p></li>
+<li><p>This script requires Internet for activation.</p></li>
+<li><p>KMS activates Windows / Office for 180 Days. For Windows Core /
+ProWMC editions it is 30 / 45 Days.</p></li>
+<li><p>This script can activate both Retail and Volume Windows
+installation.</p></li>
+<li><p>This script can activate C2R Retail and VL Office, but not 2010 /
+2013 MSI Retail Office and UWP Office.</p></li>
+<li><p>This script skips the activation of any permanently /
+Subscription / KMS38 activated product.</p></li>
+<li><p>As mentioned, KMS activates only for a limited period and it’s
+not permanent, read below on how to achieve lifetime
+activation.</p></li>
+</ul>
+<hr />
+</div>
+<div id="activation-renewal" class="section level2">
+<h2>Activation Renewal</h2>
+<ul>
+<li><p>By design in the genuine <a
+href="https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview">KMS</a>
+activation method, the system contacts the registered server every 7
+days, and if contacted successfully it will automatically renew and
+reset the activation for the the full period of 180 days again, starting
+from the day of successful contact. If the system cannot contact the
+server, it will be deactivated after 180 days and it will remain
+deactivated until contact can be restored.</p></li>
+<li><p>To get the lifetime activation, you need to do either one of the
+below two things,</p></li>
+</ul>
+<ol style="list-style-type: decimal">
+<li><p><strong>Manual Activation</strong><br />
+Run the online KMS activation whenever required.</p></li>
+<li><p><strong>Activation Auto-Renewal</strong><br />
+You can install the auto-renewal in the script.<br />
+This method puts the following two files,<br />
+<br />
+<code>C:\ProgramData\Activation-Renewal\Activation_task.cmd</code></p>
+<p><code>C:\ProgramData\Activation-Renewal\Info.txt</code></p>
+<p>And creates a scheduled task (<code>\Activation-Renewal</code>) to
+run the script every 7 days. This task registers the working KMS server
+and triggers activation commands only for the installed Volume
+products.<br />
+The scheduled task runs only if the system is connected to the
+Internet.</p></li>
+</ol>
+<hr />
+</div>
+<div id="remarks" class="section level2">
+<h2>Remarks</h2>
+<ul>
+<li><p>With KMS Activation, you can update Windows/Office without any
+issues.</p></li>
+<li><p>What is left in the system in the activation process?</p>
+<ul>
+<li><p><strong>If Renewal Task is installed:</strong> After activation,
+it leaves the KMS Server IP in the registry, which helps you to get the
+global activation feature whereby the system auto-renews the activation.
+About files and scheduled task, it has been mentioned above.</p></li>
+<li><p><strong>If Renewal Task is NOT installed:</strong> It leaves a
+non-existent IP 10.0.0.10 to avoid Office Not Genuine Banner
+issue.</p></li>
+</ul></li>
+<li><p>This script includes the most-stable KMS servers (16) list from
+all over the world. The server selection process is fully automatic.
+Script randomly select a server, tests if it’s online, if yes then apply
+the activation command, if fails, then retry this process maximum of
+total 3 times for a product. Such redundancy makes sure that we get the
+working KMS server any time.</p></li>
+<li><p>If your system date is incorrect (beyond 180 days) and you are
+offline, the system will be deactivated, but will automatically
+reactivate when you correct the system date.</p></li>
+<li><p>The advantage of Online KMS activation is that it doesn’t need
+any KMS binary file and system can be activated using some manual
+commands or transparent batch script files. So this is for those who
+don’t like/have difficulties/trust issues in offline KMS because of its
+binary files and antivirus detection’s.</p>
+<p>But if you prefer offline KMS then checkout an open-source activator,
+abbodi1406’s <a
+href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a></p></li>
+</ul>
+<hr />
+</div>
+<div id="supported-products" class="section level2">
+<h2>Supported Products</h2>
+<p><strong>Volume-capable:</strong></p>
+<ul>
+<li><p><strong>Windows 11:</strong><br />
+Enterprise, Enterprise LTSC, IoT Enterprise LTSC, Enterprise G,
+Enterprise multi-session, SE (CloudEdition), Education, Pro, Pro
+Workstation, Pro Education, Home, Home Single Language, Home
+China</p></li>
+<li><p><strong>Windows 10:</strong><br />
+Enterprise, Enterprise LTSC/LTSB, Enterprise G, Enterprise
+multi-session, Education, Pro, Pro Workstation, Pro Education, Home,
+Home Single Language, Home China</p></li>
+<li><p><strong>Windows 8.1:</strong><br />
+Enterprise, Pro, Pro with Media Center, Core, Core Single Language, Core
+China, Pro for Students, Bing, Bing Single Language, Bing China,
+Embedded Industry Enterprise/Pro/Automotive</p></li>
+<li><p><strong>Windows 8:</strong><br />
+Enterprise, Pro, Pro with Media Center, Core, Core Single Language, Core
+China, Embedded Industry Enterprise/Pro</p></li>
+<li><p>Windows 10/11 on <strong>ARM64</strong> is supported. Windows
+8/8.1/10/11 <strong>N editions</strong> variants are also supported
+(e.g. Pro N)</p></li>
+<li><p><strong>Windows 7:</strong><br />
+Enterprise /N/E, Professional /N/E, Embedded POSReady/ThinPC</p></li>
+<li><p><strong>Windows Server 2022/2019/2016:</strong><br />
+LTSC editions (Standard, Datacenter, Essentials, Cloud Storage, Azure
+Core, Server ARM64), SAC editions (Standard ACor, Datacenter ACor, Azure
+Datacenter)</p></li>
+<li><p><strong>Windows Server 2012 R2:</strong><br />
+Standard, Datacenter, Essentials, Cloud Storage</p></li>
+<li><p><strong>Windows Server 2012:</strong><br />
+Standard, Datacenter, MultiPoint Standard, MultiPoint Premium</p></li>
+<li><p><strong>Windows Server 2008 R2:</strong><br />
+Standard, Datacenter, Enterprise, MultiPoint, Web, HPC Cluster</p></li>
+<li><p><strong>Office Volume 2010 / 2013 / 2016 / 2019 /
+2021</strong></p></li>
+</ul>
+<p><strong>Notes:</strong></p>
+<ul>
+<li><p>X86-X64 and ARM64 architecture systems are supported.</p></li>
+<li><p>Any Evaluation version of Windows (i.e. ‘EVAL’ LTSB/C) cannot be
+activated.</p></li>
+<li><p>ServerRdsh edition does not <a
+href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
+support activation on non-azure systems. However on all builds except in
+range of 22000 will activate Windows.</p></li>
+<li><p>Supported <u>Windows</u> products do not need volume conversion,
+only the GVLK (KMS key) is needed, which the script will install
+accordingly.</p></li>
+<li><p>KMS activation on Windows 7 has a limitation related to OEM
+Activation 2.0 and Windows marker. For more info, see <a
+href="https://support.microsoft.com/en-us/help/942962">here</a> and <a
+href="https://technet.microsoft.com/en-us/library/ff793426(v=ws.10).aspx#activation-of-windows-oem-computers">here</a>.
+To verify the activation possibility before attempting, see <a
+href="https://forums.mydigitallife.net/posts/1553139/">this</a>.</p></li>
+<li><p>These editions are only KMS-activatable for <em>45</em> days at
+max:</p>
+<ul>
+<li><p>Windows 10/11 Home edition variants</p></li>
+<li><p>Windows 8.1 Core edition variants, Pro with Media Center, Pro for
+Students</p></li>
+</ul>
+<p>These editions are only KMS-activatable for <em>30</em> days at
+max:</p>
+<ul>
+<li>Windows 8 Core edition variants, Pro with Media Center</li>
+</ul></li>
+</ul>
+<hr />
+</div>
+<div id="unsupported-products" class="section level2">
+<h2>Unsupported Products</h2>
+<ul>
+<li><p>Office MSI Retail 2010/2013, Office 2010 C2R Retail</p></li>
+<li><p>Office UWP (Windows 10/11 Apps)</p></li>
+<li><p>Windows editions which do not support KMS activation by
+design:Windows Evaluation Editions<br />
+Windows 7 (Starter, HomeBasic, HomePremium, Ultimate)<br />
+Windows 10 (Cloud “S”, IoTEnterprise, IoTEnterpriseS,
+ProfessionalSingleLanguage… etc)<br />
+Windows Server (Server Foundation, Storage Server, Home Server 2011…
+etc)</p></li>
+</ul>
+<hr />
+</div>
+<div id="how-does-it-work" class="section level2">
+<h2>How does it work?</h2>
+<ul>
+<li><p><strong>What is KMS activation?</strong><br />
+Key Management Service (KMS) is a genuine activation method provided by
+Microsoft for volume licensing customers (organizations, schools or
+governments). The machines in those environments (called KMS clients)
+are activated via the Environment KMS Host Server (authorized
+Microsoft’s licensing key), instead of Microsoft activation servers. By
+design, the KMS activation period lasts up to 180 Days (6 Months) at
+max, with the ability to renew and reinstate the period at any time.
+Activation renewal automatically happens every 7 days if the client can
+connect to the KMS host server. For more info, see <a
+href="https://www.microsoft.com/Licensing/servicecenter/Help/FAQDetails.aspx?id=201#215">here</a>
+and <a
+href="https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview">here</a>.</p></li>
+<li><p><strong>How are we getting it for free?</strong><br />
+Developers reverse-engineered the KMS Host Server setup, so now anyone
+can host a KMS server and activate the systems without any limitations.
+KMS activators such as KMSpico, MTK, KMS_VL_ALL, etc., locally create an
+emulated KMS Host Server and activate Windows and Office.</p>
+<p>This locally-emulated KMS server requires you to run binary files
+which often cause anti-virus alerts (false positives).</p>
+<p>Another method of KMS activation is publicly-available Online KMS
+Host Server. In this method, the site hosts the emulated KMS server and
+anyone can simply use this server to activate their systems, there is no
+requirement for running any software on your system.</p></li>
+<li><p><strong>Is Online KMS activation safe?</strong><br />
+Yes.<br />
+Let’s go into the details. In the KMS protocol, there is a relationship
+of host and client. The client system asks the host system to grant the
+activation, and the host system grants the activation if it’s eligible.
+In this process, the client system shares some of the system’s data,
+which is not sensitive in nature. According to the <a
+href="https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview">Microsoft
+document</a>, the client system shares the following data with the host
+system: Client FQDN, CMID, time-stamp, Product license state, expiration
+time and IP address</p>
+<p>In this shared info, the important part is your IP address. Below are
+some things regarding it which you should know.</p>
+<ul>
+<li><p>Sharing your IP while going online is not a security concern. You
+can not go online to visit any website without having to share your IP
+address.</p></li>
+<li><p>IP addresses do not necessarily represent a specific person.
+Internet Service Providers (ISP’s) mostly use dynamic IP, which means
+the same IP address can be used by many different persons, and a dynamic
+IP address is periodically reassigned to different people all the time.
+But a static IP address is permanently assigned to a unique subscriber.
+The Internet Service Provider (ISP) won’t reveal that information unless
+there is a legal reason to do so.</p></li>
+<li><p>Microsoft has never tried to go after Home users in legal cases
+for using a few pirated activations (not talking about stolen legal
+keys) simply because the cost of legal actions would be much higher than
+the amount of money gained by forcing a few people to purchase
+activations.</p></li>
+<li><p>No law enforcement is going to take action based on the IP’s from
+all over the world without the consent from the Microsoft
+itself.</p></li>
+</ul></li>
+</ul>
+<p>Feel free contact us in case you have a contradictory point of
+view.</p>
+<hr />
+</div>
+<div id="office-non-genuine-banner" class="section level2">
+<h2>Office ‘Non-genuine’ Banner</h2>
+<ul>
+<li><p>Office Click-to-Run builds (since February 2021) that are
+activated with KMS checks the existence of the KMS server name in the
+registry.</p></li>
+<li><p>If KMS server is not present, a banner is shown in Office
+programs notifying that “Office isn’t licensed properly”, see <a
+href="https://i.imgur.com/gLFxssD.png">here</a>.</p></li>
+<li><p>Therefore in manual mode, <code>KeyManagementServiceName</code>
+value containing a non-existent IP address 10.0.0.10 will be kept in the
+below registry keys:</p></li>
+</ul>
+<!-- -->
+<pre><code>HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
+
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform</code></pre>
+<p>This is perfectly fine to keep, and it does not affect Windows or
+Office activation. For more explanation, visit <a
+href="https://massgrave.dev/office-license-is-not-genuine.html">here</a></p>
+<hr />
+</div>
+<div id="office-retail-to-volume" class="section level2">
+<h2>Office Retail to Volume</h2>
+<p>Office Retail must be converted to Volume first before it can be
+activated with KMS.<br />
+By default, this activation script will convert Office C2R Retail to
+Volume.</p>
+<p><strong>Notes:</strong></p>
+<ul>
+<li><p>Supported Click-to-Run products: Office 365 (Microsoft 365 Apps),
+Office 2021 / 2019 / 2016, Office 2013</p></li>
+<li><p>Activated Office Retail or Subscription products will be skipped
+from conversion</p></li>
+<li><p>Office 365 itself does not have volume licenses, therefore it
+will be converted to Office Mondo licenses</p></li>
+<li><p>Windows 10/11: Office 2016 products will be converted with
+corresponding Office 2019 licenses (if RTM detected)</p></li>
+<li><p>Windows 8.1: Office 2016/2019 products will be converted with
+corresponding Office 2021 licenses (if RTM detected)</p></li>
+<li><p>Office Professional suite will be converted with Office
+Professional Plus licenses</p></li>
+<li><p>Office HomeBusiness/HomeStudent suites will be converted with
+Office Standard licenses</p></li>
+<li><p>Office 2013 products follow the same logic, but handled
+separately</p></li>
+</ul>
+<p>Alternatively, if the automatic conversion did not work, or if you
+prefer to use the standalone converter script: <a
+href="https://forums.mydigitallife.net/posts/1150042/">Office-C2R-Retail2Volume</a></p>
+<hr />
+</div>
+<div id="file-details" class="section level2">
+<h2>File Details</h2>
+<pre><code>cleanosppx64.exe        SHA-1: d30a0e4e5911d3ca705617d17225372731c770e2
+cleanosppx86.exe        SHA-1: 39ed8659e7ca16aaccb86def94ce6cec4c847dd6</code></pre>
+<ul>
+<li><p>These files are used in cleaning office license in C2R Retail
+office to VL conversion process.</p></li>
+<li><p>These files are taken from the old version of Microsoft official
+tool <code>O15CTRRemove.diagcab</code></p></li>
+</ul>
+<!-- -->
+<pre><code> File: O15CTRRemove.diagcab (Digitally Signed)
+ Link: https://app.box.com/s/n8qpb5ljmv6djp77w5p6fk043dm6s3r1 (Unofficial Link)
+SHA-1: 56c6ca76993a96cf9a255463b90db96cb9d24464</code></pre>
+<hr />
+</div>
+<div id="debug-mode" class="section level2">
+<h2>Debug Mode</h2>
+<ul>
+<li><p>With debug mode, we can get a log file with more details of
+activation script process and it can be used to troubleshoot the
+activation issues.</p></li>
+<li><p>In Online KMS option, you can enable <code>Debug Mode</code> by
+pressing 6. When the activation is run with Debug Mode enabled, it
+creates a log file which contains details of activation process, this is
+useful to detect activation errors. You can send that log to us to
+check. Check troubleshoot heading.</p></li>
+</ul>
+<hr />
+</div>
+<div id="command-line-switches" class="section level2">
+<h2>Command line Switches</h2>
+<ul>
+<li><p>This is applicable only in separate files version.
+<code>Online_KMS_Activation\Activate.cmd</code></p></li>
+<li><p>If any parameter is used then script will automatically run in
+unattended mode.</p></li>
+</ul>
+<p>Below the switches are divided into four groups, you can use the
+combination of switches from only one group at a time.</p>
+<table>
+<tbody>
+<tr class="odd">
+<td align="left"><strong>Group 1</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Activate Windows only</td>
+<td align="left"><code>/w</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Activate Office only</td>
+<td align="left"><code>/o</code></td>
+</tr>
+<tr class="even">
+<td align="left">Activate Windows and Office</td>
+<td align="left"><code>/wo</code></td>
+</tr>
+<tr class="odd">
+<td align="left">Debug mode and create detailed log on desktop</td>
+<td align="left"><code>/d</code></td>
+</tr>
+<tr class="even">
+<td align="left">Silent and create simple log in current directory</td>
+<td align="left"><code>/L</code></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Group 2</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Create Renewal Task</td>
+<td align="left"><code>/rt</code></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Group 3</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Create Renewal and Activation Task</td>
+<td align="left"><code>/rat</code></td>
+</tr>
+<tr class="odd">
+<td align="left"><strong>Group 4</strong></td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Complete Uninstall</td>
+<td align="left"><code>/uni</code></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="setup-preactivate" class="section level2">
+<h2>Setup Preactivate</h2>
+<ul>
+<li><p>Check Extract OEM option in the MAS <code>Extras</code> section
+if you want pre-activated Windows installation.</p></li>
+<li><p>Further read <a
+href="https://massgrave.dev/oem-folder.html">here</a>.</p></li>
+</ul>
+<hr />
+</div>
+<div id="troubleshooting" class="section level2">
+<h2>Troubleshooting</h2>
+<ul>
+<li>Reach out to us on <a
+href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
+with an error screenshot.</li>
+</ul>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
