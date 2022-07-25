@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>changelog</title>
+
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Microsoft Activation Scripts</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li>
+      <a href="install_hwid_key.html">Install HWID Key</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unreadable-codes-in-mas-aio.html">Unreadable Codes In MAS AIO</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="mas-changelog" class="section level1">
+<h1>MAS Changelog</h1>
+<hr />
+<div id="section" class="section level2">
+<h2>1.6</h2>
+<pre><code>Future proofing / Goodbye to slc.dll
+
+HWID/KMS38:
+
+- slc.dll is removed, we will patch original gatherosstate.exe on the fly with Powershell
+- arm64 files are removed, now x86 gatherosstate.exe can work in all
+- Scripts can now activate future editions by getting the key from the system
+- More detailed diagnostic checks incase of failed activation
+- Windows product name is now taken from winbrand.dll instead of registry/wmi for accurate results
+- Fixed an issue when in Eval edition, non-eval edition key and certs are installed but script will show Eval edition error
+- HWID Lockbox method is now removed in UI due to some issues with this method in certain builds. 
+- Ticket generation option is removed in UI since people rarely need it and it creates confusion
+- Fixed an issue in registry ownership snippet where it would fail if path name have special characters
+- clipup.exe is removed from AIO but exists in separate files version. 
+  Users very rarely need it (server cor/acor) and less size of AIO would help in download &amp; execution in Powershell
+- Bug fixes and lots of improvements
+
+Online KMS:
+
+- Script is updated as per KVA v47 (major change: improved office C2R-R2V conversion)
+- Script will now set KMS server to private IP (non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid non-genuine banner issue in office
+- Desktop context menu option is removed, not very useful
+- Renewal task, file and directory name are changed to remove &quot;KMS&quot; word to avoid antivirus detections
+- Skip KMS38 and Convert C2R-R2V on-off options are removed from UI since people rarely need it and it creates confusion
+- Some changes have been done to avoid possible antivirus detections
+
+Activation Troubleshoot:
+
+- Token rebuilding options will now clear SPP-OSPP data.dat, tokens.dat, cache.dat
+  and Office repair option will be launched to fix license issue
+- Added an option to clear Office vNext License, it helps when KMS activation fails due to remnants of vNext licenses
+- Rearm option is removed since full token rebuild is enough
+- Clean ClipSVC Licences option is removed since it may creates some issues in licensing in older builds
+
+Change Windows Edition:
+
+- Added feature to change Windows Server editions
+- Scripts can now change the future editions by getting the key from the system
+- Script now blocks the change to/from CountrySpecific and CloudEdition editions, since it&#39;s offically not supported and user may face issues
+- Improved the way of available editions are presented to choose
+
+Insert Windows HWID Key:
+
+- Scripts can now install HWID key for future editions by getting the key from the system
+
+All:
+
+- Fixed an issue when script wouldn&#39;t launch if path have certain speacial characters
+- Fixed an issue when files couldn&#39;t be extrated in AIO compressed2txt if username have accent characters. Thanks to BAU for fix.
+- Fixed an issue when script would start looping while getting correct arch process in rare cases
+- Added a check to detect if file is in Unix (LF) format, if yes then script would stop
+- Homepage https://windowsaddict.ml/ is changed to https://massgrave.dev/ because of DNS issue with free domain
+- Homepage https://massgrave.dev/ is upadated with better reabable format
+- Added an option to download and execute MAS from Powershell
+  iwr https://massgrave.dev/get | iex</code></pre>
+<hr />
+</div>
+<div id="section-1" class="section level2">
+<h2>1.5</h2>
+<pre><code># All
+
+- Support added for Windows build 22483 and later (No wmic.exe issue)
+- Support added for ARM64 architecture in all the scripts
+- Made sure script run fine where path variables are misconfigured in system
+- Made sure script run fine from UNC path
+- Improved text coloring method
+- Script would show an error if ran directly from archive files
+- Scripts would make sure to start from the system&#39;s main architecture process
+- All read me files are shifted to online for better update
+- New discord channel https://discord.gg/gjJEfq7ux8 and new main homepage https://windowsaddict.ml/ added
+- Various cosmetic improvements and bug fixes
+
+# HWID / KMS38
+
+- HWID Support added for CloudEdition/N, IoTEnterpriseS editions. (IoTEnterpriseS key will be used to activate EnterpriseS 2021)
+- KMS38 support added for all new Windows 10-11 and Server&#39;s, KMS capable edition&#39;s including core and acor editions
+- HWID with Lockbox ticket option is added
+  x86-x64 Lockbox slc.dll is created by @mspaintmsi, @qxkqf ported it to ARM64 slc.dll
+- KMS38 Protection and KMS38 uninstall option is added
+- Ticket generation option is added
+- Improved key detection logic, now it can support custom build editions
+- Fixed issues where in certain languages OS&#39;s, script would show incorrect status of services
+- Improved script options if required key is not found in script
+- Improved script options if an edition is not supporting HWID currently but may support in future
+
+# Online KMS
+
+- All related scripts are merged in one in separate files version, with onscreen choice options
+- KMS server selection process is improved to make it fail-proof, server numbers are increased to 16
+- Improved error handling and display messages
+- From now on, KMS server IP address will be used for activation instead of hostname to avoid detection by AV&#39;s and MS
+- While using manual mode (no renewal task), a non-existent IP 0.0.0.0 will be left in registry to avoid Office non genuine banner issue
+- For renewal task, a separate small script will be used to only renew activation, instead of running full script, every week
+- Base script is updated to use @abbodi1406&#39;s latest KMS_VL_ALL-45u (09-Jan-2022)
+  Major changes- 
+  Support added for Windows 10 ARM64, Office 2021, all new Windows and Server editions
+  VBS method will be used for WMI in Windows build 22483 and later
+  Enhanced detection for Office C2R vNext subscriptions
+  Check Activation Status [wmi] will show vNext subscriptions status using vNextDiag.ps1 (require Powershell / WMF 4 or later on Windows 7)
+  Various fixes for Office activation
+  
+# Verify_Files-Clear_Zone.Identifier
+
+- This new script is added in root folder to verify files with hashes and to remove Zone.Identifier from files (to prevent SmartScreen warnings)
+
+# Activation Troubleshoot
+
+- This new script is added in Extras section to deal with activation issues. Various options are added with proper onscreen info and warning&#39;s. 
+
+# Change_W10_11_Edition
+
+- Now it can change the Windows editions from Core to Non core too with proper error handling. Works on Windows build 10240 and later</code></pre>
+<hr />
+</div>
+<div id="section-2" class="section level2">
+<h2>1.4</h2>
+<pre><code>- Now Microsoft support HWID (Digital License) for Windows 10 LTSC 2019, added key for it in the script.
+- Some minor improvements.</code></pre>
+<hr />
+</div>
+<div id="section-3" class="section level2">
+<h2>1.3</h2>
+<pre><code># HWID / KMS38
+
+ - Fixed a bug in Enterprise Edition activation.
+ - Updated the ticket generation and applying process.
+
+# All
+
+ - Added a project mirror on github.
+ - Some minor improvements</code></pre>
+<hr />
+</div>
+<div id="section-4" class="section level2">
+<h2>1.2</h2>
+<pre><code># HWID / KMS38
+
+- Fixed the Edition ID mismatch issue of DISM / REG / WMIC, with the help of SKU ID.
+- Fixed an issue where ticket installation would fail in case if the username has non-English characters or spaces in certain conditions.
+- Now files would be copied to &quot;%SystemRoot%\Temp\_Ticket_Work&quot; to generate ticket to prevent any unforeseen issue caused by the pathname.
+- Added the support for ARM64 systems, thanks to @mspaintmsi for providing the method and thanks to @Chibi ANUBIS and @smashed for testing the scripts.
+- Various other minor improvements.
+
+# Online KMS
+
+- Updated the script to @abbodi1406&#39;s KMS_VL_ALL v37f, which includes various improvements and fixes, most notably automatic retail-to-volume conversion for Office C2R.
+- Added official Microsoft&#39;s two .exe files for the Retail office C2R to volume conversion purpose.
+- Now Renewal task and desktop context menu, both will share the same directory which is now changed to &quot;%ProgramData%\Online_KMS_Activation\&quot;
+- Optimized the files/folder structure.
+- Updated the KMS server list.
+- Various other minor improvements.
+
+# All
+
+- Now all scripts can work from the directory which contains special characters in the pathname. Thanks to @abbodi1406 for the fix.
+- Changed all the colored text part to powershell, so now it can support the non-English characters.
+- Now every script can work in case the Windows Script Host is disabled.
+- Now every script can work from the read only / protected directories.
+- Added the offline ReadMe files since nsaneforum topic is only open to members.
+- Removed the vbs check activation method since now @abbodi1406 made WMIC method better than vbs.
+- Created a repository for this tool at Gitlab https://gitlab.com/massgrave/microsoft-activation-scripts</code></pre>
+<hr />
+</div>
+<div id="section-5" class="section level2">
+<h2>1.1</h2>
+<pre><code>   HWID/KMS38:
+
+ - Adopted a new ticket generation method, [The Integrated Patcher (with a modified version of SLSHIM 6.4)] 
+   by *Anonymous and @mspaintmsi - Original (co)Authors of HWID and KMS38 Activation
+   https://www.nsaneforums.com/topic/316668--/?do=findComment&amp;comment=1497887
+   This method works on all editions and versions of Windows 10 including LTSB2015 and older versions 
+   which were known to return a wrong SkuId for some editions.
+ - Added HWID activation for Windows 10 1903 IoTEnterprise. Thanks to @mspaintmsi for notifying.
+ - Removed the ClipSVC tokens rebuilding part from the scripts, @sebus tests showed that it doesn&#39;t help in 
+   activating another machines when same backup is used in restoring process.
+ - gatherosstate.exe is changed to 14393 version, size is quite small. Also HWID/KMS38 scripts now shares 
+   same &quot;Files&quot; folder files.
+ - KMS38 protection script updated with latest changes made by @BAU in the reg_takeownership.bat
+   pastebin.com/XTPt0JSC
+
+
+   Online KMS:
+
+ - Now top 3 KMS servers list is randomized in the script so that one server doesn&#39;t get all the load. Thanks to 
+   @abbodi1406 for the help.
+ - Script base is updated to the latest KMS_VL_ALL v34, Thanks to @abbodi1406
+   https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/
+   Important change for the online KMS script part,
+   Enhanced sppsvc/osppsvc detection to avoid script hang if the services are not functional
+ - KMS server list is updated.
+ - Now KMS servers are tested with powershell TcpClient instead of test-netconnection, to speed-up the process.
+   Thanks to @abbodi1406 for the idea.
+ - Now it&#39;s $OEM$ setupcomplete.cmd have choices to select which renewal mode you want.
+
+
+   @ALL:
+
+ - Switched to vbs from powershell for the script admin elevation to speed-up the process on low end systems.
+   Thanks to @AveYo aka @BAU for self-elevate passing args and preventing loop (using temporary vbs file) and (using wsf).
+ - Updated to Compressed 2 TXT 5.3 script by @AveYo aka @BAU https://github.com/AveYo/Compressed2TXT
+ - Updated the admin rights detection code where it was failing in some (highly tweaked) systems. Thanks to @AveYo aka @BAU
+ - Updated the codes for &quot;Extract the text from batch script without character issue&quot; Thanks to @AveYo aka @BAU
+ - Added -NoProfile switch with every powershell code to speed-up the process. Thanks to @abbodi1406 for the idea.
+ - In MAS Separate files version&#39;s $OEM$ folders are now removed, now I&#39;ve added $OEM$ extraction script to remove the files redundancy.</code></pre>
+<hr />
+</div>
+<div id="section-6" class="section level2">
+<h2>1.0</h2>
+<pre><code> - (Re)added Online KMS renewal task with proper warnings.
+ - Redirected all the read me&#39;s to online page for easy online translation.
+ - Read Me&#39;s Grammatical errors has been fixed by the @BorrowedWifi
+ - Some minor tweaks.</code></pre>
+<hr />
+</div>
+<div id="section-7" class="section level2">
+<h2>0.9</h2>
+<pre><code>   HWID and KMS38
+
+ - Modified file &quot;gatherosstateLTSB15.exe&quot; (For HWID) has been converted to text using 
+   &#39;Compressed 2 txt&#39; by AveYo https://github.com/AveYo/Compressed2TXT to avoid
+   the possible AV&#39;s detection. This file will be extracted in only LTSB 2015 Activation.
+ - Added ClipSVC tokens Rebuilding (by default) (Thanks to @s1ave77 for the idea)
+   (To solve the issue when system image is used on different machines)
+ - Added service checks for ClipSVC, wlidsvc (Not in KMS38), and sppsvc (Thanks to @s1ave77 for the idea)
+ - Added reattempts for ticket generation and activation.
+ - Added new keys for 1903 server releases (For KMS38)
+ - KMS38 script can now unlock the 180 days KMS lock without using full Rearm and Restart.
+   Now it&#39;ll apply the SKU-APP ID rearm if required. (Idea taken from the @Ratiborus Tools)
+ - Added a separate KMS38 protection script to protect the KMS38 activation from being overrun by 
+   180 days KMS Activators by accident or even on purpose.
+   (Thanks to @AveYo aka @BAU for the Reg_takeownership snippet pastebin.com/XTPt0JSC)
+
+
+   Online KMS
+
+ - Renewal task function has been removed to avoid the possible AV&#39;s detection.
+   Because AV&#39;s suspect the background task but same codes can be run just fine in the foreground.
+   In replacement I&#39;ve added the Desktop context menu entry for the script for easy manual renewal in case if registered 
+   server goes down, and just FYI added server in the script are running from approx 3 years without problems
+   and user would need to run the script for renewal after 180 days when the registered server goes down.
+ - Updated the script to KMS_VL_ALL 32 beta https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/
+   (Imp - Now script will retry to activate in case of failed activation, it increases it&#39;s reliability very much)
+   (Thanks to @abbodi1406 for the update)
+ - Now KMS servers will be tested on the Port 1688 with powershell instead of ping for more accuracy.
+   (Thanks to @RPO for the codes)
+ - Added appropriate colors in activation output.
+
+
+   ALL
+
+ - Added powershell codes for the admin auto elevation with parameters capability. 
+   (Thanks to @AveYo aka @BAU for the codes)
+ - Added /u parameter for the unattended run instead of changing the value in script.
+ - For those scripts which may need to provide the long output, I&#39;ve added powershell snippet 
+   to keep the window height fixed with long buffer size capability.
+   (Thanks to @dbenham for the codes https://stackoverflow.com/a/13351373)
+ - Updated the ReadMe&#39;s with the Activation info regarding How it works? and Is it safe to use? and possible issues users might face.
+ - Other minor improvements.
+
+
+   MAS_AIO
+
+ - Made an AIO script with the help from av friendly codes,
+   Compressed2TXT https://github.com/AveYo/Compressed2TXT by @AveYo aka @BAU
+   &#39;Extract the text from script without character issue&#39; https://forums.mydigitallife.net/posts/1221231/ by @Compo</code></pre>
+<hr />
+</div>
+<div id="section-8" class="section level2">
+<h2>0.8</h2>
+<pre><code>- HWID and KMS38 activation now use the new slc.dll method which requires no registry and temp file.
+  Thanks to @sponpa for the new ideas and codes https://tinyurl.com/y24dbdmw 
+  and Thanks to @leitek8 for the further improvements http://tinyurl.com/y2a98rlk
+  Users can easily compile the slc.dll file. Thanks to @leitek8 for providing the instructions.
+- HWID and KMS38 activation now use the Windows 10 17134 ADK gatherosstate.exe file.Process is quite fast now. Thanks to @sponpa for the idea.
+  For LTSB 2015, script uses the mod gatherosstate.exe file from the @angelkyo open source tool https://gitlab.com/angelkyo/w10-digitallicense
+- Added following editions for the KMS38 activation.
+
+  EnterpriseG
+  EnterpriseGN  
+  ServerCloudStorage     [Server 2016]
+  ServerDatacenter       [Server 2016 &amp; 2019]
+  ServerDatacenterCor    [Server 2016 &amp; 2019]
+  ServerSolution         [Server 2016 &amp; 2019]
+  ServerSolutionCor      [Server 2016 &amp; 2019]
+  ServerStandard         [Server 2016 &amp; 2019]
+  ServerStandardCor      [Server 2016 &amp; 2019]
+  ServerDatacenterACor   [Server Version 1709 &amp; 1803 &amp; 1809]
+  ServerStandardACor     [Server Version 1709 &amp; 1803 &amp; 1809]
+
+- To activate server *cor and *acor editions with KMS38, added the required clipup.exe file from the server 2016 iso in the Files folder.
+- In KMS38, instead of clearing global KMS IP, script now set specific KMS host IP to the localhost 127.0.0.2
+  The advantage of doing this is that, It helps KMS38 remain untouched from the global KMS IP but other products can still use the global IP.
+  Thanks to @abbodi1406 for the help.
+- Digital license script now hide the Activation cmd error output. (Never show any useful info)
+- Scripts now check the following problematic characters in the File Path Name. Thanks to @Jeb for the code and @abbodi1406 for the help.
+` ! @ % ^ &amp; ( ) + = ; &#39; ,
+- Online KMS Script now hide the info about offline servers.
+- Online KMS and clear KMS cache Script are now updated, Thanks to @abbodi1406 for the update https://forums.mydigitallife.net/posts/1511883
+- Online KMS script now will attemmpt to activate maximum 2 times to prevent a loop in case of failed activation.
+- Updated the KMS server list.
+- Fixed a issue in online KMS where Task Scheduler will show incorrect last result report (cosmetic).
+- Updated the Read Me and few cosmetic changes in the scripts.
+- That&#39;s all i remember.</code></pre>
+<hr />
+</div>
+<div id="section-9" class="section level2">
+<h2>0.7</h2>
+<pre><code>To further make sure that script is clean from av&#39;s, following changes were made,
+
+- Multipurpose big scripts are not friendly to the AV&#39;s, so i&#39;ve separated all the scripts.
+- Now files are not converted to the text, they are added as they are. (because av&#39;s &#39;may&#39; find text to file suspicious)
+- Now scripts asks users to manually run the file as administrator .
+- Made sure that all custom vbs use have been removed.
+
+(Above changes reduced the user friendliness of the script, but my main priority in maintaining this fork is to 
+create activators which are AV friendly, and these steps were required to achieve that.)
+
+Some more changes - 
+
+- Digital license script now checks for Internet and update service, and changes the update service status if required  
+  and after the activation it put it back as it were previously.
+- Changed the Mod gatherosstate files with the files from hwid.kms38.gen.mk6.exe v55.01 https://www.nsaneforums.com/topic/312871--/ 
+  by @s1ave77.
+  (p.s. To adopt the new files of v60.01, i should wait atleast a month to know the av&#39;s stable detection rate)
+- KMS38 scripts now show a prompt to the users before applying rearm and restart.
+- Errors are highlighted in red color in Digital license and KMS38 scripts.
+- Removed the options, Insert Windows 10 GVLK and Change Windows 10 Edition (GVLK) (Not very useful)
+- Removed the single file fork of C2R-Retail Office To VL, instead added the link to original tool in the read me.
+- Online KMS script is updated to the v29 of Standalone Activate-Local.cmd https://forums.mydigitallife.net/posts/1501441 by @abbodi1406
+- Added a script in Online KMS which leaves no remnants in the system after the activation.
+- Online KMS Scripts now ping 3 servers (download.windowsupdate.com , Bing.com , baidu.com) to check internet connection to ensure
+  scripts works fine in all parts of the world.
+- Each script can be run in unattended mode, also have many more new switches in the scripts. (Use read me to know them)
+- Many improvements in every script.
+- Screen shots https://lookimg.com/images/2019/02/17/D8SkM.jpg</code></pre>
+<hr />
+</div>
+<div id="section-10" class="section level2">
+<h2>0.6</h2>
+<pre><code> - Fixed an issue where KMS task creation and deletion show incorrect msg in Non English OS&#39;s.
+ - Fixed an issue in LTSB 2015 HWID activation. 
+ - Added @abbodi1406&#39;s Office C2R-Retail2Volume Script https://forums.mydigitallife.net/posts/1150042
+   files are converted to text using @BAU&#39;s File2batch [https://s.put.re/aiYbFHiP.7z (Unofficial Link)]
+   and scripts are added as it is.
+   (I didn&#39;t want to add this but since O2019, C2R-R2V is necessary to activate office, so its 
+   convenient to have it in the activation script)
+
+ - Minor changes
+   - Expanded and categorized the Read Me section.Thanks to @BorrowedWifi for fixing the grammar errors.
+   - Updated Run as admin elevation cmd.
+   - Added more info in main and $OEM$ scripts.
+   - :create_file function is changed, now $OEM$ extraction process is fast.
+   - Added GUI options list in one place so its easy to navigate codes in the editor.
+   - KMS server list is now easy to see and edit.
+   - In change edition option, added minimum OS version requirement, W10_1803
+   - In KMS38 option, added minimum OS version requirement, W10_1511
+   - Cleaned the HWID/KMS38 activation and many other codes.
+   - Replaced the MOD gatherosstate files (extracted from s1ave77&#39;s tool) with angelkyo&#39;s 
+     open source tool&#39;s generated MOD files. https://gitlab.com/angelkyo/w10-digitallicense
+   - Thats all i remember.</code></pre>
+<hr />
+</div>
+<div id="section-11" class="section level2">
+<h2>0.5</h2>
+<pre><code>- Updated $OEM$ Folder scripts, so that users can use it easily with any edits and other scripts.
+- Now Read Me and Credits details will open in notepad, for easy browsing.
+- Added confirmation prompt before installing W10 Retail/OEM keys and GVLK option.
+- Some cosmetic changes in Menu.</code></pre>
+<hr />
+</div>
+<div id="section-12" class="section level2">
+<h2>0.4</h2>
+<pre><code>- Removed all the Graphic ASCII characters to avoid errors in editing and viewing of this script in non English os&#39;s.
+- Added additional verification in creation and deletion of online KMS task(s).
+- Added &#39;Create Activation Task&#39; for kms in option, its useful if user ATM don&#39;t have Internet and want system to auto activate later.
+- KMS servers will be tested in ping in all scenarios now.
+- In os&#39;s older than windows 7, script will show an error in opening. (script is not compatible with older os&#39;s)
+- Improved KMS logs.
+- HWID and KMS38 process output improved in a way so that all errors can be spotted easily.
+- Read Me improved and Some cosmetic changes.</code></pre>
+<hr />
+</div>
+<div id="section-13" class="section level2">
+<h2>0.3</h2>
+<pre><code>- Abbodi1406 fixed an imp bug in his KMS_VL_ALL Script regarding KMS38, I copied those fix in online KMS script. It also fixes the error (only cosmetic, not imp) in last run result of scheduled task when KMS38 is applied. Now there is no error remains in last run result of scheduled task.
+ (Reminder - This online kms script is a fork of abbodi1406&#39;s Standalone-Activate-Local.cmd, it was adjusted to work with multi kms server&#39;s and renewal task, preactivation, etc. see @credits)</code></pre>
+<hr />
+</div>
+<div id="section-14" class="section level2">
+<h2>0.2</h2>
+<pre><code>- Added Windows OS checks in HWID, KMS38, and insert keys and change edition option, now these option will only work in Windows 10.
+- Fixed an issue where in certain condition user needs to open the script again to fix non functioning option.
+- Fixed an issue in Digital + KMS preactivation where it was not working correctly. (Critical)
+- Fixed an issue in Digital and KMS38 Preactivation where it wouldn&#39;t delete itself after activation.
+- Changed Some options location to make it more obvious.
+- Changed jscript based text to file converter, to powershell. Although powershell based code is slow but it is more freindly to av&#39;s compared to jscript.Now there shouldn&#39;t be any possible issue of av&#39;s detection.
+  Thanks to BAU (Aveyo)
+- Some other minor changes.</code></pre>
+<hr />
+</div>
+<div id="section-15" class="section level2">
+<h2>0.1</h2>
+<pre><code>MAS_0.1_BETA First release.
+
+About-
+ - Microsoft Activation Script.cmd
+   [Windows /server and Office Activator, Open Source and clean from Antivirus Detection]
+ - This script is the merger of my previous scripts which are,
+   W10 Digital License Activation Script
+   W10 LTSB 2015 Digital License Activation Script
+   Online KMS Activation Script
+   Digital + KMS Preactivation Script
+   +
+   (Added KMS38 Activation)
+   (KMS38 + Online KMS Preactivation)
+   (Plus many improvements overall)
+
+   These previous scripts are now discontinued and from now on i&#39;ll only work on
+   &quot;Microsoft Activation Script&quot;</code></pre>
+<hr />
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

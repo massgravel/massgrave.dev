@@ -11,7 +11,7 @@
 
 
 
-<title>index</title>
+<title>oem-folder</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -394,118 +394,81 @@ div.tocify {
 </div>
 
 
-<div id="intro" class="section level2">
-<h2>Intro</h2>
-<p><strong>Microsoft Activation Scripts (MAS)</strong></p>
-<p>A collection of scripts for activating Microsoft products using HWID
-/ KMS38 / Online KMS activation methods with a focus on open-source
-code, less antivirus detection, and user-friendliness.</p>
+<div id="oem-folders" class="section level1">
+<h1>$OEM$ Folders</h1>
+<p>(Windows Pre-Activation)</p>
 <hr />
-</div>
-<div id="features" class="section level2">
-<h2>Features</h2>
+<div id="overview" class="section level2">
+<h2>Overview</h2>
 <ul>
-<li>HWID Activation</li>
-<li>KMS38 Activation</li>
-<li>Online KMS Activation</li>
-<li>$OEM$ Folders For Preactivation</li>
-<li>Activation Troubleshoot</li>
-<li>Insert Windows 10-11 HWID Key</li>
-<li>Change Windows 10-11-Server Edition</li>
-<li>Check Windows-Office Activation Status</li>
-<li>Available in All In One &amp; Separate Files Version</li>
-<li>Fully Open Source</li>
-<li>Less antivirus detection’s</li>
-<li>Files are either transparent batch script or Official Microsoft
-file</li>
+<li><p>To create a pre-activated Windows installation .iso, do the
+following things:</p></li>
+<li><p>Extract <code>$OEM$</code> folder to desktop using the MAS
+script.</p></li>
+<li><p>Copy the <code>$OEM$</code> folder to the <code>sources</code>
+folder in the Windows installation media (.iso or USB).</p></li>
+<li><p>The directory will appear like this: <code>\sources\$OEM$</code>
+in your altered .iso or on your bootable USB drive.</p></li>
+<li><p>Now use this .iso or bootable USB drive to install Windows and it
+will either already be activated (KMS38) as soon as it boots, or will
+self-activate (HWID or Online KMS) at first internet contact.</p></li>
 </ul>
 <hr />
 </div>
-<div id="mas-last-release" class="section level2">
-<h2>MAS Last Release</h2>
-<p>Last Release - v1.6 (25-July-2022)<br />
-<a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts">GitHub</a>
-/ <a
-href="https://gitlab.com/massgrave/microsoft-activation-scripts">GitLab</a></p>
-<hr />
-</div>
-<div id="download-how-to-use-it" class="section level2">
-<h2>Download / How to use it?</h2>
-<div id="method-1---powershell" class="section level3">
-<h3>Method 1 - PowerShell</h3>
+<div id="notes" class="section level2">
+<h2>Notes</h2>
 <ul>
-<li>On Windows 10/11, right click on windows start menu, select
-PowerShell or Terminal.</li>
-<li>Copy-paste the below code and press enter<br />
-<code>iwr https://massgrave.dev/get | iex</code></li>
-<li>You will see the activation options, follow onscreen
-instructions.</li>
-<li>That’s all.</li>
-</ul>
-</div>
-<div id="method-2---traditional" class="section level3">
-<h3>Method 2 - Traditional</h3>
-<ul>
-<li>Download the file named <code>MAS_1.6_Password_1234.7z</code> from
-<a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts/releases">here</a></li>
-<li>Extract this file with a 3rd party archive manager, such as <a
-href="https://www.7-zip.org/download.html">7zip</a></li>
-<li>Password is <code>1234</code></li>
-<li>In extracted folder, find the folder named
-<code>All-In-One-Version</code></li>
-<li>Run the file named <code>MAS_AIO.cmd</code></li>
-<li>You will see the activation options, follow onscreen
-instructions.</li>
-<li>That’s all.</li>
+<li><p>MAS AIO version doesn’t contains <code>clipup.exe</code> file, if
+you need to activate <code>Server Core/Acor</code> editions then please
+use MAS separate files version.</p></li>
+<li><p>You can check <a href="https://massgrave.dev/">here</a> about
+activation method details and select the activation method as per your
+requirement.</p></li>
 </ul>
 <hr />
 </div>
-</div>
-<div id="activations-summary" class="section level2">
-<h2>Activations Summary</h2>
-<table>
-<colgroup>
-<col width="19%" />
-<col width="25%" />
-<col width="55%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Activation Type</th>
-<th align="left">Supported Product</th>
-<th align="left">Activation Period</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">HWID</td>
-<td align="left">Windows 10-11</td>
-<td align="left">Permanent</td>
-</tr>
-<tr class="even">
-<td align="left">KMS38</td>
-<td align="left">Windows 10-11-Server</td>
-<td align="left">Until the year 2038</td>
-</tr>
-<tr class="odd">
-<td align="left">Online KMS</td>
-<td align="left">Windows / Office</td>
-<td align="left">180 Days. Lifetime Activation With Renewal Task</td>
-</tr>
-</tbody>
-</table>
-<p>For more details, use the respective activation’s details in Doc.</p>
+<div id="hwid" class="section level2">
+<h2>HWID</h2>
+<ul>
+<li>When using HWID activation, no files are stored on the system, and
+Windows 10-11 will be activated when connected to the internet for the
+first time.</li>
+</ul>
 <hr />
 </div>
-<div id="screenshots" class="section level2">
-<h2>Screenshots</h2>
-<p><img src="1.png" /></p>
-<p><img src="2.png" /></p>
-<p><img src="3.png" /></p>
+<div id="kms38" class="section level2">
+<h2>KMS38</h2>
+<ul>
+<li>When using KMS38 activation, no files are stored on the system, and
+Windows 10-11-Server becomes activated immediately without
+Internet.</li>
+</ul>
 <hr />
-<p>Made with Love ❤️</p>
+</div>
+<div id="online-kms" class="section level2">
+<h2>Online KMS</h2>
+<ul>
+<li>When using Online KMS activation, Windows and Office both will be
+activated when connected to the internet for the first time. This option
+uses renewal task for lifetime activation.</li>
+</ul>
+<hr />
+</div>
+<div id="hwid-online-kms" class="section level2">
+<h2>HWID + Online KMS</h2>
+<ul>
+<li>In this method, Windows 10-11 will be activated with HWID and
+<strong>Office</strong> will be activated using Online KMS.</li>
+</ul>
+<hr />
+</div>
+<div id="kms38-online-kms" class="section level2">
+<h2>KMS38 + Online KMS</h2>
+<ul>
+<li>In this method, Windows 10-11-Server will be activated with KMS38
+and <strong>Office</strong> will be activated using Online KMS.</li>
+</ul>
+</div>
 </div>
 
 

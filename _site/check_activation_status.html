@@ -11,7 +11,7 @@
 
 
 
-<title>index</title>
+<title>check_activation_status</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -394,118 +394,39 @@ div.tocify {
 </div>
 
 
-<div id="intro" class="section level2">
-<h2>Intro</h2>
-<p><strong>Microsoft Activation Scripts (MAS)</strong></p>
-<p>A collection of scripts for activating Microsoft products using HWID
-/ KMS38 / Online KMS activation methods with a focus on open-source
-code, less antivirus detection, and user-friendliness.</p>
+<div id="check-activation-status" class="section level1">
+<h1>Check Activation Status</h1>
 <hr />
-</div>
-<div id="features" class="section level2">
-<h2>Features</h2>
+<p>MAS includes check activation options (wmi/vbs) which are taken from
+abbodi1406’s <a
+href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a>.<br />
+It checks the status of Windows and Office products.</p>
+<p>Please find below the difference between vbs and wmi options.</p>
+<hr />
+<div id="check-activation-status-vbs" class="section level2">
+<h2>Check Activation Status [vbs]</h2>
 <ul>
-<li>HWID Activation</li>
-<li>KMS38 Activation</li>
-<li>Online KMS Activation</li>
-<li>$OEM$ Folders For Preactivation</li>
-<li>Activation Troubleshoot</li>
-<li>Insert Windows 10-11 HWID Key</li>
-<li>Change Windows 10-11-Server Edition</li>
-<li>Check Windows-Office Activation Status</li>
-<li>Available in All In One &amp; Separate Files Version</li>
-<li>Fully Open Source</li>
-<li>Less antivirus detection’s</li>
-<li>Files are either transparent batch script or Official Microsoft
-file</li>
+<li><p>Query and execute official licensing VBScripts: slmgr.vbs for
+Windows, ospp.vbs for Office</p></li>
+<li><p>Shows the activation expiration date for Windows</p></li>
+<li><p>Office 2010 ospp.vbs shows a very little info</p></li>
 </ul>
 <hr />
 </div>
-<div id="mas-last-release" class="section level2">
-<h2>MAS Last Release</h2>
-<p>Last Release - v1.6 (25-July-2022)<br />
-<a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts">GitHub</a>
-/ <a
-href="https://gitlab.com/massgrave/microsoft-activation-scripts">GitLab</a></p>
-<hr />
-</div>
-<div id="download-how-to-use-it" class="section level2">
-<h2>Download / How to use it?</h2>
-<div id="method-1---powershell" class="section level3">
-<h3>Method 1 - PowerShell</h3>
+<div id="check-activation-status-wmi" class="section level2">
+<h2>Check Activation Status [wmi]</h2>
 <ul>
-<li>On Windows 10/11, right click on windows start menu, select
-PowerShell or Terminal.</li>
-<li>Copy-paste the below code and press enter<br />
-<code>iwr https://massgrave.dev/get | iex</code></li>
-<li>You will see the activation options, follow onscreen
-instructions.</li>
-<li>That’s all.</li>
-</ul>
-</div>
-<div id="method-2---traditional" class="section level3">
-<h3>Method 2 - Traditional</h3>
-<ul>
-<li>Download the file named <code>MAS_1.6_Password_1234.7z</code> from
-<a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts/releases">here</a></li>
-<li>Extract this file with a 3rd party archive manager, such as <a
-href="https://www.7-zip.org/download.html">7zip</a></li>
-<li>Password is <code>1234</code></li>
-<li>In extracted folder, find the folder named
-<code>All-In-One-Version</code></li>
-<li>Run the file named <code>MAS_AIO.cmd</code></li>
-<li>You will see the activation options, follow onscreen
-instructions.</li>
-<li>That’s all.</li>
+<li><p>Query and execute WMI functions using wmic.exe or
+VBScripts</p></li>
+<li><p>Shows extra more info (SKU ID, key channel)</p></li>
+<li><p>Shows the activation expiration date for all products</p></li>
+<li><p>Shows more detailed info for Office 2010</p></li>
+<li><p>Can show the status of Office UWP apps</p></li>
+<li><p>Implement vNextDiag.ps1 functions to <strong>detect new Office
+365 vNext licenses and subscriptions</strong></p></li>
 </ul>
 <hr />
 </div>
-</div>
-<div id="activations-summary" class="section level2">
-<h2>Activations Summary</h2>
-<table>
-<colgroup>
-<col width="19%" />
-<col width="25%" />
-<col width="55%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Activation Type</th>
-<th align="left">Supported Product</th>
-<th align="left">Activation Period</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">HWID</td>
-<td align="left">Windows 10-11</td>
-<td align="left">Permanent</td>
-</tr>
-<tr class="even">
-<td align="left">KMS38</td>
-<td align="left">Windows 10-11-Server</td>
-<td align="left">Until the year 2038</td>
-</tr>
-<tr class="odd">
-<td align="left">Online KMS</td>
-<td align="left">Windows / Office</td>
-<td align="left">180 Days. Lifetime Activation With Renewal Task</td>
-</tr>
-</tbody>
-</table>
-<p>For more details, use the respective activation’s details in Doc.</p>
-<hr />
-</div>
-<div id="screenshots" class="section level2">
-<h2>Screenshots</h2>
-<p><img src="1.png" /></p>
-<p><img src="2.png" /></p>
-<p><img src="3.png" /></p>
-<hr />
-<p>Made with Love ❤️</p>
 </div>
 
 
