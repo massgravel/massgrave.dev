@@ -4,61 +4,90 @@
 
 ## 1.6
 
-    Future proofing / Goodbye to slc.dll
+#### **Future proofing / Goodbye to slc.dll**
 
-    HWID/KMS38:
+------------------------------------------------------------------------
 
-    - slc.dll is removed, we will patch original gatherosstate.exe on the fly with Powershell
-    - arm64 files are removed, now x86 gatherosstate.exe can work in all
-    - Scripts can now activate future editions by getting the key from the system
-    - More detailed diagnostic checks incase of failed activation
-    - Windows product name is now taken from winbrand.dll instead of registry/wmi for accurate results
-    - Fixed an issue when in Eval edition, non-eval edition key and certs are installed but script will show Eval edition error
-    - HWID Lockbox method is now removed in UI due to some issues with this method in certain builds. 
-    - Ticket generation option is removed in UI since people rarely need it and it creates confusion
-    - Fixed an issue in registry ownership snippet where it would fail if path name have special characters
-    - clipup.exe is removed from AIO but exists in separate files version. 
-      Users very rarely need it (server cor/acor) and less size of AIO would help in download & execution in Powershell
-    - Bug fixes and lots of improvements
+#### **HWID/KMS38:**
 
-    Online KMS:
+-   slc.dll is removed, we will patch original gatherosstate.exe on the fly with Powershell. (Thanks to [Gamers Against Weed](https://github.com/Gamers-Against-Weed))
 
-    - Script is updated as per KVA v47 (major change: improved office C2R-R2V conversion)
-    - Script will now set KMS server to private IP (non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid non-genuine banner issue in office
-    - Desktop context menu option is removed, not very useful
-    - Renewal task, file and directory name are changed to remove "KMS" word to avoid antivirus detections
-    - Skip KMS38 and Convert C2R-R2V on-off options are removed from UI since people rarely need it and it creates confusion
-    - Some changes have been done to avoid possible antivirus detections
+-   arm64 files are removed, now x86 gatherosstate.exe can work in all
 
-    Activation Troubleshoot:
+-   Scripts can now activate future editions by getting the key from the system. (Thanks to [**\@awuctl**](https://github.com/awuctl) and [**\@abbodi1406**](https://github.com/abbodi1406))
 
-    - Token rebuilding options will now clear SPP-OSPP data.dat, tokens.dat, cache.dat
-      and Office repair option will be launched to fix license issue
-    - Added an option to clear Office vNext License, it helps when KMS activation fails due to remnants of vNext licenses
-    - Rearm option is removed since full token rebuild is enough
-    - Clean ClipSVC Licences option is removed since it may creates some issues in licensing in older builds
+-   More detailed diagnostic checks incase of failed activation
 
-    Change Windows Edition:
+-   Windows product name is now taken from winbrand.dll instead of registry/wmi for accurate results (Thanks to [**\@abbodi1406**](https://github.com/abbodi1406))
 
-    - Added feature to change Windows Server editions
-    - Scripts can now change the future editions by getting the key from the system
-    - Script now blocks the change to/from CountrySpecific and CloudEdition editions, since it's offically not supported and user may face issues
-    - Improved the way of available editions are presented to choose
+-   Fixed an issue when in Eval edition, non-eval edition key and certs are installed but script will show Eval edition error
 
-    Insert Windows HWID Key:
+-   HWID Lockbox method is now removed in UI due to some issues with this method in certain builds.
 
-    - Scripts can now install HWID key for future editions by getting the key from the system
+-   Ticket generation option is removed in UI since people rarely need it and it creates confusion
 
-    All:
+-   Fixed an issue in registry ownership snippet where it would fail if path name have special characters
 
-    - Fixed an issue when script wouldn't launch if path have certain speacial characters
-    - Fixed an issue when files couldn't be extrated in AIO compressed2txt if username have accent characters. Thanks to BAU for fix.
-    - Fixed an issue when script would start looping while getting correct arch process in rare cases
-    - Added a check to detect if file is in Unix (LF) format, if yes then script would stop
-    - Homepage https://windowsaddict.ml/ is changed to https://massgrave.dev/ because of DNS issue with free domain
-    - Homepage https://massgrave.dev/ is upadated with better reabable format
-    - Added an option to download and execute MAS from Powershell
-      iwr https://massgrave.dev/get | iex
+-   clipup.exe is removed from AIO but exists in separate files version.\
+    Users very rarely need it (server cor/acor) and less size of AIO would help in download & execution in Powershell
+
+-   Bug fixes and lots of improvements
+
+#### **Online KMS:**
+
+-   Script is updated as per KVA v47 (major change: improved office C2R-R2V conversion)
+
+-   Script will now set KMS server to private IP (non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid non-genuine banner issue in office
+
+-   Desktop context menu option is removed, not very useful
+
+-   Renewal task, file and directory name are changed to remove "KMS" word to avoid antivirus detections
+
+-   Skip KMS38 and Convert C2R-R2V on-off options are removed from UI since people rarely need it and it creates confusion
+
+-   Some changes have been done to avoid possible antivirus detections
+
+#### **Activation Troubleshoot:**
+
+-   Token rebuilding options will now clear SPP-OSPP data.dat, tokens.dat, cache.dat\
+    and Office repair option will be launched to fix license issue
+
+-   Added an option to clear Office vNext License, it helps when KMS activation fails due to remnants of vNext licenses
+
+-   Rearm option is removed since full token rebuild is enough
+
+-   Clean ClipSVC Licences option is removed since it may creates some issues in licensing in older builds
+
+#### **Change Windows Edition:**
+
+-   Added feature to change Windows Server editions
+
+-   Scripts can now change the future editions by getting the key from the system
+
+-   Script now blocks the change to/from CountrySpecific and CloudEdition editions, since it's offically not supported and user may face issues
+
+-   Improved the way of available editions are presented to choose
+
+#### **Insert Windows HWID Key:**
+
+-   Scripts can now install HWID key for future editions by getting the key from the system
+
+#### **All:**
+
+-   Fixed an issue when script wouldn't launch if path have certain speacial characters
+
+-   Fixed an issue when files couldn't be extrated in AIO compressed2txt if username have accent characters. Thanks to [**\@AveYo**](https://github.com/AveYo) for fix.
+
+-   Fixed an issue when script would start looping while getting correct arch process in rare cases
+
+-   Added a check to detect if file is in Unix (LF) format, if yes then script would stop
+
+-   Homepage <https://windowsaddict.ml/> is changed to <https://massgrave.dev/> because of DNS issue with free domain (Thanks to [**\@luzea9903**](https://github.com/luzea9903) for Server hosting)
+
+-   Homepage <https://massgrave.dev/> is upadated with better reabable format
+
+-   Added an option to download and execute MAS from Powershell\
+    `iwr https://massgrave.dev/get | iex`
 
 ------------------------------------------------------------------------
 
