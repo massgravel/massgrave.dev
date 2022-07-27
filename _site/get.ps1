@@ -12,7 +12,8 @@ try {
 	Return
 }
 
-if (Test-Path -LiteralPath $FilePath) {
+if (Test-Path $FilePath) {
     Start-Process $FilePath -Wait
-    Remove-Item -LiteralPath $FilePath -Force
+    $item = Get-Item -LiteralPath $FilePath
+    $item.Delete()
 }
