@@ -1,17 +1,18 @@
 # Enable TLSv1.2 for compatibility with older clients
-$Tls12 = [Enum]::ToObject([System.Net.SecurityProtocolType], 3072); [System.Net.ServicePointManager]::SecurityProtocol = $Tls12;
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor [System.Net.SecurityProtocolType]::Tls12
 
 $DownloadURL = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/MAS/All-In-One-Version/MAS_AIO.cmd'
 
+$FilePath = "$env:TEMP\MAS.cmd"
+
 try {
-    Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile "$env:TEMP\MAS.cmd"
+    Invoke-WebRequest -Uri $DownloadURL -UseBasicParsing -OutFile $FilePath
 } catch {
     Write-Error $_
 	Return
 }
 
-if (Test-Path -Path "$env:TEMP\MAS.cmd") {
-    Start-Process -FilePath "$env:TEMP\MAS.cmd" -Wait
-    Remove-Item -Path "$env:TEMP\MAS.cmd" -Force
+if (Test-Path -LiteralPath $FilePath) {
+    Start-Process $FilePath -Wait
+    Remove-Item -LiteralPath $FilePath -Force
 }
-
