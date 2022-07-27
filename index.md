@@ -2,7 +2,7 @@
 
 **Microsoft Activation Scripts (MAS)**
 
-A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection, and user-friendliness.
+A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection, and user-friendliness.
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ A collection of scripts for activating Microsoft products using HWID / KMS38 / O
 -   Check Windows-Office Activation Status
 -   Available in All In One & Separate Files Version
 -   Fully Open Source
--   Less antivirus detection's
+-   Fewer antivirus detection
 -   Files are either transparent batch script or Official Microsoft file
 
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ Last Release - v1.6 (25-July-2022)\
 
 -   On Windows 10/11, right click on windows start menu, select PowerShell or Terminal.
 -   Copy-paste the below code and press enter\
-    `iwr https://massgrave.dev/get | iex`
+    `iwr -useb https://massgrave.dev/get | iex`
 -   You will see the activation options, follow onscreen instructions.
 -   That's all.
 
@@ -55,7 +55,7 @@ Last Release - v1.6 (25-July-2022)\
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                               |
-|:----------------|:---------------------|:------------------------------------------------|
+|:----------------|:----------------|:-------------------------------------|
 | HWID            | Windows 10-11        | Permanent                                       |
 | KMS38           | Windows 10-11-Server | Until the year 2038                             |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |

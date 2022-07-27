@@ -2,16 +2,16 @@
 
 All download links leads to genuine files only.
 
-|                                            |                                                                                                                                                                               |
+|                                            |                                                                                                                                                                                 |
 |:--------------------------------------|:--------------------------------|
-| **Windows**                                |                                                                                                                                                                               |
-| Windows 11/10/8.1                          | [Link1](https://www.microsoft.com/software-download) - [Link2](https://tb.rg-adguard.net/)                                                                                    |
-| Windows 7                                  | [Link1](https://stuff.mtt-m1.workers.dev/Windows%207/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%207/)                                                          |
-| Windows 10 Enterprise LTSB/LTSC            | [Link1](https://stuff.mtt-m1.workers.dev/Windows%2010/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%2010/) - [Link3](https://cloud.mail.ru/public/SVLy/hAp8JqCQD) |
-| **Office**                                 |                                                                                                                                                                               |
-| Office 2019/2021 C2R VL                    | No .ISO available, check below guide                                                                                                                                          |
-| Office 2013/2016/2019/2021/O365 C2R Retail | [Link1](https://tb.rg-adguard.net/public.php) - [Link2](https://pastebin.com/raw/gtua34VH)                                                                                    |
-| Office 2013/2016 MSI VL                    | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                                                                                                   |
+| **Windows**                                |                                                                                                                                                                                 |
+| Windows 11/10/8.1                          | [Link1](https://www.microsoft.com/software-download) - [Link2](https://tb.rg-adguard.net/)                                                                                      |
+| Windows 7                                  | [Link1](https://stuff.mtt-m1.workers.dev/Windows%207/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%207/)                                                            |
+| Windows 10 Enterprise LTSB/LTSC            | [Link1](https://stuff.mtt-m1.workers.dev/Windows%2010/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%2010/) - [Link3](https://cloud.mail.ru/public/SVLy/hAp8JqCQD)   |
+| **Office**                                 |                                                                                                                                                                                 |
+| Office 2019/2021 C2R VL                    | No .ISO available, check below guide                                                                                                                                            |
+| Office 2013/2016/2019/2021/O365 C2R Retail | [All](https://tb.rg-adguard.net/public.php) - [O365](https://pastebin.com/raw/f7Bvub9g) - [2021](https://pastebin.com/raw/gtua34VH) - [2019](https://pastebin.com/raw/PLhB7UnK) |
+| Office 2013/2016 MSI VL                    | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                                                                                                     |
 
 Full Collection Through SVF Files can be found [here](https://opendirectory.luzea.de/GezoeSloog/).\
 Thanks to GezoeSloog, microtechton, Luzea, Enthousiast, rg-adguard for providing download links.

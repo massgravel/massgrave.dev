@@ -87,7 +87,7 @@
 -   Homepage <https://massgrave.dev/> is upadated with better reabable format
 
 -   Added an option to download and execute MAS from Powershell\
-    `iwr https://massgrave.dev/get | iex`
+    `iwr -useb https://massgrave.dev/get | iex`
 
 ------------------------------------------------------------------------
 
