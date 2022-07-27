@@ -28,7 +28,7 @@
 -   **Can I permanently activate Office?**\
     No. For lifetime activation of Office, use renewal task option in Online KMS.
 
--   **Can I link my Microsoft account safely after activation?**\
+-   **Can I link my Microsoft account safely with this activation?**\
     Yes.
 
 -   **Can I update Windows/Office after activation?**\
