@@ -411,15 +411,16 @@ editions, and all can be linked to Microsoft account without any
 issues.</p></li>
 <li><p>Once a system is activated, this activation cannot be removed
 because the license is stored in the Microsoft servers and not in the
-user’s system. MS checks the hardware ID (HWID) and if license is found
-in their database, system will automatically activate.</p></li>
+user’s system. MS checks the hardware ID (HWID) and if a license is
+found in their database, the system will automatically
+activate.</p></li>
 <li><p>Any significant changes in the Hardware (such as a motherboard)
 may deactivate the system. It is possible to reactivate a system that
 was deactivated because of significant hardware changes, IF your
 activation, was linked to an online Microsoft account.</p></li>
-<li><p>For activation to succeed, the internet connectivity must be
-enabled. If you are trying to activate without these conditions being
-met, then the system will auto-activate later when the conditions are
+<li><p>For activation to succeed, internet connectivity must be enabled.
+If you are trying to activate without these conditions being met, then
+the system will auto-activate later when the conditions are
 met.</p></li>
 <li><p>Auto activation scenario after the Windows re-install:</p>
 <ul>
@@ -429,7 +430,7 @@ activation)</p></li>
 for the installation.</p></li>
 <li><p>The system will NOT auto-activate if VL (Business) media was used
 for the installation. In this case, the user will have to insert that
-windows edition Retail/OEM key (find keys below in this page) to
+windows edition Retail/OEM key (find keys below on this page) to
 activate, if the user doesn’t wish to activate again using this
 script.</p></li>
 </ul></li>
@@ -440,20 +441,19 @@ script.</p></li>
 <h2>How does it work?</h2>
 <ul>
 <li><p>In the official upgrade process from Windows 7 to Windows 10,
-Microsoft provides a HWID (digital license) activation for Windows 10
+Microsoft provides an HWID (digital license) activation for Windows 10
 without any cost.</p></li>
-<li><p>In background, the upgrade process runs a file names
+<li><p>In the background, the upgrade process runs a file named
 <code>gatherosstate.exe</code> and it checks the license of current
-Windows and if found activated, it generates a valid GenuineTicket.xml
-which is sent to Microsoft and in return, MS authorize a
-license.</p></li>
+Windows if found activated, it generates a valid GenuineTicket.xml which
+is sent to Microsoft and in return, MS authorizes a license.</p></li>
 <li><p>So if we just convince the <code>gatherosstate.exe</code> file
-that system is activated by fooling it, it will generate a valid ticket,
-which can be used to get the valid HWID (Digital license). The script
-here does exactly that to get the activation for free without any
+that the system is activated by fooling it, it will generate a valid
+ticket, which can be used to get the valid HWID (Digital license). The
+script here does exactly that to get the activation for free without any
 upgrade process.</p></li>
 </ul>
-<p>Now question, can Microsoft differentiate counterfeit tickets and
+<p>Now a question, can Microsoft differentiate counterfeit tickets and
 block the license?</p>
 <ul>
 <li>Umm.. Yes, but actually no. The signature type can (sort of) be used
@@ -464,10 +464,10 @@ for the entire ticket, but when this fails it will generate and sign it
 by itself, creating a “downlevelGTkey” signature. For every activated
 system, a generated ticket will be returned by SLC and thus will have a
 “clientLockboxKey” signature. Put simply, the signature (should) always
-be a “clientLockboxKey” one in case of an activated system, but in this
-case it isn’t. Microsoft will not take action against it, because of the
-risk of voiding valid licenses. Besides, they never really cared for
-consumer piracy; That’s not where they get the most money from.</li>
+be a “clientLockboxKey” one in the case of an activated system, but in
+this case, it isn’t. Microsoft will not take action against it, because
+of the risk of voiding valid licenses. Besides, they never really cared
+for consumer piracy; That’s not where they get the most money from.</li>
 </ul>
 <hr />
 </div>
@@ -597,9 +597,7 @@ unsupported EnterpriseS (LTSC) 2021 edition.</p></li>
 <li><p>Windows Server does not support HWID activation.</p></li>
 <li><p>ServerRdsh edition does not <a
 href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
-support activation on non-azure systems. However on all builds except in
-range of 22000 will activate Windows but it won’t be HWID activation,
-means on system reinstall, it won’t auto activate.</p></li>
+support activation on non-azure systems.</p></li>
 </ul>
 <hr />
 </div>
@@ -608,9 +606,9 @@ means on system reinstall, it won’t auto activate.</p></li>
 <p>Downlevel = downlevelGTkey</p>
 <p>Lockbox = clientLockboxKey</p>
 <ul>
-<li><p>Downlevel Method: It creates downlevelGTkey ticket for activation
-with simplest process.</p></li>
-<li><p>LockBox Method: It creates clientLockboxKey ticket which better
+<li><p>Downlevel Method: It creates a downlevelGTkey ticket for
+activation with the simplest process.</p></li>
+<li><p>LockBox Method: It creates a clientLockboxKey ticket which better
 mimics genuine activation, But requires more steps such as,</p>
 <ul>
 <li><p>Cleaning ClipSVC licenses</p></li>
@@ -624,10 +622,10 @@ system</p></li>
 </ul>
 <p><strong>Notes:</strong></p>
 <ul>
-<li><p>We don’t suggest to run Lockbox method on a production system.
-Hence by default script will choose Downlevel method and won’t show you
-the option to select Lockbox method. However if you want, you can apply
-it through command line switches.</p></li>
+<li><p>We don’t suggest running the Lockbox method on a production
+system. Hence by default script will choose the Downlevel method and
+won’t show you the option to select the Lockbox method. However, if you
+want, you can apply it through command line switches.</p></li>
 <li><p>Microsoft accepts both types of tickets and that’s unlikely to
 change.</p></li>
 </ul>
@@ -636,14 +634,14 @@ change.</p></li>
 <div id="command-line-switches" class="section level2">
 <h2>Command line Switches</h2>
 <ul>
-<li><p>This is applicable only in separate files version.</p></li>
-<li><p>If any parameter is used then script will automatically run in
-unattended mode.</p></li>
-<li><p>To activate with Downlevel method (default),</p></li>
+<li><p>This is applicable only in separate files versions.</p></li>
+<li><p>If any parameter is used then the script will automatically run
+in unattended mode.</p></li>
+<li><p>To activate with the Downlevel method (default),</p></li>
 </ul>
 <p><code>"HWID_Activation.cmd" /a</code></p>
 <ul>
-<li>To only generate GenuineTicket.xml with Downlevel method
+<li>To only generate GenuineTicket.xml with the Downlevel method
 (default),</li>
 </ul>
 <p><code>"HWID_Activation.cmd" /g</code></p>
@@ -658,8 +656,8 @@ generation. Example,</li>
 </div>
 <div id="file-details" class="section level2">
 <h2>File Details</h2>
-<p>Besides plain batch script, HWID activation requires the use of
-official gatherosstate.exe (x86) file.</p>
+<p>Besides the plain batch script, HWID activation requires the use of
+the official gatherosstate.exe (x86) file.</p>
 <pre><code> File: gatherosstate.exe
 SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 </code></pre>
 <p>It’s taken from <a
@@ -675,15 +673,15 @@ separate files version.</p></li>
 <li><p>Make a folder named <code>Files</code> in C drive,
 <code>C:\Files</code> and copy the <code>gatherosstate.exe</code> file
 in that folder.</p></li>
-<li><p>Make sure Internet is enabled.</p></li>
-<li><p>Open Windows Powershell as administrator, and enter following
-listed commands in the the sequence in which they are given.</p></li>
+<li><p>Make sure the Internet is enabled.</p></li>
+<li><p>Open Windows Powershell as administrator, and enter the following
+listed commands in the sequence in which they are given.</p></li>
 <li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
 from the above list) with the following command</p></li>
 </ul>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
-<li>Copy the below code all at once and enter in PowerShell to modify
+<li>Copy the below code all at once and enter it in PowerShell to modify
 the <code>gatherosstate.exe</code> file.</li>
 </ul>
 <!-- -->
@@ -782,9 +780,9 @@ C:\Files\gatherosstatemodified.exe Pfn=$value`;DownlevelGenuineState=1</code></p
 <div id="setup-preactivate" class="section level2">
 <h2>Setup Preactivate</h2>
 <ul>
-<li><p>Check Extract OEM option in the MAS <code>Extras</code> section
-if you want pre-activated Windows installation.</p></li>
-<li><p>Further read <a
+<li><p>Check the Extract OEM option in the MAS <code>Extras</code>
+section if you want pre-activated Windows installation.</p></li>
+<li><p>Further, read <a
 href="https://massgrave.dev/oem-folder.html">here</a>.</p></li>
 </ul>
 <hr />

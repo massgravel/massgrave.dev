@@ -400,14 +400,14 @@ div.tocify {
 <div id="section" class="section level2">
 <h2>1.6</h2>
 <div id="future-proofing-goodbye-to-slc.dll" class="section level4">
-<h4><strong>Future proofing / Goodbye to slc.dll</strong></h4>
+<h4><strong>Future-proofing / Goodbye to slc.dll</strong></h4>
 <hr />
 </div>
 <div id="hwidkms38" class="section level4">
 <h4><strong>HWID/KMS38:</strong></h4>
 <ul>
-<li><p>slc.dll is removed, we will patch original gatherosstate.exe on
-the fly with Powershell. (Thanks to <a
+<li><p>slc.dll is removed, we will patch the original gatherosstate.exe
+on the fly with Powershell. (Thanks to <a
 href="https://github.com/Gamers-Against-Weed">Gamers Against
 Weed</a>)</p></li>
 <li><p>arm64 files are removed, now x86 gatherosstate.exe can work in
@@ -416,20 +416,20 @@ all</p></li>
 the system. (Thanks to <a
 href="https://github.com/awuctl"><strong>@awuctl</strong></a> and <a
 href="https://github.com/abbodi1406"><strong>@abbodi1406</strong></a>)</p></li>
-<li><p>More detailed diagnostic checks incase of failed
-activation</p></li>
+<li><p>More detailed diagnostic checks in case of failed
+Activation</p></li>
 <li><p>Windows product name is now taken from winbrand.dll instead of
 registry/wmi for accurate results (Thanks to <a
 href="https://github.com/abbodi1406"><strong>@abbodi1406</strong></a>)</p></li>
 <li><p>Fixed an issue when in Eval edition, non-eval edition key and
-certs are installed but script will show Eval edition error</p></li>
+certs are installed but the script will show Eval edition error</p></li>
 <li><p>HWID Lockbox method is now removed in UI due to some issues with
 this method in certain builds.</p></li>
-<li><p>Ticket generation option is removed in UI since people rarely
+<li><p>The ticket generation option is removed in UI since people rarely
 need it and it creates confusion</p></li>
 <li><p>Fixed an issue in registry ownership snippet where it would fail
-if path name have special characters</p></li>
-<li><p>clipup.exe is removed from AIO but exists in separate files
+if path name has special characters</p></li>
+<li><p>clipup.exe is removed from AIO but exists in the separate file’s
 version.<br />
 Users very rarely need it (server cor/acor) and less size of AIO would
 help in download &amp; execution in Powershell</p></li>
@@ -439,18 +439,19 @@ help in download &amp; execution in Powershell</p></li>
 <div id="online-kms" class="section level4">
 <h4><strong>Online KMS:</strong></h4>
 <ul>
-<li><p>Script is updated as per KVA v47 (major change: improved office
-C2R-R2V conversion)</p></li>
-<li><p>Script will now set KMS server to private IP (non-existent)
-10.0.0.10 instead of 0.0.0.0 to avoid non-genuine banner issue in
-office</p></li>
-<li><p>Desktop context menu option is removed, not very useful</p></li>
-<li><p>Renewal task, file and directory name are changed to remove “KMS”
-word to avoid antivirus detections</p></li>
+<li><p>The script is updated as per KVA v47 (major change: improved
+office C2R-R2V conversion)</p></li>
+<li><p>The script will now set the KMS server to private IP
+(non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid the non-genuine
+banner issues in the office</p></li>
+<li><p>The desktop context menu option is removed, not very
+useful</p></li>
+<li><p>Renewal task, file, and directory name are changed to remove the
+“KMS” word to avoid antivirus detection</p></li>
 <li><p>Skip KMS38 and Convert C2R-R2V on-off options are removed from UI
-since people rarely need it and it creates confusion</p></li>
+since people rarely need them and it creates confusion</p></li>
 <li><p>Some changes have been done to avoid possible antivirus
-detections</p></li>
+detection</p></li>
 </ul>
 </div>
 <div id="activation-troubleshoot" class="section level4">
@@ -458,13 +459,14 @@ detections</p></li>
 <ul>
 <li><p>Token rebuilding options will now clear SPP-OSPP data.dat,
 tokens.dat, cache.dat<br />
-and Office repair option will be launched to fix license issue</p></li>
+and Office repair option will be launched to fix the license
+issue</p></li>
 <li><p>Added an option to clear Office vNext License, it helps when KMS
 activation fails due to remnants of vNext licenses</p></li>
-<li><p>Rearm option is removed since full token rebuild is
+<li><p>Rearm option is removed since a full token rebuild is
 enough</p></li>
-<li><p>Clean ClipSVC Licences option is removed since it may creates
-some issues in licensing in older builds</p></li>
+<li><p>Clean ClipSVC Licences option is removed since it may create some
+issues in licensing in older builds</p></li>
 </ul>
 </div>
 <div id="change-windows-edition" class="section level4">
@@ -473,41 +475,41 @@ some issues in licensing in older builds</p></li>
 <li><p>Added feature to change Windows Server editions</p></li>
 <li><p>Scripts can now change the future editions by getting the key
 from the system</p></li>
-<li><p>Script now blocks the change to/from CountrySpecific and
-CloudEdition editions, since it’s offically not supported and user may
+<li><p>The script now blocks the change to/from CountrySpecific and
+CloudEdition editions, since it’s officially not supported and users may
 face issues</p></li>
-<li><p>Improved the way of available editions are presented to
+<li><p>Improved the way available editions are presented to
 choose</p></li>
 </ul>
 </div>
 <div id="insert-windows-hwid-key" class="section level4">
 <h4><strong>Insert Windows HWID Key:</strong></h4>
 <ul>
-<li>Scripts can now install HWID key for future editions by getting the
-key from the system</li>
+<li>Scripts can now install the HWID key for future editions by getting
+the key from the system</li>
 </ul>
 </div>
 <div id="all" class="section level4">
 <h4><strong>All:</strong></h4>
 <ul>
-<li><p>Fixed an issue when script wouldn’t launch if path have certain
-speacial characters</p></li>
-<li><p>Fixed an issue when files couldn’t be extrated in AIO
-compressed2txt if username have accent characters. Thanks to <a
-href="https://github.com/AveYo"><strong>@AveYo</strong></a> for
+<li><p>Fixed an issue when the script wouldn’t launch if the path have
+certain special characters</p></li>
+<li><p>Fixed an issue when files couldn’t be extracted in AIO
+compressed2txt if the username has accent characters. Thanks to <a
+href="https://github.com/AveYo"><strong>@AveYo</strong></a> for the
 fix.</p></li>
-<li><p>Fixed an issue when script would start looping while getting
-correct arch process in rare cases</p></li>
-<li><p>Added a check to detect if file is in Unix (LF) format, if yes
-then script would stop</p></li>
+<li><p>Fixed an issue when the script would start looping while getting
+the correct arch process in rare cases</p></li>
+<li><p>Added a check to detect if the file is in Unix (LF) format, if
+yes then the script would stop</p></li>
 <li><p>Homepage <a href="https://windowsaddict.ml/"
 class="uri">https://windowsaddict.ml/</a> is changed to <a
 href="https://massgrave.dev/" class="uri">https://massgrave.dev/</a>
-because of DNS issue with free domain (Thanks to <a
+because of the DNS issue with the free domain (Thanks to <a
 href="https://github.com/luzea9903"><strong>@luzea9903</strong></a> for
 Server hosting)</p></li>
 <li><p>Homepage <a href="https://massgrave.dev/"
-class="uri">https://massgrave.dev/</a> is upadated with better reabable
+class="uri">https://massgrave.dev/</a> is updated with a better readable
 format</p></li>
 <li><p>Added an option to download and execute MAS from Powershell<br />
 <code>iwr -useb https://massgrave.dev/get | iex</code></p></li>

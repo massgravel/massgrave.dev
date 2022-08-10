@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-MAS includes check activation options (wmi/vbs) which are taken from abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/).\
+MAS includes checking activation options (WMI/VBS) which are taken from abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/).\
 It checks the status of Windows and Office products.
 
 Please find below the difference between vbs and wmi options.
@@ -23,7 +23,7 @@ Please find below the difference between vbs and wmi options.
 
 -   Query and execute WMI functions using wmic.exe or VBScripts
 
--   Shows extra more info (SKU ID, key channel)
+-   Shows extra info (SKU ID, key channel)
 
 -   Shows the activation expiration date for all products
 

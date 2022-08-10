@@ -403,7 +403,7 @@ div.tocify {
 <li><p>How to use it? Please find the instructions <a
 href="https://massgrave.dev">here</a>.</p></li>
 <li><p>This activation method activates Windows 10/11 and Windows Server
-(14393 and later builds), until 19 january 2038 03:14:07 UTC.</p></li>
+(14393 and later builds), until 19 January 2038 03:14:07 UTC.</p></li>
 <li><p>This activation method does not store any files on the
 system.</p></li>
 <li><p>This activation method works offline.</p></li>
@@ -424,10 +424,10 @@ href="(https://github.com/abbodi1406/KMS_VL_ALL_AIO)">KMS_VL_ALL</a> by
 abbodi1406</p>
 <p><a href="https://massgrave.dev">MAS</a> (Online KMS option)</p></li>
 </ul></li>
-<li><p>Any KMS Activator which is not compatible with KMS38, may
+<li><p>Any KMS Activator which is not compatible with KMS38 may
 overwrite the KMS38 activation for Windows with its own 180 days
 activation, thereby destroying the KMS38 activation for Windows. To
-prevent this accidental overwriting, you can select KMS38 protection
+prevent this accidental overwriting, you can select the KMS38 protection
 option.</p></li>
 </ul>
 <hr />
@@ -437,27 +437,27 @@ option.</p></li>
 <ul>
 <li><p>In a genuine <a
 href="https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview">KMS</a>
-activation environment, activation last maximum up-to 180 days. This is
-done using a valid license and server setup.</p></li>
-<li><p>However in the Windows major upgrade process, system uses
+activation environment, activation lasts a maximum of up to 180 days.
+This is done using a valid license and server setup.</p></li>
+<li><p>However, in the Windows major upgrade process, the system uses
 <code>gatherosstate.exe</code> to carry over the remaining KMS
-activation period. It does it by creating a ticket which can be used
+activation period. It does it by creating a ticket that can be used
 offline.</p></li>
 <li><p>The trick is that we can fool the <code>gatherosstate.exe</code>
 about the remaining KMS activation period and manually put the desired
-period maximum up-to 19 january 2038 03:14:07 UTC.</p></li>
-<li><p>Why it’s limited to year 2038?<br />
+period maximum up to 19 January 2038 03:14:07 UTC.</p></li>
+<li><p>Why it’s limited to the year 2038?<br />
 It’s related to the <a
 href="https://en.wikipedia.org/wiki/Year_2038_problem">Y2K38 problem</a>
-as this date (19 january 2038 03:14:07 UTC) is the maximum date we can
-give to <code>gatherosstate.exe</code> without it looping back to year
-1970.</p></li>
+as this date (19 January 2038 03:14:07 UTC) is the maximum date we can
+give to <code>gatherosstate.exe</code> without it looping back to the
+year 1970.</p></li>
 </ul>
 <p><strong>Q:</strong> Can Microsoft block this kind of
 activation?<br />
 <strong>A:</strong> Not directly. They could only update Clipup to allow
-for a maximum activation period of 180 days. Not much beside that can be
-done on their part. The tickets are not sent to Microsoft at all, so
+for a maximum activation period of 180 days. Not much besides that can
+be done on their part. The tickets are not sent to Microsoft at all, so
 they can’t block them or take action directly.</p>
 <hr />
 </div>
@@ -714,8 +714,7 @@ activated.</p></li>
 versions.</p></li>
 <li><p>ServerRdsh edition does not <a
 href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
-support activation on non-azure systems. However on all builds except in
-range of 22000 will activate Windows.</p></li>
+support activation on non-azure systems.</p></li>
 </ul>
 <hr />
 </div>
@@ -729,21 +728,20 @@ href="(https://github.com/abbodi1406/KMS_VL_ALL_AIO)">KMS_VL_ALL</a> by
 abbodi1406 or <a href="https://massgrave.dev">MAS</a> (Online KMS
 option) for <strong>Office activation</strong>, then you don’t need to
 enable this protection.</p></li>
-<li><p>However, with a few tricks you can ensure that no alternative KMS
-Activator can replace KMS38 Activation by accident or even on purpose.
-below is the explanation for how to do/undo that.</p></li>
-<li><p>In the KMS activation method, the Windows first checks the KMS IP
+<li><p>However, with a few tricks, you can ensure that no alternative
+KMS Activator can replace KMS38 Activation by accident or even on
+purpose. below is the explanation for how to do/undo that.</p></li>
+<li><p>In the KMS activation method, Windows first checks the KMS IP
 registered as a specific KMS, and if that is not defined then it checks
 the Global KMS IP. Another fact is that if Localhost (IP range
-127.0.0.0/8) is defined as KMS IP in the Windows 8 and later OS’s then
-Windows will not accept it as a valid KMS IP. This script simply
-utilizes the above facts to protect the KMS38 activation from being
-overwritten by any alternative ‘normal’ 180-Day KMS Activation and at
-the same time that KMS activator can be used for Office
-activation.</p></li>
+127.0.0.0/8) is defined as KMS IP in Windows 8 and later OS then Windows
+will not accept it as a valid KMS IP. This script simply utilizes the
+above facts to protect the KMS38 activation from being overwritten by
+any alternative ‘normal’ 180-Day KMS Activation and at the same time
+that KMS activator can be used for Office activation.</p></li>
 <li><p>Script steps-</p>
 <ul>
-<li><p>Set the Windows edition specific KMS IP to Localhost
+<li><p>Set the Windows edition-specific KMS IP to Localhost
 (127.0.0.2)</p></li>
 <li><p>Lock the below Registry with <a
 href="https://github.com/AveYo/LeanAndMean">reg_own</a> snippet by
@@ -757,9 +755,9 @@ AveYo</p></li>
 <div id="command-line-switches" class="section level2">
 <h2>Command line Switches</h2>
 <ul>
-<li><p>This is applicable only in separate files version.</p></li>
-<li><p>If any parameter is used then script will automatically run in
-unattended mode.</p></li>
+<li><p>This is applicable only in separate file versions.</p></li>
+<li><p>If any parameter is used then the script will automatically run
+in unattended mode.</p></li>
 <li><p>To activate,</p>
 <p><code>"KMS38_Activation.cmd" /a</code></p></li>
 <li><p>To activate along with KMS38 protection (from being replaced by
@@ -774,17 +772,17 @@ unattended mode.</p></li>
 </div>
 <div id="file-details" class="section level2">
 <h2>File Details</h2>
-<p>Besides plain batch script, KMS38 activation requires the use of
-official gatherosstate.exe (x86) file.</p>
+<p>Besides the plain batch script, KMS38 activation requires the use of
+an official gatherosstate.exe (x86) file.</p>
 <pre><code>     File: gatherosstate.exe
     SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 </code></pre>
 <p>It’s taken from <a
 href="https://go.microsoft.com/fwlink/p/?LinkId=526740">Windows 10
 Version 1607 ADK</a> (Section: User State Migration Tool)</p>
-<p><strong>Further</strong>, in case of Windows Server Core editions,
-system doesn’t have <code>clipup.exe</code> file. So to activate it, MAS
-separate files version contains the below file. (It’s not included in
-MAS AIO)</p>
+<p><strong>Further</strong>, in the case of Windows Server Core
+editions, the system doesn’t have <code>clipup.exe</code> file. So to
+activate it, MAS separate files version contains the below file. (It’s
+not included in MAS AIO)</p>
 <pre><code>      File: ClipUp.exe
      SHA-1: 48D928B1BEC25A56FE896C430C2C034B7866AA7A</code></pre>
 <p>It’s taken from <a
@@ -800,8 +798,8 @@ separate files version.</p></li>
 <li><p>Make a folder named <code>Files</code> in C drive,
 <code>C:\Files</code> and copy the <code>gatherosstate.exe</code> file
 in that folder.</p></li>
-<li><p>Open Windows Powershell as administrator, and enter following
-listed commands in the the sequence in which they are given.</p></li>
+<li><p>Open Windows Powershell as administrator, and enter the following
+listed commands in the sequence in which they are given.</p></li>
 <li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
 from the above list) with the following command</p></li>
 </ul>
@@ -900,9 +898,9 @@ command.</li>
 <div id="setup-preactivate" class="section level2">
 <h2>Setup Preactivate</h2>
 <ul>
-<li><p>Check Extract OEM option in the MAS <code>Extras</code> section
-if you want pre-activated Windows installation.</p></li>
-<li><p>Further read <a
+<li><p>Check the Extract OEM option in the MAS <code>Extras</code>
+section if you want pre-activated Windows installation.</p></li>
+<li><p>Further, read <a
 href="https://massgrave.dev/oem-folder.html">here</a>.</p></li>
 </ul>
 <hr />

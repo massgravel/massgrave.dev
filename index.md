@@ -19,7 +19,7 @@ A collection of scripts for activating Microsoft products using HWID / KMS38 / O
 -   Available in All In One & Separate Files Version
 -   Fully Open Source
 -   Fewer antivirus detections
--   Files are either transparent batch script or official from Microsoft
+-   Files are either transparent batch scripts or official from Microsoft
 
 ------------------------------------------------------------------------
 
@@ -34,10 +34,10 @@ Last Release - v1.6 (25-July-2022)\
 
 ### Method 1 - PowerShell
 
--   On Windows 10/11, right click on windows start menu, select PowerShell or Terminal.
+-   On Windows 10/11, right-click on the windows start menu and select PowerShell or Terminal.
 -   Copy-paste the below code and press enter\
     `iwr -useb https://massgrave.dev/get | iex`
--   You will see the activation options, follow onscreen instructions.
+-   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
 ### Method 2 - Traditional
@@ -45,9 +45,9 @@ Last Release - v1.6 (25-July-2022)\
 -   Download the file named `MAS_1.6_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
 -   Extract this file with a 3rd party archive manager, such as [7zip](https://www.7-zip.org/download.html)
 -   Password is `1234`
--   In extracted folder, find the folder named `All-In-One-Version`
+-   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, follow onscreen instructions.
+-   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Last Release - v1.6 (25-July-2022)\
 | KMS38           | Windows 10-11-Server | Until the year 2038                             |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |
 
-For more details, use the respective activation's details in Doc.
+For more details, use the respective activation details in Doc.
 
 ------------------------------------------------------------------------
 
