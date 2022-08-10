@@ -4,59 +4,59 @@
 
 ## 1.6
 
-#### **Future proofing / Goodbye to slc.dll**
+#### **Future-proofing / Goodbye to slc.dll**
 
 ------------------------------------------------------------------------
 
 #### **HWID/KMS38:**
 
--   slc.dll is removed, we will patch original gatherosstate.exe on the fly with Powershell. (Thanks to [Gamers Against Weed](https://github.com/Gamers-Against-Weed))
+-   slc.dll is removed, we will patch the original gatherosstate.exe on the fly with Powershell. (Thanks to [Gamers Against Weed](https://github.com/Gamers-Against-Weed))
 
 -   arm64 files are removed, now x86 gatherosstate.exe can work in all
 
 -   Scripts can now activate future editions by getting the key from the system. (Thanks to [**\@awuctl**](https://github.com/awuctl) and [**\@abbodi1406**](https://github.com/abbodi1406))
 
--   More detailed diagnostic checks incase of failed activation
+-   More detailed diagnostic checks in case of failed Activation
 
 -   Windows product name is now taken from winbrand.dll instead of registry/wmi for accurate results (Thanks to [**\@abbodi1406**](https://github.com/abbodi1406))
 
--   Fixed an issue when in Eval edition, non-eval edition key and certs are installed but script will show Eval edition error
+-   Fixed an issue when in Eval edition, non-eval edition key and certs are installed but the script will show Eval edition error
 
 -   HWID Lockbox method is now removed in UI due to some issues with this method in certain builds.
 
--   Ticket generation option is removed in UI since people rarely need it and it creates confusion
+-   The ticket generation option is removed in UI since people rarely need it and it creates confusion
 
--   Fixed an issue in registry ownership snippet where it would fail if path name have special characters
+-   Fixed an issue in registry ownership snippet where it would fail if path name has special characters
 
--   clipup.exe is removed from AIO but exists in separate files version.\
+-   clipup.exe is removed from AIO but exists in the separate file's version.\
     Users very rarely need it (server cor/acor) and less size of AIO would help in download & execution in Powershell
 
 -   Bug fixes and lots of improvements
 
 #### **Online KMS:**
 
--   Script is updated as per KVA v47 (major change: improved office C2R-R2V conversion)
+-   The script is updated as per KVA v47 (major change: improved office C2R-R2V conversion)
 
--   Script will now set KMS server to private IP (non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid non-genuine banner issue in office
+-   The script will now set the KMS server to private IP (non-existent) 10.0.0.10 instead of 0.0.0.0 to avoid the non-genuine banner issues in the office
 
--   Desktop context menu option is removed, not very useful
+-   The desktop context menu option is removed, not very useful
 
--   Renewal task, file and directory name are changed to remove "KMS" word to avoid antivirus detections
+-   Renewal task, file, and directory name are changed to remove the "KMS" word to avoid antivirus detection
 
--   Skip KMS38 and Convert C2R-R2V on-off options are removed from UI since people rarely need it and it creates confusion
+-   Skip KMS38 and Convert C2R-R2V on-off options are removed from UI since people rarely need them and it creates confusion
 
--   Some changes have been done to avoid possible antivirus detections
+-   Some changes have been done to avoid possible antivirus detection
 
 #### **Activation Troubleshoot:**
 
 -   Token rebuilding options will now clear SPP-OSPP data.dat, tokens.dat, cache.dat\
-    and Office repair option will be launched to fix license issue
+    and Office repair option will be launched to fix the license issue
 
 -   Added an option to clear Office vNext License, it helps when KMS activation fails due to remnants of vNext licenses
 
--   Rearm option is removed since full token rebuild is enough
+-   Rearm option is removed since a full token rebuild is enough
 
--   Clean ClipSVC Licences option is removed since it may creates some issues in licensing in older builds
+-   Clean ClipSVC Licences option is removed since it may create some issues in licensing in older builds
 
 #### **Change Windows Edition:**
 
@@ -64,27 +64,27 @@
 
 -   Scripts can now change the future editions by getting the key from the system
 
--   Script now blocks the change to/from CountrySpecific and CloudEdition editions, since it's offically not supported and user may face issues
+-   The script now blocks the change to/from CountrySpecific and CloudEdition editions, since it's officially not supported and users may face issues
 
--   Improved the way of available editions are presented to choose
+-   Improved the way available editions are presented to choose
 
 #### **Insert Windows HWID Key:**
 
--   Scripts can now install HWID key for future editions by getting the key from the system
+-   Scripts can now install the HWID key for future editions by getting the key from the system
 
 #### **All:**
 
--   Fixed an issue when script wouldn't launch if path have certain speacial characters
+-   Fixed an issue when the script wouldn't launch if the path have certain special characters
 
--   Fixed an issue when files couldn't be extrated in AIO compressed2txt if username have accent characters. Thanks to [**\@AveYo**](https://github.com/AveYo) for fix.
+-   Fixed an issue when files couldn't be extracted in AIO compressed2txt if the username has accent characters. Thanks to [**\@AveYo**](https://github.com/AveYo) for the fix.
 
--   Fixed an issue when script would start looping while getting correct arch process in rare cases
+-   Fixed an issue when the script would start looping while getting the correct arch process in rare cases
 
--   Added a check to detect if file is in Unix (LF) format, if yes then script would stop
+-   Added a check to detect if the file is in Unix (LF) format, if yes then the script would stop
 
--   Homepage <https://windowsaddict.ml/> is changed to <https://massgrave.dev/> because of DNS issue with free domain (Thanks to [**\@luzea9903**](https://github.com/luzea9903) for Server hosting)
+-   Homepage <https://windowsaddict.ml/> is changed to <https://massgrave.dev/> because of the DNS issue with the free domain (Thanks to [**\@luzea9903**](https://github.com/luzea9903) for Server hosting)
 
--   Homepage <https://massgrave.dev/> is upadated with better reabable format
+-   Homepage <https://massgrave.dev/> is updated with a better readable format
 
 -   Added an option to download and execute MAS from Powershell\
     `iwr -useb https://massgrave.dev/get | iex`

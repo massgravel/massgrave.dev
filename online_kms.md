@@ -26,7 +26,7 @@
 
 ## Activation Renewal
 
--   By design in the genuine [KMS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview) activation method, the system contacts the registered server every 7 days, and if contacted successfully it will automatically renew and reset the activation for the the full period of 180 days again, starting from the day of successful contact. If the system cannot contact the server, it will be deactivated after 180 days and it will remain deactivated until contact can be restored.
+-   By design in the genuine [KMS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview) activation method, the system contacts the registered server every 7 days, and if contacted successfully it will automatically renew and reset the activation for the full period of 180 days again, starting from the day of successful contact. If the system cannot contact the server, it will be deactivated after 180 days and it will remain deactivated until contact can be restored.
 
 -   To get the lifetime activation, you need to do either one of the below two things,
 
@@ -52,15 +52,15 @@
 
 -   What is left in the system in the activation process?
 
-    -   **If Renewal Task is installed:** After activation, it leaves the KMS Server IP in the registry, which helps you to get the global activation feature whereby the system auto-renews the activation. About files and scheduled task, it has been mentioned above.
+    -   **If Renewal Task is installed:** After activation, it leaves the KMS Server IP in the registry, which helps you to get the global activation feature whereby the system auto-renews the activation. About files and scheduled tasks, it has been mentioned above.
 
-    -   **If Renewal Task is NOT installed:** It leaves a non-existent IP 10.0.0.10 to avoid Office Not Genuine Banner issue.
+    -   **If Renewal Task is NOT installed:** It leaves a non-existent IP 10.0.0.10 to avoid the Office Not Genuine Banner issue.
 
--   This script includes the most-stable KMS servers (16) list from all over the world. The server selection process is fully automatic. Script randomly select a server, tests if it's online, if yes then apply the activation command, if fails, then retry this process maximum of total 3 times for a product. Such redundancy makes sure that we get the working KMS server any time.
+-   This script includes the most-stable KMS servers (16) list from all over the world. The server selection process is fully automatic. Script randomly selects a server, tests if it's online, if yes then apply the activation command, if fails, then retry this process maximum of total 3 times for a product. Such redundancy makes sure that we get the working KMS server at any time.
 
 -   If your system date is incorrect (beyond 180 days) and you are offline, the system will be deactivated, but will automatically reactivate when you correct the system date.
 
--   The advantage of Online KMS activation is that it doesn't need any KMS binary file and system can be activated using some manual commands or transparent batch script files. So this is for those who don't like/have difficulties/trust issues in offline KMS because of its binary files and antivirus detection's.
+-   The advantage of Online KMS activation is that it doesn't need any KMS binary file and the system can be activated using some manual commands or transparent batch script files. So this is for those who don't like/have difficulties/trust issues in offline KMS because of its binary files and antivirus detections.
 
     But if you prefer offline KMS then checkout an open-source activator, abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/)
 
@@ -131,7 +131,7 @@
 
 -   Office UWP (Windows 10/11 Apps)
 
--   Windows editions which do not support KMS activation by design:Windows Evaluation Editions\
+-   Windows editions that do not support KMS activation by design: Windows Evaluation Editions\
     Windows 7 (Starter, HomeBasic, HomePremium, Ultimate)\
     Windows 10 (Cloud "S", IoTEnterprise, IoTEnterpriseS, ProfessionalSingleLanguage... etc)\
     Windows Server (Server Foundation, Storage Server, Home Server 2011... etc)
@@ -141,36 +141,36 @@
 ## How does it work?
 
 -   **What is KMS activation?**\
-    Key Management Service (KMS) is a genuine activation method provided by Microsoft for volume licensing customers (organizations, schools or governments). The machines in those environments (called KMS clients) are activated via the Environment KMS Host Server (authorized Microsoft's licensing key), instead of Microsoft activation servers. By design, the KMS activation period lasts up to 180 Days (6 Months) at max, with the ability to renew and reinstate the period at any time. Activation renewal automatically happens every 7 days if the client can connect to the KMS host server. For more info, see [here](https://www.microsoft.com/Licensing/servicecenter/Help/FAQDetails.aspx?id=201#215) and [here](https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview).
+    Key Management Service (KMS) is a genuine activation method provided by Microsoft for volume licensing customers (organizations, schools, or governments). The machines in those environments (called KMS clients) are activated via the Environment KMS Host Server (authorized Microsoft's licensing key), instead of Microsoft activation servers. By design, the KMS activation period lasts up to 180 Days (6 Months) at max, with the ability to renew and reinstate the period at any time. Activation renewal automatically happens every 7 days if the client can connect to the KMS host server. For more info, see [here](https://www.microsoft.com/Licensing/servicecenter/Help/FAQDetails.aspx?id=201#215) and [here](https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview).
 
 -   **How are we getting it for free?**\
     Developers reverse-engineered the KMS Host Server setup, so now anyone can host a KMS server and activate the systems without any limitations. KMS activators such as KMSpico, MTK, KMS_VL_ALL, etc., locally create an emulated KMS Host Server and activate Windows and Office.
 
     This locally-emulated KMS server requires you to run binary files which often cause anti-virus alerts (false positives).
 
-    Another method of KMS activation is publicly-available Online KMS Host Server. In this method, the site hosts the emulated KMS server and anyone can simply use this server to activate their systems, there is no requirement for running any software on your system.
+    Another method of KMS activation is a publicly-available Online KMS Host Server. In this method, the site hosts the emulated KMS server, and anyone can simply use this server to activate their systems, there is no requirement for running any software on your system.
 
 -   **Is Online KMS activation safe?**\
     Yes.\
-    Let's go into the details. In the KMS protocol, there is a relationship of host and client. The client system asks the host system to grant the activation, and the host system grants the activation if it's eligible. In this process, the client system shares some of the system's data, which is not sensitive in nature. According to the [Microsoft document](https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview), the client system shares the following data with the host system: Client FQDN, CMID, time-stamp, Product license state, expiration time and IP address
+    Let's go into the details. In the KMS protocol, there is a relationship between host and client. The client system asks the host system to grant the activation, and the host system grants the activation if it's eligible. In this process, the client system shares some of the system's data, which is not sensitive in nature. According to the [Microsoft document](https://technet.microsoft.com/en-us/library/ee939272(v=ws.10).aspx#kms-overview), the client system shares the following data with the host system: Client FQDN, CMID, time-stamp, Product license state, expiration time, and IP address
 
     In this shared info, the important part is your IP address. Below are some things regarding it which you should know.
 
     -   Sharing your IP while going online is not a security concern. You can not go online to visit any website without having to share your IP address.
 
-    -   IP addresses do not necessarily represent a specific person. Internet Service Providers (ISP's) mostly use dynamic IP, which means the same IP address can be used by many different persons, and a dynamic IP address is periodically reassigned to different people all the time. But a static IP address is permanently assigned to a unique subscriber. The Internet Service Provider (ISP) won't reveal that information unless there is a legal reason to do so.
+    -   IP addresses do not necessarily represent a specific person. Internet Service Providers (ISPs) mostly use dynamic IP, which means the same IP address can be used by many different persons, and a dynamic IP address is periodically reassigned to different people all the time. But a static IP address is permanently assigned to a unique subscriber. The Internet Service Provider (ISP) won't reveal that information unless there is a legal reason to do so.
 
     -   Microsoft has never tried to go after Home users in legal cases for using a few pirated activations (not talking about stolen legal keys) simply because the cost of legal actions would be much higher than the amount of money gained by forcing a few people to purchase activations.
 
-    -   No law enforcement is going to take action based on the IP's from all over the world without the consent from the Microsoft itself.
+    -   No law enforcement is going to take action based on IPs from all over the world without the consent of Microsoft itself.
 
-Feel free contact us in case you have a contradictory point of view.
+Feel free to contact us in case you have a contradictory point of view.
 
 ------------------------------------------------------------------------
 
 ## Office 'Non-genuine' Banner
 
--   Office Click-to-Run builds (since February 2021) that are activated with KMS checks the existence of the KMS server name in the registry.
+-   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of the KMS server name in the registry.
 
 -   If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly", see [here](https://i.imgur.com/gLFxssD.png).
 
@@ -232,17 +232,17 @@ Alternatively, if the automatic conversion did not work, or if you prefer to use
 
 ## Debug Mode
 
--   With debug mode, we can get a log file with more details of activation script process and it can be used to troubleshoot the activation issues.
+-   With debug mode, we can get a log file with more details of the activation script process and it can be used to troubleshoot the activation issues.
 
--   In Online KMS option, you can enable `Debug Mode` by pressing 6. When the activation is run with Debug Mode enabled, it creates a log file which contains details of activation process, this is useful to detect activation errors. You can send that log to us to check. Check troubleshoot heading.
+-   In the Online KMS option, you can enable `Debug Mode` by pressing 6. When the activation is run with Debug Mode enabled, it creates a log file that contains details of the activation process, this is useful to detect activation errors. You can send that log to us to check. Check troubleshoot heading.
 
 ------------------------------------------------------------------------
 
 ## Command line Switches
 
--   This is applicable only in separate files version. `Online_KMS_Activation\Activate.cmd`
+-   This is applicable only in separate file versions. `Online_KMS_Activation\Activate.cmd`
 
--   If any parameter is used then script will automatically run in unattended mode.
+-   If any parameter is used then the script will automatically run in unattended mode.
 
 Below the switches are divided into four groups, you can use the combination of switches from only one group at a time.
 
@@ -265,7 +265,7 @@ Below the switches are divided into four groups, you can use the combination of 
 
 ## Setup Preactivate
 
--   Check Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
+-   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
 -   Further read [here](https://massgrave.dev/oem-folder.html).
 

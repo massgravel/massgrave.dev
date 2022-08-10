@@ -8,22 +8,22 @@
 
 ## Reasons
 
--   Office Click-to-Run builds (since February 2021) that are activated with KMS checks the existence of the KMS server name in the registry. If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly"
+-   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of the KMS server name in the registry. If the KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly"
 
--   In case of 32-bit Office installed on 64-bit Windows, Office checks the KMS server existence in corresponding WOW6432Node registry key as well.
+-   In the case of 32-bit Office installed on 64-bit Windows, Office checks the KMS server existence in the corresponding WOW6432Node registry key as well.
 
--   Apart from this, they also detect if registered KMS server is in their blacklist or not. As far as I know, they blacklisted below 3 addresses.
+-   Apart from this, they also detect if a registered KMS server is on their blacklist or not. As far as I know, the below 3 addresses are blacklisted.
 
     `km-s8.MSG-uides.com` `km-s9.MSG-uides.com` `0.0.0.0`(Remove hyphen)\
-    First two are public KMS servers and last one in simple words is neither a public or private IP.
+    The first two are public KMS servers and the last one in simple words is neither public nor private IP.
 
--   Please note that these checks are not performed by Office if proper installation of Volume version of Office is done with Perpetual2019 / 2021 VL channel.
+-   Please note that these checks are not performed by Office if the proper installation of the Volume version of Office is done with Perpetual2019 / 2021 VL channel.
 
 ------------------------------------------------------------------------
 
 ## Solutions:
 
-Please find below various ways you can avoid this banner. Simplest option for you is to just use a Office activation tool mentioned here.
+Please find below various ways you can avoid this banner. The simplest option for you is to just use an Office activation tool mentioned here.
 
 ------------------------------------------------------------------------
 
@@ -35,15 +35,15 @@ Please find below various ways you can avoid this banner. Simplest option for yo
 
 ### 2- Manual Activation
 
-In this section I'm only going to mention how to setup KMS server in registry properly.
+In this section, I'm only going to mention how to set up the KMS server in the registry properly.
 
 -   **If using Public KMS server:**\
-    Since they can put any public KMS server in blacklist, as a permanent solution, we can instead use server IP instead of hostname.
+    Since they can put any public KMS server on the blacklist, as a permanent solution, we can instead use server IP instead of hostname.
 
 -   **If using private KMS server IP:\
     **Make sure to use a valid private IP address.
 
-Please find below how to set the KMS server address in registry. Example with a private IP `10.0.0.10`
+Please find below how to set the KMS server address in the registry. For example with a private IP `10.0.0.10`
 
     reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663" /f
 
@@ -57,21 +57,21 @@ Please find below how to set the KMS server address in registry. Example with a 
 
 ### 3- Install VL Office
 
-As mentioned in reasons section, these checks are performed only if Retail Office is installed and later converted to VL. Office doesn't perform any such checks if proper installation of VL office is done.
+As mentioned in the reasons section, these checks are performed only if Retail Office is installed and later converted to VL. The office doesn't perform any such checks if the proper installation of the VL office is done.
 
-Please find below guide on how to properly install Volume C2R Office.
+Please find below a guide on how to properly install Volume C2R Office.
 
 **Clear previous installation of Office:**
 
 -   Uninstall the office with App and Features option in Windows settings.
 
 -   Run `Full_Scrub.cmd` file from [Office Scrubber](https://forums.mydigitallife.net/posts/1466365/) ([Mirror](https://github.com/abbodi1406/WHD/tree/master/scripts)) by abbodi1406 and reboot the system.\
-    Full Scrub is optional, you can skip this step if you want to save outlook related data.\
+    Full Scrub is optional, you can skip this step if you want to save outlook-related data.\
     It's recommended to at-least run `Remove_Licenses.cmd` file from this package.
 
 **Install Office 2021 VL with Official method:**
 
-Please note that in the official VL office installation method, there is no ISO or any one click solution available. Below is the simplest guide to install VL office.
+Please note that in the official VL office installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing VL office.
 
 -   Download [Office Deployment Tool](https://officecdn.microsoft.com/pr/wsus/setup.exe) (ODT)
 
@@ -79,7 +79,7 @@ Please note that in the official VL office installation method, there is no ISO 
 
 -   Goto [config.office.com](https://config.office.com/deploymentsettings)
 
--   Select `Office LTSC Professional Plus 2021 - Volume License` in the office suites section. You can add Visio and Project apps if you need. Customize other things and leave as default where you don't understand something.
+-   Select `Office LTSC Professional Plus 2021 - Volume License` in the office suites section. You can add Visio and Project apps if you need them. Customize other things and leave them as default where you don't understand something.
 
 -   Once you go through all the options, click on the export button and it will download a file named `Configuration.xml`
 
@@ -100,7 +100,7 @@ It will now download and install Office. You can activate it with your preferred
 
 -   Before doing this, make sure your Office update channel is either Insider or Current.
 
--   Make sure Internet is connected
+-   Make sure the Internet is connected
 
 -   Open command prompt as admin and enter below lines and press enter,
 

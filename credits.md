@@ -3,7 +3,7 @@
 MAS project wouldn't be possible without kind help and uses of other honorable developer's tools and scripts. I would like to say thanks to all those wonderful people and projects.
 
 |                                                                                                                                                                      |                                                                                                                                      |
-|:---------------------------------------|:-------------------------------|
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | **HWID / KMS38 Activation**                                                                                                                                          |                                                                                                                                      |
 | Gamers Against Weed                                                                                                                                                  | [Activation without slc.dll](https://github.com/Gamers-Against-Weed)                                                                 |
 | mspaintmsi & anonymous                                                                                                                                               | [Original co-authors of HWID/KMS38](https://nsaneforums.com/topic/316668-microsoft-activation-scripts/page/29/#comment-1497887)      |
@@ -20,4 +20,4 @@ MAS project wouldn't be possible without kind help and uses of other honorable d
 | [Luzea](https://github.com/luzea9903)                                                                                                                                | Server Hosting                                                                                                                       |
 | [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/), [Aveyo](https://github.com/AveYo), [awuctl](https://github.com/awuctl) | Enormous help                                                                                                                        |
 
-And thanks to the MAS users for interest, feedback and assistance. ❤️
+And thanks to the MAS users for their interest, feedback, and assistance. ❤️

@@ -14,11 +14,11 @@
 
 -   On a system, this activation can be created for all the supported editions, and all can be linked to Microsoft account without any issues.
 
--   Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if license is found in their database, system will automatically activate.
+-   Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
 
 -   Any significant changes in the Hardware (such as a motherboard) may deactivate the system. It is possible to reactivate a system that was deactivated because of significant hardware changes, IF your activation, was linked to an online Microsoft account.
 
--   For activation to succeed, the internet connectivity must be enabled. If you are trying to activate without these conditions being met, then the system will auto-activate later when the conditions are met.
+-   For activation to succeed, internet connectivity must be enabled. If you are trying to activate without these conditions being met, then the system will auto-activate later when the conditions are met.
 
 -   Auto activation scenario after the Windows re-install:
 
@@ -26,21 +26,21 @@
 
     -   The system will auto-activate if Retail (Consumer) media was used for the installation.
 
-    -   The system will NOT auto-activate if VL (Business) media was used for the installation. In this case, the user will have to insert that windows edition Retail/OEM key (find keys below in this page) to activate, if the user doesn't wish to activate again using this script.
+    -   The system will NOT auto-activate if VL (Business) media was used for the installation. In this case, the user will have to insert that windows edition Retail/OEM key (find keys below on this page) to activate, if the user doesn't wish to activate again using this script.
 
 ------------------------------------------------------------------------
 
 ## How does it work?
 
--   In the official upgrade process from Windows 7 to Windows 10, Microsoft provides a HWID (digital license) activation for Windows 10 without any cost.
+-   In the official upgrade process from Windows 7 to Windows 10, Microsoft provides an HWID (digital license) activation for Windows 10 without any cost.
 
--   In background, the upgrade process runs a file names `gatherosstate.exe` and it checks the license of current Windows and if found activated, it generates a valid GenuineTicket.xml which is sent to Microsoft and in return, MS authorize a license.
+-   In the background, the upgrade process runs a file named `gatherosstate.exe` and it checks the license of current Windows if found activated, it generates a valid GenuineTicket.xml which is sent to Microsoft and in return, MS authorizes a license.
 
--   So if we just convince the `gatherosstate.exe` file that system is activated by fooling it, it will generate a valid ticket, which can be used to get the valid HWID (Digital license). The script here does exactly that to get the activation for free without any upgrade process.
+-   So if we just convince the `gatherosstate.exe` file that the system is activated by fooling it, it will generate a valid ticket, which can be used to get the valid HWID (Digital license). The script here does exactly that to get the activation for free without any upgrade process.
 
-Now question, can Microsoft differentiate counterfeit tickets and block the license?
+Now a question, can Microsoft differentiate counterfeit tickets and block the license?
 
--   Umm.. Yes, but actually no. The signature type can (sort of) be used to determine what utility is responsible for the ticket. There is no way (in a standard environment) for a non-activated Windows 10 installation to generate a ticket. In the normal process, gatherosstate will ask SLC for the entire ticket, but when this fails it will generate and sign it by itself, creating a "downlevelGTkey" signature. For every activated system, a generated ticket will be returned by SLC and thus will have a "clientLockboxKey" signature. Put simply, the signature (should) always be a "clientLockboxKey" one in case of an activated system, but in this case it isn't. Microsoft will not take action against it, because of the risk of voiding valid licenses. Besides, they never really cared for consumer piracy; That's not where they get the most money from.
+-   Umm.. Yes, but actually no. The signature type can (sort of) be used to determine what utility is responsible for the ticket. There is no way (in a standard environment) for a non-activated Windows 10 installation to generate a ticket. In the normal process, gatherosstate will ask SLC for the entire ticket, but when this fails it will generate and sign it by itself, creating a "downlevelGTkey" signature. For every activated system, a generated ticket will be returned by SLC and thus will have a "clientLockboxKey" signature. Put simply, the signature (should) always be a "clientLockboxKey" one in the case of an activated system, but in this case, it isn't. Microsoft will not take action against it, because of the risk of voiding valid licenses. Besides, they never really cared for consumer piracy; That's not where they get the most money from.
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Now question, can Microsoft differentiate counterfeit tickets and block the lice
 
 -   Windows Server does not support HWID activation.
 
--   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems. However on all builds except in range of 22000 will activate Windows but it won't be HWID activation, means on system reinstall, it won't auto activate.
+-   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems.
 
 ------------------------------------------------------------------------
 
@@ -95,9 +95,9 @@ Downlevel = downlevelGTkey
 
 Lockbox = clientLockboxKey
 
--   Downlevel Method: It creates downlevelGTkey ticket for activation with simplest process.
+-   Downlevel Method: It creates a downlevelGTkey ticket for activation with the simplest process.
 
--   LockBox Method: It creates clientLockboxKey ticket which better mimics genuine activation, But requires more steps such as,
+-   LockBox Method: It creates a clientLockboxKey ticket which better mimics genuine activation, But requires more steps such as,
 
     -   Cleaning ClipSVC licenses
 
@@ -110,7 +110,7 @@ Lockbox = clientLockboxKey
 
 **Notes:**
 
--   We don't suggest to run Lockbox method on a production system. Hence by default script will choose Downlevel method and won't show you the option to select Lockbox method. However if you want, you can apply it through command line switches.
+-   We don't suggest running the Lockbox method on a production system. Hence by default script will choose the Downlevel method and won't show you the option to select the Lockbox method. However, if you want, you can apply it through command line switches.
 
 -   Microsoft accepts both types of tickets and that's unlikely to change.
 
@@ -118,15 +118,15 @@ Lockbox = clientLockboxKey
 
 ## Command line Switches
 
--   This is applicable only in separate files version.
+-   This is applicable only in separate files versions.
 
--   If any parameter is used then script will automatically run in unattended mode.
+-   If any parameter is used then the script will automatically run in unattended mode.
 
--   To activate with Downlevel method (default),
+-   To activate with the Downlevel method (default),
 
 `"HWID_Activation.cmd" /a`
 
--   To only generate GenuineTicket.xml with Downlevel method (default),
+-   To only generate GenuineTicket.xml with the Downlevel method (default),
 
 `"HWID_Activation.cmd" /g`
 
@@ -140,7 +140,7 @@ Lockbox = clientLockboxKey
 
 ## File Details
 
-Besides plain batch script, HWID activation requires the use of official gatherosstate.exe (x86) file.
+Besides the plain batch script, HWID activation requires the use of the official gatherosstate.exe (x86) file.
 
      File: gatherosstate.exe
     SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 
@@ -155,15 +155,15 @@ It's taken from [Windows 10 Version 1607 ADK](https://go.microsoft.com/fwlink/p/
 
 -   Make a folder named `Files` in C drive, `C:\Files` and copy the `gatherosstate.exe` file in that folder.
 
--   Make sure Internet is enabled.
+-   Make sure the Internet is enabled.
 
--   Open Windows Powershell as administrator, and enter following listed commands in the the sequence in which they are given.
+-   Open Windows Powershell as administrator, and enter the following listed commands in the sequence in which they are given.
 
 -   Enter the Key, (Replace `<key>` with the key from the above list) with the following command
 
 `slmgr /ipk <key>`
 
--   Copy the below code all at once and enter in PowerShell to modify the `gatherosstate.exe` file.
+-   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file.
 
 <!-- -->
 
@@ -260,9 +260,9 @@ It's taken from [Windows 10 Version 1607 ADK](https://go.microsoft.com/fwlink/p/
 
 ## Setup Preactivate
 
--   Check Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
+-   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
--   Further read [here](https://massgrave.dev/oem-folder.html).
+-   Further, read [here](https://massgrave.dev/oem-folder.html).
 
 ------------------------------------------------------------------------
 

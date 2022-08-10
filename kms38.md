@@ -6,7 +6,7 @@
 
 -   How to use it? Please find the instructions [here](https://massgrave.dev).
 
--   This activation method activates Windows 10/11 and Windows Server (14393 and later builds), until 19 january 2038 03:14:07 UTC.
+-   This activation method activates Windows 10/11 and Windows Server (14393 and later builds), until 19 January 2038 03:14:07 UTC.
 
 -   This activation method does not store any files on the system.
 
@@ -24,23 +24,23 @@
 
         [MAS](https://massgrave.dev) (Online KMS option)
 
--   Any KMS Activator which is not compatible with KMS38, may overwrite the KMS38 activation for Windows with its own 180 days activation, thereby destroying the KMS38 activation for Windows. To prevent this accidental overwriting, you can select KMS38 protection option.
+-   Any KMS Activator which is not compatible with KMS38 may overwrite the KMS38 activation for Windows with its own 180 days activation, thereby destroying the KMS38 activation for Windows. To prevent this accidental overwriting, you can select the KMS38 protection option.
 
 ------------------------------------------------------------------------
 
 ## How does it work?
 
--   In a genuine [KMS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview) activation environment, activation last maximum up-to 180 days. This is done using a valid license and server setup.
+-   In a genuine [KMS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview) activation environment, activation lasts a maximum of up to 180 days. This is done using a valid license and server setup.
 
--   However in the Windows major upgrade process, system uses `gatherosstate.exe` to carry over the remaining KMS activation period. It does it by creating a ticket which can be used offline.
+-   However, in the Windows major upgrade process, the system uses `gatherosstate.exe` to carry over the remaining KMS activation period. It does it by creating a ticket that can be used offline.
 
--   The trick is that we can fool the `gatherosstate.exe` about the remaining KMS activation period and manually put the desired period maximum up-to 19 january 2038 03:14:07 UTC.
+-   The trick is that we can fool the `gatherosstate.exe` about the remaining KMS activation period and manually put the desired period maximum up to 19 January 2038 03:14:07 UTC.
 
--   Why it's limited to year 2038?\
-    It's related to the [Y2K38 problem](https://en.wikipedia.org/wiki/Year_2038_problem) as this date (19 january 2038 03:14:07 UTC) is the maximum date we can give to `gatherosstate.exe` without it looping back to year 1970.
+-   Why it's limited to the year 2038?\
+    It's related to the [Y2K38 problem](https://en.wikipedia.org/wiki/Year_2038_problem) as this date (19 January 2038 03:14:07 UTC) is the maximum date we can give to `gatherosstate.exe` without it looping back to the year 1970.
 
 **Q:** Can Microsoft block this kind of activation?\
-**A:** Not directly. They could only update Clipup to allow for a maximum activation period of 180 days. Not much beside that can be done on their part. The tickets are not sent to Microsoft at all, so they can't block them or take action directly.
+**A:** Not directly. They could only update Clipup to allow for a maximum activation period of 180 days. Not much besides that can be done on their part. The tickets are not sent to Microsoft at all, so they can't block them or take action directly.
 
 ------------------------------------------------------------------------
 
@@ -115,7 +115,7 @@
 
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 
--   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems. However on all builds except in range of 22000 will activate Windows.
+-   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems.
 
 ------------------------------------------------------------------------
 
@@ -125,13 +125,13 @@
 
 -   If you are going to use [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406 or [MAS](https://massgrave.dev) (Online KMS option) for **Office activation**, then you don't need to enable this protection.
 
--   However, with a few tricks you can ensure that no alternative KMS Activator can replace KMS38 Activation by accident or even on purpose. below is the explanation for how to do/undo that.
+-   However, with a few tricks, you can ensure that no alternative KMS Activator can replace KMS38 Activation by accident or even on purpose. below is the explanation for how to do/undo that.
 
--   In the KMS activation method, the Windows first checks the KMS IP registered as a specific KMS, and if that is not defined then it checks the Global KMS IP. Another fact is that if Localhost (IP range 127.0.0.0/8) is defined as KMS IP in the Windows 8 and later OS's then Windows will not accept it as a valid KMS IP. This script simply utilizes the above facts to protect the KMS38 activation from being overwritten by any alternative 'normal' 180-Day KMS Activation and at the same time that KMS activator can be used for Office activation.
+-   In the KMS activation method, Windows first checks the KMS IP registered as a specific KMS, and if that is not defined then it checks the Global KMS IP. Another fact is that if Localhost (IP range 127.0.0.0/8) is defined as KMS IP in Windows 8 and later OS then Windows will not accept it as a valid KMS IP. This script simply utilizes the above facts to protect the KMS38 activation from being overwritten by any alternative 'normal' 180-Day KMS Activation and at the same time that KMS activator can be used for Office activation.
 
 -   Script steps-
 
-    -   Set the Windows edition specific KMS IP to Localhost (127.0.0.2)
+    -   Set the Windows edition-specific KMS IP to Localhost (127.0.0.2)
 
     -   Lock the below Registry with [reg_own](https://github.com/AveYo/LeanAndMean) snippet by AveYo
 
@@ -143,9 +143,9 @@
 
 ## Command line Switches
 
--   This is applicable only in separate files version.
+-   This is applicable only in separate file versions.
 
--   If any parameter is used then script will automatically run in unattended mode.
+-   If any parameter is used then the script will automatically run in unattended mode.
 
 -   To activate,
 
@@ -167,14 +167,14 @@
 
 ## File Details
 
-Besides plain batch script, KMS38 activation requires the use of official gatherosstate.exe (x86) file.
+Besides the plain batch script, KMS38 activation requires the use of an official gatherosstate.exe (x86) file.
 
          File: gatherosstate.exe
         SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 
 
 It's taken from [Windows 10 Version 1607 ADK](https://go.microsoft.com/fwlink/p/?LinkId=526740) (Section: User State Migration Tool)
 
-**Further**, in case of Windows Server Core editions, system doesn't have `clipup.exe` file. So to activate it, MAS separate files version contains the below file. (It's not included in MAS AIO)
+**Further**, in the case of Windows Server Core editions, the system doesn't have `clipup.exe` file. So to activate it, MAS separate files version contains the below file. (It's not included in MAS AIO)
 
           File: ClipUp.exe
          SHA-1: 48D928B1BEC25A56FE896C430C2C034B7866AA7A
@@ -189,7 +189,7 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
 
 -   Make a folder named `Files` in C drive, `C:\Files` and copy the `gatherosstate.exe` file in that folder.
 
--   Open Windows Powershell as administrator, and enter following listed commands in the the sequence in which they are given.
+-   Open Windows Powershell as administrator, and enter the following listed commands in the sequence in which they are given.
 
 -   Enter the Key, (Replace `<key>` with the key from the above list) with the following command
 
@@ -286,9 +286,9 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
 
 ## Setup Preactivate
 
--   Check Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
+-   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
--   Further read [here](https://massgrave.dev/oem-folder.html).
+-   Further, read [here](https://massgrave.dev/oem-folder.html).
 
 ------------------------------------------------------------------------
 

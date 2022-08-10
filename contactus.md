@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-Please feel free to share feedback regarding bug reports, documentation errors, troubleshooting etc.
+Please feel free to share feedback regarding bug reports, documentation errors, troubleshooting, etc.
 
 -   [Discord](https://discord.gg/gjJEfq7ux8) ❤️ (preferred) (signup not required)
 
