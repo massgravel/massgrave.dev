@@ -3,7 +3,7 @@
 All download links leads to genuine files only.
 
 | **Windows**                                |                                                                                                                                                                                                         |
-|:---------------------------------|:----------------------------------|
+|:-----------------------------------|:--------------------------------|
 | Windows 11/10/8.1                          | [Link1](https://www.microsoft.com/software-download) - [Link2](https://tb.rg-adguard.net/)                                                                                                              |
 | Windows 7                                  | [Link1](https://stuff.mtt-m1.workers.dev/Windows%207/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%207/)                                                                                    |
 | Windows 10 Enterprise LTSB/LTSC            | [Link1](https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/) - [Link2](https://stuff.mtt-m1.workers.dev/Windows%2010/) - [Link3](https://isofiles.bd581e55.workers.dev/Windows%2010/) |
@@ -58,7 +58,7 @@ As an example, if you want to download a .iso file of a French language version 
 
 ------------------------------------------------------------------------
 
-## How to verify the genuinity of files?
+## How to verify genuinity of files?
 
 -   We can use [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is tempered or not.
 
