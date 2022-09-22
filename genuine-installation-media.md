@@ -3,8 +3,8 @@
 All download links leads to genuine files only.
 
 | **Windows**                                |                                                                                                                                                                                                         |
-|:------------------------------------|:---------------------------------|
-| Windows 11/10/8.1                          | [Link1](https://massgrave.dev/msdl/) - [Link2](https://www.microsoft.com/software-download)                                                                                                             |
+|:------------------------------------|:----------------------------------|
+| Windows 11/10/8.1                          | [Link1](https://www.microsoft.com/software-download) - [Link2](https://eraseyourknees.github.io/msdl/)                                                                                                  |
 | Windows 7                                  | [Link1](https://stuff.mtt-m1.workers.dev/Windows%207/) - [Link2](https://isofiles.bd581e55.workers.dev/Windows%207/)                                                                                    |
 | Windows 10 Enterprise LTSB/LTSC            | [Link1](https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/) - [Link2](https://stuff.mtt-m1.workers.dev/Windows%2010/) - [Link3](https://isofiles.bd581e55.workers.dev/Windows%2010/) |
 | **Office**                                 |                                                                                                                                                                                                         |
