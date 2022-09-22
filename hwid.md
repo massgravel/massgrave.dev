@@ -52,11 +52,11 @@ Now a question, can Microsoft differentiate counterfeit tickets and block the li
 | Education N              | `84NGF-MHBT6-FXBX8-QWJK7-DRR8H` |
 | Enterprise               | `XGVPP-NMH47-7TTHJ-W3FW7-8HV2C` |
 | Enterprise N             | `3V6Q6-NQXCX-V8YXR-9QCYV-QPFCT` |
-| Enterprise LTSC 2015     | `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` |
-| Enterprise LTSC 2016     | `NK96Y-D9CD8-W44CQ-R8YTK-DYJWX` |
+| Enterprise LTSB 2015     | `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` |
+| Enterprise LTSB 2016     | `NK96Y-D9CD8-W44CQ-R8YTK-DYJWX` |
 | Enterprise LTSC 2019     | `43TBQ-NH92J-XKTM7-KT3KK-P39PB` |
-| Enterprise N LTSC 2015   | `NTX6B-BRYC2-K6786-F6MVQ-M7V2X` |
-| Enterprise N LTSC 2016   | `2DBW3-N2PJG-MVHW3-G7TDK-9HKR4` |
+| Enterprise N LTSB 2015   | `NTX6B-BRYC2-K6786-F6MVQ-M7V2X` |
+| Enterprise N LTSB 2016   | `2DBW3-N2PJG-MVHW3-G7TDK-9HKR4` |
 | Home                     | `YTMG3-N6DKC-DKB77-7M9GH-8HVX7` |
 | Home N                   | `4CPRK-NM3K3-X6XXQ-RXX86-WXCHW` |
 | Home China               | `N2434-X9D7W-8PF6X-8DV9T-8TYMD` |
