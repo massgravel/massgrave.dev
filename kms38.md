@@ -14,18 +14,6 @@
 
 -   Unlike HWID and Online KMS activation option, KMS38 does not match with any official activation method.
 
--   Make sure the following things have been accounted for, before applying KMS38 Activation:
-
-    -   Before the activation, if any KMS activator is installed, then make sure to uninstall it completely.
-
-    -   After KMS38 activation has been achieved, if you want to use the 180 Days KMS Activator for MS Office, then you must make sure that it (the 180 Days KMS Activator for MS Office) is compatible with Windows KMS38 activation. FYI, the following activators are compatible and can activate Office without disrupting the Windows KMS38 activation.
-
-        [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406
-
-        [MAS](https://massgrave.dev) (Online KMS option)
-
--   Any KMS Activator which is not compatible with KMS38 may overwrite the KMS38 activation for Windows with its own 180 days activation, thereby destroying the KMS38 activation for Windows. To prevent this accidental overwriting, you can select the KMS38 protection option.
-
 ------------------------------------------------------------------------
 
 ## How does it work?
@@ -46,35 +34,36 @@
 
 ## Supported Products
 
-| Windows 10/11          | Generic Volume License Key      |
-|:-----------------------|:--------------------------------|
-| Education              | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
-| Education N            | `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ` |
-| Enterprise             | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
-| Enterprise N           | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
-| Enterprise G           | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
-| Enterprise G N         | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
-| Enterprise LTSB 2015   | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
-| Enterprise LTSB 2016   | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
-| Enterprise LTSC 2019   | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
-| Enterprise LTSC 2021   | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
-| Enterprise N LTSB 2015 | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
-| Enterprise N LTSB 2016 | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
-| Enterprise N LTSC 2019 | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
-| Enterprise N LTSC 2021 | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
-| Home                   | `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99` |
-| Home N                 | `3KHY7-WNT83-DGQKR-F7HPR-844BM` |
-| Home China             | `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR` |
-| Home Single Language   | `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH` |
-| Lean                   | `NBTWJ-3DR69-3C4V8-C26MC-GQ9M6` |
-| Pro                    | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
-| Pro N                  | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
-| Pro Education          | `6TP4R-GNPTD-KYYHQ-7B7DP-J447Y` |
-| Pro Education N        | `YVWGF-BXNMC-HTQYQ-CPQ99-66QFC` |
-| Pro for Workstations   | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
-| Pro N for Workstations | `9FNHH-K3HBT-3W4TD-6383H-6XYWF` |
-| SE                     | `37D7F-N49CB-WQR8W-TBJ73-FM8RX` |
-| SE N                   | `6XN7V-PCBDC-BDBRH-8DQY7-G6R44` |
+| Windows 10/11                    | Generic Volume License Key      |
+|:---------------------------------|:--------------------------------|
+| Education                        | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
+| Education N                      | `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ` |
+| Enterprise                       | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
+| Enterprise N                     | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
+| Enterprise G                     | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
+| Enterprise G N                   | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
+| Enterprise LTSB 2015             | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
+| Enterprise LTSB 2016             | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
+| Enterprise LTSC 2019             | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
+| Enterprise LTSC 2021             | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
+| Enterprise N LTSB 2015           | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
+| Enterprise N LTSB 2016           | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
+| Enterprise N LTSC 2019           | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
+| Enterprise N LTSC 2021           | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
+| IoT Enterprise LTSC (Windows 11) | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
+| Home                             | `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99` |
+| Home N                           | `3KHY7-WNT83-DGQKR-F7HPR-844BM` |
+| Home China                       | `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR` |
+| Home Single Language             | `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH` |
+| Lean                             | `NBTWJ-3DR69-3C4V8-C26MC-GQ9M6` |
+| Pro                              | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
+| Pro N                            | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
+| Pro Education                    | `6TP4R-GNPTD-KYYHQ-7B7DP-J447Y` |
+| Pro Education N                  | `YVWGF-BXNMC-HTQYQ-CPQ99-66QFC` |
+| Pro for Workstations             | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
+| Pro N for Workstations           | `9FNHH-K3HBT-3W4TD-6383H-6XYWF` |
+| SE                               | `37D7F-N49CB-WQR8W-TBJ73-FM8RX` |
+| SE N                             | `6XN7V-PCBDC-BDBRH-8DQY7-G6R44` |
 
 | Windows Server (LTSC)             | Generic Volume License Key      |
 |:----------------------------------|:--------------------------------|
@@ -118,13 +107,28 @@
 
 ------------------------------------------------------------------------
 
+## KMS38 - Server Cor/Acor
+
+-   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
+
+-   To KMS38 activate it, you need to download `ClipUp.exe` file from the below official MS link.\
+    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>
+
+-   Rename the downloaded file as `ClipUp.exe` and put it beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
+
+-   Activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
+
+------------------------------------------------------------------------
+
 ## KMS38 Protection
 
--   By default, KMS38 Activation is vulnerable to unintended replacement by a 180-Day KMS Activator.
+-   KMS38 Activation is vulnerable to unintended replacement by a 180-Day KMS Activator.
 
--   If you are going to use [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406 or [MAS](https://massgrave.dev) (Online KMS option) for **Office activation**, then you don't need to enable this protection.
+-   From MAS 1.7, script will enable the KMS38 protection by default.
 
--   However, with a few tricks, you can ensure that no alternative KMS Activator can replace KMS38 Activation by accident or even on purpose. below is the explanation for how to do/undo that.
+-   If you are going to use [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406 or [MAS](https://massgrave.dev) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
+
+-   Below is the explanation for how the script protect KMS38.
 
 -   In the KMS activation method, Windows first checks the KMS IP registered as a specific KMS, and if that is not defined then it checks the Global KMS IP. Another fact is that if Localhost (IP range 127.0.0.0/8) is defined as KMS IP in Windows 8 and later OS then Windows will not accept it as a valid KMS IP. This script simply utilizes the above facts to protect the KMS38 activation from being overwritten by any alternative 'normal' 180-Day KMS Activation and at the same time that KMS activator can be used for Office activation.
 
@@ -132,7 +136,7 @@
 
     -   Set the Windows edition-specific KMS IP to Localhost (127.0.0.2)
 
-    -   Lock the below Registry with [reg_own](https://github.com/AveYo/LeanAndMean) snippet by AveYo
+    -   Protect the below Registry from edit and delete
 
     -   Done.
 
@@ -142,49 +146,18 @@
 
 ## Command line Switches
 
--   This is applicable only in separate file versions.
-
--   If any parameter is used then the script will automatically run in unattended mode.
-
--   To activate,
-
-    `"KMS38_Activation.cmd" /a`
-
--   To activate along with KMS38 protection (from being replaced by 180 days KMS activation),
-
-    `"KMS38_Activation.cmd" /ap`
-
--   To only generate GenuineTicket.xml,
-
-    `"KMS38_Activation.cmd" /g`
-
--   To remove KMS38 protection,
-
-    `"KMS38_Activation.cmd" /x`
-
-------------------------------------------------------------------------
-
-## File Details
-
-Besides the plain batch script, KMS38 activation requires the use of an official gatherosstate.exe (x86) file.
-
-         File: gatherosstate.exe
-        SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 
-
-It's taken from [Windows 10 Version 1607 ADK](https://go.microsoft.com/fwlink/p/?LinkId=526740) (Section: User State Migration Tool)
-
-**Further**, in the case of Windows Server Core editions, the system doesn't have `clipup.exe` file. So to activate it, MAS separate files version contains the below file. (It's not included in MAS AIO)
-
-          File: ClipUp.exe
-         SHA-1: 48D928B1BEC25A56FE896C430C2C034B7866AA7A
-
-It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/evalcenter/)
+-   Check [here](https://massgrave.dev/command_line_switches.html).
 
 ------------------------------------------------------------------------
 
 ## Manual Activation
 
--   You need the `gatherosstate.exe` file, get it from MAS separate files version.
+The process here is based on Universal ticket method. Here we will create identical ticket which is used in MAS KMS38 script and activate the system with it.
+
+-   Download file from the below official MS link and extract this .cab file.\
+    <https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab>
+
+-   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` and rename it as `gatherosstate.exe`
 
 -   Make a folder named `Files` in C drive, `C:\Files` and copy the `gatherosstate.exe` file in that folder.
 
@@ -199,9 +172,10 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
 <!-- -->
 
     $bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
-    $bytes[320] = 0x9c
+    $bytes[320] = 0xf8
     $bytes[321] = 0xfb
     $bytes[322] = 0x05
+    $bytes[324] = 0x03
     $bytes[13672] = 0x25
     $bytes[13674] = 0x73
     $bytes[13676] = 0x3b
@@ -252,6 +226,7 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
     $bytes[33582] = 0x01
     $bytes[33583] = 0x00
     $bytes[33584] = 0x00
+    $bytes[33978] = 0xc3
     $bytes[34189] = 0x59
     $bytes[34190] = 0xeb
     $bytes[34191] = 0x28
@@ -265,11 +240,12 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
     $bytes[34377] = 0x63
     [System.IO.File]::WriteAllBytes("C:\Files\gatherosstatemodified.exe", $bytes)
 
+-   Now right click on the file `gatherosstatemodified.exe` and goto properties and set the compatibility to Windows XP SP3.\
 -   Now we need to generate the ticket, to do that, enter the below command.
 
 <!-- -->
 
-    C:\Files\gatherosstatemodified.exe GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1
+    C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1
 
 -   A GenuineTicket.xml file should be created in the folder `C:\Files\` now let's apply it.
 
@@ -280,6 +256,15 @@ It's taken from [Windows Server 2016 x64 ISO](https://www.microsoft.com/en-us/ev
 `slmgr /xpr`
 
 -   Done.
+
+**Notes:**
+
+-   To make the exact ticket used in MAS KMS38 script, fix the time with below Powershell command and then initiate the ticket generation process as per above mentioned steps.\
+    `$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
+
+-   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have `clipup.exe` file. So to activate it, you need to download `ClipUp.exe` file from the below official MS link.\
+    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>[\
+    ](https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe￼Rename)Rename the downloaded file as `ClipUp.exe` and put it in `C:\Windows\System32` folder and then initiate the above mentioned activation process. Once the activation is done, you can remove the file.
 
 ------------------------------------------------------------------------
 

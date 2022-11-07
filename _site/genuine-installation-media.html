@@ -327,6 +327,9 @@ div.tocify {
 <li>
   <a href="troubleshoot.html">Troubleshoot</a>
 </li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Docs
@@ -342,6 +345,10 @@ div.tocify {
     </li>
     <li>
       <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -363,11 +370,11 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
     <li>
-      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -453,17 +460,29 @@ href="https://opendirectory.luzea.de/Enthousiast/Office/">Link1</a></td>
 </table>
 <p>Full Collection Through SVF Files can be found <a
 href="https://opendirectory.luzea.de/GezoeSloog/">here</a>.<br />
-Thanks to GezoeSloog, microtechton, Luzea, Enthousiast, rg-adguard for
-providing download links.</p>
+Thanks to GezoeSloog, microtechton, Luzea, Enthousiast, rg-adguard,
+abbodi1406 for providing download links.</p>
 <hr />
 </div>
 <div id="download-office-20192021-vl" class="section level2">
 <h2>Download Office 2019/2021 VL</h2>
 <p>If the below guide is confusing to you then the simplest option for
-you is to use the link for <code>Office C2R Retail</code>.</p>
+you is to use the link for <code>Office C2R Retail</code> from the above
+table.</p>
 <p>Please note that in the official C2R VL office installation method,
 there is no ISO or any one-click solution available. Below is the
 simplest guide to installing VL office.</p>
+<p><strong>Clear previous installation of Office:</strong></p>
+<ul>
+<li><p>Uninstall the office with App and Features option in Windows
+settings.</p></li>
+<li><p>Run <code>OfficeScrubber.cmd</code> file from <a
+href="https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_9.7z">Office
+Scrubber</a> by abbodi1406 and select
+<code>[R] Remove all Licenses</code> option. You can skip this step if
+Office was never installed on the system.</p></li>
+</ul>
+<p>Once done,</p>
 <ul>
 <li><p>Download <a
 href="https://officecdn.microsoft.com/pr/wsus/setup.exe">Office
@@ -473,10 +492,11 @@ the C drive, i.e. <code>C:\setup.exe</code></p></li>
 <li><p>Goto <a
 href="https://config.office.com/deploymentsettings">config.office.com</a></p></li>
 <li><p>Select
-<code>Office LTSC Professional Plus 2021 - Volume License</code> in the
-office suites section. You can add Visio and Project apps if you need
-them. Customize other things and leave them as default where you don’t
-understand something.</p></li>
+<code>Office LTSC Professional Plus 2021 - Volume License</code> (Don’t
+select SPLA version) in the office suites section. You can add Visio and
+Project apps if you need them. Customize other things and leave them as
+default where you don’t understand something. Don’t select EN-GB
+language if you are selecting Project/Visio.</p></li>
 <li><p>Once you go through all the options, click on the export button
 and it will download a file named
 <code>Configuration.xml</code></p></li>

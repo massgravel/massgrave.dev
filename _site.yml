@@ -8,6 +8,8 @@ navbar:
       href: faq.html
     - text: "Troubleshoot"
       href: troubleshoot.html
+    - text: "Download Windows/Office"
+      href: genuine-installation-media.html
     - text: "Docs"
       menu:
         - text: "HWID Activation"
@@ -16,6 +18,9 @@ navbar:
           href: kms38.html
         - text: "Online KMS Activation"
           href: online_kms.html
+        - text: "---------"
+        - text: "Command Line Switches"
+          href: command_line_switches.html
         - text: "---------"
         - text: "Check Activation Status"
           href: check_activation_status.html
@@ -30,11 +35,11 @@ navbar:
         - text: "Unreadable Codes In MAS AIO"
           href: unreadable-codes-in-mas-aio.html
         - text: "---------"
-        - text: "Download Genuine Installation Media"
-          href: genuine-installation-media.html
-        - text: "---------"
         - text: "Office License Is Not Genuine"
           href: office-license-is-not-genuine.html
+        - text: "---------"
+        - text: "Unsupported Products Activation"
+          href: unsupported_products_activation.html
         - text: "---------"
         - text: "Changelog"
           href: changelog.html

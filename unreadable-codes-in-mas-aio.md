@@ -1,6 +1,6 @@
 # Unreadable Codes In MAS AIO
 
-(Applies to MAS AIO 1.6)
+(Applies to MAS AIO 1.7)
 
 ------------------------------------------------------------------------
 
@@ -10,16 +10,7 @@ To do that, MAS uses AveYo's [Compressed2TXT](https://github.com/AveYo/Compresse
 
 ------------------------------------------------------------------------
 
-**1st block** of compressed2TXT code contains the below file.
-
-     File: gatherosstate.exe
-    SHA-1: FABB5A0FC1E6A372219711152291339AF36ED0B5 
-
-It's taken from [Windows 10 Version 1607 ADK](https://go.microsoft.com/fwlink/p/?LinkId=526740) (Section: User State Migration Tool)
-
-------------------------------------------------------------------------
-
-**2nd block** of compressed2TXT code contains the below files.
+**1st block** of compressed2TXT code contains the below files.
 
     cleanosppx64.exe        SHA-1: d30a0e4e5911d3ca705617d17225372731c770e2
     cleanosppx86.exe        SHA-1: 39ed8659e7ca16aaccb86def94ce6cec4c847dd6

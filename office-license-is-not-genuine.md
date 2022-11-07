@@ -59,38 +59,7 @@ Please find below how to set the KMS server address in the registry. For example
 
 As mentioned in the reasons section, these checks are performed only if Retail Office is installed and later converted to VL. The office doesn't perform any such checks if the proper installation of the VL office is done.
 
-Please find below a guide on how to properly install Volume C2R Office.
-
-**Clear previous installation of Office:**
-
--   Uninstall the office with App and Features option in Windows settings.
-
--   Run `Full_Scrub.cmd` file from [Office Scrubber](https://forums.mydigitallife.net/posts/1466365/) ([Mirror](https://github.com/abbodi1406/WHD/tree/master/scripts)) by abbodi1406 and reboot the system.\
-    Full Scrub is optional, you can skip this step if you want to save outlook-related data.\
-    It's recommended to at-least run `Remove_Licenses.cmd` file from this package.
-
-**Install Office 2021 VL with Official method:**
-
-Please note that in the official VL office installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing VL office.
-
--   Download [Office Deployment Tool](https://officecdn.microsoft.com/pr/wsus/setup.exe) (ODT)
-
--   Copy the downloaded `setup.exe` file to the root of the C drive, i.e. `C:\setup.exe`
-
--   Goto [config.office.com](https://config.office.com/deploymentsettings)
-
--   Select `Office LTSC Professional Plus 2021 - Volume License` in the office suites section. You can add Visio and Project apps if you need them. Customize other things and leave them as default where you don't understand something.
-
--   Once you go through all the options, click on the export button and it will download a file named `Configuration.xml`
-
--   Copy the downloaded `Configuration.xml` file to the root of the C drive, i.e. `C:\Configuration.xml`
-
--   Open the command prompt as admin and run the below commands
-
-        cd /d C:\
-        setup.exe /configure Configuration.xml
-
-It will now download and install Office. You can activate it with your preferred method.
+Please the guide [here](https://massgrave.dev/genuine-installation-media.html#Download_Office_20192021_VL) for VL Office installation.
 
 ------------------------------------------------------------------------
 

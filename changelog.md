@@ -2,6 +2,49 @@
 
 ------------------------------------------------------------------------
 
+## 1.7
+
+**Goodbye to Gatherosstate.exe**
+
+------------------------------------------------------------------------
+
+#### HWID/KMS38:
+
+-   Gatherosstate.exe is replaced by [universal tickets](https://massgrave.dev/hwid.html#Types_of_Tickets). Thanks to \@ave9858 (Alex).
+-   Legacy HWID methods are now preserverd in another repo [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods).
+-   HWID key is added for Windows 11 IoTEnterpriseSK edition.
+-   To avoid errors due to unsupported Windows region, HWID script will change it to US and revert it back.
+-   HWID script will delete a IdentityCRL registry key to resolve issues caused by changed hardware ID. Thanks to @awuctl
+-   KMS38 script will now apply the KMS38 protection by default. Powershell code for it is now simplified.
+-   ClipUp.exe for Server CorAcor editions is removed from separate files version as well. Users will need to follow [this](https://massgrave.dev/kms38.html#KMS38_-_Server_CorAcor) to KMS38 activate them.
+-   Scripts will enable Windows Script Host if it's disabled.
+-   More checks are added to find the cause of activation failure.
+
+#### Online KMS:
+
+-   Script is updated as per @abbodi1406 KVA v48 (Major change: optional behavior to override Office C2R vNext license (subscription or lifetime) or its residue (which may prevent proper KMS activation).
+-   Scripts will enable Windows Script Host if it's disabled.
+-   More checks are added to find the cause of activation failure.
+
+#### Activation Troubleshoot:
+
+-   Added more options: Rebuild WMI Repository, Fix issues Caused By Gaming Spoofers, Fix issues Caused By KB971033 In Windows 7, Export Event Viewer Logs.
+
+#### Change Windows Edition:
+
+-   Support for Windows 7/8//8.1 and their server equivalent editions are added and alternative method is added for Windows 10/11 and their server equivalent. Thanks to Gamers Against Weed for [CBS Upgrade method](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition).
+
+#### Check Activation Status WMI:
+
+-   Thanks to @abbodi1406 for fixing a cosmetic [issue](https://github.com/MicrosoftDocs/OfficeDocs-DeployOffice/issues/1100) in Office vNext Status (vNextDiag.ps1).
+
+#### MAS AIO:
+
+-   Command line [switches](https://massgrave.dev/command_line_switches.html) are added for unattended mode. It can be utilized in Powershell One-Liner code to execute it as well.
+-   Exit and Go Back options are set to 0 key in all the cases.
+
+------------------------------------------------------------------------
+
 ## 1.6
 
 #### **Future-proofing / Goodbye to slc.dll**

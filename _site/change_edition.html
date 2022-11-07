@@ -327,6 +327,9 @@ div.tocify {
 <li>
   <a href="troubleshoot.html">Troubleshoot</a>
 </li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Docs
@@ -342,6 +345,10 @@ div.tocify {
     </li>
     <li>
       <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -363,11 +370,11 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
     <li>
-      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -399,11 +406,26 @@ div.tocify {
 <hr />
 <ul>
 <li><p>You can find this option in the MAS extras section.</p></li>
-<li><p>It can change the Windows 10-11 / Server Editions (Build 10240
-and higher).</p></li>
-<li><p>It uses official methods for changing editions.</p></li>
-<li><p>Available editions are shown in the script basis on<br />
-<code>dism /online /english /Get-TargetEditions</code></p></li>
+<li><p>It can change the Windows 7-8-8.1-10-11 and equivalent Server
+Editions.</p></li>
+<li><p>On Windows 7, script requires <a
+href="https://aka.ms/wmf5download">Windows Management Framework 5.1</a>
+to be installed.</p></li>
+<li><p>Script incorporates 4 methods for edition change:<br />
+</p>
+<ul>
+<li>Changepk.exe Method<br />
+</li>
+<li>slmgr /ipk Method<br />
+</li>
+<li>DISM Method<br />
+</li>
+<li><a
+href="https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition">CBS
+Upgrade method</a></li>
+</ul></li>
+<li><p>Available editions for change are shown in the script basis on
+all these 4 options.</p></li>
 <li><p>The script is future proof, which means on the release of new
 Windows / Server editions, the script doesn’t need an update and can get
 the required key from the system itself.</p></li>
@@ -411,8 +433,8 @@ the required key from the system itself.</p></li>
 editions since it’s officially not supported and the user may face
 issues.</p></li>
 <li><p>Internet needs to be turned off and a restart is required while
-changing from Core (Home) to Non-Core (Pro, Enterprise, etc)
-edition.</p></li>
+changing from Core (Home) to Non-Core (Pro, Enterprise, etc) edition
+with Changepk.exe method.</p></li>
 <li><p>The script can not change the Non-Core (Pro, Enterprise, etc) to
 Core (Home) edition.</p></li>
 </ul>

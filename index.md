@@ -25,7 +25,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 
 ## MAS Latest Release
 
-Last Release - v1.6 (25-July-2022)\
+Last Release - v1.7 (7-Nov-2022)\
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [GitLab](https://gitlab.com/massgrave/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ Last Release - v1.6 (25-July-2022)\
 
 ### Method 2 - Traditional
 
--   Download the file named `MAS_1.6_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
+-   Download the file named `MAS_1.7_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
 -   Extract this file with a 3rd party archive manager, such as [7zip](https://www.7-zip.org/download.html)
 -   Password is `1234`
 -   In the extracted folder, find the folder named `All-In-One-Version`
@@ -50,27 +50,31 @@ Last Release - v1.6 (25-July-2022)\
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
+To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+
 ------------------------------------------------------------------------
 
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                               |
-|:----------------|:------------------|:----------------------------------|
+|:----------------|:---------------------|:------------------------------------------------|
 | HWID            | Windows 10-11        | Permanent                                       |
 | KMS38           | Windows 10-11-Server | Until the year 2038                             |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |
 
 For more details, use the respective activation details in Doc.
 
+To activate unsupported products such as **Office on Mac**, check [here](https://massgrave.dev/unsupported_products_activation.html).
+
 ------------------------------------------------------------------------
 
 ## Screenshots
 
-![](1.png)
+![](MAS_AIO.png)
 
-![](2.png)
+![](MAS_HWID.png)
 
-![](3.png)
+![](MAS_KMS.png)
 
 ------------------------------------------------------------------------
 

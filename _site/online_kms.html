@@ -327,6 +327,9 @@ div.tocify {
 <li>
   <a href="troubleshoot.html">Troubleshoot</a>
 </li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Docs
@@ -342,6 +345,10 @@ div.tocify {
     </li>
     <li>
       <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -363,11 +370,11 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
     <li>
-      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -414,8 +421,8 @@ ProWMC editions it is 30 / 45 Days.</p></li>
 installation.</p></li>
 <li><p>This script can activate C2R Retail and VL Office, but not 2010 /
 2013 MSI Retail Office and UWP Office.</p></li>
-<li><p>This script skips the activation of any permanently /
-Subscription / KMS38 activated product.</p></li>
+<li><p>This script skips the activation of any permanently / KMS38
+activated product.</p></li>
 <li><p>As mentioned, KMS activates only for a limited period and it’s
 not permanent, read below on how to achieve lifetime
 activation.</p></li>
@@ -534,8 +541,7 @@ Standard, Datacenter, Enterprise, MultiPoint, Web, HPC Cluster</p></li>
 activated.</p></li>
 <li><p>ServerRdsh edition does not <a
 href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
-support activation on non-azure systems. However on all builds except in
-range of 22000 will activate Windows.</p></li>
+support activation on non-azure systems.</p></li>
 <li><p>Supported <u>Windows</u> products do not need volume conversion,
 only the GVLK (KMS key) is needed, which the script will install
 accordingly.</p></li>
@@ -721,68 +727,27 @@ check. Check troubleshoot heading.</p></li>
 </ul>
 <hr />
 </div>
+<div id="override-office-vnext" class="section level2">
+<h2>Override Office vNext</h2>
+<ul>
+<li><p>The script is set by default to override Office C2R vNext license
+(subscription or lifetime) or its residue.</p></li>
+<li><p>However, if you prefer to turn OFF this function from the menu,
+press 7 in keyboard to change the state to Override Office vNext [No]
+and then proceed to activate Office.</p></li>
+<li><p>You will need to turn off this option if you have O365
+subscription and wants to use KMS for Project and Visio.</p></li>
+<li><p>If Office vNext license is detected, the option and state will be
+highlighted, to draw the user attention.</p></li>
+</ul>
+<hr />
+</div>
 <div id="command-line-switches" class="section level2">
 <h2>Command line Switches</h2>
 <ul>
-<li><p>This is applicable only in separate file versions.
-<code>Online_KMS_Activation\Activate.cmd</code></p></li>
-<li><p>If any parameter is used then the script will automatically run
-in unattended mode.</p></li>
+<li>Check <a
+href="https://massgrave.dev/command_line_switches.html">here</a>.</li>
 </ul>
-<p>Below the switches are divided into four groups, you can use the
-combination of switches from only one group at a time.</p>
-<table>
-<tbody>
-<tr class="odd">
-<td align="left"><strong>Group 1</strong></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">Activate Windows only</td>
-<td align="left"><code>/w</code></td>
-</tr>
-<tr class="odd">
-<td align="left">Activate Office only</td>
-<td align="left"><code>/o</code></td>
-</tr>
-<tr class="even">
-<td align="left">Activate Windows and Office</td>
-<td align="left"><code>/wo</code></td>
-</tr>
-<tr class="odd">
-<td align="left">Debug mode and create detailed log on desktop</td>
-<td align="left"><code>/d</code></td>
-</tr>
-<tr class="even">
-<td align="left">Silent and create simple log in current directory</td>
-<td align="left"><code>/L</code></td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Group 2</strong></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">Create Renewal Task</td>
-<td align="left"><code>/rt</code></td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Group 3</strong></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">Create Renewal and Activation Task</td>
-<td align="left"><code>/rat</code></td>
-</tr>
-<tr class="odd">
-<td align="left"><strong>Group 4</strong></td>
-<td align="left"></td>
-</tr>
-<tr class="even">
-<td align="left">Complete Uninstall</td>
-<td align="left"><code>/uni</code></td>
-</tr>
-</tbody>
-</table>
 <hr />
 </div>
 <div id="setup-preactivate" class="section level2">
