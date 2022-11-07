@@ -18,7 +18,7 @@
 
 -   This script can activate C2R Retail and VL Office, but not 2010 / 2013 MSI Retail Office and UWP Office.
 
--   This script skips the activation of any permanently / Subscription / KMS38 activated product.
+-   This script skips the activation of any permanently / KMS38 activated product.
 
 -   As mentioned, KMS activates only for a limited period and it's not permanent, read below on how to achieve lifetime activation.
 
@@ -107,7 +107,7 @@
 
 -   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
 
--   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems. However on all builds except in range of 22000 will activate Windows.
+-   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems.
 
 -   Supported [Windows]{.underline} products do not need volume conversion, only the GVLK (KMS key) is needed, which the script will install accordingly.
 
@@ -238,28 +238,21 @@ Alternatively, if the automatic conversion did not work, or if you prefer to use
 
 ------------------------------------------------------------------------
 
+## Override Office vNext
+
+-   The script is set by default to override Office C2R vNext license (subscription or lifetime) or its residue.
+
+-   However, if you prefer to turn OFF this function from the menu, press 7 in keyboard to change the state to Override Office vNext [No] and then proceed to activate Office.
+
+-   You will need to turn off this option if you have O365 subscription and wants to use KMS for Project and Visio.
+
+-   If Office vNext license is detected, the option and state will be highlighted, to draw the user attention.
+
+------------------------------------------------------------------------
+
 ## Command line Switches
 
--   This is applicable only in separate file versions. `Online_KMS_Activation\Activate.cmd`
-
--   If any parameter is used then the script will automatically run in unattended mode.
-
-Below the switches are divided into four groups, you can use the combination of switches from only one group at a time.
-
-|                                                   |        |
-|:--------------------------------------------------|:-------|
-| **Group 1**                                       |        |
-| Activate Windows only                             | `/w`   |
-| Activate Office only                              | `/o`   |
-| Activate Windows and Office                       | `/wo`  |
-| Debug mode and create detailed log on desktop     | `/d`   |
-| Silent and create simple log in current directory | `/L`   |
-| **Group 2**                                       |        |
-| Create Renewal Task                               | `/rt`  |
-| **Group 3**                                       |        |
-| Create Renewal and Activation Task                | `/rat` |
-| **Group 4**                                       |        |
-| Complete Uninstall                                | `/uni` |
+-   Check [here](https://massgrave.dev/command_line_switches.html).
 
 ------------------------------------------------------------------------
 

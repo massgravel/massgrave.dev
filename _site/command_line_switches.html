@@ -11,7 +11,7 @@
 
 
 
-<title>troubleshoot</title>
+<title>command_line_switches</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -401,16 +401,148 @@ div.tocify {
 </div>
 
 
-<div id="troubleshooting" class="section level1">
-<h1>Troubleshooting</h1>
+<div id="command-line-switches" class="section level1">
+<h1>Command Line Switches</h1>
 <hr />
+<div id="switches-list" class="section level2">
+<h2>Switches List</h2>
 <ul>
-<li><p>Reach out to us on <a
-href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
-with an error screenshot.</p></li>
-<li><p>Alternatively, you can connect with us <a
-href="https://massgrave.dev/contactus.html">here</a>.</p></li>
+<li><p>You can use the below switches in MAS AIO, separate files version
+and in Powershell one-liner to run in unattended mode.</p></li>
+<li><p>If you want to use it in Windows Pre-Activation then check <a
+href="https://massgrave.dev/oem-folder.html">this</a> page for more
+details.</p></li>
 </ul>
+<table>
+<colgroup>
+<col width="36%" />
+<col width="63%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Switches</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>/HWID</code></td>
+<td>Activate with HWID</td>
+</tr>
+<tr class="even">
+<td><code>/HWID-NoEditionChange</code></td>
+<td>Don’t change edition if not supported by HWID</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><code>/KMS38</code></td>
+<td>Activate with KMS38</td>
+</tr>
+<tr class="odd">
+<td><code>/KMS38-RemoveProtection</code></td>
+<td>Remove KMS38 protection</td>
+</tr>
+<tr class="even">
+<td><code>/KMS38-NoEditionChange</code></td>
+<td>Don’t change edition if not supported by KMS38</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><code>/KMS-Windows</code></td>
+<td>Activate Windows with Online KMS</td>
+</tr>
+<tr class="odd">
+<td><code>/KMS-Office</code></td>
+<td>Activate Office with Online KMS</td>
+</tr>
+<tr class="even">
+<td><code>/KMS-WindowsOffice</code></td>
+<td>Activate Windows &amp; Office with Online KMS</td>
+</tr>
+<tr class="odd">
+<td><code>/KMS-RenewalTask</code></td>
+<td>Install Online KMS renewal task</td>
+</tr>
+<tr class="even">
+<td><code>/KMS-ActAndRenewalTask</code></td>
+<td>Install Online KMS activation &amp; renewal tasks</td>
+</tr>
+<tr class="odd">
+<td><code>/KMS-Uninstall</code></td>
+<td>Uninstall Online KMS</td>
+</tr>
+<tr class="even">
+<td><code>/KMS-KeepvNext</code></td>
+<td>Don’t override Office C2R vNext license</td>
+</tr>
+<tr class="odd">
+<td><code>/KMS-Debug</code></td>
+<td>Create Debug log in Online KMS Activation</td>
+</tr>
+<tr class="even">
+<td><code>/KMS-Logger</code></td>
+<td>Create simple log in Online KMS Activation</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><code>/Insert-HWID-Key</code></td>
+<td>Insert Windows HWID key</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><code>/S</code></td>
+<td>Run operations in silent mode (no output)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="uses-in-powershell-one-liner" class="section level2">
+<h2>Uses In Powershell One Liner</h2>
+<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /para</code></p>
+<ul>
+<li>Replace <code>/para</code> in the this command with the switches
+from the above table. You can use multiple switches. Example,</li>
+</ul>
+<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS-Office</code></p>
+<hr />
+</div>
+<div id="rules" class="section level2">
+<h2>Rules</h2>
+<ul>
+<li><p>Script will run in unattended mode if any switch is
+used.</p></li>
+<li><p><code>/S</code> switch is not applicable in MAS separate files
+version scripts.</p></li>
+<li><p>All switches are case-insensitive, works in any order, but must
+be separated with spaces.</p></li>
+<li><p>KMS Uninstall switch will take precedence over other KMS
+switches</p></li>
+<li><p>KMS38 remove protection switch will task precedence over KMS38
+activation.</p></li>
+</ul>
+<hr />
+</div>
+<div id="need-help" class="section level2">
+<h2>Need help?</h2>
+<ul>
+<li>Reach out to us on <a
+href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not
+required)</li>
+</ul>
+</div>
 </div>
 
 

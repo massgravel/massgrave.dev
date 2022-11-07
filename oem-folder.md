@@ -16,13 +16,20 @@
 
 -   Now use this .iso or bootable USB drive to install Windows and it will either already be activated (KMS38) as soon as it boots or will self-activate (HWID or Online KMS) at the first internet contact.
 
+-   You can check [here](https://massgrave.dev/) about activation method details and select the activation method as per your requirement.
+
 ------------------------------------------------------------------------
 
-## Notes
+## KMS38 - Server Cor/Acor
 
--   MAS AIO version doesn't contain `clipup.exe` file, if you need to activate `Server Core/Acor` editions then please use MAS separate files version.
+-   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
 
--   You can check [here](https://massgrave.dev/) about activation method details and select the activation method as per your requirement.
+-   To KMS38 activate it, you need to download `ClipUp.exe` file from the below official MS link.\
+    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>
+
+-   Rename the downloaded file as `ClipUp.exe` and put it beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
+
+-   Activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
 
 ------------------------------------------------------------------------
 

@@ -13,15 +13,23 @@ All download links leads to genuine files only.
 | Office 2010/2013/2016 MSI VL               | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                                                                                                                             |
 
 Full Collection Through SVF Files can be found [here](https://opendirectory.luzea.de/GezoeSloog/).\
-Thanks to GezoeSloog, microtechton, Luzea, Enthousiast, rg-adguard for providing download links.
+Thanks to GezoeSloog, microtechton, Luzea, Enthousiast, rg-adguard, abbodi1406 for providing download links.
 
 ------------------------------------------------------------------------
 
 ## Download Office 2019/2021 VL
 
-If the below guide is confusing to you then the simplest option for you is to use the link for `Office C2R Retail`.
+If the below guide is confusing to you then the simplest option for you is to use the link for `Office C2R Retail` from the above table.
 
 Please note that in the official C2R VL office installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing VL office.
+
+**Clear previous installation of Office:**
+
+-   Uninstall the office with App and Features option in Windows settings.
+
+-   Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_9.7z) by abbodi1406 and select `[R] Remove all Licenses` option. You can skip this step if Office was never installed on the system.
+
+Once done,
 
 -   Download [Office Deployment Tool](https://officecdn.microsoft.com/pr/wsus/setup.exe) (ODT)
 
@@ -29,7 +37,7 @@ Please note that in the official C2R VL office installation method, there is no 
 
 -   Goto [config.office.com](https://config.office.com/deploymentsettings)
 
--   Select `Office LTSC Professional Plus 2021 - Volume License` in the office suites section. You can add Visio and Project apps if you need them. Customize other things and leave them as default where you don't understand something.
+-   Select `Office LTSC Professional Plus 2021 - Volume License` (Don't select SPLA version) in the office suites section. You can add Visio and Project apps if you need them. Customize other things and leave them as default where you don't understand something. Don't select EN-GB language if you are selecting Project/Visio.
 
 -   Once you go through all the options, click on the export button and it will download a file named `Configuration.xml`
 

@@ -327,6 +327,9 @@ div.tocify {
 <li>
   <a href="troubleshoot.html">Troubleshoot</a>
 </li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Docs
@@ -342,6 +345,10 @@ div.tocify {
     </li>
     <li>
       <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -363,11 +370,11 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="genuine-installation-media.html">Download Genuine Installation Media</a>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
     <li>
-      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -413,18 +420,28 @@ in your altered .iso or on your bootable USB drive.</p></li>
 will either already be activated (KMS38) as soon as it boots or will
 self-activate (HWID or Online KMS) at the first internet
 contact.</p></li>
-</ul>
-<hr />
-</div>
-<div id="notes" class="section level2">
-<h2>Notes</h2>
-<ul>
-<li><p>MAS AIO version doesn’t contain <code>clipup.exe</code> file, if
-you need to activate <code>Server Core/Acor</code> editions then please
-use MAS separate files version.</p></li>
 <li><p>You can check <a href="https://massgrave.dev/">here</a> about
 activation method details and select the activation method as per your
 requirement.</p></li>
+</ul>
+<hr />
+</div>
+<div id="kms38---server-coracor" class="section level2">
+<h2>KMS38 - Server Cor/Acor</h2>
+<ul>
+<li><p>Windows Server Cor/Acor (No GUI) editions don’t have
+<code>clipup.exe</code> file.</p></li>
+<li><p>To KMS38 activate it, you need to download
+<code>ClipUp.exe</code> file from the below official MS link.<br />
+<a
+href="https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe"
+class="uri">https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe</a></p></li>
+<li><p>Rename the downloaded file as <code>ClipUp.exe</code> and put it
+beside the KMS38 Activation script. That would be either
+<code>MAS_AIO.cmd</code> or <code>KMS38_Activation.cmd</code></p></li>
+<li><p>Activation script will check <code>ClipUp.exe</code> in the
+current folder (from where script is running) and will use it
+accordingly.</p></li>
 </ul>
 <hr />
 </div>
