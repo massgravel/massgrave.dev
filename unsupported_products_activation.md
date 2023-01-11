@@ -24,12 +24,12 @@ In this page, those products activation methods are mentioned which are not supp
 
 VS can be activated only by a key.
 
-| Editions        | Activation Key                  |
-|-----------------|---------------------------------|
-| 2019 Enterprise | `BF8Y8-GN2QH-T84XB-QVY3B-RC4DF` |
-| 2017 Enterprise | `NJVYC-BMHX2-G77MM-4XJMR-6Q8QF` |
-| 2015 Enterprise | `HM6NR-QXX7C-DFW2Y-8B82K-WTYJV` |
-| 2013 Ultimate   | `87DQC-G8CYR-CRPJ4-QX9K8-RFV2B` |
+| Editions                        | Activation Key                  |
+|---------------------------------|---------------------------------|
+| Visual Studio 2022 Professional | `TD244-P4NB7-YQ6XK-Y8MMM-YWV2J` |
+| Visual Studio 2022 Enterprise   | `VHF9H-NXBBB-638P6-6JHCY-88JWH` |
+| Visual Studio 2019 Professional | `NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y` |
+| Visual Studio 2019 Enterprise   | `BF8Y8-GN2QH-T84XB-QVY3B-RC4DF` |
 
 ------------------------------------------------------------------------
 

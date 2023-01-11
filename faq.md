@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 -   **How to use it?\
-    **Checks how to info [here](https://massgrave.dev/index.html#Download__How_to_use_it).
+    **Checks how to info [here](index.html#Download__How_to_use_it).
 
 -   **How to activate Windows permanently?**\
     Use HWID option in MAS.
@@ -13,17 +13,20 @@
 -   **It says activation failed, what to do now?**\
     Reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) with an error screenshot.
 
+-   **I changed my Windows edition from Home to Pro and now Windows is deactivated.**\
+    Run HWID activation to activate Pro. Each edition requires separate activation.
+
 -   **How to remove HWID activation from my system?**\
     You can not. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
 
 -   **How to download the full version of Windows 10 LTSC 2021?**\
-    Check the info [here](https://massgrave.dev/genuine-installation-media.html).
+    Check the info [here](genuine-installation-media.html).
 
 -   **How to activate Office?**\
     Use the Online KMS option in MAS.
 
 -   **How to download and install Office?**\
-    Check the info [here](https://massgrave.dev/genuine-installation-media.html).
+    Check the info [here](genuine-installation-media.html).
 
 -   **Can I permanently activate Office?**\
     No. For lifetime activation of Office, use the renewal task option in Online KMS.
@@ -50,7 +53,11 @@
     Read activation details in the Docs section.
 
 -   **Does MAS work for Windows 7/8.1?**\
-    The online KMS option works.
+    The online KMS option works for Windows 7 Pro & Enterprise (Not Ultimate). All Windows 8/8.1 editions are supported by Online KMS option.
+
+-   **Where can I donate?**\
+    MASSGRAVE project doesn't accept donations and it's free. \
+    It's because it's a community project and involves many contributors, splitting donations is not practical and also because profiting from piracy is not good.
 
 ------------------------------------------------------------------------
 

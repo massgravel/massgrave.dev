@@ -4,7 +4,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](https://massgrave.dev).
+-   How to use it? Please find the instructions [here](index.html#Download__How_to_use_it).
 
 -   This Online KMS Activation script is a fork of abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/)
 
@@ -182,7 +182,7 @@ Feel free to contact us in case you have a contradictory point of view.
 
     HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
 
-This is perfectly fine to keep, and it does not affect Windows or Office activation. For more explanation, visit [here](https://massgrave.dev/office-license-is-not-genuine.html)
+This is perfectly fine to keep, and it does not affect Windows or Office activation. For more explanation, visit [here](office-license-is-not-genuine.html)
 
 ------------------------------------------------------------------------
 
@@ -252,7 +252,7 @@ Alternatively, if the automatic conversion did not work, or if you prefer to use
 
 ## Command line Switches
 
--   Check [here](https://massgrave.dev/command_line_switches.html).
+-   Check [here](command_line_switches.html).
 
 ------------------------------------------------------------------------
 
@@ -260,7 +260,7 @@ Alternatively, if the automatic conversion did not work, or if you prefer to use
 
 -   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
--   Further read [here](https://massgrave.dev/oem-folder.html).
+-   Further read [here](oem-folder.html).
 
 ------------------------------------------------------------------------
 

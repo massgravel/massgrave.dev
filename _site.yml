@@ -50,6 +50,8 @@ navbar:
       href: contactus.html
 output:
   html_document:
+    includes:
+      after_body: footer.html
     theme: readable
     highlight: tango
     toc_depth: 3
