@@ -4,7 +4,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](https://massgrave.dev).
+-   How to use it? Please find the instructions [here](index.html#Download__How_to_use_it).
 
 -   This activation is supported for Windows 10/11 only.
 
@@ -106,7 +106,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ## Command line Switches
 
--   Check [here](https://massgrave.dev/command_line_switches.html).
+-   Check [here](command_line_switches.html).
 
 ------------------------------------------------------------------------
 
@@ -238,7 +238,7 @@ The process here is based on Universal ticket method. Here we will create identi
 
 -   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
--   Further, read [here](https://massgrave.dev/oem-folder.html).
+-   Further, read [here](oem-folder.html).
 
 ------------------------------------------------------------------------
 

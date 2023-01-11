@@ -1,3 +1,7 @@
+---
+title: "MASSGRAVE"
+---
+
 ## Intro
 
 **Microsoft Activation Scripts (MAS)**
@@ -50,7 +54,7 @@ Last Release - v1.7 (7-Nov-2022)\
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
-To run the scripts in unattended mode, check [here](https://massgrave.dev/command_line_switches.html)
+To run the scripts in unattended mode, check [here](command_line_switches.html)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +68,7 @@ To run the scripts in unattended mode, check [here](https://massgrave.dev/comman
 
 For more details, use the respective activation details in Doc.
 
-To activate unsupported products such as **Office on Mac**, check [here](https://massgrave.dev/unsupported_products_activation.html).
+To activate unsupported products such as **Office on Mac**, check [here](unsupported_products_activation.html).
 
 ------------------------------------------------------------------------
 

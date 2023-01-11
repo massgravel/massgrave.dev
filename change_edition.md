@@ -9,10 +9,11 @@
 -   On Windows 7, script requires [Windows Management Framework 5.1](https://aka.ms/wmf5download) to be installed.
 
 -   Script incorporates 4 methods for edition change:\
-    - Changepk.exe Method\
-    - slmgr /ipk Method\
-    - DISM Method\
-    - [CBS Upgrade method](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition)
+
+    -   Changepk.exe Method\
+    -   slmgr /ipk Method\
+    -   DISM Method\
+    -   [CBS Upgrade method](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition)
 
 -   Available editions for change are shown in the script basis on all these 4 options.
 

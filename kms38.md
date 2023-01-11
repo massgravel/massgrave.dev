@@ -4,7 +4,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](https://massgrave.dev).
+-   How to use it? Please find the instructions [here](index.html#Download__How_to_use_it).
 
 -   This activation method activates Windows 10/11 and Windows Server (14393 and later builds), until 19 January 2038 03:14:07 UTC.
 
@@ -146,7 +146,7 @@
 
 ## Command line Switches
 
--   Check [here](https://massgrave.dev/command_line_switches.html).
+-   Check [here](command_line_switches.html).
 
 ------------------------------------------------------------------------
 
@@ -272,7 +272,7 @@ The process here is based on Universal ticket method. Here we will create identi
 
 -   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
 
--   Further, read [here](https://massgrave.dev/oem-folder.html).
+-   Further, read [here](oem-folder.html).
 
 ------------------------------------------------------------------------
 

@@ -2,7 +2,7 @@
 
 ![](office-license-is-not-genuine.png)
 
-**TL;DR** To solve it, use the latest abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) or [MAS](https://massgrave.dev/) to activate Office.
+**TL;DR** To solve it, use the latest abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) or [MAS](index.html) to activate Office.
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Please find below various ways you can avoid this banner. The simplest option fo
 
 ### 1- Activation Tools
 
--   Use the latest abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) or [MAS](https://massgrave.dev/) to activate Office.
+-   Use the latest abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) or [MAS](index.html) to activate Office.
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ Please find below how to set the KMS server address in the registry. For example
 
 As mentioned in the reasons section, these checks are performed only if Retail Office is installed and later converted to VL. The office doesn't perform any such checks if the proper installation of the VL office is done.
 
-Please the guide [here](https://massgrave.dev/genuine-installation-media.html#Download_Office_20192021_VL) for VL Office installation.
+Please the guide [here](office_c2r_vl.html) for VL Office installation.
 
 ------------------------------------------------------------------------
 

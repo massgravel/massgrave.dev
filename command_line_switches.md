@@ -6,10 +6,10 @@
 
 -   You can use the below switches in MAS AIO, separate files version and in Powershell one-liner to run in unattended mode.
 
--   If you want to use it in Windows Pre-Activation then check [this](https://massgrave.dev/oem-folder.html) page for more details.
+-   If you want to use it in Windows Pre-Activation then check [this](oem-folder.html) page for more details.
 
 | Switches                  | Meaning                                        |
-|--------------------------|----------------------------------------------|
+|---------------------------|------------------------------------------------|
 | `/HWID`                   | Activate with HWID                             |
 | `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID  |
 |                           |                                                |

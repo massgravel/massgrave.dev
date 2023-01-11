@@ -16,7 +16,9 @@
 
 -   Now use this .iso or bootable USB drive to install Windows and it will either already be activated (KMS38) as soon as it boots or will self-activate (HWID or Online KMS) at the first internet contact.
 
--   You can check [here](https://massgrave.dev/) about activation method details and select the activation method as per your requirement.
+-   You can check [here](index.html) about activation method details and select the activation method as per your requirement.
+
+-   On Windows 8 and later, running setupcomplete.cmd is disabled if the default installed key for the edition is OEM Channel. For example - Preactivation won't work for Windows 10 Iot Enterprise because installed key is of OEM channel.
 
 ------------------------------------------------------------------------
 
