@@ -1,7 +1,3 @@
----
-title: "MASSGRAVE"
----
-
 ## Intro
 
 **Microsoft Activation Scripts (MAS)**
