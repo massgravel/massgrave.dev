@@ -398,8 +398,8 @@ div.tocify {
 </div>
 
 
-<div id="fix-issues-with-licensing-servers" class="section level1">
-<h1><strong>Fix Issues With Licensing Servers</strong></h1>
+<div id="licensing-server-issue" class="section level1">
+<h1><strong>Licensing Server Issue</strong></h1>
 <hr />
 <ul>
 <li><p>In some cases, HWID activation may fail because system couldn’t
@@ -409,17 +409,12 @@ case.</p></li>
 <li><p>This may happen mostly either due to DNS or Issues in MS
 licensing servers itself or Firewall rules in the system. Below you can
 find listed fixes for it.</p></li>
-<li><p><strong>Which method to choose for the fix?</strong><br />
-</p>
-<ul>
-<li>If you are located in China then choose <strong>Modify Host
+<li><p><strong>Which method to choose for the fix?<br />
+<br />
+</strong>If you are located in China then choose <strong>Modify Host
 File</strong> option.<br />
-</li>
-<li>If you are not in China then first try <strong>Fix DNS</strong>
-option, and if that doesn’t work then try <strong>VPN</strong>
-method.<br />
-</li>
-</ul></li>
+If you are not in China then first try <strong>Fix DNS</strong> option,
+and if that doesn’t work then try <strong>VPN</strong> method.</p></li>
 <li><p>If you are facing issues then reach out to us on our <a
 href="https://discord.gg/gjJEfq7ux8">Discord</a>.</p></li>
 </ul>
@@ -451,6 +446,12 @@ class="uri">https://psiphon.ca/</a></p></li>
 </div>
 <div id="modify-host-file" class="section level2">
 <h2>Modify Host File</h2>
+<p>Around 8 Feb 2023 in China, MS licensing servers failed to properly
+connect and it disrupted many Windows services including activation.
+Solution to this issue is to simply hardcode another country’s MS
+licensing servers IP in hosts file and Windows will use that for
+activation. This method can also be used if for any reason DNS is
+failing to resolve MS licensing servers.</p>
 <ul>
 <li><p>Open Powershell or Terminal as admin (don’t open CMD).</p></li>
 <li><p>Copy paste below lines and press enter,</p></li>
