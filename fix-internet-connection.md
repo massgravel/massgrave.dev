@@ -1,4 +1,4 @@
-# **Fix Issues With Licensing Servers**
+# **Licensing Server Issue**
 
 ------------------------------------------------------------------------
 
@@ -8,10 +8,10 @@
 
 -   This may happen mostly either due to DNS or Issues in MS licensing servers itself or Firewall rules in the system. Below you can find listed fixes for it.
 
--   **Which method to choose for the fix?**\
-
-    -   If you are located in China then choose **Modify Host File** option.\
-    -   If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method.\
+-   **Which method to choose for the fix?\
+    \
+    **If you are located in China then choose **Modify Host File** option.\
+    If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method.
 
 -   If you are facing issues then reach out to us on our [Discord](https://discord.gg/gjJEfq7ux8).
 
@@ -42,6 +42,8 @@
 ------------------------------------------------------------------------
 
 ## Modify Host File
+
+Around 8 Feb 2023 in China, MS licensing servers failed to properly connect and it disrupted many Windows services including activation. Solution to this issue is to simply hardcode another country's MS licensing servers IP in hosts file and Windows will use that for activation. This method can also be used if for any reason DNS is failing to resolve MS licensing servers.
 
 -   Open Powershell or Terminal as admin (don't open CMD).
 
