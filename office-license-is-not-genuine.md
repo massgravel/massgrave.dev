@@ -59,7 +59,7 @@ Please find below how to set the KMS server address in the registry. For example
 
 As mentioned in the reasons section, these checks are performed only if Retail Office is installed and later converted to VL. The office doesn't perform any such checks if the proper installation of the VL office is done.
 
-Please the guide [here](office_c2r_vl.html) for VL Office installation.
+Please the guide [here](office_c2r_custom.html) for VL Office installation.
 
 ------------------------------------------------------------------------
 
