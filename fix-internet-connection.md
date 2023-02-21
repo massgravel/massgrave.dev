@@ -1,4 +1,4 @@
-# **Fix Issues In Connecting To Licensing Servers**
+# **Fix Issues With Licensing Servers**
 
 ------------------------------------------------------------------------
 
@@ -9,8 +9,9 @@
 -   This may happen mostly either due to DNS or Issues in MS licensing servers itself or Firewall rules in the system. Below you can find listed fixes for it.
 
 -   **Which method to choose for the fix?**\
-    - If you are located in China then choose **Modify Host File** option.\
-    - If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method.
+
+    -   If you are located in China then choose **Modify Host File** option.\
+    -   If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method.\
 
 -   If you are facing issues then reach out to us on our [Discord](https://discord.gg/gjJEfq7ux8).
 
@@ -46,9 +47,8 @@
 
 -   Copy paste below lines and press enter,
 
-```{=html}
 <!-- -->
-```
+
     $filePath = "C:\Windows\System32\drivers\etc\hosts"
 
     Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
