@@ -22,5 +22,6 @@ $content = $prefix + $response
 Set-Content -Path $FilePath -Value $content
 
 Start-Process $FilePath $ScriptArgs -Wait
-$item = Get-Item -LiteralPath $FilePath
-$item.Delete()
+
+$FilePaths = @("$env:TEMP\MAS*.cmd", "$env:SystemRoot\Temp\MAS*.cmd")
+foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
