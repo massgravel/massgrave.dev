@@ -1,3 +1,7 @@
+---
+pagetitle: Get genuine Office banner
+---
+
 # 'Get genuine Office' banner
 
 ![](office-license-is-not-genuine.png)
@@ -95,4 +99,4 @@ Please the guide [here](office_c2r_custom.html) for VL Office installation.
 
 ## Report an issue
 
--   If you have any conflicting info or any other useful info regarding this then please reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required).
+-   Check [here](troubleshoot.html).

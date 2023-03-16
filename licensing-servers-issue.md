@@ -1,19 +1,23 @@
-# **Licensing Servers Issue**
+---
+pagetitle: Licensing Servers Issue
+---
+
+# Licensing Servers Issue
 
 ------------------------------------------------------------------------
 
--   In some cases, HWID activation may fail because system couldn't connect to HWID licensing servers.
+-   In some cases, **HWID activation** may fail because system couldn't connect to HWID licensing servers.
 
--   Activation script will inform you about this if that is the case.
+-   Activation script will inform you about this if that is the case. We suggest to follow the below guide only when the script tells you to do it. If you are unsure, you can take the help from [here](troubleshoot.html).
 
 -   This may happen mostly either due to DNS or Issues in MS licensing servers itself or Firewall rules in the system. Below you can find listed fixes for it.
 
 -   **Which method to choose for the fix?\
     \
     **If you are located in China then choose **Modify Host File** option.\
-    If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method.
+    If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method or try another Internet connection.
 
--   If you are facing issues then reach out to us on our [Discord](https://discord.gg/gjJEfq7ux8).
+-   If you are still facing issues then check [here](troubleshoot.html).
 
 ------------------------------------------------------------------------
 

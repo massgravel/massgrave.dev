@@ -1,3 +1,7 @@
+---
+pagetitle: OEM Folders
+---
+
 # \$OEM\$ Folders
 
 (Windows Pre-Activation)
@@ -26,10 +30,14 @@
 
 -   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
 
--   To KMS38 activate it, you need to download `ClipUp.exe` file from the below official MS link.\
-    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>
+-   To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](http://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+    \
+    `File: ClipUp.exe`\
+    `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
+    \
+    This file has digital signatures which can be verified. You can also get this file from official Windows server 2016 x64 RTM ISO.
 
--   Rename the downloaded file as `ClipUp.exe` and put it beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
+-   Put the `ClipUp.exe` beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
 
 -   Activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
 

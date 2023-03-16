@@ -1,3 +1,7 @@
+---
+pagetitle: Unsupported Products Activation
+---
+
 # Unsupported Products Activation
 
 ------------------------------------------------------------------------
@@ -45,4 +49,4 @@ UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
 
 ------------------------------------------------------------------------
 
--   If you need help with some other Microsoft products, reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) .
+-   If you need help with some other Microsoft products, reach out to us [here](contactus.html).

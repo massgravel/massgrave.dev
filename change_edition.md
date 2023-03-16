@@ -1,3 +1,7 @@
+---
+pagetitle: Change Windows Edition
+---
+
 # Change Windows Edition
 
 ------------------------------------------------------------------------
@@ -5,8 +9,6 @@
 -   You can find this option in the MAS extras section.
 
 -   It can change the Windows 7-8-8.1-10-11 and equivalent Server Editions.
-
--   On Windows 7, script requires [Windows Management Framework 5.1](https://aka.ms/wmf5download) to be installed.
 
 -   Script incorporates 4 methods for edition change:\
 

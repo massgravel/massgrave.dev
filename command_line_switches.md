@@ -1,3 +1,7 @@
+---
+pagetitle: Command Line Switches
+---
+
 # Command Line Switches
 
 ------------------------------------------------------------------------
@@ -8,28 +12,28 @@
 
 -   If you want to use it in Windows Pre-Activation then check [this](oem-folder.html) page for more details.
 
-| Switches                  | Meaning                                        |
-|---------------------------|------------------------------------------------|
-| `/HWID`                   | Activate with HWID                             |
-| `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID  |
-|                           |                                                |
-| `/KMS38`                  | Activate with KMS38                            |
-| `/KMS38-RemoveProtection` | Remove KMS38 protection                        |
-| `/KMS38-NoEditionChange`  | Don't change edition if not supported by KMS38 |
-|                           |                                                |
-| `/KMS-Windows`            | Activate Windows with Online KMS               |
-| `/KMS-Office`             | Activate Office with Online KMS                |
-| `/KMS-WindowsOffice`      | Activate Windows & Office with Online KMS      |
-| `/KMS-RenewalTask`        | Install Online KMS renewal task                |
-| `/KMS-ActAndRenewalTask`  | Install Online KMS activation & renewal tasks  |
-| `/KMS-Uninstall`          | Uninstall Online KMS                           |
-| `/KMS-KeepvNext`          | Don't override Office C2R vNext license        |
-| `/KMS-Debug`              | Create Debug log in Online KMS Activation      |
-| `/KMS-Logger`             | Create simple log in Online KMS Activation     |
-|                           |                                                |
-| `/Insert-HWID-Key`        | Insert Windows HWID key                        |
-|                           |                                                |
-| `/S`                      | Run operations in silent mode (no output)      |
+| Switches                  | Meaning                                                  |
+|---------------------------|----------------------------------------------------------|
+| `/HWID`                   | Activate with HWID                                       |
+| `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID            |
+|                           |                                                          |
+| `/KMS38`                  | Activate with KMS38                                      |
+| `/KMS38-RemoveProtection` | Remove KMS38 protection                                  |
+| `/KMS38-NoEditionChange`  | Don't change edition if not supported by KMS38           |
+|                           |                                                          |
+| `/KMS-Windows`            | Activate Windows with Online KMS                         |
+| `/KMS-Office`             | Activate Office with Online KMS                          |
+| `/KMS-WindowsOffice`      | Activate Windows & Office with Online KMS                |
+| `/KMS-RenewalTask`        | Install Online KMS renewal task                          |
+| `/KMS-ActAndRenewalTask`  | Install Online KMS activation & renewal tasks (Use this) |
+| `/KMS-Uninstall`          | Uninstall Online KMS                                     |
+| `/KMS-KeepvNext`          | Don't override Office C2R vNext license                  |
+| `/KMS-Debug`              | Create Debug log in Online KMS Activation                |
+| `/KMS-Logger`             | Create simple log in Online KMS Activation               |
+|                           |                                                          |
+| `/Insert-HWID-Key`        | Insert Windows HWID key                                  |
+|                           |                                                          |
+| `/S`                      | Run operations in silent mode (no output)                |
 
 ------------------------------------------------------------------------
 
@@ -37,9 +41,19 @@
 
 `& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /para`
 
--   Replace `/para` in the this command with the switches from the above table. You can use multiple switches. Example,
+-   Replace `/para` in this command with the switches from the above table. You can use multiple switches. For example, if you want to activate Windows and Office both with the best method possible then use,
 
-`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS-Office`
+`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS38 /KMS-WindowsOffice /KMS-ActAndRenewalTask`
+
+If you just want to activate Windows with HWID and Office with KMS then,
+
+`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS-Office /KMS-ActAndRenewalTask`
+
+If you just wants to activate Windows with HWID then,
+
+`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID`
+
+**Note:** This Powershell one liner will work on Windows 8 and later versions only.
 
 ------------------------------------------------------------------------
 
@@ -51,7 +65,7 @@
 
 -   All switches are case-insensitive, works in any order, but must be separated with spaces.
 
--   KMS Uninstall switch will take precedence over other KMS switches
+-   KMS Uninstall switch will take precedence over other KMS switches.
 
 -   KMS38 remove protection switch will task precedence over KMS38 activation.
 
@@ -59,4 +73,4 @@
 
 ## Need help?
 
--   Reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required)
+-   Check [here](troubleshoot.html).
