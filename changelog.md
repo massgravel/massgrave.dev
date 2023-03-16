@@ -1,4 +1,55 @@
+---
+pagetitle: Changelog
+---
+
 # MAS Changelog
+
+------------------------------------------------------------------------
+
+## 1.8
+
+**Goodbye to Cleanospp.exe / MAS is now 100% naked**
+
+------------------------------------------------------------------------
+
+#### HWID/KMS38:
+
+-   Checks are added to find issues in:
+    -   Connection to MS licensing servers. Thanks to \@ave9858 (Alex)
+    -   SPP permissions in files and registry
+    -   WPA registry keys. Thanks to \@ave9858 (Alex)
+    -   KeyIso service which affects ticket installation. Thanks to \@ave9858 (Alex)
+    -   Store apps blocking registries
+    -   Windows updates
+    -   Many more
+-   Fixed a few bugs
+
+#### Online KMS:
+
+-   Replaced cleanospp.exe with powershell script [CleanOffice.ps1](https://gist.github.com/ave9858/9fff6af726ba3ddc646285d1bbf37e71) Thanks to \@ave9858 (Alex)
+-   Fixed an issue where script may stuck in server port check
+-   Script is updated as per \@abbodi1406 KVA v49. Changes:
+    -   Enhanced Office 15.0 C2R detection to differentiate Retail\<\>Volume products
+    -   Added fallback if Office 16.0 C2R licenses integrator.exe failed, to install them the old way (using slmgr.vbs/ospp.vbs)
+
+#### Troubleshoot:
+
+-   Fix WMI option is improved
+-   Fix licensing option now will fix ClipSVC, Office vNext, SPP and OSPP licenses and SPP permissions in files and registry. Thanks to \@ave9858 (Alex)
+
+#### Change Windows Edition:
+
+-   Script now [supports](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition/commit/2b3c50024d58e9d9eb158fd538afd98e5345140c) default Win 7 RTM, WMF requirement is removed. Thanks to \@ave9858 (Alex)
+
+#### All:
+
+-   All C# code is changed to Powershell reflection code to avoid temp files and AV detections. Thanks to \@ave9858 (Alex)
+-   Keys are a bit obfuscated in scripts to reduce AV detections
+-   `irm https://massgrave.dev/get | iex` code to launch MAS via Powershell will now create uniquely named/hash files on each run to reduce AV detections
+-   A detailed page is added for [Office C2R retail installers](https://massgrave.dev/office_c2r_links.html)
+-   Error messages and instructions are improved in all scripts
+-   [MAS legacy methods](https://github.com/massgravel/MAS-Legacy-Methods) scripts are updated as well
+-   We are now on [Twitter](https://twitter.com/massgravel) and a [Telegram group](https://t.me/Microsoft_Activation_Scripts) is created for MAS-related queries and activation issues
 
 ------------------------------------------------------------------------
 

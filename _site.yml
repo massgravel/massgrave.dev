@@ -32,9 +32,6 @@ navbar:
         - text: "Install HWID Key"
           href: install_hwid_key.html
         - text: "---------"
-        - text: "Unreadable Codes In MAS AIO"
-          href: unreadable-codes-in-mas-aio.html
-        - text: "---------"
         - text: "Office License Is Not Genuine"
           href: office-license-is-not-genuine.html
         - text: "---------"

@@ -1,3 +1,7 @@
+---
+pagetitle: MAS
+---
+
 ## Intro
 
 **Microsoft Activation Scripts (MAS)**
@@ -11,21 +15,20 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 -   HWID Activation
 -   KMS38 Activation
 -   Online KMS Activation
--   \$OEM\$ Folders For Preactivation
 -   Activation Troubleshoot
--   Insert Windows 10-11 HWID Key
--   Change Windows 10-11-Server Edition
+-   \$OEM\$ Folders For Preactivation
+-   Change Windows Edition
 -   Check Windows-Office Activation Status
 -   Available in All In One & Separate Files Version
 -   Fully Open Source
--   Fewer antivirus detections
--   Files are either transparent batch scripts or official from Microsoft
+-   All Files Are Transparent Batch Scripts
+-   Fewer Antivirus Detections
 
 ------------------------------------------------------------------------
 
 ## MAS Latest Release
 
-Last Release - v1.7 (7-Nov-2022)\
+Last Release - v1.8 (16-Mar-2023)\
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [GitLab](https://gitlab.com/massgrave/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
@@ -34,7 +37,7 @@ Last Release - v1.7 (7-Nov-2022)\
 
 ### Method 1 - PowerShell
 
--   On Windows 10/11, right-click on the windows start menu and select PowerShell or Terminal.
+-   On Windows 10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     `irm https://massgrave.dev/get | iex`
 -   You will see the activation options, and follow onscreen instructions.
@@ -42,7 +45,7 @@ Last Release - v1.7 (7-Nov-2022)\
 
 ### Method 2 - Traditional
 
--   Download the file named `MAS_1.7_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
+-   Download the file named `MAS_1.8_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
 -   Extract this file with a 3rd party archive manager, such as [7zip](https://www.7-zip.org/download.html)
 -   Password is `1234`
 -   In the extracted folder, find the folder named `All-In-One-Version`
@@ -75,6 +78,8 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ![](MAS_HWID.png)
 
 ![](MAS_KMS.png)
+
+![](MAS_Troubleshoot.png)
 
 ------------------------------------------------------------------------
 

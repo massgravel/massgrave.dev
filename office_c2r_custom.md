@@ -1,3 +1,7 @@
+---
+pagetitle: Office C2R Custom Install
+---
+
 # Office C2R Custom Install
 
 ------------------------------------------------------------------------
@@ -24,7 +28,7 @@ First clear previous installation of Office,
 
 -   Uninstall the office with App and Features option in Windows settings.
 
--   Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_9.7z) by abbodi1406 and select `[R] Remove all Licenses` option. You can skip this step if Office was never installed on the system.
+-   Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_10.7z) by abbodi1406 and select `[R] Remove all Licenses` option. You can skip this step if Office was never installed on the system.
 
 Once done,
 
@@ -65,4 +69,4 @@ It will now download and install Office. You can activate it with your preferred
 
 ## Need help?
 
--   Reach out on our [Discord](https://discord.gg/gjJEfq7ux8) (signup not required).
+-   Check [here](troubleshoot.html).

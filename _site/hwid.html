@@ -11,7 +11,7 @@
 
 
 
-<title>hwid</title>
+<title>HWID Activation</title>
 
 <script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -363,10 +363,6 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="unreadable-codes-in-mas-aio.html">Unreadable Codes In MAS AIO</a>
-    </li>
-    <li class="divider"></li>
-    <li>
       <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
@@ -448,25 +444,47 @@ script.</p></li>
 Microsoft provides an HWID (digital license) activation for Windows 10
 without any cost.</p></li>
 <li><p>In the background, the upgrade process runs a file named
-<code>gatherosstate.exe</code> and it checks the license of current
-Windows if found activated, it generates a valid GenuineTicket.xml which
-is sent to Microsoft and in return, MS authorizes a license.</p></li>
-<li><p>So if we just convince the <code>gatherosstate.exe</code> file
-that the conditions are met for ticket generation by fooling it, it will
-generate a valid ticket, which can be used to get the valid HWID
-(Digital license). The script here does exactly that to get the
-activation for free without any upgrade process.</p></li>
+gatherosstate.exe (available in Windows 10/11 ISO) and it checks the
+license of current Windows if found activated, it generates a valid
+GenuineTicket.xml <strong>ticket</strong> which is sent to Microsoft and
+in return, MS authorizes a license.</p></li>
+<li><p>So if we just convince the gatherosstate.exe file that the
+conditions are met for ticket generation by fooling it, it will generate
+a valid ticket, which can be used to get the valid HWID (Digital
+license).</p></li>
+<li><p>How to convince the gatherosstate.exe?<br />
+There are two methods for it.<br />
+<br />
+<strong>1-</strong> Place a <a
+href="https://github.com/Gamers-Against-Weed/Integrated_Patcher_3">custom
+slc.dll</a> file beside gatherosstate.exe:<br />
+gatherosstate.exe uses the system’s
+<code>C:\Windows\System32\slc.dll</code> file to gather the system’s
+info. If we place a custom slc.dll file beside gatherosstate.exe which
+can send the rubbish data to it, then it will simply accept it and
+generate a valid ticket.<br />
+<br />
+<strong>2-</strong> <a
+href="https://github.com/Gamers-Against-Weed/GamersOsState">Modify</a>
+the gatherosstate.exe file itself so that it doesn’t check the system’s
+activation status and can directly create a valid ticket.</p></li>
+<li><p><strong>Note:</strong> If you want to understand more about how
+these above mentioned both methods then check this repo <a
+href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a><br />
+Latest MAS doesn’t use any of these methods, instead it uses ready to
+use Universal tickets (check below for info).<br />
+</p></li>
 </ul>
 <hr />
 </div>
 <div id="types-of-tickets" class="section level2">
 <h2>Types of Tickets</h2>
-<p>There are many methods for ticket generation, however we can classify
+<p>There are many methods for ticket generation, majorly we can classify
 the ticket types in 3 categories.</p>
 <ol style="list-style-type: decimal">
 <li><p><strong>Downlevel Ticket</strong> - This is the simplest ticket
 generation process. In this method, ticket is signed by downlevel key by
-the system and the ticket’s OSVersion is 10. If it’s generated on
+the system and the ticket’s OSVersion is =&lt;10. If it’s generated on
 Windows 10/11 then MS ideally aren’t supposed to grant activation,
 however they do and method is continuously working from last 4-5 years.
 Almost every HWID activator (at the time of writing this) is based on
@@ -491,7 +509,7 @@ href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a></
 <p>Now a question, can Microsoft block the new requests or revoke
 already established HWID license?</p>
 <ul>
-<li>Revoking the license would be insane and will face many
+<li>Revoking the license would be too extreme and will face many
 complications and risk of voiding valid licenses. However maybe they can
 block the new activation requests coming from Downlevel and Universal
 tickets. But the tools are working from 4-5 years and they don’t seem to
@@ -629,7 +647,7 @@ activated.</p></li>
 unsupported EnterpriseS (LTSC) 2021 edition.</p></li>
 <li><p>Windows Server does not support HWID activation.</p></li>
 <li><p>ServerRdsh edition does not <a
-href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
+href="https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq">officially</a>
 support activation on non-azure systems.</p></li>
 </ul>
 <hr />
@@ -789,9 +807,7 @@ section if you want pre-activated Windows installation.</p></li>
 <div id="troubleshooting" class="section level2">
 <h2>Troubleshooting</h2>
 <ul>
-<li>Reach out to us on <a
-href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
-with an error screenshot.</li>
+<li>Check <a href="troubleshoot.html">here</a>.</li>
 </ul>
 </div>
 </div>

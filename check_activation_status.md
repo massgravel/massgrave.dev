@@ -1,3 +1,7 @@
+---
+pagetitle: Check Activation Status
+---
+
 # Check Activation Status
 
 ------------------------------------------------------------------------

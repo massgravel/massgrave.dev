@@ -11,7 +11,7 @@
 
 
 
-<title>kms38</title>
+<title>KMS38 Activation</title>
 
 <script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -363,10 +363,6 @@ div.tocify {
     </li>
     <li class="divider"></li>
     <li>
-      <a href="unreadable-codes-in-mas-aio.html">Unreadable Codes In MAS AIO</a>
-    </li>
-    <li class="divider"></li>
-    <li>
       <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
     <li class="divider"></li>
@@ -423,7 +419,7 @@ match with any official activation method.</p></li>
 href="https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview">KMS</a>
 activation environment, activation lasts a maximum of up to 180 days.
 This is done using a valid license and server setup.</p></li>
-<li><p>However, in the Windows major upgrade process, the system uses
+<li><p>In the Windows major upgrade process, the system uses
 <code>gatherosstate.exe</code> to carry over the remaining KMS
 activation period. It does it by creating a ticket that can be used
 offline.</p></li>
@@ -436,6 +432,27 @@ href="https://en.wikipedia.org/wiki/Year_2038_problem">Y2K38 problem</a>
 as this date (19 January 2038 03:14:07 UTC) is the maximum date we can
 give to <code>gatherosstate.exe</code> without it looping back to the
 year 1970.</p></li>
+<li><p>How to convince the gatherosstate.exe?<br />
+There are two methods for it.<br />
+<br />
+<strong>1-</strong> Place a <a
+href="https://github.com/Gamers-Against-Weed/Integrated_Patcher_3">custom
+slc.dll</a> file beside gatherosstate.exe:<br />
+gatherosstate.exe uses the system’s
+<code>C:\Windows\System32\slc.dll</code> file to gather the system’s
+info. If we place a custom slc.dll file beside gatherosstate.exe which
+can send the rubbish data to it, then it will simply accept it and
+generate a valid ticket allowing activation upto 19 January 2038
+03:14:07 UTC.<br />
+<br />
+<strong>2-</strong> <a
+href="https://github.com/Gamers-Against-Weed/GamersOsState">Modify</a>
+the gatherosstate.exe file itself so that it doesn’t check the system’s
+activation status and we can put the activation period as we
+wish.</p></li>
+<li><p><strong>Note:</strong> Latest MAS doesn’t use any of these
+methods, instead it uses ready to use Universal ticket (check below for
+manual activation).</p></li>
 </ul>
 <p><strong>Q:</strong> Can Microsoft block this kind of
 activation?<br />
@@ -696,8 +713,8 @@ they can’t block them or take action directly.</p>
 activated.</p></li>
 <li><p>KMS38 only supports Windows/server version 14393 (1607) and newer
 versions.</p></li>
-<li><p>ServerRdsh edition does not <a
-href="https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises">officially</a>
+<li><p>ServerRdsh, Server Azure Datacenter editions do not <a
+href="https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq">officially</a>
 support activation on non-azure systems.</p></li>
 </ul>
 <hr />
@@ -708,13 +725,18 @@ support activation on non-azure systems.</p></li>
 <li><p>Windows Server Cor/Acor (No GUI) editions don’t have
 <code>clipup.exe</code> file.</p></li>
 <li><p>To KMS38 activate it, you need to download
-<code>ClipUp.exe</code> file from the below official MS link.<br />
-<a
-href="https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe"
-class="uri">https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe</a></p></li>
-<li><p>Rename the downloaded file as <code>ClipUp.exe</code> and put it
-beside the KMS38 Activation script. That would be either
-<code>MAS_AIO.cmd</code> or <code>KMS38_Activation.cmd</code></p></li>
+<code>ClipUp.exe</code> file from <a
+href="http://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&amp;file_id=f_747809716860">this
+link</a>.<br />
+<br />
+<code>File: ClipUp.exe</code><br />
+<code>SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef</code><br />
+<br />
+This file has digital signatures which can be verified. You can also get
+this file from official Windows server 2016 x64 RTM ISO.</p></li>
+<li><p>Put the <code>ClipUp.exe</code> beside the KMS38 Activation
+script. That would be either <code>MAS_AIO.cmd</code> or
+<code>KMS38_Activation.cmd</code></p></li>
 <li><p>Activation script will check <code>ClipUp.exe</code> in the
 current folder (from where script is running) and will use it
 accordingly.</p></li>
@@ -885,17 +907,21 @@ with below Powershell command and then initiate the ticket generation
 process as per above mentioned steps.<br />
 <code>$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
 <li><p>In the case of Windows Server Cor/Acor (No GUI) editions, the
-system doesn’t have <code>clipup.exe</code> file. So to activate it, you
-need to download <code>ClipUp.exe</code> file from the below official MS
-link.<br />
-<a
-href="https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe"
-class="uri">https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe</a><a
-href="https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe￼Rename"><br />
-</a>Rename the downloaded file as <code>ClipUp.exe</code> and put it in
-<code>C:\Windows\System32</code> folder and then initiate the above
-mentioned activation process. Once the activation is done, you can
-remove the file.</p></li>
+system doesn’t have <code>clipup.exe</code> file.<br />
+To KMS38 activate it, you need to download <code>ClipUp.exe</code> file
+from <a
+href="http://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&amp;file_id=f_747809716860">this
+link</a>.<br />
+<br />
+<code>File: ClipUp.exe</code><br />
+<code>SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef</code><br />
+<br />
+This file has digital signatures which can be verified. You can also get
+this file from official Windows server 2016 x64 RTM ISO.<br />
+<br />
+Put the <code>ClipUp.exe</code> in <code>C:\Windows\System32</code>
+folder and then initiate the above mentioned activation process. Once
+the activation is done, you can remove the file.</p></li>
 </ul>
 <hr />
 </div>
@@ -911,9 +937,7 @@ section if you want pre-activated Windows installation.</p></li>
 <div id="troubleshooting" class="section level2">
 <h2>Troubleshooting</h2>
 <ul>
-<li>Reach out to us on <a
-href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
-with an error screenshot.</li>
+<li>Check <a href="troubleshoot.html">here</a>.</li>
 </ul>
 </div>
 </div>

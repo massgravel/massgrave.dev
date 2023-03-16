@@ -1,3 +1,7 @@
+---
+pagetitle: KMS38 Activation
+---
+
 # KMS38 Activation
 
 ------------------------------------------------------------------------
@@ -20,12 +24,22 @@
 
 -   In a genuine [KMS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/ee939272(v=technet.10)?redirectedfrom=MSDN#kms-overview) activation environment, activation lasts a maximum of up to 180 days. This is done using a valid license and server setup.
 
--   However, in the Windows major upgrade process, the system uses `gatherosstate.exe` to carry over the remaining KMS activation period. It does it by creating a ticket that can be used offline.
+-   In the Windows major upgrade process, the system uses `gatherosstate.exe` to carry over the remaining KMS activation period. It does it by creating a ticket that can be used offline.
 
 -   The trick is that we can fool the `gatherosstate.exe` about the remaining KMS activation period and manually put the desired period maximum up to 19 January 2038 03:14:07 UTC.
 
 -   Why it's limited to the year 2038?\
     It's related to the [Y2K38 problem](https://en.wikipedia.org/wiki/Year_2038_problem) as this date (19 January 2038 03:14:07 UTC) is the maximum date we can give to `gatherosstate.exe` without it looping back to the year 1970.
+
+-   How to convince the gatherosstate.exe?\
+    There are two methods for it.\
+    \
+    **1-** Place a [custom slc.dll](https://github.com/Gamers-Against-Weed/Integrated_Patcher_3) file beside gatherosstate.exe:\
+    gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather the system's info. If we place a custom slc.dll file beside gatherosstate.exe which can send the rubbish data to it, then it will simply accept it and generate a valid ticket allowing activation upto 19 January 2038 03:14:07 UTC.\
+    \
+    **2-** [Modify](https://github.com/Gamers-Against-Weed/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and we can put the activation period as we wish.
+
+-   **Note:** Latest MAS doesn't use any of these methods, instead it uses ready to use Universal ticket (check below for manual activation).
 
 **Q:** Can Microsoft block this kind of activation?\
 **A:** Not directly. They could only update Clipup to allow for a maximum activation period of 180 days. Not much besides that can be done on their part. The tickets are not sent to Microsoft at all, so they can't block them or take action directly.
@@ -103,7 +117,7 @@
 
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 
--   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems.
+-   ServerRdsh, Server Azure Datacenter editions do not [officially](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq) support activation on non-azure systems.
 
 ------------------------------------------------------------------------
 
@@ -111,10 +125,14 @@
 
 -   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
 
--   To KMS38 activate it, you need to download `ClipUp.exe` file from the below official MS link.\
-    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>
+-   To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](http://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+    \
+    `File: ClipUp.exe`\
+    `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
+    \
+    This file has digital signatures which can be verified. You can also get this file from official Windows server 2016 x64 RTM ISO.
 
--   Rename the downloaded file as `ClipUp.exe` and put it beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
+-   Put the `ClipUp.exe` beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
 
 -   Activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
 
@@ -262,9 +280,15 @@ The process here is based on Universal ticket method. Here we will create identi
 -   To make the exact ticket used in MAS KMS38 script, fix the time with below Powershell command and then initiate the ticket generation process as per above mentioned steps.\
     `$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
--   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have `clipup.exe` file. So to activate it, you need to download `ClipUp.exe` file from the below official MS link.\
-    <https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe>[\
-    ](https://msdl.microsoft.com/download/symbols/clipup.exe/5789984414b000/clipup.exe￼Rename)Rename the downloaded file as `ClipUp.exe` and put it in `C:\Windows\System32` folder and then initiate the above mentioned activation process. Once the activation is done, you can remove the file.
+-   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have `clipup.exe` file.\
+    To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](http://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+    \
+    `File: ClipUp.exe`\
+    `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
+    \
+    This file has digital signatures which can be verified. You can also get this file from official Windows server 2016 x64 RTM ISO.\
+    \
+    Put the `ClipUp.exe` in `C:\Windows\System32` folder and then initiate the above mentioned activation process. Once the activation is done, you can remove the file.
 
 ------------------------------------------------------------------------
 
@@ -278,4 +302,4 @@ The process here is based on Universal ticket method. Here we will create identi
 
 ## Troubleshooting
 
--   Reach out to us on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) with an error screenshot.
+-   Check [here](troubleshoot.html).
