@@ -37,7 +37,9 @@ Last Release - v1.8 (16-Mar-2023)\
 
 ### Method 1 - PowerShell
 
--   On Windows 10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
+(Recommended)
+
+-   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     `irm https://massgrave.dev/get | iex`
 -   You will see the activation options, and follow onscreen instructions.
@@ -45,9 +47,8 @@ Last Release - v1.8 (16-Mar-2023)\
 
 ### Method 2 - Traditional
 
--   Download the file named `MAS_1.8_Password_1234.7z` from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/releases)
--   Extract this file with a 3rd party archive manager, such as [7zip](https://www.7-zip.org/download.html)
--   Password is `1234`
+-   Download the file from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip)
+-   Right click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options, and follow onscreen instructions.
