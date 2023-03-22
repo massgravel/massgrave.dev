@@ -30,7 +30,7 @@ pagetitle: OEM Folders
 
 -   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
 
--   To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](http://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+-   To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
     \
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
