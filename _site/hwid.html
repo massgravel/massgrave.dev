@@ -365,6 +365,12 @@ div.tocify {
     <li>
       <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
     </li>
+    <li>
+      <a href="fix-wpa-registry.html">Fix WPA Registry</a>
+    </li>
+    <li>
+      <a href="licensing-servers-issue.html">Licensing Servers Issue</a>
+    </li>
     <li class="divider"></li>
     <li>
       <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
@@ -468,12 +474,19 @@ generate a valid ticket.<br />
 href="https://github.com/Gamers-Against-Weed/GamersOsState">Modify</a>
 the gatherosstate.exe file itself so that it doesn’t check the system’s
 activation status and can directly create a valid ticket.</p></li>
-<li><p><strong>Note:</strong> If you want to understand more about how
-these above mentioned both methods then check this repo <a
-href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a><br />
-Latest MAS doesn’t use any of these methods, instead it uses ready to
-use Universal tickets (check below for info).<br />
-</p></li>
+<li><p><strong>Notes:</strong></p>
+<ul>
+<li>To be clear, we are <strong>not modifying/patching any on-board
+system file</strong> to get digital license. Gatherosstate.exe is a part
+of ISO file and not available in C drive system files. System’s slc.dll
+file is not touched, instead we use custom slc.dll only for a brief
+moment of ticket generation.</li>
+<li>If you want to understand more about how these above mentioned both
+methods then check this repo <a
+href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a></li>
+<li>Latest MAS doesn’t use any of these methods, instead it uses ready
+to use Universal tickets (check below for info).</li>
+</ul></li>
 </ul>
 <hr />
 </div>
@@ -652,6 +665,17 @@ support activation on non-azure systems.</p></li>
 </ul>
 <hr />
 </div>
+<div id="how-to-remove-hwid" class="section level2">
+<h2>How to remove HWID?</h2>
+<ul>
+<li>You can not remove HWID Activation. Once a system is activated, this
+activation cannot be removed because the license is stored in the
+Microsoft servers and not in the user’s system. MS checks the hardware
+ID (HWID) and if a license is found in their database, the system will
+automatically activate.</li>
+</ul>
+<hr />
+</div>
 <div id="command-line-switches" class="section level2">
 <h2>Command line Switches</h2>
 <ul>
@@ -661,9 +685,54 @@ support activation on non-azure systems.</p></li>
 </div>
 <div id="manual-activation" class="section level2">
 <h2>Manual Activation</h2>
-<p>The process here is based on Universal ticket method. Here we will
-create identical tickets which are used in MAS HWID script and activate
-the system with it.</p>
+<p>This is for those who wants to perform manual activation. If you want
+a tool to do this for you then check <a href="index.html">here</a>.</p>
+<p>We can divide the manual activation process into two parts.</p>
+<div id="from-ready-made-ticket" class="section level3">
+<h3>1- From Ready-Made Ticket</h3>
+<ul>
+<li><p>Make sure the Internet is enabled.</p></li>
+<li><p>Open Windows Powershell as administrator, and enter the following
+listed commands in the sequence in which they are given.</p></li>
+<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
+from the above list) with the following command</p></li>
+</ul>
+<p><code>slmgr /ipk &lt;key&gt;</code></p>
+<ul>
+<li><p>Download Universal tickets from <a
+href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&amp;file_id=f_1171245497490">here</a>
+and extract the downloaded file.</p></li>
+<li><p>Now enter below code in Powershell</p></li>
+</ul>
+<p><code>(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn</code></p>
+<ul>
+<li><p>This command will you show you some text like
+<code>Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe</code></p></li>
+<li><p>You need to find the exact same name ticket file in the folder
+which you have extracted earlier.</p></li>
+<li><p>Copy that ticket file and paste it in the below folder</p>
+<p><code>C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket</code></p></li>
+<li><p>Now run below command in Powershell to apply the ticket</p></li>
+</ul>
+<p><code>clipup -v -o</code></p>
+<ul>
+<li>Activate Windows with the following command</li>
+</ul>
+<p><code>slmgr /ato</code></p>
+<ul>
+<li>Check Activation Status with the following command</li>
+</ul>
+<p><code>slmgr /xpr</code></p>
+<ul>
+<li>Done.</li>
+</ul>
+<hr />
+</div>
+<div id="from-scratch" class="section level3">
+<h3>2- From Scratch</h3>
+<p>In this process we will perform activation from scratch. This is
+based on Universal ticket method. Here we will create identical tickets
+which are used in MAS HWID script and activate the system with it.</p>
 <ul>
 <li><p>Download file from the below official MS link and extract this
 .cab file.<br />
@@ -685,7 +754,9 @@ from the above list) with the following command</p></li>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
 <li>Copy the below code all at once and enter it in PowerShell to modify
-the <code>gatherosstate.exe</code> file.</li>
+the <code>gatherosstate.exe</code> file. This code to modify the file is
+based on <a
+href="https://github.com/Gamers-Against-Weed/GamersOsState">GamersOsState</a>.</li>
 </ul>
 <!-- -->
 <pre><code>$bytes  = [System.IO.File]::ReadAllBytes(&quot;C:\Files\gatherosstate.exe&quot;)
@@ -773,11 +844,11 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;DownlevelGenuineState=1</code>
 </ul>
 <p><code>clipup -v -o -altto C:\Files\</code></p>
 <ul>
-<li>Activate Windows with the following command:</li>
+<li>Activate Windows with the following command</li>
 </ul>
 <p><code>slmgr /ato</code></p>
 <ul>
-<li>Check Activation Status with the following command:</li>
+<li>Check Activation Status with the following command</li>
 </ul>
 <p><code>slmgr /xpr</code></p>
 <ul>
@@ -794,6 +865,7 @@ mentioned steps.<br />
 <code>$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
 </ul>
 <hr />
+</div>
 </div>
 <div id="setup-preactivate" class="section level2">
 <h2>Setup Preactivate</h2>

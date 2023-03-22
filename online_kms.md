@@ -172,6 +172,16 @@ Feel free to contact us in case you have a contradictory point of view.
 
 ------------------------------------------------------------------------
 
+## How to remove Online KMS?
+
+-   In MAS, goto Online KMS activation and apply Uninstall option.
+
+-   After that, In MAS, goto Troubleshoot and apply Fix Licensing option.
+
+-   Done.
+
+------------------------------------------------------------------------
+
 ## Office 'Non-genuine' Banner
 
 -   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of the KMS server name in the registry.
