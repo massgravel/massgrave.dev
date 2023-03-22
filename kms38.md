@@ -39,7 +39,10 @@ pagetitle: KMS38 Activation
     \
     **2-** [Modify](https://github.com/Gamers-Against-Weed/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and we can put the activation period as we wish.
 
--   **Note:** Latest MAS doesn't use any of these methods, instead it uses ready to use Universal ticket (check below for manual activation).
+-   **Notes:**
+
+    -   To be clear, we are **not modifying/patching any on-board system file** to get the ticket. Gatherosstate.exe is a part of ISO file and not available in C drive system files. System's slc.dll file is not touched, instead we use custom slc.dll only for a brief moment of ticket generation.
+    -   Latest MAS doesn't use any of these methods, instead it uses ready to use Universal tickets (check below for manual activation info).
 
 **Q:** Can Microsoft block this kind of activation?\
 **A:** Not directly. They could only update Clipup to allow for a maximum activation period of 180 days. Not much besides that can be done on their part. The tickets are not sent to Microsoft at all, so they can't block them or take action directly.
@@ -121,6 +124,16 @@ pagetitle: KMS38 Activation
 
 ------------------------------------------------------------------------
 
+## How to remove KMS38?
+
+-   In MAS, goto KMS38 Activation and apply Remove KM38 Protection option.
+
+-   After that, In MAS, goto Troubleshoot and apply Fix Licensing option.
+
+-   Done.
+
+------------------------------------------------------------------------
+
 ## KMS38 - Server Cor/Acor
 
 -   Windows Server Cor/Acor (No GUI) editions don't have `clipup.exe` file.
@@ -130,7 +143,7 @@ pagetitle: KMS38 Activation
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
     \
-    This file has digital signatures which can be verified. You can also get this file from official Windows server 2016 x64 RTM ISO.
+    This file has digital signatures which can be verified. You can also get this file from official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).
 
 -   Put the `ClipUp.exe` beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
 
@@ -170,7 +183,41 @@ pagetitle: KMS38 Activation
 
 ## Manual Activation
 
-The process here is based on Universal ticket method. Here we will create identical ticket which is used in MAS KMS38 script and activate the system with it.
+This is for those who wants to perform manual activation. If you want a tool to do this for you then check [here](index.html).
+
+We can divide the manual activation process into two parts.
+
+### 1- From Ready-Made Ticket
+
+-   Open Windows Powershell as administrator, and enter the following listed commands in the sequence in which they are given.
+
+-   Enter the Key, (Replace `<key>` with the key from the above list) with the following command
+
+`slmgr /ipk <key>`
+
+-   Download Universal ticket from [here](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&file_id=f_1171245497490) and extract the downloaded file.
+
+-   Find a file named `KMS.xml` in the extracted folder.
+
+-   Copy that ticket file and paste it in the below folder
+
+    `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
+
+-   Now run below command in Powershell to apply the ticket
+
+`clipup -v -o`
+
+-   Check Activation Status with the following command
+
+`slmgr /xpr`
+
+-   Done.
+
+------------------------------------------------------------------------
+
+### 2- From Scratch
+
+In this process we will perform activation from scratch. This is based on Universal ticket method. Here we will create identical ticket which is used in MAS KMS38 script and activate the system with it.
 
 -   Download file from the below official MS link and extract this .cab file.\
     <https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab>
@@ -185,7 +232,8 @@ The process here is based on Universal ticket method. Here we will create identi
 
 `slmgr /ipk <key>`
 
--   Copy the below code all at once and enter in PowerShell to modify the `gatherosstate.exe` file.
+-   Copy the below code all at once and enter in PowerShell to modify the `gatherosstate.exe` file.\
+    This code to modify the file is based on [GamersOsState](https://github.com/Gamers-Against-Weed/GamersOsState).
 
 <!-- -->
 
@@ -286,7 +334,7 @@ The process here is based on Universal ticket method. Here we will create identi
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
     \
-    This file has digital signatures which can be verified. You can also get this file from official Windows server 2016 x64 RTM ISO.\
+    This file has digital signatures which can be verified. You can also get this file from official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).\
     \
     Put the `ClipUp.exe` in `C:\Windows\System32` folder and then initiate the above mentioned activation process. Once the activation is done, you can remove the file.
 

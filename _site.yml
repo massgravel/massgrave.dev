@@ -34,6 +34,10 @@ navbar:
         - text: "---------"
         - text: "Office License Is Not Genuine"
           href: office-license-is-not-genuine.html
+        - text: "Fix WPA Registry"
+          href: fix-wpa-registry.html
+        - text: "Licensing Servers Issue"
+          href: licensing-servers-issue.html
         - text: "---------"
         - text: "Unsupported Products Activation"
           href: unsupported_products_activation.html

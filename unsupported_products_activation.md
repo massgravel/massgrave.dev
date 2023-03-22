@@ -10,17 +10,17 @@ In this page, those products activation methods are mentioned which are not supp
 
 ## MS Office For Mac
 
--   Download Office - [Latest Office LTSC 2021](https://go.microsoft.com/fwlink/p/?linkid=2009112)
+-   Download Office - [Latest Office LTSC 2021](https://go.microsoft.com/fwlink/p/?linkid=2009112) - [Alternatives](https://macadmins.software/)
 
 -   Activator - [Office LTSC 2021 Volume License Serializer](https://app.box.com/s/hi2ejfi2qxfctcicu2qgebsz6bsgdsxc)
 
 **Notes:**
 
 -   Office download link is official from MS.
--   Activator file is also a original Microsoft file but hosted on 3rd party site by me. (Original download link requires VLSC subscription). Activator SHA1-1 checksum is `79763F7AA75E85DAE6823D0E492B43FFA4FD5886`
+-   Activator file is also a original Microsoft file but hosted on 3rd party site by me. Original download link requires VLSC subscription.
 -   To activate, install office and then run the activation file, that's all.
--   If you are facing issues in activation then make sure `only one version of Office is installed` and check [remove Office license files on a Mac](https://support.microsoft.com/office/b032c0f6-a431-4dad-83a9-6b727c03b193)
--   If issue is still not resolved then check steps to [completely remove Office](https://support.microsoft.com/office/ec3aa66e-6a76-451f-9d35-cba2e14e94c0)
+-   If you are facing issues in activation then make sure only one version of Office is installed and [remove Office licenses](https://support.microsoft.com/office/b032c0f6-a431-4dad-83a9-6b727c03b193) and apply activation file again.
+-   If issue is still not resolved then check steps to completely remove Office [here](https://office-reset.com/) and [here](https://support.microsoft.com/office/ec3aa66e-6a76-451f-9d35-cba2e14e94c0).
 
 ------------------------------------------------------------------------
 

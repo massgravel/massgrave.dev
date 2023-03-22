@@ -23,7 +23,7 @@ pagetitle: Licensing Servers Issue
 
 ## Fix DNS
 
--   Download the `Fix_DNS.zip` file from [here](http://www.box.com/index.php?rm=box_download_shared_file&shared_name=4c66hw8ezuijy5j0trwczy860sf825i7&file_id=f_1146300205040).
+-   Download the `Fix_DNS.zip` file from [here](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=4c66hw8ezuijy5j0trwczy860sf825i7&file_id=f_1146300205040).
 
 -   Extract the zip file and right click on `Fix_DNS.cmd` file and run it as admin.
 

@@ -50,8 +50,11 @@ pagetitle: HWID Activation
     \
     **2-** [Modify](https://github.com/Gamers-Against-Weed/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and can directly create a valid ticket.
 
--   **Note:** If you want to understand more about how these above mentioned both methods then check this repo [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods)\
-    Latest MAS doesn't use any of these methods, instead it uses ready to use Universal tickets (check below for info).\
+-   **Notes:**
+
+    -   To be clear, we are **not modifying/patching any on-board system file** to get digital license. Gatherosstate.exe is a part of ISO file and not available in C drive system files. System's slc.dll file is not touched, instead we use custom slc.dll only for a brief moment of ticket generation.
+    -   If you want to understand more about how these above mentioned both methods then check this repo [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods)
+    -   Latest MAS doesn't use any of these methods, instead it uses ready to use Universal tickets (check below for info).
 
 ------------------------------------------------------------------------
 
@@ -119,6 +122,12 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ------------------------------------------------------------------------
 
+## How to remove HWID?
+
+-   You can not remove HWID Activation. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+
+------------------------------------------------------------------------
+
 ## Command line Switches
 
 -   Check [here](command_line_switches.html).
@@ -127,7 +136,53 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ## Manual Activation
 
-The process here is based on Universal ticket method. Here we will create identical tickets which are used in MAS HWID script and activate the system with it.
+This is for those who wants to perform manual activation. If you want a tool to do this for you then check [here](index.html).
+
+We can divide the manual activation process into two parts.
+
+### 1- From Ready-Made Ticket
+
+-   Make sure the Internet is enabled.
+
+-   Open Windows Powershell as administrator, and enter the following listed commands in the sequence in which they are given.
+
+-   Enter the Key, (Replace `<key>` with the key from the above list) with the following command
+
+`slmgr /ipk <key>`
+
+-   Download Universal tickets from [here](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&file_id=f_1171245497490) and extract the downloaded file.
+
+-   Now enter below code in Powershell
+
+`(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn`
+
+-   This command will you show you some text like `Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe`
+
+-   You need to find the exact same name ticket file in the folder which you have extracted earlier.
+
+-   Copy that ticket file and paste it in the below folder
+
+    `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
+
+-   Now run below command in Powershell to apply the ticket
+
+`clipup -v -o`
+
+-   Activate Windows with the following command
+
+`slmgr /ato`
+
+-   Check Activation Status with the following command
+
+`slmgr /xpr`
+
+-   Done.
+
+------------------------------------------------------------------------
+
+### 2- From Scratch
+
+In this process we will perform activation from scratch. This is based on Universal ticket method. Here we will create identical tickets which are used in MAS HWID script and activate the system with it.
 
 -   Download file from the below official MS link and extract this .cab file.\
     <https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab>
@@ -144,7 +199,7 @@ The process here is based on Universal ticket method. Here we will create identi
 
 `slmgr /ipk <key>`
 
--   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file.
+-   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file. This code to modify the file is based on [GamersOsState](https://github.com/Gamers-Against-Weed/GamersOsState).
 
 <!-- -->
 
@@ -230,11 +285,11 @@ The process here is based on Universal ticket method. Here we will create identi
 
 `clipup -v -o -altto C:\Files\`
 
--   Activate Windows with the following command:
+-   Activate Windows with the following command
 
 `slmgr /ato`
 
--   Check Activation Status with the following command:
+-   Check Activation Status with the following command
 
 `slmgr /xpr`
 

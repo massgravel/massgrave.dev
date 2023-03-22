@@ -20,8 +20,14 @@ pagetitle: FAQ
 -   **I changed my Windows edition from Home to Pro and now Windows is deactivated.**\
     Run HWID activation to activate Pro. Each edition requires separate activation.
 
--   **How to remove HWID activation from my system?**\
+-   **How to remove HWID activation?**\
     You can not. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+
+-   **How to remove KMS38 activation?**\
+    Check [here](kms38.html#How_to_remove_KMS38).
+
+-   **How to remove Online KMS Activation (Office Activation)?**\
+    Check [here](online_kms.html#How_to_remove_Online_KMS).
 
 -   **Is MAS safe? How to know if there is any malware?**\
     MAS is fully [open source](https://github.com/massgravel/Microsoft-Activation-Scripts). You can open the batch files with notepad and verify it. It has many users/stars on Github. You can even perform the activation manually, check Doc section for instructions.
@@ -49,6 +55,9 @@ pagetitle: FAQ
 
 -   **Can I activate Office 365?**\
     O365 can not be activated with KMS. To activate it, the script installs Mondo 2016 licenses and activates that. This license is near to O365 feature-wise, you can get offline features of O365 but you can't get Online features of O365.
+
+-   **Can I get Co-Pilot feature in Office 365 with Mondo License?**\
+    At the time of writing, this feature is in testing period and not available to all 365 users. And as stated in above question, all online features are not available in Mondo License, so most likely it won't work.
 
 -   **I'm getting 'Office is not genuine banner'.**\
     Run Online KMS from the latest MAS version.
