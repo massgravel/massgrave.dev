@@ -38,4 +38,4 @@ After that office installer won't show any such errors. You can apply this befor
 
 ------------------------------------------------------------------------
 
-Please let us [know](contactus.html) if you face any issues. Thanks to [Paul Mercer](https://forums.mydigitallife.net/members/paul-mercer.1051689/) for help in getting Russian IP and co-testing.
+Please let us [know](contactus.html) if you face any issues or have any suggestions.
