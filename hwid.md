@@ -12,13 +12,13 @@ pagetitle: HWID Activation
 
 -   This activation is supported for Windows 10/11 only.
 
--   This activation does not store any files in your system.
+-   This activation does not store or modify/patch any files in your system.
 
 -   This activation is a permanent activation for your system Hardware.
 
 -   On a system, this activation can be created for all the supported editions, and all can be linked to Microsoft account without any issues.
 
--   Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+-   Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate. This is how official digital license works.
 
 -   Any significant changes in the Hardware (such as a motherboard) may deactivate the system. It is possible to reactivate a system that was deactivated because of significant hardware changes, IF your activation, was linked to an online Microsoft account.
 
@@ -124,7 +124,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ## How to remove HWID?
 
--   You can not remove HWID Activation. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+-   You can not remove it, same as you can not remove official Windows digital (HWID) license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
 
 ------------------------------------------------------------------------
 
