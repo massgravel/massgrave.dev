@@ -32,6 +32,8 @@ navbar:
         - text: "Install HWID Key"
           href: install_hwid_key.html
         - text: "---------"
+        - text: "Bypass Russian Geoblock"
+          href: bypass-russian-geoblock.html
         - text: "Office License Is Not Genuine"
           href: office-license-is-not-genuine.html
         - text: "Fix WPA Registry"

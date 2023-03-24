@@ -20,6 +20,8 @@ pagetitle: Office C2R Custom Install
 
 -   Please note that in the official C2R office custom installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing the customized office.
 
+-   Russian users needs to follow [this guide](bypass-russian-geoblock.html) to bypass geoblock in Office downloading.
+
 ------------------------------------------------------------------------
 
 ## Custom Installation Guide

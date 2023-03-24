@@ -21,7 +21,7 @@ pagetitle: FAQ
     Run HWID activation to activate Pro. Each edition requires separate activation.
 
 -   **How to remove HWID activation?**\
-    You can not. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+    You can not remove it, same as you can not remove official Windows digital (HWID) license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
 
 -   **How to remove KMS38 activation?**\
     Check [here](kms38.html#How_to_remove_KMS38).
@@ -49,6 +49,9 @@ pagetitle: FAQ
 
 -   **Can I update Windows/Office after activation?**\
     Yes.
+
+-   **I'm in Russia and Office is not downloading.**\
+    Check this [guide](bypass-russian-geoblock.html).
 
 -   **How to change Windows 10/11 Home to Pro?**\
     Use the change edition option in the Extras section in MAS.
