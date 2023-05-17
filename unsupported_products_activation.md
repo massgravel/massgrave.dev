@@ -10,9 +10,12 @@ In this page, those products activation methods are mentioned which are not supp
 
 ## MS Office For Mac
 
--   Download Office - [Latest Office LTSC 2021](https://go.microsoft.com/fwlink/p/?linkid=2009112) - [Alternatives](https://macadmins.software/)
+-   Download Office 2021 - [Latest Office 2021](https://go.microsoft.com/fwlink/p/?linkid=2009112) - [More Options](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - [Alternative](https://macadmins.software/)
 
--   Activator - [Office LTSC 2021 Volume License Serializer](https://app.box.com/s/hi2ejfi2qxfctcicu2qgebsz6bsgdsxc)
+-   Office 2021 Activator - [Link](https://app.box.com/s/hi2ejfi2qxfctcicu2qgebsz6bsgdsxc)
+
+-   Office 2016 & Activator - [Link](https://drive.google.com/uc?export=download&id=1sZdFvQWPPacP3_oCJyBB4W8Gej3nsnee) (For older Mac versions)\
+    `SHA-256: 71e63badbf1e22b2416f8784c3a480b26e0e1ac2be30a6b3fdacaa089ef95ce6`
 
 **Notes:**
 
@@ -46,6 +49,14 @@ Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydig
 UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
 
 **Note:** These loader/slic activators sometimes may cause the system boot issue.
+
+------------------------------------------------------------------------
+
+## Windows XP SP3
+
+-   Download Genuine Pro VL x86 - [Link](https://archive.org/download/windows-xp-professional-collection-multilanguages)
+
+-   Activation Key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 
 ------------------------------------------------------------------------
 
