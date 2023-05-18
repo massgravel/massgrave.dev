@@ -6,16 +6,16 @@ pagetitle: Genuine Installation Media
 
 All download links leads to genuine files only.
 
-| **Windows**                             |                                                                                                                   |
+| **Windows**                             |                                                                                                 |
 |:----------------------------|:------------------------------------------|
-| Windows 11 / 10 / 8.1                   | [Link1](https://www.microsoft.com/software-download) - [Link2](https://ave9858.github.io/msdl/)                   |
-| Windows 10 Enterprise LTSC              | [Link1](windows_ltsc_links.html) - [Link2](https://opendirectory.luzea.de/luzea/Windows_10_Enterprise_LTSC_2021/) |
-| Windows 7                               | [Link1](https://pastebin.com/raw/Hk2RgYzF)                                                                        |
-| Windows Server                          | [Link1](https://opendirectory.luzea.de/GezoeSloog/OS/NT10/2108_20348/0169/)                                       |
-| **Office**                              |                                                                                                                   |
-| Office C2R Installers (Retail)          | [Link1](office_c2r_links.html) (Easy to install)                                                                  |
-| Office C2R Custom Install (Retail / VL) | [Link1](office_c2r_custom.html) (Requires more steps, allows customization)                                       |
-| Office MSI VL (Old versions)            | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                                       |
+| Windows 11 / 10 / 8.1                   | [Link1](https://www.microsoft.com/software-download) - [Link2](https://ave9858.github.io/msdl/) |
+| Windows 10 Enterprise LTSC              | [Link1](windows_ltsc_links.html)                                                                |
+| Windows 7                               | [Link1](https://pastebin.com/raw/Hk2RgYzF)                                                      |
+| Windows Server                          | [Link1](windows_server_links.html)                                                              |
+| **Office**                              |                                                                                                 |
+| Office C2R Installers (Retail)          | [Link1](office_c2r_links.html) (Easy to install)                                                |
+| Office C2R Custom Install (Retail / VL) | [Link1](office_c2r_custom.html) (Requires more steps, allows customization)                     |
+| Office MSI VL (Old versions)            | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                     |
 
 Full collection through SVF files can be found [here](https://pastebin.com/raw/Hk2RgYzF).\
 Thanks to GezoeSloog, Luzea, Enthousiast, abbodi1406 for providing download links.

@@ -2,7 +2,7 @@
 pagetitle: Windows LTSC Download Links
 ---
 
-# Windows LTSC Download Links
+# Windows LTSC Download
 
 All download links leads to genuine files only.
 
@@ -30,45 +30,45 @@ All download links leads to genuine files only.
 
 ## Windows Enterprise LTSC 2021
 
-| Filename                                                           | Link                                      |
-|---------------------------------------------------------|-----------|
-| `en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso`   | [Link](https://pixeldrain.com/u/6y73DJZ2) |
-| `en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso` | [Link](https://pixeldrain.com/u/sCLkA2Pi) |
-| `en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso`       | [Link](https://pixeldrain.com/u/Swogqna5) |
-| `ar-sa_windows_10_enterprise_ltsc_2021_x64_dvd_60bc2a7a.iso`       | [Link](https://pixeldrain.com/u/YM89K9nZ) |
-| `bg-bg_windows_10_enterprise_ltsc_2021_x64_dvd_b0887275.iso`       | [Link](https://pixeldrain.com/u/Ny9GrbGP) |
-| `cs-cz_windows_10_enterprise_ltsc_2021_x64_dvd_d624c653.iso`       | [Link](https://pixeldrain.com/u/6wEzKN4X) |
-| `da-dk_windows_10_enterprise_ltsc_2021_x64_dvd_6ec511bb.iso`       | [Link](https://pixeldrain.com/u/xNXSFsmC) |
-| `de-de_windows_10_enterprise_ltsc_2021_x64_dvd_71796d33.iso`       | [Link](https://pixeldrain.com/u/uA3UJjPb) |
-| `el-gr_windows_10_enterprise_ltsc_2021_x64_dvd_c83eab34.iso`       | [Link](https://pixeldrain.com/u/UgUN935Z) |
-| `en-gb_windows_10_enterprise_ltsc_2021_x64_dvd_7fe51fe8.iso`       | [Link](https://pixeldrain.com/u/SRn7vWzp) |
-| `es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso`       | [Link](https://pixeldrain.com/u/TBFepMTC) |
-| `es-mx_windows_10_enterprise_ltsc_2021_x64_dvd_f6aaf384.iso`       | [Link](https://pixeldrain.com/u/3JP1YGKK) |
-| `et-ee_windows_10_enterprise_ltsc_2021_x64_dvd_012a5c50.iso`       | [Link](https://pixeldrain.com/u/bkW7i7R8) |
-| `fi-fi_windows_10_enterprise_ltsc_2021_x64_dvd_551582d9.iso`       | [Link](https://pixeldrain.com/u/iV9KahUo) |
-| `fr-ca_windows_10_enterprise_ltsc_2021_x64_dvd_2770e649.iso`       | [Link](https://pixeldrain.com/u/qwmP8V3x) |
-| `fr-fr_windows_10_enterprise_ltsc_2021_x64_dvd_bda01eb0.iso`       | [Link](https://pixeldrain.com/u/evk8f2uW) |
-| `he-il_windows_10_enterprise_ltsc_2021_x64_dvd_3a55ecd6.iso`       | [Link](https://pixeldrain.com/u/NzRBxu4e) |
-| `hr-hr_windows_10_enterprise_ltsc_2021_x64_dvd_f5085b75.iso`       | [Link](https://pixeldrain.com/u/UiabigLF) |
-| `hu-hu_windows_10_enterprise_ltsc_2021_x64_dvd_d541ddb3.iso`       | [Link](https://pixeldrain.com/u/sEFhaCHo) |
-| `it-it_windows_10_enterprise_ltsc_2021_x64_dvd_0c1aa034.iso`       | [Link](https://pixeldrain.com/u/gq9Vae3T) |
-| `ja-jp_windows_10_enterprise_ltsc_2021_x64_dvd_ef58c6a1.iso`       | [Link](https://pixeldrain.com/u/4iZAwScU) |
-| `ko-kr_windows_10_enterprise_ltsc_2021_x64_dvd_6d26f398.iso`       | [Link](https://pixeldrain.com/u/gnYfV22L) |
-| `lt-lt_windows_10_enterprise_ltsc_2021_x64_dvd_9ffbbd5b.iso`       | [Link](https://pixeldrain.com/u/Jjsv7CbA) |
-| `lv-lv_windows_10_enterprise_ltsc_2021_x64_dvd_6c89d2e0.iso`       | [Link](https://pixeldrain.com/u/UP5Q6eka) |
-| `nb-no_windows_10_enterprise_ltsc_2021_x64_dvd_c65c51a5.iso`       | [Link](https://pixeldrain.com/u/sA69ziPV) |
-| `nl-nl_windows_10_enterprise_ltsc_2021_x64_dvd_88f53466.iso`       | [Link](https://pixeldrain.com/u/FKHBaEN8) |
-| `pl-pl_windows_10_enterprise_ltsc_2021_x64_dvd_eff40776.iso`       | [Link](https://pixeldrain.com/u/wzTgkknf) |
-| `pt-br_windows_10_enterprise_ltsc_2021_x64_dvd_f318268e.iso`       | [Link](https://pixeldrain.com/u/gpG9waPm) |
-| `pt-pt_windows_10_enterprise_ltsc_2021_x64_dvd_f2e9b6a0.iso`       | [Link](https://pixeldrain.com/u/othrp6Hj) |
-| `ro-ro_windows_10_enterprise_ltsc_2021_x64_dvd_ae2284d6.iso`       | [Link](https://pixeldrain.com/u/38CGxhS1) |
-| `ru-ru_windows_10_enterprise_ltsc_2021_x64_dvd_5044a1e7.iso`       | [Link](https://pixeldrain.com/u/EPtNURJz) |
-| `sk-sk_windows_10_enterprise_ltsc_2021_x64_dvd_d6c64c5f.iso`       | [Link](https://pixeldrain.com/u/aiyZ5Hc1) |
-| `sl-si_windows_10_enterprise_ltsc_2021_x64_dvd_ec090386.iso`       | [Link](https://pixeldrain.com/u/ndBYjmxY) |
-| `sr-latn-rs_windows_10_enterprise_ltsc_2021_x64_dvd_2d2f8815.iso`  | [Link](https://pixeldrain.com/u/A12NoGrY) |
-| `sv-se_windows_10_enterprise_ltsc_2021_x64_dvd_9a28bb6b.iso`       | [Link](https://pixeldrain.com/u/6VSJVCRg) |
-| `th-th_windows_10_enterprise_ltsc_2021_x64_dvd_b7ed34d6.iso`       | [Link](https://pixeldrain.com/u/MH4zyo6o) |
-| `tr-tr_windows_10_enterprise_ltsc_2021_x64_dvd_e55b1896.iso`       | [Link](https://pixeldrain.com/u/GB4EriaX) |
-| `uk-ua_windows_10_enterprise_ltsc_2021_x64_dvd_816da3c3.iso`       | [Link](https://pixeldrain.com/u/Dk8PFvFA) |
-| `zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`       | [Link](https://pixeldrain.com/u/s67vP5PG) |
-| `zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso`       | [Link](https://pixeldrain.com/u/AVXJfgn3) |
+| Filename                                                           | Link 1                                                                                                                                    | Link 2                                      |
+|-------------------------------------------------------|--------|--------|
+| `en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso`   | [Link 1](https://iso.massgrave.dev/db46b5c7-f3c5-4ed3-9fe2-28343ce1c621/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   | [Link 2](https://pixeldrain.com/u/6y73DJZ2) |
+| `en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso` | [Link 1](https://iso.massgrave.dev/db46b5c7-f3c5-4ed3-9fe2-28343ce1c621/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) | [Link 2](https://pixeldrain.com/u/sCLkA2Pi) |
+| `en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso)       | [Link 2](https://pixeldrain.com/u/Swogqna5) |
+| `ar-sa_windows_10_enterprise_ltsc_2021_x64_dvd_60bc2a7a.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/ar-sa_windows_10_enterprise_ltsc_2021_x64_dvd_60bc2a7a.iso)       | [Link 2](https://pixeldrain.com/u/YM89K9nZ) |
+| `bg-bg_windows_10_enterprise_ltsc_2021_x64_dvd_b0887275.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/bg-bg_windows_10_enterprise_ltsc_2021_x64_dvd_b0887275.iso)       | [Link 2](https://pixeldrain.com/u/Ny9GrbGP) |
+| `cs-cz_windows_10_enterprise_ltsc_2021_x64_dvd_d624c653.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/cs-cz_windows_10_enterprise_ltsc_2021_x64_dvd_d624c653.iso)       | [Link 2](https://pixeldrain.com/u/6wEzKN4X) |
+| `da-dk_windows_10_enterprise_ltsc_2021_x64_dvd_6ec511bb.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/da-dk_windows_10_enterprise_ltsc_2021_x64_dvd_6ec511bb.iso)       | [Link 2](https://pixeldrain.com/u/xNXSFsmC) |
+| `de-de_windows_10_enterprise_ltsc_2021_x64_dvd_71796d33.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/de-de_windows_10_enterprise_ltsc_2021_x64_dvd_71796d33.iso)       | [Link 2](https://pixeldrain.com/u/uA3UJjPb) |
+| `el-gr_windows_10_enterprise_ltsc_2021_x64_dvd_c83eab34.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/el-gr_windows_10_enterprise_ltsc_2021_x64_dvd_c83eab34.iso)       | [Link 2](https://pixeldrain.com/u/UgUN935Z) |
+| `en-gb_windows_10_enterprise_ltsc_2021_x64_dvd_7fe51fe8.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/en-gb_windows_10_enterprise_ltsc_2021_x64_dvd_7fe51fe8.iso)       | [Link 2](https://pixeldrain.com/u/SRn7vWzp) |
+| `es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso)       | [Link 2](https://pixeldrain.com/u/TBFepMTC) |
+| `es-mx_windows_10_enterprise_ltsc_2021_x64_dvd_f6aaf384.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/es-mx_windows_10_enterprise_ltsc_2021_x64_dvd_f6aaf384.iso)       | [Link 2](https://pixeldrain.com/u/3JP1YGKK) |
+| `et-ee_windows_10_enterprise_ltsc_2021_x64_dvd_012a5c50.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/et-ee_windows_10_enterprise_ltsc_2021_x64_dvd_012a5c50.iso)       | [Link 2](https://pixeldrain.com/u/bkW7i7R8) |
+| `fi-fi_windows_10_enterprise_ltsc_2021_x64_dvd_551582d9.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/fi-fi_windows_10_enterprise_ltsc_2021_x64_dvd_551582d9.iso)       | [Link 2](https://pixeldrain.com/u/iV9KahUo) |
+| `fr-ca_windows_10_enterprise_ltsc_2021_x64_dvd_2770e649.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/fr-ca_windows_10_enterprise_ltsc_2021_x64_dvd_2770e649.iso)       | [Link 2](https://pixeldrain.com/u/qwmP8V3x) |
+| `fr-fr_windows_10_enterprise_ltsc_2021_x64_dvd_bda01eb0.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/fr-fr_windows_10_enterprise_ltsc_2021_x64_dvd_bda01eb0.iso)       | [Link 2](https://pixeldrain.com/u/evk8f2uW) |
+| `he-il_windows_10_enterprise_ltsc_2021_x64_dvd_3a55ecd6.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/he-il_windows_10_enterprise_ltsc_2021_x64_dvd_3a55ecd6.iso)       | [Link 2](https://pixeldrain.com/u/NzRBxu4e) |
+| `hr-hr_windows_10_enterprise_ltsc_2021_x64_dvd_f5085b75.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/hr-hr_windows_10_enterprise_ltsc_2021_x64_dvd_f5085b75.iso)       | [Link 2](https://pixeldrain.com/u/UiabigLF) |
+| `hu-hu_windows_10_enterprise_ltsc_2021_x64_dvd_d541ddb3.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/hu-hu_windows_10_enterprise_ltsc_2021_x64_dvd_d541ddb3.iso)       | [Link 2](https://pixeldrain.com/u/sEFhaCHo) |
+| `it-it_windows_10_enterprise_ltsc_2021_x64_dvd_0c1aa034.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/it-it_windows_10_enterprise_ltsc_2021_x64_dvd_0c1aa034.iso)       | [Link 2](https://pixeldrain.com/u/gq9Vae3T) |
+| `ja-jp_windows_10_enterprise_ltsc_2021_x64_dvd_ef58c6a1.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/ja-jp_windows_10_enterprise_ltsc_2021_x64_dvd_ef58c6a1.iso)       | [Link 2](https://pixeldrain.com/u/4iZAwScU) |
+| `ko-kr_windows_10_enterprise_ltsc_2021_x64_dvd_6d26f398.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/ko-kr_windows_10_enterprise_ltsc_2021_x64_dvd_6d26f398.iso)       | [Link 2](https://pixeldrain.com/u/gnYfV22L) |
+| `lt-lt_windows_10_enterprise_ltsc_2021_x64_dvd_9ffbbd5b.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/lt-lt_windows_10_enterprise_ltsc_2021_x64_dvd_9ffbbd5b.iso)       | [Link 2](https://pixeldrain.com/u/Jjsv7CbA) |
+| `lv-lv_windows_10_enterprise_ltsc_2021_x64_dvd_6c89d2e0.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/lv-lv_windows_10_enterprise_ltsc_2021_x64_dvd_6c89d2e0.iso)       | [Link 2](https://pixeldrain.com/u/UP5Q6eka) |
+| `nb-no_windows_10_enterprise_ltsc_2021_x64_dvd_c65c51a5.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/nb-no_windows_10_enterprise_ltsc_2021_x64_dvd_c65c51a5.iso)       | [Link 2](https://pixeldrain.com/u/sA69ziPV) |
+| `nl-nl_windows_10_enterprise_ltsc_2021_x64_dvd_88f53466.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/nl-nl_windows_10_enterprise_ltsc_2021_x64_dvd_88f53466.iso)       | [Link 2](https://pixeldrain.com/u/FKHBaEN8) |
+| `pl-pl_windows_10_enterprise_ltsc_2021_x64_dvd_eff40776.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/pl-pl_windows_10_enterprise_ltsc_2021_x64_dvd_eff40776.iso)       | [Link 2](https://pixeldrain.com/u/wzTgkknf) |
+| `pt-br_windows_10_enterprise_ltsc_2021_x64_dvd_f318268e.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/pt-br_windows_10_enterprise_ltsc_2021_x64_dvd_f318268e.iso)       | [Link 2](https://pixeldrain.com/u/gpG9waPm) |
+| `pt-pt_windows_10_enterprise_ltsc_2021_x64_dvd_f2e9b6a0.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/pt-pt_windows_10_enterprise_ltsc_2021_x64_dvd_f2e9b6a0.iso)       | [Link 2](https://pixeldrain.com/u/othrp6Hj) |
+| `ro-ro_windows_10_enterprise_ltsc_2021_x64_dvd_ae2284d6.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/ro-ro_windows_10_enterprise_ltsc_2021_x64_dvd_ae2284d6.iso)       | [Link 2](https://pixeldrain.com/u/38CGxhS1) |
+| `ru-ru_windows_10_enterprise_ltsc_2021_x64_dvd_5044a1e7.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/ru-ru_windows_10_enterprise_ltsc_2021_x64_dvd_5044a1e7.iso)       | [Link 2](https://pixeldrain.com/u/EPtNURJz) |
+| `sk-sk_windows_10_enterprise_ltsc_2021_x64_dvd_d6c64c5f.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/sk-sk_windows_10_enterprise_ltsc_2021_x64_dvd_d6c64c5f.iso)       | [Link 2](https://pixeldrain.com/u/aiyZ5Hc1) |
+| `sl-si_windows_10_enterprise_ltsc_2021_x64_dvd_ec090386.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/sl-si_windows_10_enterprise_ltsc_2021_x64_dvd_ec090386.iso)       | [Link 2](https://pixeldrain.com/u/ndBYjmxY) |
+| `sr-latn-rs_windows_10_enterprise_ltsc_2021_x64_dvd_2d2f8815.iso`  | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/sr-latn-rs_windows_10_enterprise_ltsc_2021_x64_dvd_2d2f8815.iso)  | [Link 2](https://pixeldrain.com/u/A12NoGrY) |
+| `sv-se_windows_10_enterprise_ltsc_2021_x64_dvd_9a28bb6b.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/sv-se_windows_10_enterprise_ltsc_2021_x64_dvd_9a28bb6b.iso)       | [Link 2](https://pixeldrain.com/u/6VSJVCRg) |
+| `th-th_windows_10_enterprise_ltsc_2021_x64_dvd_b7ed34d6.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/th-th_windows_10_enterprise_ltsc_2021_x64_dvd_b7ed34d6.iso)       | [Link 2](https://pixeldrain.com/u/MH4zyo6o) |
+| `tr-tr_windows_10_enterprise_ltsc_2021_x64_dvd_e55b1896.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/tr-tr_windows_10_enterprise_ltsc_2021_x64_dvd_e55b1896.iso)       | [Link 2](https://pixeldrain.com/u/GB4EriaX) |
+| `uk-ua_windows_10_enterprise_ltsc_2021_x64_dvd_816da3c3.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/uk-ua_windows_10_enterprise_ltsc_2021_x64_dvd_816da3c3.iso)       | [Link 2](https://pixeldrain.com/u/Dk8PFvFA) |
+| `zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso)       | [Link 2](https://pixeldrain.com/u/s67vP5PG) |
+| `zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso`       | [Link 1](https://iso.massgrave.dev/1b343833-5b5d-47bf-8f98-c451b839ba7d/zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso)       | [Link 2](https://pixeldrain.com/u/AVXJfgn3) |
