@@ -6,16 +6,18 @@ pagetitle: Genuine Installation Media
 
 All download links leads to genuine files only.
 
-| **Windows**                             |                                                                                                 |
-|:----------------------------|:------------------------------------------|
-| Windows 11 / 10 / 8.1                   | [Link1](https://www.microsoft.com/software-download) - [Link2](https://ave9858.github.io/msdl/) |
-| Windows 10 Enterprise LTSC              | [Link1](windows_ltsc_links.html)                                                                |
-| Windows 7                               | [Link1](https://pastebin.com/raw/Hk2RgYzF)                                                      |
-| Windows Server                          | [Link1](windows_server_links.html)                                                              |
-| **Office**                              |                                                                                                 |
-| Office C2R Installers (Retail)          | [Link1](office_c2r_links.html) (Easy to install)                                                |
-| Office C2R Custom Install (Retail / VL) | [Link1](office_c2r_custom.html) (Requires more steps, allows customization)                     |
-| Office MSI VL (Old versions)            | [Link1](https://opendirectory.luzea.de/Enthousiast/Office/)                                     |
+| **Windows**                             |                                                                                                                                                                               |
+|:--------------------------------|:------------------------------------|
+| Windows 11 / 10 / 8.1 (Consumer) ❤️     | [Link1](https://www.microsoft.com/software-download) - [Link2](https://ave9858.github.io/msdl/)                                                                               |
+| Windows 11 / 10 (Business)              | [Link](windows_business_links.html)                                                                                                                                           |
+| Windows 10 Enterprise LTSC              | [Link](windows_ltsc_links.html)                                                                                                                                               |
+| Windows 7                               | [Link](https://pastebin.com/raw/Hk2RgYzF)                                                                                                                                     |
+| Windows Server                          | [Link](windows_server_links.html)                                                                                                                                             |
+| Windows Insider                         | [10/11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |
+| **Office**                              |                                                                                                                                                                               |
+| Office C2R Installers (Retail) ❤️       | [Link](office_c2r_links.html) (Easy to install)                                                                                                                               |
+| Office C2R Custom Install (Retail / VL) | [Link](office_c2r_custom.html) (Requires more steps, allows customization)                                                                                                    |
+| Office MSI VL (Old versions)            | [Link](https://opendirectory.luzea.de/Enthousiast/Office/)                                                                                                                    |
 
 Full collection through SVF files can be found [here](https://pastebin.com/raw/Hk2RgYzF).\
 Thanks to GezoeSloog, Luzea, Enthousiast, abbodi1406 for providing download links.

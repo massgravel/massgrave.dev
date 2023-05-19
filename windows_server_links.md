@@ -23,7 +23,7 @@ All download links leads to genuine files only.
 ## Windows Server 2022
 
 | Filename                                         | Link                                                                                                                  |
-|----------------------------------------------|-----------|
+|---------------------------------------------------------------|-------|
 | `en-us_windows_server_2022_x64_dvd_620d7eac.iso` | [Link](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/en-us_windows_server_2022_x64_dvd_620d7eac.iso) |
 | `cs-cz_windows_server_2022_x64_dvd_9cc09859.iso` | [Link](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/cs-cz_windows_server_2022_x64_dvd_9cc09859.iso) |
 | `de-de_windows_server_2022_x64_dvd_e2c1874e.iso` | [Link](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/de-de_windows_server_2022_x64_dvd_e2c1874e.iso) |
