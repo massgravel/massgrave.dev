@@ -1,0 +1,1 @@
+document.cookie = "cache-control=no-cache, no-store, must-revalidate, max-age=0";
