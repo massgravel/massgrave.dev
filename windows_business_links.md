@@ -26,48 +26,48 @@ All download links leads to genuine files only.
 
 ## Windows 11 Business 22H2
 
-(Build - 22621.525)
+(Build - 22621.1702)
 
-| Filename                                                                                     | Link                                                                                                                                                              |
-|----------------------------------------------------------------|-------|
-| `ar-sa_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_305b2eb7.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/ar-sa_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_305b2eb7.iso)      |
-| `bg-bg_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_2227d8b4.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/bg-bg_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_2227d8b4.iso)      |
-| `cs-cz_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_3388666c.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/cs-cz_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_3388666c.iso)      |
-| `da-dk_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a9df2271.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/da-dk_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a9df2271.iso)      |
-| `de-de_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_f8112fb1.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/de-de_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_f8112fb1.iso)      |
-| `el-gr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6b569223.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/el-gr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6b569223.iso)      |
-| `en-gb_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_8b0ee4bc.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/en-gb_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_8b0ee4bc.iso)      |
-| `en-us_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_840da535.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/en-us_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_840da535.iso)      |
-| `es-es_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_4af4940c.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/es-es_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_4af4940c.iso)      |
-| `es-mx_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_d9d8379d.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/es-mx_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_d9d8379d.iso)      |
-| `et-ee_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6c0f0855.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/et-ee_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6c0f0855.iso)      |
-| `fi-fi_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a610ebf6.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/fi-fi_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a610ebf6.iso)      |
-| `fr-ca_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_ce591c90.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/fr-ca_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_ce591c90.iso)      |
-| `fr-fr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_e4d5e682.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/fr-fr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_e4d5e682.iso)      |
-| `he-il_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_45fcfa0b.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/he-il_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_45fcfa0b.iso)      |
-| `hr-hr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_eb4c37c5.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/hr-hr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_eb4c37c5.iso)      |
-| `hu-hu_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_ade5752f.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/hu-hu_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_ade5752f.iso)      |
-| `it-it_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6218b464.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/it-it_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_6218b464.iso)      |
-| `ja-jp_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_cfacf49b.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/ja-jp_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_cfacf49b.iso)      |
-| `ko-kr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_f2206280.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/ko-kr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_f2206280.iso)      |
-| `lt-lt_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_e0b6033b.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/lt-lt_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_e0b6033b.iso)      |
-| `lv-lv_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_db59241e.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/lv-lv_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_db59241e.iso)      |
-| `nb-no_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_27f8ab8b.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/nb-no_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_27f8ab8b.iso)      |
-| `nl-nl_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_2590b9af.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/nl-nl_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_2590b9af.iso)      |
-| `pl-pl_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a330f725.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/pl-pl_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_a330f725.iso)      |
-| `pt-br_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_7013fe38.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/pt-br_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_7013fe38.iso)      |
-| `pt-pt_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_bb560487.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/pt-pt_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_bb560487.iso)      |
-| `ro-ro_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_42a6b794.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/ro-ro_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_42a6b794.iso)      |
-| `ru-ru_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_cec00c8c.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/ru-ru_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_cec00c8c.iso)      |
-| `sk-sk_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_0133f49a.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/sk-sk_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_0133f49a.iso)      |
-| `sl-si_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_68bad8c3.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/sl-si_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_68bad8c3.iso)      |
-| `sr-latn-rs_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_c46addbd.iso` | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/sr-latn-rs_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_c46addbd.iso) |
-| `sv-se_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_b1fe3895.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/sv-se_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_b1fe3895.iso)      |
-| `th-th_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_8c4dd377.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/th-th_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_8c4dd377.iso)      |
-| `tr-tr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_053a457a.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/tr-tr_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_053a457a.iso)      |
-| `uk-ua_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_c9e60ce8.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/uk-ua_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_c9e60ce8.iso)      |
-| `zh-cn_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_515a832b.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/zh-cn_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_515a832b.iso)      |
-| `zh-tw_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_0c66c6b6.iso`      | [Link](https://iso.massgrave.dev/8b0b7495-fb91-4289-a110-ad8fab1dd259/zh-tw_windows_11_business_editions_version_22h2_updated_sep_2022_x64_dvd_0c66c6b6.iso)      |
+| Filename                                                                                     | Link                                        |
+|----------------------------------------------------------------|--------|
+| `ar-sa_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_0f94dff0.iso`      | [Link 1](https://pixeldrain.com/u/mG4uMHBi) |
+| `bg-bg_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_f6997710.iso`      | [Link 1](https://pixeldrain.com/u/t5Lk8pGn) |
+| `cs-cz_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_5ce9228c.iso`      | [Link 1](https://pixeldrain.com/u/zfVAanbo) |
+| `da-dk_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_025b816c.iso`      | [Link 1](https://pixeldrain.com/u/zaerd2wa) |
+| `de-de_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_8df57cd2.iso`      | [Link 1](https://pixeldrain.com/u/XDtVBNxJ) |
+| `el-gr_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_1217d69c.iso`      | [Link 1](https://pixeldrain.com/u/kBBE64Un) |
+| `en-gb_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_d50afe1f.iso`      | [Link 1](https://pixeldrain.com/u/9chCKL1S) |
+| `en-us_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_c2d14816.iso`      | [Link 1](https://pixeldrain.com/u/yKpSj3P7) |
+| `es-es_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_0829253f.iso`      | [Link 1](https://pixeldrain.com/u/hLMoXV2B) |
+| `es-mx_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_57f76857.iso`      | [Link 1](https://pixeldrain.com/u/eJzwMhz9) |
+| `et-ee_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_84b7cfe4.iso`      | [Link 1](https://pixeldrain.com/u/E75tAnNE) |
+| `fi-fi_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_0fce8c7e.iso`      | [Link 1](https://pixeldrain.com/u/HRTozgah) |
+| `fr-ca_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_12d6ace1.iso`      | [Link 1](https://pixeldrain.com/u/sQnf7YwZ) |
+| `fr-fr_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_fd89dec3.iso`      | [Link 1](https://pixeldrain.com/u/MvVRGyut) |
+| `he-il_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_844eb580.iso`      | [Link 1](https://pixeldrain.com/u/epq4VJW7) |
+| `hr-hr_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_c29f8d45.iso`      | [Link 1](https://pixeldrain.com/u/1bCzKD4n) |
+| `hu-hu_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_12165cd7.iso`      | [Link 1](https://pixeldrain.com/u/p9FokYHm) |
+| `it-it_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_4455b36e.iso`      | [Link 1](https://pixeldrain.com/u/PJvPBEJu) |
+| `ja-jp_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_f3041d39.iso`      | [Link 1](https://pixeldrain.com/u/U1SLt8o6) |
+| `ko-kr_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_e139e50c.iso`      | [Link 1](https://pixeldrain.com/u/K4EX8K5x) |
+| `lt-lt_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_25a349e0.iso`      | [Link 1](https://pixeldrain.com/u/MhmxR5Nr) |
+| `lv-lv_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_45f808c5.iso`      | [Link 1](https://pixeldrain.com/u/kBHp5jHM) |
+| `nb-no_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_51758088.iso`      | [Link 1](https://pixeldrain.com/u/q5VmQ942) |
+| `nl-nl_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_7430683c.iso`      | [Link 1](https://pixeldrain.com/u/zDQKR95D) |
+| `pl-pl_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_6a9dca52.iso`      | [Link 1](https://pixeldrain.com/u/3DDTuWNi) |
+| `pt-br_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_b25b68a2.iso`      | [Link 1](https://pixeldrain.com/u/752YMTMf) |
+| `pt-pt_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_2bb03aaa.iso`      | [Link 1](https://pixeldrain.com/u/xNMp47nQ) |
+| `ro-ro_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_a5bb94b6.iso`      | [Link 1](https://pixeldrain.com/u/SLbwQ6st) |
+| `ru-ru_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_90166b2e.iso`      | [Link 1](https://pixeldrain.com/u/AtHceWBX) |
+| `sk-sk_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_7d66a07b.iso`      | [Link 1](https://pixeldrain.com/u/KbKK6XWS) |
+| `sl-si_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_24aee6c6.iso`      | [Link 1](https://pixeldrain.com/u/3JC9RujH) |
+| `sr-latn-rs_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_ae294205.iso` | [Link 1](https://pixeldrain.com/u/mPGJMwkf) |
+| `sv-se_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_4e4b9cb0.iso`      | [Link 1](https://pixeldrain.com/u/9WbLmY6A) |
+| `th-th_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_c47c653d.iso`      | [Link 1](https://pixeldrain.com/u/MDG8eBob) |
+| `tr-tr_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_d13bb5e2.iso`      | [Link 1](https://pixeldrain.com/u/3ShjKyjk) |
+| `uk-ua_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_d2c35cb1.iso`      | [Link 1](https://pixeldrain.com/u/mbeoYuuE) |
+| `zh-cn_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_76248ab3.iso`      | [Link 1](https://pixeldrain.com/u/EFAo9fkD) |
+| `zh-tw_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_f5cb1a87.iso`      | [Link 1](https://pixeldrain.com/u/KPuL3WRD) |
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ All download links leads to genuine files only.
 (Build - 22621.525)
 
 | Filename                                                                               | Link                                                                                                                                                        |
-|----------------------------------------------------------------|--------|
+|----------------------------------------------------------------|-------|
 | `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso` | [Link](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso) |
 | `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso`   | [Link](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso)   |
 
@@ -84,48 +84,48 @@ All download links leads to genuine files only.
 
 ## Windows 10 Business 22H2
 
-(Build - 19045.2006)
+(Build - 19045.2965)
 
-| Filename                                                                    | Link                                                                                                                                             |
-|----------------------------------------------------------------|-------|
-| `ar-sa_windows_10_business_editions_version_22h2_x64_dvd_07d7f0c7.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/ar-sa_windows_10_business_editions_version_22h2_x64_dvd_07d7f0c7.iso)      |
-| `bg-bg_windows_10_business_editions_version_22h2_x64_dvd_5964f8e6.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/bg-bg_windows_10_business_editions_version_22h2_x64_dvd_5964f8e6.iso)      |
-| `cs-cz_windows_10_business_editions_version_22h2_x64_dvd_a433331c.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/cs-cz_windows_10_business_editions_version_22h2_x64_dvd_a433331c.iso)      |
-| `da-dk_windows_10_business_editions_version_22h2_x64_dvd_62d07c9c.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/da-dk_windows_10_business_editions_version_22h2_x64_dvd_62d07c9c.iso)      |
-| `de-de_windows_10_business_editions_version_22h2_x64_dvd_281ba8e8.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/de-de_windows_10_business_editions_version_22h2_x64_dvd_281ba8e8.iso)      |
-| `el-gr_windows_10_business_editions_version_22h2_x64_dvd_de0c8eac.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/el-gr_windows_10_business_editions_version_22h2_x64_dvd_de0c8eac.iso)      |
-| `en-gb_windows_10_business_editions_version_22h2_x64_dvd_8680b004.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/en-gb_windows_10_business_editions_version_22h2_x64_dvd_8680b004.iso)      |
-| `en-us_windows_10_business_editions_version_22h2_x64_dvd_8cf17b79.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/en-us_windows_10_business_editions_version_22h2_x64_dvd_8cf17b79.iso)      |
-| `es-es_windows_10_business_editions_version_22h2_x64_dvd_2bc3e71a.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/es-es_windows_10_business_editions_version_22h2_x64_dvd_2bc3e71a.iso)      |
-| `es-mx_windows_10_business_editions_version_22h2_x64_dvd_04209ebf.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/es-mx_windows_10_business_editions_version_22h2_x64_dvd_04209ebf.iso)      |
-| `et-ee_windows_10_business_editions_version_22h2_x64_dvd_f343ff4d.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/et-ee_windows_10_business_editions_version_22h2_x64_dvd_f343ff4d.iso)      |
-| `fi-fi_windows_10_business_editions_version_22h2_x64_dvd_ce3121a7.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/fi-fi_windows_10_business_editions_version_22h2_x64_dvd_ce3121a7.iso)      |
-| `fr-ca_windows_10_business_editions_version_22h2_x64_dvd_3d02f972.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/fr-ca_windows_10_business_editions_version_22h2_x64_dvd_3d02f972.iso)      |
-| `fr-fr_windows_10_business_editions_version_22h2_x64_dvd_9ff381e4.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/fr-fr_windows_10_business_editions_version_22h2_x64_dvd_9ff381e4.iso)      |
-| `he-il_windows_10_business_editions_version_22h2_x64_dvd_75ef933c.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/he-il_windows_10_business_editions_version_22h2_x64_dvd_75ef933c.iso)      |
-| `hr-hr_windows_10_business_editions_version_22h2_x64_dvd_4245c64f.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/hr-hr_windows_10_business_editions_version_22h2_x64_dvd_4245c64f.iso)      |
-| `hu-hu_windows_10_business_editions_version_22h2_x64_dvd_cba17fd9.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/hu-hu_windows_10_business_editions_version_22h2_x64_dvd_cba17fd9.iso)      |
-| `it-it_windows_10_business_editions_version_22h2_x64_dvd_f37dc497.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/it-it_windows_10_business_editions_version_22h2_x64_dvd_f37dc497.iso)      |
-| `ja-jp_windows_10_business_editions_version_22h2_x64_dvd_e9bb8632.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/ja-jp_windows_10_business_editions_version_22h2_x64_dvd_e9bb8632.iso)      |
-| `ko-kr_windows_10_business_editions_version_22h2_x64_dvd_d3c79bbb.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/ko-kr_windows_10_business_editions_version_22h2_x64_dvd_d3c79bbb.iso)      |
-| `lt-lt_windows_10_business_editions_version_22h2_x64_dvd_fea35867.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/lt-lt_windows_10_business_editions_version_22h2_x64_dvd_fea35867.iso)      |
-| `lv-lv_windows_10_business_editions_version_22h2_x64_dvd_da68052b.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/lv-lv_windows_10_business_editions_version_22h2_x64_dvd_da68052b.iso)      |
-| `nb-no_windows_10_business_editions_version_22h2_x64_dvd_afa65ba9.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/nb-no_windows_10_business_editions_version_22h2_x64_dvd_afa65ba9.iso)      |
-| `nl-nl_windows_10_business_editions_version_22h2_x64_dvd_06b3e96d.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/nl-nl_windows_10_business_editions_version_22h2_x64_dvd_06b3e96d.iso)      |
-| `pl-pl_windows_10_business_editions_version_22h2_x64_dvd_9607c49e.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/pl-pl_windows_10_business_editions_version_22h2_x64_dvd_9607c49e.iso)      |
-| `pt-br_windows_10_business_editions_version_22h2_x64_dvd_211e280d.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/pt-br_windows_10_business_editions_version_22h2_x64_dvd_211e280d.iso)      |
-| `pt-pt_windows_10_business_editions_version_22h2_x64_dvd_ff5e98ad.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/pt-pt_windows_10_business_editions_version_22h2_x64_dvd_ff5e98ad.iso)      |
-| `ro-ro_windows_10_business_editions_version_22h2_x64_dvd_4ec15f6f.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/ro-ro_windows_10_business_editions_version_22h2_x64_dvd_4ec15f6f.iso)      |
-| `ru-ru_windows_10_business_editions_version_22h2_x64_dvd_61849fe8.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/ru-ru_windows_10_business_editions_version_22h2_x64_dvd_61849fe8.iso)      |
-| `sk-sk_windows_10_business_editions_version_22h2_x64_dvd_d64cc104.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/sk-sk_windows_10_business_editions_version_22h2_x64_dvd_d64cc104.iso)      |
-| `sl-si_windows_10_business_editions_version_22h2_x64_dvd_d3ae51fe.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/sl-si_windows_10_business_editions_version_22h2_x64_dvd_d3ae51fe.iso)      |
-| `sr-latn-rs_windows_10_business_editions_version_22h2_x64_dvd_efda1218.iso` | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/sr-latn-rs_windows_10_business_editions_version_22h2_x64_dvd_efda1218.iso) |
-| `sv-se_windows_10_business_editions_version_22h2_x64_dvd_42c9df74.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/sv-se_windows_10_business_editions_version_22h2_x64_dvd_42c9df74.iso)      |
-| `th-th_windows_10_business_editions_version_22h2_x64_dvd_693a96de.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/th-th_windows_10_business_editions_version_22h2_x64_dvd_693a96de.iso)      |
-| `tr-tr_windows_10_business_editions_version_22h2_x64_dvd_a03e35b1.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/tr-tr_windows_10_business_editions_version_22h2_x64_dvd_a03e35b1.iso)      |
-| `uk-ua_windows_10_business_editions_version_22h2_x64_dvd_0ab6011e.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/uk-ua_windows_10_business_editions_version_22h2_x64_dvd_0ab6011e.iso)      |
-| `zh-cn_windows_10_business_editions_version_22h2_x64_dvd_037e269d.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/zh-cn_windows_10_business_editions_version_22h2_x64_dvd_037e269d.iso)      |
-| `zh-tw_windows_10_business_editions_version_22h2_x64_dvd_92264bde.iso`      | [Link](https://iso.massgrave.dev/cc743599-fb3f-447a-8bf4-81ceafa59115/zh-tw_windows_10_business_editions_version_22h2_x64_dvd_92264bde.iso)      |
+| Filename                                                                                     | Link                                        |
+|----------------------------------------------------------------|--------|
+| `ar-sa_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_ea1feb13.iso`      | [Link 1](https://pixeldrain.com/u/vGjXBWwz) |
+| `bg-bg_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c859e630.iso`      | [Link 1](https://pixeldrain.com/u/9sVqGDyE) |
+| `cs-cz_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_52c2d8f1.iso`      | [Link 1](https://pixeldrain.com/u/ii7KmGPv) |
+| `da-dk_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_49306fa6.iso`      | [Link 1](https://pixeldrain.com/u/x6wdB5Ti) |
+| `de-de_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b04a0ff1.iso`      | [Link 1](https://pixeldrain.com/u/D4ykmmTW) |
+| `el-gr_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_bbbc6a32.iso`      | [Link 1](https://pixeldrain.com/u/vsfT4BoH) |
+| `en-gb_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_78b15ae0.iso`      | [Link 1](https://pixeldrain.com/u/aCfh7nHk) |
+| `en-us_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_a7adc1e6.iso`      | [Link 1](https://pixeldrain.com/u/rtWsQsoG) |
+| `es-es_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_4286fbb9.iso`      | [Link 1](https://pixeldrain.com/u/8jQ7YpA4) |
+| `es-mx_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_2be8d7ee.iso`      | [Link 1](https://pixeldrain.com/u/XpTczgGz) |
+| `et-ee_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_3bf5489b.iso`      | [Link 1](https://pixeldrain.com/u/zV7LhGaL) |
+| `fi-fi_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_34ef0d49.iso`      | [Link 1](https://pixeldrain.com/u/2e4YRbFZ) |
+| `fr-ca_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_03e965fa.iso`      | [Link 1](https://pixeldrain.com/u/m5HWiyuP) |
+| `fr-fr_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_5b42a6f0.iso`      | [Link 1](https://pixeldrain.com/u/53N7kUUp) |
+| `he-il_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_cb2a3740.iso`      | [Link 1](https://pixeldrain.com/u/a9HStY2s) |
+| `hr-hr_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_36ec0a1c.iso`      | [Link 1](https://pixeldrain.com/u/ruhhsFYU) |
+| `hu-hu_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_7b41781f.iso`      | [Link 1](https://pixeldrain.com/u/7FDSL9uh) |
+| `it-it_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c1107e2b.iso`      | [Link 1](https://pixeldrain.com/u/VjpXrfEQ) |
+| `ja-jp_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_0b7f47aa.iso`      | [Link 1](https://pixeldrain.com/u/at1iBmy8) |
+| `ko-kr_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_d8154390.iso`      | [Link 1](https://pixeldrain.com/u/iC2EyCm3) |
+| `lt-lt_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_81a83303.iso`      | [Link 1](https://pixeldrain.com/u/2uBxQpFq) |
+| `lv-lv_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c6371a47.iso`      | [Link 1](https://pixeldrain.com/u/58jdjUnK) |
+| `nb-no_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_ef2b3598.iso`      | [Link 1](https://pixeldrain.com/u/vaHNAqCb) |
+| `nl-nl_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_70cb14bd.iso`      | [Link 1](https://pixeldrain.com/u/YFF3eoQx) |
+| `pl-pl_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_13591fce.iso`      | [Link 1](https://pixeldrain.com/u/xjGjXPyE) |
+| `pt-br_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c3c444d7.iso`      | [Link 1](https://pixeldrain.com/u/Kpon2Z6b) |
+| `pt-pt_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_4f35b81b.iso`      | [Link 1](https://pixeldrain.com/u/mz2HsZDj) |
+| `ro-ro_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_4aec5345.iso`      | [Link 1](https://pixeldrain.com/u/WtzEC5Pu) |
+| `ru-ru_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_21973db2.iso`      | [Link 1](https://pixeldrain.com/u/aDM6CC88) |
+| `sk-sk_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b360ad2f.iso`      | [Link 1](https://pixeldrain.com/u/VfCAqjPg) |
+| `sl-si_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_54035c00.iso`      | [Link 1](https://pixeldrain.com/u/KfbpwBYW) |
+| `sr-latn-rs_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_50496df7.iso` | [Link 1](https://pixeldrain.com/u/iZXRsjpo) |
+| `sv-se_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b8f28ba6.iso`      | [Link 1](https://pixeldrain.com/u/YcMHjDFM) |
+| `th-th_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b4f85298.iso`      | [Link 1](https://pixeldrain.com/u/9ePF7DMS) |
+| `tr-tr_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_dcaeeffa.iso`      | [Link 1](https://pixeldrain.com/u/rToUDMTu) |
+| `uk-ua_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_89c6a760.iso`      | [Link 1](https://pixeldrain.com/u/w6qwEaPR) |
+| `zh-cn_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_b7e877b8.iso`      | [Link 1](https://pixeldrain.com/u/vZbTZxTi) |
+| `zh-tw_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_e0f7b30c.iso`      | [Link 1](https://pixeldrain.com/u/ZkbmgVAn) |
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ All download links leads to genuine files only.
 (Build - 19045.2006)
 
 | Filename                                                              | Link                                                                                                                                       |
-|----------------------------------------------------------------|-------|
+|-----------------------------------------------------------------|-------|
 | `en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso` | [Link](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
 | `en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso`   | [Link](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso)   |
 
