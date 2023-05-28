@@ -22,6 +22,8 @@ All download links leads to genuine files only.
 
 ## Windows Server 2022
 
+(Build - 20348.169)
+
 | Filename                                         | Link 1                                      | Link 2                                                                                                                  |
 |---------------------------------------------------|---------|----------|
 | `cs-cz_windows_server_2022_x64_dvd_9cc09859.iso` | [Link 1](https://pixeldrain.com/u/JfFza6jP) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/cs-cz_windows_server_2022_x64_dvd_9cc09859.iso) |
