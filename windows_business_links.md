@@ -29,7 +29,7 @@ All download links leads to genuine files only.
 (Build - 22621.1702)
 
 | Filename                                                                                     | Link                                        |
-|----------------------------------------------------------------|--------|
+|----------------------------------------------------------------|-------|
 | `ar-sa_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_0f94dff0.iso`      | [Link 1](https://pixeldrain.com/u/mG4uMHBi) |
 | `bg-bg_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_f6997710.iso`      | [Link 1](https://pixeldrain.com/u/t5Lk8pGn) |
 | `cs-cz_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_5ce9228c.iso`      | [Link 1](https://pixeldrain.com/u/zfVAanbo) |
@@ -75,10 +75,10 @@ All download links leads to genuine files only.
 
 (Build - 22621.525)
 
-| Filename                                                                               | Link                                                                                                                                                        |
-|----------------------------------------------------------------|-------|
-| `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso` | [Link](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso) |
-| `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso`   | [Link](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso)   |
+| Filename                                                                               | Link 1                                      | Link 2                                                                                                                                                        |
+|----------------------------------------------------------|-------|-------|
+| `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso` | [Link 1](https://pixeldrain.com/u/FQdP5b6X) | [Link 2](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso) |
+| `en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso`   | [Link 1](https://pixeldrain.com/u/SdtpWJPC) | [Link 2](https://iso.massgrave.dev/fb0f90bf-c3c3-4f17-8b4a-d8fe3d780912/en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso)   |
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ All download links leads to genuine files only.
 (Build - 19045.2965)
 
 | Filename                                                                                     | Link                                        |
-|----------------------------------------------------------------|--------|
+|----------------------------------------------------------------|-------|
 | `ar-sa_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_ea1feb13.iso`      | [Link 1](https://pixeldrain.com/u/vGjXBWwz) |
 | `bg-bg_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c859e630.iso`      | [Link 1](https://pixeldrain.com/u/9sVqGDyE) |
 | `cs-cz_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_52c2d8f1.iso`      | [Link 1](https://pixeldrain.com/u/ii7KmGPv) |
@@ -133,9 +133,9 @@ All download links leads to genuine files only.
 
 (Build - 19045.2006)
 
-| Filename                                                              | Link                                                                                                                                       |
-|-----------------------------------------------------------------|-------|
-| `en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso` | [Link](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
-| `en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso`   | [Link](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso)   |
+| Filename                                                              | Link 1                                      | Link 2                                                                                                                                       |
+|---------------------------------------------------------|-------|--------|
+| `en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso` | [Link 1](https://pixeldrain.com/u/LfQp8yBo) | [Link 2](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
+| `en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso`   | [Link 1](https://pixeldrain.com/u/Ln1kVfNC) | [Link 2](https://iso.massgrave.dev/fce11313-b5a4-41a9-8259-fedfbf194f54/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso)   |
 
 ------------------------------------------------------------------------
