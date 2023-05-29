@@ -407,17 +407,32 @@ div.tocify {
 <h1>Bypass Russian Geoblock</h1>
 <hr />
 <p>In this page, methods to bypass Russian geoblock imposed by
-<strong>Microsoft</strong> will be discussed. We will start with Office
-download restrictions and later will try to cover techbench and insider
-preview download link generation if a free and reliable method can be
-found.</p>
+<strong>Microsoft</strong> will be discussed.</p>
 <hr />
+<div id="windows-download" class="section level2">
+<h2>Windows Download</h2>
+<p>Russian users face an error when they try to download Windows ISO’s
+from <a href="https://www.microsoft.com/software-download">Official
+Microsoft page</a>.</p>
+<div id="error" class="section level3">
+<h3>Error</h3>
+<pre><code>We are unable to complete your request at this time. Some users, entities and locations are banned from using this service. For this reason, leveraging anonymous or location hiding technologies when connecting to this service is not generally allowed. If you believe that you encountered this problem in error, please try again. If the problem persists you may contact Microsoft Support – Contact Us page for assistance. Refer to message code 715-123130 and d37047d7-7ce8-4a29-a5a2-2c882e106817.</code></pre>
+</div>
+<div id="solution" class="section level3">
+<h3>Solution</h3>
+<p><a href="https://massgrave.dev/msdl/"
+class="uri">https://massgrave.dev/msdl/</a></p>
+<p>It uses shared sessions/proxy to generate official download links in
+Russia and in all other blocked places.</p>
+<hr />
+</div>
+</div>
 <div id="office-download" class="section level2">
 <h2>Office Download</h2>
 <p>Russian users face an error when they try to <a
 href="genuine-installation-media.html">download</a> Office C2R with
 online installer or ODT.</p>
-<div id="error" class="section level3">
+<div id="error-1" class="section level3">
 <h3>Error</h3>
 <pre><code>Command not supported
 We&#39;re sorry, we can&#39;t continue because we weren&#39;t able to download a required file. Please make sure you&#39;re connected to the internet or connect to a different network, then try again.</code></pre>
@@ -433,7 +448,7 @@ still keep showing the error.</p>
 &quot;CountryCode&quot;=&quot;std::wstring|RU&quot;</code></pre>
 </div>
 </div>
-<div id="solution" class="section level3">
+<div id="solution-1" class="section level3">
 <h3>Solution</h3>
 <p>Open command prompt as admin and enter,</p>
 <pre><code>reg add &quot;HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs&quot; /v &quot;CountryCode&quot; /t REG_SZ /d &quot;std::wstring|US&quot; /f</code></pre>
