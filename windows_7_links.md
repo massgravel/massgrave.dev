@@ -20,6 +20,8 @@ All download links leads to genuine files only.
 
 -   This same Pro ISO also contains other editions such as, Starter, Home Basic, Home Premium, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `\sources\ei.cfg` file in the ISO.
 
+-   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
+
 -   If you have any questions, please contact [here](https://massgrave.dev/contactus.html).
 
 ------------------------------------------------------------------------
@@ -29,7 +31,7 @@ All download links leads to genuine files only.
 (Build - 7601.17514)
 
 | Filenames                                                 | Link 1                                      | Link 2                                                                                                                           |
-|---------------------------------------------------------|-------|--------|
+|--------------------------------------------------------|--------|--------|
 | `ar_windows_7_professional_with_sp1_x64_dvd_u_676943.iso` | [Link 1](https://pixeldrain.com/u/jr21TSmV) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/ar_windows_7_professional_with_sp1_x64_dvd_u_676943.iso) |
 | `ar_windows_7_professional_with_sp1_x86_dvd_u_677052.iso` | [Link 1](https://pixeldrain.com/u/RsZE2VDa) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/ar_windows_7_professional_with_sp1_x86_dvd_u_677052.iso) |
 | `bg_windows_7_professional_with_sp1_x64_dvd_u_676949.iso` | [Link 1](https://pixeldrain.com/u/8st5K557) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/bg_windows_7_professional_with_sp1_x64_dvd_u_676949.iso) |

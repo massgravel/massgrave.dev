@@ -16,7 +16,7 @@ All download links leads to genuine files only.
 
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   Here we have listed Windows Server 2022 only. If you need links for any other Server file, please contact [here](contactus.html).
+-   If you need links for any other Server file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ All download links leads to genuine files only.
 (Build - 20348.169)
 
 | Filename                                         | Link 1                                      | Link 2                                                                                                                  |
-|---------------------------------------------------|---------|----------|
+|--------------------------------------------------------|--------|--------|
 | `cs-cz_windows_server_2022_x64_dvd_9cc09859.iso` | [Link 1](https://pixeldrain.com/u/JfFza6jP) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/cs-cz_windows_server_2022_x64_dvd_9cc09859.iso) |
 | `de-de_windows_server_2022_x64_dvd_e2c1874e.iso` | [Link 1](https://pixeldrain.com/u/UMxebY31) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/de-de_windows_server_2022_x64_dvd_e2c1874e.iso) |
 | `en-us_windows_server_2022_x64_dvd_620d7eac.iso` | [Link 1](https://pixeldrain.com/u/tS6ncsWe) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/en-us_windows_server_2022_x64_dvd_620d7eac.iso) |
@@ -44,3 +44,57 @@ All download links leads to genuine files only.
 | `tr-tr_windows_server_2022_x64_dvd_266ef676.iso` | [Link 1](https://pixeldrain.com/u/VXfDs1ya) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/tr-tr_windows_server_2022_x64_dvd_266ef676.iso) |
 | `zh-cn_windows_server_2022_x64_dvd_6c73507d.iso` | [Link 1](https://pixeldrain.com/u/EJhVYh3u) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/zh-cn_windows_server_2022_x64_dvd_6c73507d.iso) |
 | `zh-tw_windows_server_2022_x64_dvd_02ed5775.iso` | [Link 1](https://pixeldrain.com/u/jsQdFRNP) | [Link 2](https://iso.massgrave.dev/ac11daa2-3b46-406a-851a-236f38fc9571/zh-tw_windows_server_2022_x64_dvd_02ed5775.iso) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2019
+
+(Build - 17763.107)
+
+| Filename                                      | Link                                      |
+|-------------------------------------------------------------|--------|
+| `cn_windows_server_2019_x64_dvd_4de40f33.iso` | [Link](https://pixeldrain.com/u/dc2N5BXD) |
+| `cs_windows_server_2019_x64_dvd_65383121.iso` | [Link](https://pixeldrain.com/u/2SJ2hCyG) |
+| `ct_windows_server_2019_x64_dvd_b776f44b.iso` | [Link](https://pixeldrain.com/u/eTGHUNAe) |
+| `de_windows_server_2019_x64_dvd_17559a5b.iso` | [Link](https://pixeldrain.com/u/oFb4VqCy) |
+| `en_windows_server_2019_x64_dvd_4cb967d8.iso` | [Link](https://pixeldrain.com/u/Uy7S4T7J) |
+| `es_windows_server_2019_x64_dvd_dd6b7747.iso` | [Link](https://pixeldrain.com/u/HEoL1w9G) |
+| `fr_windows_server_2019_x64_dvd_d936fc7a.iso` | [Link](https://pixeldrain.com/u/9EDGiUPJ) |
+| `hu_windows_server_2019_x64_dvd_c8f2c460.iso` | [Link](https://pixeldrain.com/u/XKq4VV9W) |
+| `it_windows_server_2019_x64_dvd_03c34df6.iso` | [Link](https://pixeldrain.com/u/w7kw1pH9) |
+| `ja_windows_server_2019_x64_dvd_260a1d93.iso` | [Link](https://pixeldrain.com/u/79oAZFVA) |
+| `ko_windows_server_2019_x64_dvd_8778047d.iso` | [Link](https://pixeldrain.com/u/GDxZfKgC) |
+| `nl_windows_server_2019_x64_dvd_82f9a152.iso` | [Link](https://pixeldrain.com/u/RnupRTfU) |
+| `pl_windows_server_2019_x64_dvd_2cd7adba.iso` | [Link](https://pixeldrain.com/u/r16j5KPZ) |
+| `pp_windows_server_2019_x64_dvd_e8fadd22.iso` | [Link](https://pixeldrain.com/u/x61M9RUM) |
+| `pt_windows_server_2019_x64_dvd_e078dea6.iso` | [Link](https://pixeldrain.com/u/UW1NsYnF) |
+| `ru_windows_server_2019_x64_dvd_3411c84a.iso` | [Link](https://pixeldrain.com/u/8yrScqdy) |
+| `sv_windows_server_2019_x64_dvd_ce3d1a8d.iso` | [Link](https://pixeldrain.com/u/fG87zasg) |
+| `tr_windows_server_2019_x64_dvd_475b2d44.iso` | [Link](https://pixeldrain.com/u/3awyqR9Y) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2016
+
+(Build - 14393)
+
+| Filename                                     | Link                                      |
+|-----------------------------------------------------------------|-------|
+| `cn_windows_server_2016_x64_dvd_9327743.iso` | [Link](https://pixeldrain.com/u/5j5sF6fP) |
+| `cs_windows_server_2016_x64_dvd_9327749.iso` | [Link](https://pixeldrain.com/u/pWhAc4fW) |
+| `ct_windows_server_2016_x64_dvd_9327748.iso` | [Link](https://pixeldrain.com/u/SBPiWMUG) |
+| `de_windows_server_2016_x64_dvd_9327757.iso` | [Link](https://pixeldrain.com/u/Nbfn1jPV) |
+| `en_windows_server_2016_x64_dvd_9327751.iso` | [Link](https://pixeldrain.com/u/i1sQVTwV) |
+| `es_windows_server_2016_x64_dvd_9327767.iso` | [Link](https://pixeldrain.com/u/S7BGPt2u) |
+| `fr_windows_server_2016_x64_dvd_9327754.iso` | [Link](https://pixeldrain.com/u/Go5u1oWx) |
+| `hu_windows_server_2016_x64_dvd_9327759.iso` | [Link](https://pixeldrain.com/u/efN42zNU) |
+| `it_windows_server_2016_x64_dvd_9327760.iso` | [Link](https://pixeldrain.com/u/mtB6Tgm7) |
+| `ja_windows_server_2016_x64_dvd_9327761.iso` | [Link](https://pixeldrain.com/u/DzTTXJYT) |
+| `ko_windows_server_2016_x64_dvd_9327762.iso` | [Link](https://pixeldrain.com/u/LE2Hj2fN) |
+| `nl_windows_server_2016_x64_dvd_9327750.iso` | [Link](https://pixeldrain.com/u/Rd5Eht8g) |
+| `pl_windows_server_2016_x64_dvd_9327763.iso` | [Link](https://pixeldrain.com/u/if91RbRp) |
+| `pp_windows_server_2016_x64_dvd_9327765.iso` | [Link](https://pixeldrain.com/u/RH8SzAwc) |
+| `pt_windows_server_2016_x64_dvd_9327764.iso` | [Link](https://pixeldrain.com/u/ZuqxSNoV) |
+| `ru_windows_server_2016_x64_dvd_9327766.iso` | [Link](https://pixeldrain.com/u/rYLSTdbT) |
+| `sv_windows_server_2016_x64_dvd_9327768.iso` | [Link](https://pixeldrain.com/u/yM6eWso1) |
+| `tr_windows_server_2016_x64_dvd_9327769.iso` | [Link](https://pixeldrain.com/u/E3Tkkrgk) |
