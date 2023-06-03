@@ -18,6 +18,8 @@ All download links leads to genuine files only.
 
 -   If you need links for any other Server file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
 
+-   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
+
 ------------------------------------------------------------------------
 
 ## Windows Server 2022

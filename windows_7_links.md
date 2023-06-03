@@ -24,6 +24,8 @@ All download links leads to genuine files only.
 
 -   If you have any questions, please contact [here](https://massgrave.dev/contactus.html).
 
+-   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
+
 ------------------------------------------------------------------------
 
 ## Windows 7 Professional SP1
@@ -31,7 +33,7 @@ All download links leads to genuine files only.
 (Build - 7601.17514)
 
 | Filenames                                                 | Link 1                                      | Link 2                                                                                                                           |
-|--------------------------------------------------------|--------|--------|
+|--------------------------------------------------------|--------|-------|
 | `ar_windows_7_professional_with_sp1_x64_dvd_u_676943.iso` | [Link 1](https://pixeldrain.com/u/jr21TSmV) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/ar_windows_7_professional_with_sp1_x64_dvd_u_676943.iso) |
 | `ar_windows_7_professional_with_sp1_x86_dvd_u_677052.iso` | [Link 1](https://pixeldrain.com/u/RsZE2VDa) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/ar_windows_7_professional_with_sp1_x86_dvd_u_677052.iso) |
 | `bg_windows_7_professional_with_sp1_x64_dvd_u_676949.iso` | [Link 1](https://pixeldrain.com/u/8st5K557) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/bg_windows_7_professional_with_sp1_x64_dvd_u_676949.iso) |
