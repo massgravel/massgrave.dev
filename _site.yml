@@ -1,4 +1,5 @@
 name: "Microsoft Activation Scripts"
+include: ["get.ps1"]
 navbar:
   title: "Microsoft Activation Scripts"
   right:
@@ -55,8 +56,11 @@ output:
   html_document:
     includes:
       after_body: footer.html
+      in_header: favicon.html
     theme: readable
     highlight: tango
+    favicon: favicon.ico
+    css: styles.css
     toc_depth: 3
     toc: true
     toc_float:
