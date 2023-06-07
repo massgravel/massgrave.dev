@@ -1,0 +1,12 @@
+body {
+  font-family: "IBM Plex Sans", sans-serif; /* Replace with your desired font for body text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "IBM Plex Sans Text", sans-serif; /* Replace with your desired font for headers */
+}
+
+pre,
+code {
+  font-family: "IBM Plex Mono", monospace;
+}
