@@ -59,7 +59,6 @@ output:
       in_header: favicon.html
     theme: readable
     highlight: tango
-    favicon: favicon.ico
     css: styles.css
     toc_depth: 3
     toc: true
