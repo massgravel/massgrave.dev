@@ -14,7 +14,7 @@ All download links leads to genuine files only.
 
 -   Microsoft still provides download links on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee.
 
--   For these reason, we need to host files on 3rd party. You can check [here](https://massgrave.dev/genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
+-   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
 -   Below we have listed links for `Windows 7 Professional with Service Pack 1` only. It's recommended to install Pro edition instead of Ultimate because you can activate Pro with KMS (available in MAS) and loader both but ultimate can be activated only by loader which can be problematic.
 
@@ -22,7 +22,7 @@ All download links leads to genuine files only.
 
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
 
--   If you have any questions, please contact [here](https://massgrave.dev/contactus.html).
+-   If you have any questions, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 -   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
 

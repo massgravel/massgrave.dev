@@ -17,7 +17,7 @@ All download links leads to genuine files only.
 | **Office**                              |                                                                                                                                                                               |
 | Office C2R Installers (Retail) ❤️       | [Link](office_c2r_links.html) (Easy to install)                                                                                                                               |
 | Office C2R Custom Install (Retail / VL) | [Link](office_c2r_custom.html) (Requires more steps, allows customization)                                                                                                    |
-| Office MSI VL (Old versions)            | [Link](https://opendirectory.luzea.de/Enthousiast/Office/)                                                                                                                    |
+| Office MSI VL (Old versions)            | [Link](office_msi_links.html)                                                                                                                                                 |
 
 You can contact [here](https://discord.gg/gjJEfq7ux8) if you need any other Windows / Office files.
 

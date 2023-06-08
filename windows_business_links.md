@@ -18,7 +18,7 @@ All download links leads to genuine files only.
 
 -   Business ISO's aren't available to download for free. Microsoft provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee.
 
--   For this reason, we need to host files on 3rd party. You can check [here](https://massgrave.dev/genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
+-   For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
 -   Here we have listed x64 files only. If you need links for x86 files, please contact [here](https://discord.gg/gjJEfq7ux8).
 

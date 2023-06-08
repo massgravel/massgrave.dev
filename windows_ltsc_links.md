@@ -25,6 +25,7 @@ All download links leads to genuine files only.
 -   Difference between Iot and Non-Iot Windows Enterprise LTSC 2021:
 
     -   Licensing - Iot doesn't have KMS key but have Digital license. Non-Iot version have KMS key but doesn't have Digital license.
+	-   Sandbox - Initial release (19044.1288) of Iot LTSC didn't have sandbox but non-Iot version had, but later updates enabled it in Iot as well. So there is no difference anymore.
     -   Reserved storage feature - Iot doesn't have reserved storage feature and it's install takes less space in installation. (Feature is not much important for LTSC release)
     -   Windows Update - Iot is supported till 2032 and Non-Iot is supported till 2027.\
         Conclusion, Iot LTSC is better.
