@@ -12,8 +12,6 @@ Please feel free to share feedback regarding bug reports, documentation errors, 
 
 -   [Telegram](https://t.me/Microsoft_Activation_Scripts) - Discussion
 
--   [Reddit](https://www.reddit.com/r/MAS_Activator)
-
 -   [Twitter](https://twitter.com/massgravel)
 
 -   [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [GitLab](https://gitlab.com/massgrave/microsoft-activation-scripts)
