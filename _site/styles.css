@@ -11,3 +11,7 @@ pre,
 code {
   font-family: "IBM Plex Mono", monospace;
 }
+
+.navbar {
+  font-family: 'IBM Plex Sans Text', sans-serif;
+}
