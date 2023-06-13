@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "IBM Plex Sans Text", sans-serif; /* Replace with your desired font for headers */
 }
 
+table {
+  font-family: "Fira Code", monospace;
+}
+
 pre,
 code {
   font-family: "IBM Plex Mono", monospace;
