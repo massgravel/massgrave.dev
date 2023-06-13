@@ -22,7 +22,7 @@ All download links leads to genuine files only.
 
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
 
--   If you have any questions, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 -   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
 
