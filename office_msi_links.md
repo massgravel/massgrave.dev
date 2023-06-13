@@ -18,7 +18,7 @@ All download links leads to genuine files only.
 
 -   You can activate all below listed 2010/2013/2016 Office files with Online KMS option in MAS. To activate below listed Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 
--   If you have any questions, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 -   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
 

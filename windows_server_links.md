@@ -16,7 +16,7 @@ All download links leads to genuine files only.
 
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   If you need links for any other Server file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 -   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
 
