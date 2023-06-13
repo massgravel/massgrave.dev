@@ -16,11 +16,13 @@ All download links leads to genuine files only.
 
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   Below we have listed links for `Windows 7 Professional with Service Pack 1` only. It's recommended to install Pro edition instead of Ultimate because you can activate Pro with KMS (available in MAS) and loader both but ultimate can be activated only by loader which can be problematic.
+-   Below we have listed links for `Windows 7 Professional with Service Pack 1`. It's recommended to install Pro edition instead of Ultimate because you can activate Pro with KMS (available in MAS) and loader both but ultimate can be activated only by loader which can be problematic.
 
 -   This same Pro ISO also contains other editions such as, Starter, Home Basic, Home Premium, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `\sources\ei.cfg` file in the ISO.
 
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
+
+-   Windows Embedded POSReady 7 ISO is available in English language only. You need to use language pack for other languages. It can be activated with online KMS option in MAS.
 
 -   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
@@ -104,3 +106,16 @@ All download links leads to genuine files only.
 | `tw_windows_7_professional_with_sp1_x86_dvd_u_677189.iso` | [Link 1](https://pixeldrain.com/u/4XJAJ4MX) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/tw_windows_7_professional_with_sp1_x86_dvd_u_677189.iso) |
 | `uk_windows_7_professional_with_sp1_x64_dvd_u_677026.iso` | [Link 1](https://pixeldrain.com/u/1YbZ7nMA) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/uk_windows_7_professional_with_sp1_x64_dvd_u_677026.iso) |
 | `uk_windows_7_professional_with_sp1_x86_dvd_u_677150.iso` | [Link 1](https://pixeldrain.com/u/dP5tAwh2) | [Link 2](https://iso.massgrave.dev/bffe3f76-66a5-45eb-b91c-98b995629a46/uk_windows_7_professional_with_sp1_x86_dvd_u_677150.iso) |
+
+------------------------------------------------------------------------
+
+## Windows Embedded POSReady 7
+
+(Build - 7601.17514)
+
+| Filenames                                                     | Link                                      |
+|--------------------------------------------------------|--------|
+| `en_windows_embedded_posready_7_eval_x64_dvd_698169.iso`      | [Link](https://pixeldrain.com/u/PGyqJCrZ) |
+| `en_windows_embedded_posready_7_eval_x86_dvd_698168.iso`      | [Link](https://pixeldrain.com/u/kHdzuggw) |
+| `en_windows_embedded_posready_7_lang_pack_x64_dvd_698178.iso` | [Link](https://pixeldrain.com/u/ViZukJz6) |
+| `en_windows_embedded_posready_7_lang_pack_x86_dvd_698172.iso` | [Link](https://pixeldrain.com/u/5rN3Pqag) |
