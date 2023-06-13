@@ -7,7 +7,7 @@ pagetitle: Genuine Installation Media
 All download links leads to genuine files only.
 
 | **Windows**                                  |                                                                                                                                                                               |
-|:---------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---------------------------------|:------------------------------------|
 | Windows 11 / 10 / 8.1 (Consumer) ❤️          | [Link1](https://www.microsoft.com/software-download) - [Link2](https://massgrave.dev/msdl/) (Works in all blocked places)                                                     |
 | Windows 11 / 10 (Latest Consumer + Business) | [Link](windows_latest_links.html)                                                                                                                                             |
 | Windows 10 Enterprise LTSC                   | [Link](windows_ltsc_links.html)                                                                                                                                               |

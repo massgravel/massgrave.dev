@@ -49,7 +49,7 @@ Updated May 2023 (Build - 19045.2965)
 Updated May 2023 (Build - 22621.1702)
 
 | Links                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------|
 | [ar-sa_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_0f94dff0.iso](https://pixeldrain.com/u/mG4uMHBi)      |
 | [bg-bg_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_f6997710.iso](https://pixeldrain.com/u/t5Lk8pGn)      |
 | [cs-cz_windows_11_business_editions_version_22h2_updated_may_2023_x64_dvd_5ce9228c.iso](https://pixeldrain.com/u/zfVAanbo)      |
@@ -96,7 +96,7 @@ Updated May 2023 (Build - 22621.1702)
 Updated May 2023 (Build - 19045.2965)
 
 | Links                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------|
 | [ar-sa_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_ea1feb13.iso](https://pixeldrain.com/u/vGjXBWwz)      |
 | [bg-bg_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_c859e630.iso](https://pixeldrain.com/u/9sVqGDyE)      |
 | [cs-cz_windows_10_business_editions_version_22h2_updated_may_2023_x64_dvd_52c2d8f1.iso](https://pixeldrain.com/u/ii7KmGPv)      |
@@ -143,7 +143,7 @@ Updated May 2023 (Build - 19045.2965)
 Updated Sep 2022 (Build - 22621.525) (This release is not updated every month)
 
 | Links                                                                                                                     |
-|---------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------|
 | [en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_arm64_dvd_a2c93810.iso](https://pixeldrain.com/u/FQdP5b6X) |
 | [en-us_windows_11_iot_enterprise_version_22h2_updated_sep_2022_x64_dvd_efad8b7e.iso](https://pixeldrain.com/u/SdtpWJPC)   |
 
@@ -154,7 +154,7 @@ Updated Sep 2022 (Build - 22621.525) (This release is not updated every month)
 Updated Oct 2022 (Build - 19045.2006) (This release is not updated every month)
 
 | Links                                                                                                    |
-|----------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------|
 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://pixeldrain.com/u/LfQp8yBo) |
 | [en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso](https://pixeldrain.com/u/Ln1kVfNC)   |
 
