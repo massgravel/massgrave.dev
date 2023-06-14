@@ -39,75 +39,75 @@ All download links leads to genuine files only.
 
 (Build - 6002.18005)
 
-| Filename                                          | Link                                      |
-|-----------------------------------------------------------------|------|
-| `ar_windows_vista_with_sp2_x64_dvd_x15-36318.iso` | [Link](https://pixeldrain.com/u/iKNwszpF) |
-| `ar_windows_vista_with_sp2_x86_dvd_x15-36282.iso` | [Link](https://pixeldrain.com/u/4kqdsHBC) |
-| `bg_windows_vista_with_sp2_x64_dvd_x15-36321.iso` | [Link](https://pixeldrain.com/u/BobHvHHh) |
-| `bg_windows_vista_with_sp2_x86_dvd_x15-36284.iso` | [Link](https://pixeldrain.com/u/Vfn7Dg37) |
-| `cn_windows_vista_with_sp2_x64_dvd_x15-36322.iso` | [Link](https://pixeldrain.com/u/mBj1kigT) |
-| `cn_windows_vista_with_sp2_x86_dvd_x15-36285.iso` | [Link](https://pixeldrain.com/u/f2y2QQyx) |
-| `cs_windows_vista_with_sp2_x64_dvd_x15-36327.iso` | [Link](https://pixeldrain.com/u/iDDqsHKV) |
-| `cs_windows_vista_with_sp2_x86_dvd_x15-36289.iso` | [Link](https://pixeldrain.com/u/pcAHUYnc) |
-| `da_windows_vista_with_sp2_x64_dvd_x15-36329.iso` | [Link](https://pixeldrain.com/u/DhKA2aRu) |
-| `da_windows_vista_with_sp2_x86_dvd_x15-36290.iso` | [Link](https://pixeldrain.com/u/XcRMLLNz) |
-| `de_windows_vista_sp2_x64_dvd_342287.iso`         | [Link](https://pixeldrain.com/u/SmmzyKTH) |
-| `de_windows_vista_sp2_x86_dvd_342286.iso`         | [Link](https://pixeldrain.com/u/hyv9LRWM) |
-| `el_windows_vista_with_sp2_x64_dvd_x15-36343.iso` | [Link](https://pixeldrain.com/u/G6KnQ1pE) |
-| `el_windows_vista_with_sp2_x86_dvd_x15-36297.iso` | [Link](https://pixeldrain.com/u/cXKx4ed6) |
-| `en_windows_vista_sp2_x64_dvd_342267.iso`         | [Link](https://pixeldrain.com/u/vN8UoEJ7) |
-| `en_windows_vista_with_sp2_x86_dvd_342266.iso`    | [Link](https://pixeldrain.com/u/hUqRyhHt) |
-| `es_windows_vista_sp2_x64_dvd_342309.iso`         | [Link](https://pixeldrain.com/u/YJx35Tkm) |
-| `es_windows_vista_sp2_x86_dvd_342308.iso`         | [Link](https://pixeldrain.com/u/SfpP7D7C) |
-| `et_windows_vista_with_sp2_x64_dvd_x15-36335.iso` | [Link](https://pixeldrain.com/u/Y4sGqpnw) |
-| `et_windows_vista_with_sp2_x86_dvd_x15-36293.iso` | [Link](https://pixeldrain.com/u/Qje8sLRR) |
-| `fi_windows_vista_with_sp2_x64_dvd_x15-36337.iso` | [Link](https://pixeldrain.com/u/EMVeydfn) |
-| `fi_windows_vista_with_sp2_x86_dvd_x15-36294.iso` | [Link](https://pixeldrain.com/u/JfVZNT94) |
-| `fr_windows_vista_sp2_x64_dvd_342277.iso`         | [Link](https://pixeldrain.com/u/itRvuogF) |
-| `fr_windows_vista_sp2_x86_dvd_342276.iso`         | [Link](https://pixeldrain.com/u/xjGVZjJX) |
-| `he_windows_vista_with_sp2_x64_dvd_x15-36344.iso` | [Link](https://pixeldrain.com/u/w7rNdqQu) |
-| `he_windows_vista_with_sp2_x86_dvd_x15-36298.iso` | [Link](https://pixeldrain.com/u/BTDWrhmT) |
-| `hk_windows_vista_with_sp2_x64_dvd_x15-36324.iso` | [Link](https://pixeldrain.com/u/rVAZfyMP) |
-| `hk_windows_vista_with_sp2_x86_dvd_x15-36287.iso` | [Link](https://pixeldrain.com/u/P763gXpS) |
-| `hr_windows_vista_with_sp2_x64_dvd_x15-36325.iso` | [Link](https://pixeldrain.com/u/3EEEe9vU) |
-| `hr_windows_vista_with_sp2_x86_dvd_x15-36288.iso` | [Link](https://pixeldrain.com/u/4t1Lb2jm) |
-| `hu_windows_vista_with_sp2_x64_dvd_x15-36346.iso` | [Link](https://pixeldrain.com/u/greuv76k) |
-| `hu_windows_vista_with_sp2_x86_dvd_x15-36299.iso` | [Link](https://pixeldrain.com/u/nshAv1TJ) |
-| `it_windows_vista_with_sp2_x64_dvd_x15-36348.iso` | [Link](https://pixeldrain.com/u/wb9MiGr8) |
-| `it_windows_vista_with_sp2_x86_dvd_x15-36300.iso` | [Link](https://pixeldrain.com/u/GphQMKa6) |
-| `ja_windows_vista_sp2_x64_dvd_342298.iso`         | [Link](https://pixeldrain.com/u/5fzANjWR) |
-| `ja_windows_vista_sp2_x86_dvd_342296.iso`         | [Link](https://pixeldrain.com/u/cgso7Dsv) |
-| `lt_windows_vista_with_sp2_x64_dvd_x15-36355.iso` | [Link](https://pixeldrain.com/u/8fgQqoD8) |
-| `lt_windows_vista_with_sp2_x86_dvd_x15-36304.iso` | [Link](https://pixeldrain.com/u/7raHpCRW) |
-| `lv_windows_vista_with_sp2_x64_dvd_x15-36353.iso` | [Link](https://pixeldrain.com/u/4HX9ur5y) |
-| `lv_windows_vista_with_sp2_x86_dvd_x15-36303.iso` | [Link](https://pixeldrain.com/u/g6CggXTV) |
-| `nl_windows_vista_with_sp2_x64_dvd_x15-36331.iso` | [Link](https://pixeldrain.com/u/KTHpfrVo) |
-| `nl_windows_vista_with_sp2_x86_dvd_x15-36291.iso` | [Link](https://pixeldrain.com/u/UndqJSoM) |
-| `no_windows_vista_with_sp2_x64_dvd_x15-36357.iso` | [Link](https://pixeldrain.com/u/JX3od2Pe) |
-| `no_windows_vista_with_sp2_x86_dvd_x15-36305.iso` | [Link](https://pixeldrain.com/u/QicvTzkc) |
-| `pl_windows_vista_with_sp2_x64_dvd_x15-36359.iso` | [Link](https://pixeldrain.com/u/jS1ggzBL) |
-| `pl_windows_vista_with_sp2_x86_dvd_x15-36306.iso` | [Link](https://pixeldrain.com/u/D9Gnd9EW) |
-| `pp_windows_vista_with_sp2_x64_dvd_x15-36361.iso` | [Link](https://pixeldrain.com/u/YvYpeJhA) |
-| `pp_windows_vista_with_sp2_x86_dvd_x15-36307.iso` | [Link](https://pixeldrain.com/u/4LUXTEfs) |
-| `pt_windows_vista_with_sp2_x64_dvd_x15-36319.iso` | [Link](https://pixeldrain.com/u/ZBaWTrdn) |
-| `pt_windows_vista_with_sp2_x86_dvd_x15-36283.iso` | [Link](https://pixeldrain.com/u/dWG31YWp) |
-| `ro_windows_vista_with_sp2_x64_dvd_x15-36363.iso` | [Link](https://pixeldrain.com/u/dD5zPqNi) |
-| `ro_windows_vista_with_sp2_x86_dvd_x15-36308.iso` | [Link](https://pixeldrain.com/u/xdWpWXdh) |
-| `ru_windows_vista_with_sp2_x64_dvd_x15-36364.iso` | [Link](https://pixeldrain.com/u/yrV9nECM) |
-| `ru_windows_vista_with_sp2_x86_dvd_x15-36309.iso` | [Link](https://pixeldrain.com/u/ukkMEfQD) |
-| `sk_windows_vista_with_sp2_x64_dvd_x15-36367.iso` | [Link](https://pixeldrain.com/u/y4fraF4W) |
-| `sk_windows_vista_with_sp2_x86_dvd_x15-36311.iso` | [Link](https://pixeldrain.com/u/6CQVqFMZ) |
-| `sl_windows_vista_with_sp2_x64_dvd_x15-36369.iso` | [Link](https://pixeldrain.com/u/UQqhbWe8) |
-| `sl_windows_vista_with_sp2_x86_dvd_x15-36312.iso` | [Link](https://pixeldrain.com/u/bxTKNy8U) |
-| `sr_windows_vista_with_sp2_x64_dvd_x15-36365.iso` | [Link](https://pixeldrain.com/u/ptMYtJ5B) |
-| `sr_windows_vista_with_sp2_x86_dvd_x15-36310.iso` | [Link](https://pixeldrain.com/u/wt8W7cAe) |
-| `sv_windows_vista_with_sp2_x64_dvd_x15-36373.iso` | [Link](https://pixeldrain.com/u/YcCvAMVf) |
-| `sv_windows_vista_with_sp2_x86_dvd_x15-36314.iso` | [Link](https://pixeldrain.com/u/6Tmf7Ez5) |
-| `th_windows_vista_with_sp2_x64_dvd_x15-36374.iso` | [Link](https://pixeldrain.com/u/SiEeAnHZ) |
-| `th_windows_vista_with_sp2_x86_dvd_x15-36315.iso` | [Link](https://pixeldrain.com/u/RjX9FU1B) |
-| `tr_windows_vista_with_sp2_x64_dvd_x15-36375.iso` | [Link](https://pixeldrain.com/u/W8GHPfZB) |
-| `tr_windows_vista_with_sp2_x86_dvd_x15-36316.iso` | [Link](https://pixeldrain.com/u/r6sE16Gp) |
-| `tw_windows_vista_with_sp2_x64_dvd_x15-36323.iso` | [Link](https://pixeldrain.com/u/CUTucWdy) |
-| `tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso` | [Link](https://pixeldrain.com/u/WUExhgHG) |
-| `uk_windows_vista_with_sp2_x64_dvd_x15-36376.iso` | [Link](https://pixeldrain.com/u/6tm7u9eU) |
-| `uk_windows_vista_with_sp2_x86_dvd_x15-36317.iso` | [Link](https://pixeldrain.com/u/AmWaMF2x) |
+| Links                                                                                        |
+|-----------------------------------------------------------------|
+| [**ar**_windows_vista_with_sp2_**x64**_dvd_x15-36318.iso](https://pixeldrain.com/u/iKNwszpF) |
+| [**ar**_windows_vista_with_sp2_**x86**_dvd_x15-36282.iso](https://pixeldrain.com/u/4kqdsHBC) |
+| [**bg**_windows_vista_with_sp2_**x64**_dvd_x15-36321.iso](https://pixeldrain.com/u/BobHvHHh) |
+| [**bg**_windows_vista_with_sp2_**x86**_dvd_x15-36284.iso](https://pixeldrain.com/u/Vfn7Dg37) |
+| [**cn**_windows_vista_with_sp2_**x64**_dvd_x15-36322.iso](https://pixeldrain.com/u/mBj1kigT) |
+| [**cn**_windows_vista_with_sp2_**x86**_dvd_x15-36285.iso](https://pixeldrain.com/u/f2y2QQyx) |
+| [**cs**_windows_vista_with_sp2_**x64**_dvd_x15-36327.iso](https://pixeldrain.com/u/iDDqsHKV) |
+| [**cs**_windows_vista_with_sp2_**x86**_dvd_x15-36289.iso](https://pixeldrain.com/u/pcAHUYnc) |
+| [**da**_windows_vista_with_sp2_**x64**_dvd_x15-36329.iso](https://pixeldrain.com/u/DhKA2aRu) |
+| [**da**_windows_vista_with_sp2_**x86**_dvd_x15-36290.iso](https://pixeldrain.com/u/XcRMLLNz) |
+| [**de**_windows_vista_sp2_**x64**_dvd_342287.iso](https://pixeldrain.com/u/SmmzyKTH)         |
+| [**de**_windows_vista_sp2_**x86**_dvd_342286.iso](https://pixeldrain.com/u/hyv9LRWM)         |
+| [**el**_windows_vista_with_sp2_**x64**_dvd_x15-36343.iso](https://pixeldrain.com/u/G6KnQ1pE) |
+| [**el**_windows_vista_with_sp2_**x86**_dvd_x15-36297.iso](https://pixeldrain.com/u/cXKx4ed6) |
+| [**en**_windows_vista_sp2_**x64**_dvd_342267.iso](https://pixeldrain.com/u/vN8UoEJ7)         |
+| [**en**_windows_vista_with_sp2_**x86**_dvd_342266.iso](https://pixeldrain.com/u/hUqRyhHt)    |
+| [**es**_windows_vista_sp2_**x64**_dvd_342309.iso](https://pixeldrain.com/u/YJx35Tkm)         |
+| [**es**_windows_vista_sp2_**x86**_dvd_342308.iso](https://pixeldrain.com/u/SfpP7D7C)         |
+| [**et**_windows_vista_with_sp2_**x64**_dvd_x15-36335.iso](https://pixeldrain.com/u/Y4sGqpnw) |
+| [**et**_windows_vista_with_sp2_**x86**_dvd_x15-36293.iso](https://pixeldrain.com/u/Qje8sLRR) |
+| [**fi**_windows_vista_with_sp2_**x64**_dvd_x15-36337.iso](https://pixeldrain.com/u/EMVeydfn) |
+| [**fi**_windows_vista_with_sp2_**x86**_dvd_x15-36294.iso](https://pixeldrain.com/u/JfVZNT94) |
+| [**fr**_windows_vista_sp2_**x64**_dvd_342277.iso](https://pixeldrain.com/u/itRvuogF)         |
+| [**fr**_windows_vista_sp2_**x86**_dvd_342276.iso](https://pixeldrain.com/u/xjGVZjJX)         |
+| [**he**_windows_vista_with_sp2_**x64**_dvd_x15-36344.iso](https://pixeldrain.com/u/w7rNdqQu) |
+| [**he**_windows_vista_with_sp2_**x86**_dvd_x15-36298.iso](https://pixeldrain.com/u/BTDWrhmT) |
+| [**hk**_windows_vista_with_sp2_**x64**_dvd_x15-36324.iso](https://pixeldrain.com/u/rVAZfyMP) |
+| [**hk**_windows_vista_with_sp2_**x86**_dvd_x15-36287.iso](https://pixeldrain.com/u/P763gXpS) |
+| [**hr**_windows_vista_with_sp2_**x64**_dvd_x15-36325.iso](https://pixeldrain.com/u/3EEEe9vU) |
+| [**hr**_windows_vista_with_sp2_**x86**_dvd_x15-36288.iso](https://pixeldrain.com/u/4t1Lb2jm) |
+| [**hu**_windows_vista_with_sp2_**x64**_dvd_x15-36346.iso](https://pixeldrain.com/u/greuv76k) |
+| [**hu**_windows_vista_with_sp2_**x86**_dvd_x15-36299.iso](https://pixeldrain.com/u/nshAv1TJ) |
+| [**it**_windows_vista_with_sp2_**x64**_dvd_x15-36348.iso](https://pixeldrain.com/u/wb9MiGr8) |
+| [**it**_windows_vista_with_sp2_**x86**_dvd_x15-36300.iso](https://pixeldrain.com/u/GphQMKa6) |
+| [**ja**_windows_vista_sp2_**x64**_dvd_342298.iso](https://pixeldrain.com/u/5fzANjWR)         |
+| [**ja**_windows_vista_sp2_**x86**_dvd_342296.iso](https://pixeldrain.com/u/cgso7Dsv)         |
+| [**lt**_windows_vista_with_sp2_**x64**_dvd_x15-36355.iso](https://pixeldrain.com/u/8fgQqoD8) |
+| [**lt**_windows_vista_with_sp2_**x86**_dvd_x15-36304.iso](https://pixeldrain.com/u/7raHpCRW) |
+| [**lv**_windows_vista_with_sp2_**x64**_dvd_x15-36353.iso](https://pixeldrain.com/u/4HX9ur5y) |
+| [**lv**_windows_vista_with_sp2_**x86**_dvd_x15-36303.iso](https://pixeldrain.com/u/g6CggXTV) |
+| [**nl**_windows_vista_with_sp2_**x64**_dvd_x15-36331.iso](https://pixeldrain.com/u/KTHpfrVo) |
+| [**nl**_windows_vista_with_sp2_**x86**_dvd_x15-36291.iso](https://pixeldrain.com/u/UndqJSoM) |
+| [**no**_windows_vista_with_sp2_**x64**_dvd_x15-36357.iso](https://pixeldrain.com/u/JX3od2Pe) |
+| [**no**_windows_vista_with_sp2_**x86**_dvd_x15-36305.iso](https://pixeldrain.com/u/QicvTzkc) |
+| [**pl**_windows_vista_with_sp2_**x64**_dvd_x15-36359.iso](https://pixeldrain.com/u/jS1ggzBL) |
+| [**pl**_windows_vista_with_sp2_**x86**_dvd_x15-36306.iso](https://pixeldrain.com/u/D9Gnd9EW) |
+| [**pp**_windows_vista_with_sp2_**x64**_dvd_x15-36361.iso](https://pixeldrain.com/u/YvYpeJhA) |
+| [**pp**_windows_vista_with_sp2_**x86**_dvd_x15-36307.iso](https://pixeldrain.com/u/4LUXTEfs) |
+| [**pt**_windows_vista_with_sp2_**x64**_dvd_x15-36319.iso](https://pixeldrain.com/u/ZBaWTrdn) |
+| [**pt**_windows_vista_with_sp2_**x86**_dvd_x15-36283.iso](https://pixeldrain.com/u/dWG31YWp) |
+| [**ro**_windows_vista_with_sp2_**x64**_dvd_x15-36363.iso](https://pixeldrain.com/u/dD5zPqNi) |
+| [**ro**_windows_vista_with_sp2_**x86**_dvd_x15-36308.iso](https://pixeldrain.com/u/xdWpWXdh) |
+| [**ru**_windows_vista_with_sp2_**x64**_dvd_x15-36364.iso](https://pixeldrain.com/u/yrV9nECM) |
+| [**ru**_windows_vista_with_sp2_**x86**_dvd_x15-36309.iso](https://pixeldrain.com/u/ukkMEfQD) |
+| [**sk**_windows_vista_with_sp2_**x64**_dvd_x15-36367.iso](https://pixeldrain.com/u/y4fraF4W) |
+| [**sk**_windows_vista_with_sp2_**x86**_dvd_x15-36311.iso](https://pixeldrain.com/u/6CQVqFMZ) |
+| [**sl**_windows_vista_with_sp2_**x64**_dvd_x15-36369.iso](https://pixeldrain.com/u/UQqhbWe8) |
+| [**sl**_windows_vista_with_sp2_**x86**_dvd_x15-36312.iso](https://pixeldrain.com/u/bxTKNy8U) |
+| [**sr**_windows_vista_with_sp2_**x64**_dvd_x15-36365.iso](https://pixeldrain.com/u/ptMYtJ5B) |
+| [**sr**_windows_vista_with_sp2_**x86**_dvd_x15-36310.iso](https://pixeldrain.com/u/wt8W7cAe) |
+| [**sv**_windows_vista_with_sp2_**x64**_dvd_x15-36373.iso](https://pixeldrain.com/u/YcCvAMVf) |
+| [**sv**_windows_vista_with_sp2_**x86**_dvd_x15-36314.iso](https://pixeldrain.com/u/6Tmf7Ez5) |
+| [**th**_windows_vista_with_sp2_**x64**_dvd_x15-36374.iso](https://pixeldrain.com/u/SiEeAnHZ) |
+| [**th**_windows_vista_with_sp2_**x86**_dvd_x15-36315.iso](https://pixeldrain.com/u/RjX9FU1B) |
+| [**tr**_windows_vista_with_sp2_**x64**_dvd_x15-36375.iso](https://pixeldrain.com/u/W8GHPfZB) |
+| [**tr**_windows_vista_with_sp2_**x86**_dvd_x15-36316.iso](https://pixeldrain.com/u/r6sE16Gp) |
+| [**tw**_windows_vista_with_sp2_**x64**_dvd_x15-36323.iso](https://pixeldrain.com/u/CUTucWdy) |
+| [**tw**_windows_vista_with_sp2_**x86**_dvd_x15-36286.iso](https://pixeldrain.com/u/WUExhgHG) |
+| [**uk**_windows_vista_with_sp2_**x64**_dvd_x15-36376.iso](https://pixeldrain.com/u/6tm7u9eU) |
+| [**uk**_windows_vista_with_sp2_**x86**_dvd_x15-36317.iso](https://pixeldrain.com/u/AmWaMF2x) |
