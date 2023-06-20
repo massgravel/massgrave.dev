@@ -1,8 +1,8 @@
 ---
-pagetitle: Windows Latest Download Links
+pagetitle: Windows Business Download Links
 ---
 
-# Windows 10/11 Latest Download
+# Windows Business Download
 
 All download links leads to genuine files only.
 
@@ -18,35 +18,15 @@ All download links leads to genuine files only.
 
 -   Business ISO's aren't available to download for free. Microsoft provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   [MVS](https://visualstudio.microsoft.com/subscriptions/) provides monthly updated ISO's for Windows 10/11 and Microsoft's free download [site](https://www.microsoft.com/software-download) often provides ISO's with a couple months old build. It's fine to use that ISO since Windows update will update it anyway, but if you want to download latest genuine ISO's then you can use below links.
-
 -   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 -   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
 
 ------------------------------------------------------------------------
 
-## Windows 11 Consumer 22H2
-
-Updated May 2023 (Build - 22621.1702)
-
-| Links |
-|-------|
-
-------------------------------------------------------------------------
-
-## Windows 10 Consumer 22H2
-
-Updated May 2023 (Build - 19045.2965)
-
-| Links |
-|-------|
-
-------------------------------------------------------------------------
-
 ## Windows 11 Business 22H2
 
-Updated May 2023 (Build - 22621.1702)
+Build - 22621.1702
 
 | Links                                                                                                                                   |
 |----------------------------------------------------------------------|
@@ -93,7 +73,7 @@ Updated May 2023 (Build - 22621.1702)
 
 ## Windows 10 Business 22H2
 
-Updated May 2023 (Build - 19045.2965)
+Build - 19045.2965
 
 | Links                                                                                                                                   |
 |----------------------------------------------------------------------|
@@ -140,7 +120,7 @@ Updated May 2023 (Build - 19045.2965)
 
 ## Windows 11 IoT Enterprise 22H2
 
-Updated Sep 2022 (Build - 22621.525) (This release is not updated every month)
+Build - 22621.525
 
 | Links                                                                                                                             |
 |----------------------------------------------------------------------|
@@ -151,7 +131,7 @@ Updated Sep 2022 (Build - 22621.525) (This release is not updated every month)
 
 ## Windows 10 IoT Enterprise 22H2
 
-Updated Oct 2022 (Build - 19045.2006) (This release is not updated every month)
+Build - 19045.2006
 
 | Links                                                                                                            |
 |----------------------------------------------------------------------|
