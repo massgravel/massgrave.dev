@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Windows ARM64 Download Links</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link rel="shortcut icon" href="favicon.ico">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Microsoft Activation Scripts</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li>
+      <a href="install_hwid_key.html">Install HWID Key</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="bypass-russian-geoblock.html">Bypass Russian Geoblock</a>
+    </li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li>
+      <a href="fix-wpa-registry.html">Fix WPA Registry</a>
+    </li>
+    <li>
+      <a href="licensing-servers-issue.html">Licensing Servers Issue</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="windows-arm64-download" class="section level1">
+<h1>Windows ARM64 Download</h1>
+<p>All download links leads to genuine files only.</p>
+<hr />
+<div id="notes" class="section level2">
+<h2>Notes</h2>
+<ul>
+<li><p>You need ARM64 processor (CPU) to install Windows ARM64
+architecture OS.</p></li>
+<li><p>Microsoft does not provide free public download links for Windows
+ARM64 architecture ISO’s. They provide them on <a
+href="https://visualstudio.microsoft.com/subscriptions/">MVS</a> and <a
+href="https://www.microsoft.com/licensing/ServiceCenter/default.aspx">VLSC</a>
+but for them, you need to pay a high subscription fee. For this reason,
+we need to host files on 3rd party. You can check <a
+href="genuine-installation-media.html#How_to_verify_genuinity_of_files">here</a>
+on how to be sure that files are genuine.</p></li>
+<li><p>For below VLSC ISO files, you may find it hard to find checksums
+for them. You can download hashes list from <a
+href="https://pixeldrain.com/u/ajLQsKwz">here</a>.</p></li>
+<li><p>On VLSC, they release business ISO’s (No Home level editions) and
+on MVS, they release Iot versions for ARM64. Consumer ISO’s for ARM64
+are not released anywhere.</p></li>
+<li><p>Alternatively, you can create ARM64 ISO from <a
+href="https://uupdump.net/">UUPdump</a> or <a
+href="https://worproject.com/esd">ESD</a> file.</p></li>
+<li><p>If you need links for any other Windows/office file which is not
+listed below, please contact <a
+href="https://discord.gg/gjJEfq7ux8">here</a>.</p></li>
+<li><p>To <strong>bypass daily 10 GB download limit</strong> on
+pixeldrain, you can use free <a href="https://1.1.1.1/">Warp
+VPN</a>.</p></li>
+</ul>
+<hr />
+</div>
+<div id="windows-11-22h2-business" class="section level2">
+<h2>Windows 11 22H2 Business</h2>
+<p>Build - 22621.1702</p>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/k73rUWYi">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Arabic</strong>_Pro_Ent_EDU_N_MLF_X23-47622.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/DjFUef5Q">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Brazilian</strong>_Pro_Ent_EDU_N_MLF_X23-47623.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/4eRNtGQS">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Bulgarian</strong>_Pro_Ent_EDU_N_MLF_X23-47624.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/YhLu8NCj">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_ChnSimp</strong>_Pro_Ent_EDU_N_MLF_X23-47625.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/3djTd5Zk">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_ChnTrad</strong>_Pro_Ent_EDU_N_MLF_X23-47626.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/NhjCjKw9">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Croatian</strong>_Pro_Ent_EDU_N_MLF_X23-47627.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/xmtYHmBi">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Czech</strong>_Pro_Ent_EDU_N_MLF_X23-47628.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/tZZGQu5A">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Danish</strong>_Pro_Ent_EDU_N_MLF_X23-47629.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/8oenS1vb">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Dutch</strong>_Pro_Ent_EDU_N_MLF_X23-47630.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/Hx3VMiNP">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_English</strong>_Pro_Ent_EDU_N_MLF_X23-47632.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/R2XoiJD5">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Eng_Intl</strong>_Pro_Ent_EDU_N_MLF_X23-47631.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aBYGdL4s">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Estonian</strong>_Pro_Ent_EDU_N_MLF_X23-47633.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/31zF13X6">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Finnish</strong>_Pro_Ent_EDU_N_MLF_X23-47634.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aXfnxfiY">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_FrenchCanadian</strong>_Pro_Ent_EDU_N_MLF_X23-47636.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/YfgGwsd5">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_French</strong>_Pro_Ent_EDU_N_MLF_X23-47635.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/EK47K35h">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_German</strong>_Pro_Ent_EDU_N_MLF_X23-47637.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/zVnjEbGV">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Greek</strong>_Pro_Ent_EDU_N_MLF_X23-47638.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/njcXkvpF">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Hebrew</strong>_Pro_Ent_EDU_N_MLF_X23-47639.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/23AuKT2L">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Hungarian</strong>_Pro_Ent_EDU_N_MLF_X23-47640.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/tgSvhQBu">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Italian</strong>_Pro_Ent_EDU_N_MLF_X23-47641.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/nw3MRXWJ">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Japanese</strong>_Pro_Ent_EDU_N_MLF_X23-47642.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/TqPASXYx">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Korean</strong>_Pro_Ent_EDU_N_MLF_X23-47643.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/F8uiVVs8">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Latvian</strong>_Pro_Ent_EDU_N_MLF_X23-47644.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/pta2kkbW">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Lithuanian</strong>_Pro_Ent_EDU_N_MLF_X23-47645.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/p6sFcVTF">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Norwegian</strong>_Pro_Ent_EDU_N_MLF_X23-47646.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/TPGk6Bp2">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Polish</strong>_Pro_Ent_EDU_N_MLF_X23-47647.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/Qwqjtd2E">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Portuguese</strong>_Pro_Ent_EDU_N_MLF_X23-47648.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/zpt21Vtf">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Romanian</strong>_Pro_Ent_EDU_N_MLF_X23-47649.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/KVXkfouW">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Russian</strong>_Pro_Ent_EDU_N_MLF_X23-47650.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aqBzEGs4">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Serbian_Latin</strong>_Pro_Ent_EDU_N_MLF_X23-47651.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/HNXdVkcX">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Slovak</strong>_Pro_Ent_EDU_N_MLF_X23-47652.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/B23yE1PF">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Slovenian</strong>_Pro_Ent_EDU_N_MLF_X23-47653.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/xMaugzXP">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Spanish_Latam</strong>_Pro_Ent_EDU_N_MLF_X23-47654.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/GH5XMWBY">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Spanish</strong>_Pro_Ent_EDU_N_MLF_X23-47655.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/k5LPYZb4">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Swedish</strong>_Pro_Ent_EDU_N_MLF_X23-47656.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/ajuwMgpN">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Thai</strong>_Pro_Ent_EDU_N_MLF_X23-47657.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/3oKRKEFC">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Turkish</strong>_Pro_Ent_EDU_N_MLF_X23-47658.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aZiCaHKK">SW_DVD9_Win_Pro_11_22H2.9_<strong>Arm64_Ukrainian</strong>_Pro_Ent_EDU_N_MLF_X23-47659.ISO</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="windows-10-22h2-business" class="section level2">
+<h2>Windows 10 22H2 Business</h2>
+<p>Build - 19045.2965</p>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/22H4ApKz">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Arabic</strong>_Pro_Ent_EDU_N_MLF_X23-46856.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/YRGRhepA">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Brazilian</strong>_Pro_Ent_EDU_N_MLF_X23-46857.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/Z9SjRik6">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Bulgarian</strong>_Pro_Ent_EDU_N_MLF_X23-46858.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/fTvU6N7R">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_ChnSimp</strong>_Pro_Ent_EDU_N_MLF_X23-46859.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/EdYKHfLZ">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_ChnTrad</strong>_Pro_Ent_EDU_N_MLF_X23-46860.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/Ekaw7j7S">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Croatian</strong>_Pro_Ent_EDU_N_MLF_X23-46861.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/A1Sb7nKP">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Czech</strong>_Pro_Ent_EDU_N_MLF_X23-46862.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/dHU6FogK">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Danish</strong>_Pro_Ent_EDU_N_MLF_X23-46863.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/QeFrzMVa">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Dutch</strong>_Pro_Ent_EDU_N_MLF_X23-46864.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/d2EjRnMJ">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Eng_Intl</strong>_Pro_Ent_EDU_N_MLF_X23-46865.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/rg1XFBAg">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_English</strong>_Pro_Ent_EDU_N_MLF_X23-46866.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/MfvSpB8j">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Estonian</strong>_Pro_Ent_EDU_N_MLF_X23-46867.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/zUnNG4gC">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Finnish</strong>_Pro_Ent_EDU_N_MLF_X23-46868.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/MvVuQjf6">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_French</strong>_Pro_Ent_EDU_N_MLF_X23-46869.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/BrY9TC1v">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_FrenchCanadian</strong>_Pro_Ent_EDU_N_MLF_X23-46870.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/ufqpaU5z">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_German</strong>_Pro_Ent_EDU_N_MLF_X23-46871.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/toPEMzTU">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Greek</strong>_Pro_Ent_EDU_N_MLF_X23-46872.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/NGNxJZFk">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Hebrew</strong>_Pro_Ent_EDU_N_MLF_X23-46873.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/tL4tDe3o">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Hungarian</strong>_Pro_Ent_EDU_N_MLF_X23-46874.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/5xnjFjm4">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Italian</strong>_Pro_Ent_EDU_N_MLF_X23-46875.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/PmR3JThT">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Japanese</strong>_Pro_Ent_EDU_N_MLF_X23-46876.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/xQ2ryRzy">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Korean</strong>_Pro_Ent_EDU_N_MLF_X23-46877.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/xZ3ZNy7f">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Latvian</strong>_Pro_Ent_EDU_N_MLF_X23-46878.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/NqMEaeA6">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Lithuanian</strong>_Pro_Ent_EDU_N_MLF_X23-46879.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/tfEm4J35">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Norwegian</strong>_Pro_Ent_EDU_N_MLF_X23-46880.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/eaCvs46K">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Polish</strong>_Pro_Ent_EDU_N_MLF_X23-46881.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/kjPK9wtW">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Portuguese</strong>_Pro_Ent_EDU_N_MLF_X23-46882.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/UpveY9Lo">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Romanian</strong>_Pro_Ent_EDU_N_MLF_X23-46883.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/oJDFG18a">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Russian</strong>_Pro_Ent_EDU_N_MLF_X23-46884.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/Dgd75nk6">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Serbian_Latin</strong>_Pro_Ent_EDU_N_MLF_X23-46885.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/EX5snRSU">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Slovak</strong>_Pro_Ent_EDU_N_MLF_X23-46886.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/1CNT5sVA">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Slovenian</strong>_Pro_Ent_EDU_N_MLF_X23-46887.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/Znf6egHY">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Spanish_Latam</strong>_Pro_Ent_EDU_N_MLF_X23-46888.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aWCcKyf1">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Spanish</strong>_Pro_Ent_EDU_N_MLF_X23-46889.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/SnTdTuia">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Swedish</strong>_Pro_Ent_EDU_N_MLF_X23-46890.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/aAso3ktV">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Thai</strong>_Pro_Ent_EDU_N_MLF_X23-46891.ISO</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/JGLSLohN">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Turkish</strong>_Pro_Ent_EDU_N_MLF_X23-46892.ISO</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://pixeldrain.com/u/P9HPuPsq">SW_DVD9_Win_Pro_10_22H2.7_<strong>Arm64_Ukrainian</strong>_Pro_Ent_EDU_N_MLF_X23-46893.ISO</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="win10-iot-enterprise-ltsc-2021" class="section level2">
+<h2>Win10 Iot Enterprise LTSC 2021</h2>
+<p>(Build - 19044.1288)</p>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/sCLkA2Pi"><strong>en-us</strong>_windows_10_iot_enterprise_ltsc_2021_<strong>arm64</strong>_dvd_e8d4fc46.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="windows-11-iot-enterprise-22h2" class="section level2">
+<h2>Windows 11 IoT Enterprise 22H2</h2>
+<p>Build - 22621.525</p>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/FQdP5b6X"><strong>en-us</strong>_windows_11_iot_enterprise_version_22h2_updated_sep_2022_<strong>arm64</strong>_dvd_a2c93810.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="windows-10-iot-enterprise-22h2" class="section level2">
+<h2>Windows 10 IoT Enterprise 22H2</h2>
+<p>Build - 19045.2006</p>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://pixeldrain.com/u/LfQp8yBo"><strong>en-us</strong>_windows_10_iot_enterprise_version_22h2_<strong>arm64</strong>_dvd_39566b6b.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+</div>
+
+<script type="text/javascript" src="links.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
