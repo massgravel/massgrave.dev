@@ -1,10 +1,10 @@
 ---
-pagetitle: Microsoft  Activation  Scripts
+pagetitle: MAS
 ---
 
 ## Intro
 
-**Microsoft Activation Scripts (MAS)**
+**Microsoft_Activation_Scripts (MAS)**
 
 A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
@@ -61,7 +61,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                               |
-|:----------------|:---------------------|:------------------------------------------------|
+|:----------------|:----------------|:-------------------------------------|
 | HWID            | Windows 10-11        | Permanent                                       |
 | KMS38           | Windows 10-11-Server | Until the year 2038                             |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |
