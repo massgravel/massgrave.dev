@@ -1,7 +1,7 @@
-name: "Microsoft Activation Scripts"
+name: "Microsoft_Activation_Scripts"
 include: ["get.ps1"]
 navbar:
-  title: "Microsoft  Activation  Scripts"
+  title: "Microsoft_Activation_Scripts"
   right:
     - text: "Home"
       href: index.html
