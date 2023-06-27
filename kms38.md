@@ -157,7 +157,7 @@ pagetitle: KMS38 Activation
 
 -   From MAS 1.7, script will enable the KMS38 protection by default.
 
--   If you are going to use [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406 or [MAS](https://massgrave.dev) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
+-   If you are going to use [KMS_VL_ALL]((https://github.com/abbodi1406/KMS_VL_ALL_AIO)) by abbodi1406 or [MAS](index.html) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
 
 -   Below is the explanation for how the script protect KMS38.
 

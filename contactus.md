@@ -18,6 +18,6 @@ Please feel free to share feedback regarding bug reports, documentation errors, 
 
 -   Email: windowsaddict\@protonmail.com
 
--   [Nsaneforums](https://nsaneforums.com/topic/316668-microsoft-activation-scripts/)
+-   [Nsaneforums](https://nsaneforums.com/topic/316668--)
 
 ------------------------------------------------------------------------

@@ -7,8 +7,8 @@ pagetitle: Genuine Installation Media
 All download links leads to genuine files only.
 
 | **Windows**                             |                                                                                                                                                                               |
-|:----------------------------|:----------------------------|
-| Windows 11 / 10 / 8.1 (Consumer) ❤️     | [Link1](https://www.microsoft.com/software-download) - [Link2](https://massgrave.dev/msdl/) (Works in Russia)                                                                 |
+|:---------------------------|:-----------------------------|
+| Windows 11 / 10 / 8.1 (Consumer) ❤️     | [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/) (Works in Russia)                                                                                      |
 | Windows 11 / 10 (Business)              | [Link](windows_business_links.html)                                                                                                                                           |
 | Windows 11 / 10 (ARM64)                 | [Link](windows_arm_links.html)                                                                                                                                                |
 | Windows 10 Enterprise **LTSC**          | [Link](windows_ltsc_links.html)                                                                                                                                               |

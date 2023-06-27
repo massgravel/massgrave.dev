@@ -13,7 +13,7 @@ pagetitle: Command Line Switches
 -   If you want to use it in Windows Pre-Activation then check [this](oem-folder.html) page for more details.
 
 | Switches                  | Meaning                                                  |
-|---------------------------|----------------------------------------------------------|
+|------------------------|-----------------------------------------------|
 | `/HWID`                   | Activate with HWID                                       |
 | `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID            |
 |                           |                                                          |
@@ -39,19 +39,11 @@ pagetitle: Command Line Switches
 
 ## Uses In Powershell One Liner
 
-`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /para`
+`iex "&{$(irm https://mass grave.dev/get)} /para"`
 
--   Replace `/para` in this command with the switches from the above table. You can use multiple switches. For example, if you want to activate Windows and Office both with the best method possible then use,
+Note - Remove space between `mass grave`
 
-`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS38 /KMS-WindowsOffice /KMS-ActAndRenewalTask`
-
-If you just want to activate Windows with HWID and Office with KMS then,
-
-`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS-Office /KMS-ActAndRenewalTask`
-
-If you just wants to activate Windows with HWID then,
-
-`& ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID`
+-   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /KMS-Office /KMS-ActAndRenewalTask`
 
 **Note:** This Powershell one liner will work on Windows 8 and later versions only.
 
