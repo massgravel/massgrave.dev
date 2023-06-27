@@ -30,7 +30,7 @@ pagetitle: FAQ
     Check [here](online_kms.html#How_to_remove_Online_KMS).
 
 -   **Is MAS safe? How to know if there is any malware?**\
-    MAS is fully [open source](https://github.com/massgravel/Microsoft-Activation-Scripts). You can open the batch files with notepad and verify it. It has many users/stars on Github. You can even perform the activation manually, check Doc section for instructions.
+    MAS is fully [open source](index.html#MAS_Latest_Release). You can open the batch files with notepad and verify it. It has many users/stars on Github. You can even perform the activation manually, check Doc section for instructions.
 
 -   **How to download the full version of Windows 10 LTSC 2021?**\
     Check the info [here](genuine-installation-media.html).

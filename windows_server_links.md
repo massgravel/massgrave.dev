@@ -26,26 +26,26 @@ All download links leads to genuine files only.
 
 (Build - 20348.169)
 
-| Filename                                               | Link 1                                      | Link 2                                                                                         |
-|--------------------------------------------------------|--------|--------|
-| **cs-cz**_windows_server_2022_**x64**_dvd_9cc09859.iso | [Link 1](https://pixeldrain.com/u/JfFza6jP) | [Link 2](https://iso.massgrave.dev/server_2022/cs-cz_windows_server_2022_x64_dvd_9cc09859.iso) |
-| **de-de**_windows_server_2022_**x64**_dvd_e2c1874e.iso | [Link 1](https://pixeldrain.com/u/UMxebY31) | [Link 2](https://iso.massgrave.dev/server_2022/de-de_windows_server_2022_x64_dvd_e2c1874e.iso) |
-| **en-us**_windows_server_2022_**x64**_dvd_620d7eac.iso | [Link 1](https://pixeldrain.com/u/tS6ncsWe) | [Link 2](https://iso.massgrave.dev/server_2022/en-us_windows_server_2022_x64_dvd_620d7eac.iso) |
-| **es-es**_windows_server_2022_**x64**_dvd_c25dea55.iso | [Link 1](https://pixeldrain.com/u/DaUQcLj9) | [Link 2](https://iso.massgrave.dev/server_2022/es-es_windows_server_2022_x64_dvd_c25dea55.iso) |
-| **fr-fr**_windows_server_2022_**x64**_dvd_9f7d1adb.iso | [Link 1](https://pixeldrain.com/u/owCPNoyj) | [Link 2](https://iso.massgrave.dev/server_2022/fr-fr_windows_server_2022_x64_dvd_9f7d1adb.iso) |
-| **hu-hu**_windows_server_2022_**x64**_dvd_d7eb4371.iso | [Link 1](https://pixeldrain.com/u/7uvBTCsp) | [Link 2](https://iso.massgrave.dev/server_2022/hu-hu_windows_server_2022_x64_dvd_d7eb4371.iso) |
-| **it-it**_windows_server_2022_**x64**_dvd_2ef5266d.iso | [Link 1](https://pixeldrain.com/u/P8nZrF9D) | [Link 2](https://iso.massgrave.dev/server_2022/it-it_windows_server_2022_x64_dvd_2ef5266d.iso) |
-| **ja-jp**_windows_server_2022_**x64**_dvd_d49acd0d.iso | [Link 1](https://pixeldrain.com/u/5n8QVsM6) | [Link 2](https://iso.massgrave.dev/server_2022/ja-jp_windows_server_2022_x64_dvd_d49acd0d.iso) |
-| **ko-kr**_windows_server_2022_**x64**_dvd_c14a04ba.iso | [Link 1](https://pixeldrain.com/u/iTGW2dGY) | [Link 2](https://iso.massgrave.dev/server_2022/ko-kr_windows_server_2022_x64_dvd_c14a04ba.iso) |
-| **nl-nl**_windows_server_2022_**x64**_dvd_1421617b.iso | [Link 1](https://pixeldrain.com/u/uBvrcgiT) | [Link 2](https://iso.massgrave.dev/server_2022/nl-nl_windows_server_2022_x64_dvd_1421617b.iso) |
-| **pl-pl**_windows_server_2022_**x64**_dvd_ac6af29a.iso | [Link 1](https://pixeldrain.com/u/Q6dgZCjQ) | [Link 2](https://iso.massgrave.dev/server_2022/pl-pl_windows_server_2022_x64_dvd_ac6af29a.iso) |
-| **pt-br**_windows_server_2022_**x64**_dvd_b873861f.iso | [Link 1](https://pixeldrain.com/u/3esTGw34) | [Link 2](https://iso.massgrave.dev/server_2022/pt-br_windows_server_2022_x64_dvd_b873861f.iso) |
-| **pt-pt**_windows_server_2022_**x64**_dvd_39cc8179.iso | [Link 1](https://pixeldrain.com/u/y7vXdsZq) | [Link 2](https://iso.massgrave.dev/server_2022/pt-pt_windows_server_2022_x64_dvd_39cc8179.iso) |
-| **ru-ru**_windows_server_2022_**x64**_dvd_d8fd3d54.iso | [Link 1](https://pixeldrain.com/u/AW5474ST) | [Link 2](https://iso.massgrave.dev/server_2022/ru-ru_windows_server_2022_x64_dvd_d8fd3d54.iso) |
-| **sv-se**_windows_server_2022_**x64**_dvd_1b669ce4.iso | [Link 1](https://pixeldrain.com/u/evwYbbSn) | [Link 2](https://iso.massgrave.dev/server_2022/sv-se_windows_server_2022_x64_dvd_1b669ce4.iso) |
-| **tr-tr**_windows_server_2022_**x64**_dvd_266ef676.iso | [Link 1](https://pixeldrain.com/u/VXfDs1ya) | [Link 2](https://iso.massgrave.dev/server_2022/tr-tr_windows_server_2022_x64_dvd_266ef676.iso) |
-| **zh-cn**_windows_server_2022_**x64**_dvd_6c73507d.iso | [Link 1](https://pixeldrain.com/u/EJhVYh3u) | [Link 2](https://iso.massgrave.dev/server_2022/zh-cn_windows_server_2022_x64_dvd_6c73507d.iso) |
-| **zh-tw**_windows_server_2022_**x64**_dvd_02ed5775.iso | [Link 1](https://pixeldrain.com/u/jsQdFRNP) | [Link 2](https://iso.massgrave.dev/server_2022/zh-tw_windows_server_2022_x64_dvd_02ed5775.iso) |
+| Links                                                                                       |
+|-------------------------------------------------------------|
+| [**cs-cz**_windows_server_2022_**x64**_dvd_9cc09859.iso](https://pixeldrain.com/u/JfFza6jP) |
+| [**de-de**_windows_server_2022_**x64**_dvd_e2c1874e.iso](https://pixeldrain.com/u/UMxebY31) |
+| [**en-us**_windows_server_2022_**x64**_dvd_620d7eac.iso](https://pixeldrain.com/u/tS6ncsWe) |
+| [**es-es**_windows_server_2022_**x64**_dvd_c25dea55.iso](https://pixeldrain.com/u/DaUQcLj9) |
+| [**fr-fr**_windows_server_2022_**x64**_dvd_9f7d1adb.iso](https://pixeldrain.com/u/owCPNoyj) |
+| [**hu-hu**_windows_server_2022_**x64**_dvd_d7eb4371.iso](https://pixeldrain.com/u/7uvBTCsp) |
+| [**it-it**_windows_server_2022_**x64**_dvd_2ef5266d.iso](https://pixeldrain.com/u/P8nZrF9D) |
+| [**ja-jp**_windows_server_2022_**x64**_dvd_d49acd0d.iso](https://pixeldrain.com/u/5n8QVsM6) |
+| [**ko-kr**_windows_server_2022_**x64**_dvd_c14a04ba.iso](https://pixeldrain.com/u/iTGW2dGY) |
+| [**nl-nl**_windows_server_2022_**x64**_dvd_1421617b.iso](https://pixeldrain.com/u/uBvrcgiT) |
+| [**pl-pl**_windows_server_2022_**x64**_dvd_ac6af29a.iso](https://pixeldrain.com/u/Q6dgZCjQ) |
+| [**pt-br**_windows_server_2022_**x64**_dvd_b873861f.iso](https://pixeldrain.com/u/3esTGw34) |
+| [**pt-pt**_windows_server_2022_**x64**_dvd_39cc8179.iso](https://pixeldrain.com/u/y7vXdsZq) |
+| [**ru-ru**_windows_server_2022_**x64**_dvd_d8fd3d54.iso](https://pixeldrain.com/u/AW5474ST) |
+| [**sv-se**_windows_server_2022_**x64**_dvd_1b669ce4.iso](https://pixeldrain.com/u/evwYbbSn) |
+| [**tr-tr**_windows_server_2022_**x64**_dvd_266ef676.iso](https://pixeldrain.com/u/VXfDs1ya) |
+| [**zh-cn**_windows_server_2022_**x64**_dvd_6c73507d.iso](https://pixeldrain.com/u/EJhVYh3u) |
+| [**zh-tw**_windows_server_2022_**x64**_dvd_02ed5775.iso](https://pixeldrain.com/u/jsQdFRNP) |
 
 ------------------------------------------------------------------------
 

@@ -22,7 +22,7 @@ We are unable to complete your request at this time. Some users, entities and lo
 
 ### Solution
 
-<https://massgrave.dev/msdl/>
+[MSDL](/msdl/)
 
 It uses shared sessions/proxy to generate official download links in Russia and in all other blocked places.
 

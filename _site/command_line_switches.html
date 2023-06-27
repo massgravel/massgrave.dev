@@ -310,7 +310,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Microsoft Activation Scripts</a>
+      <a class="navbar-brand" href="index.html">Microsoft  Activation  Scripts</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -418,8 +418,8 @@ href="oem-folder.html">this</a> page for more details.</p></li>
 </ul>
 <table>
 <colgroup>
-<col width="31%" />
-<col width="68%" />
+<col width="33%" />
+<col width="66%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -514,19 +514,13 @@ href="oem-folder.html">this</a> page for more details.</p></li>
 </div>
 <div id="uses-in-powershell-one-liner" class="section level2">
 <h2>Uses In Powershell One Liner</h2>
-<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /para</code></p>
+<p><code>iex "&amp;{$(irm https://mass grave.dev/get)} /para"</code></p>
+<p>Note - Remove space between <code>mass grave</code></p>
 <ul>
 <li>Replace <code>/para</code> in this command with the switches from
-the above table. You can use multiple switches. For example, if you want
-to activate Windows and Office both with the best method possible then
-use,</li>
+the above table. You can also use multiple switches. For example,
+<code>/HWID /KMS-Office /KMS-ActAndRenewalTask</code></li>
 </ul>
-<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS38 /KMS-WindowsOffice /KMS-ActAndRenewalTask</code></p>
-<p>If you just want to activate Windows with HWID and Office with KMS
-then,</p>
-<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID /KMS-Office /KMS-ActAndRenewalTask</code></p>
-<p>If you just wants to activate Windows with HWID then,</p>
-<p><code>&amp; ([ScriptBlock]::Create((irm https://massgrave.dev/get))) /HWID</code></p>
 <p><strong>Note:</strong> This Powershell one liner will work on Windows
 8 and later versions only.</p>
 <hr />
