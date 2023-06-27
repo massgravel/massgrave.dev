@@ -1,5 +1,5 @@
 ---
-pagetitle: Microsoft_Activation_Scripts
+pagetitle: Microsoft  Activation  Scripts
 ---
 
 ## Intro
