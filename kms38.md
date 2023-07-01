@@ -237,81 +237,85 @@ In this process we will perform activation from scratch. This is based on Univer
 
 <!-- -->
 
-    $bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
-    $bytes[320] = 0xf8
-    $bytes[321] = 0xfb
-    $bytes[322] = 0x05
-    $bytes[324] = 0x03
-    $bytes[13672] = 0x25
-    $bytes[13674] = 0x73
-    $bytes[13676] = 0x3b
-    $bytes[13678] = 0x00
-    $bytes[13680] = 0x00
-    $bytes[13682] = 0x00
-    $bytes[13684] = 0x00
-    $bytes[32748] = 0xe9
-    $bytes[32749] = 0x9e
-    $bytes[32750] = 0x00
-    $bytes[32751] = 0x00
-    $bytes[32752] = 0x00
-    $bytes[32894] = 0x8b
-    $bytes[32895] = 0x44
-    $bytes[32897] = 0x64
-    $bytes[32898] = 0x85
-    $bytes[32899] = 0xc0
-    $bytes[32900] = 0x0f
-    $bytes[32901] = 0x85
-    $bytes[32902] = 0x1c
-    $bytes[32903] = 0x02
-    $bytes[32904] = 0x00
-    $bytes[32906] = 0xe9
-    $bytes[32907] = 0x3c
-    $bytes[32908] = 0x01
-    $bytes[32909] = 0x00
-    $bytes[32910] = 0x00
-    $bytes[32911] = 0x85
-    $bytes[32912] = 0xdb
-    $bytes[32913] = 0x75
-    $bytes[32914] = 0xeb
-    $bytes[32915] = 0xe9
-    $bytes[32916] = 0x69
-    $bytes[32917] = 0xff
-    $bytes[32918] = 0xff
-    $bytes[32919] = 0xff
-    $bytes[33094] = 0xe9
-    $bytes[33095] = 0x80
-    $bytes[33096] = 0x00
-    $bytes[33097] = 0x00
-    $bytes[33098] = 0x00
-    $bytes[33449] = 0x64
-    $bytes[33576] = 0x8d
-    $bytes[33577] = 0x54
-    $bytes[33579] = 0x24
-    $bytes[33580] = 0xe9
-    $bytes[33581] = 0x55
-    $bytes[33582] = 0x01
-    $bytes[33583] = 0x00
-    $bytes[33584] = 0x00
-    $bytes[33978] = 0xc3
-    $bytes[34189] = 0x59
-    $bytes[34190] = 0xeb
-    $bytes[34191] = 0x28
-    $bytes[34238] = 0xe9
-    $bytes[34239] = 0x4f
-    $bytes[34240] = 0x00
-    $bytes[34241] = 0x00
-    $bytes[34242] = 0x00
-    $bytes[34346] = 0x24
-    $bytes[34376] = 0xeb
-    $bytes[34377] = 0x63
-    [System.IO.File]::WriteAllBytes("C:\Files\gatherosstatemodified.exe", $bytes)
+```         
+$bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
+$bytes[320] = 0xf8
+$bytes[321] = 0xfb
+$bytes[322] = 0x05
+$bytes[324] = 0x03
+$bytes[13672] = 0x25
+$bytes[13674] = 0x73
+$bytes[13676] = 0x3b
+$bytes[13678] = 0x00
+$bytes[13680] = 0x00
+$bytes[13682] = 0x00
+$bytes[13684] = 0x00
+$bytes[32748] = 0xe9
+$bytes[32749] = 0x9e
+$bytes[32750] = 0x00
+$bytes[32751] = 0x00
+$bytes[32752] = 0x00
+$bytes[32894] = 0x8b
+$bytes[32895] = 0x44
+$bytes[32897] = 0x64
+$bytes[32898] = 0x85
+$bytes[32899] = 0xc0
+$bytes[32900] = 0x0f
+$bytes[32901] = 0x85
+$bytes[32902] = 0x1c
+$bytes[32903] = 0x02
+$bytes[32904] = 0x00
+$bytes[32906] = 0xe9
+$bytes[32907] = 0x3c
+$bytes[32908] = 0x01
+$bytes[32909] = 0x00
+$bytes[32910] = 0x00
+$bytes[32911] = 0x85
+$bytes[32912] = 0xdb
+$bytes[32913] = 0x75
+$bytes[32914] = 0xeb
+$bytes[32915] = 0xe9
+$bytes[32916] = 0x69
+$bytes[32917] = 0xff
+$bytes[32918] = 0xff
+$bytes[32919] = 0xff
+$bytes[33094] = 0xe9
+$bytes[33095] = 0x80
+$bytes[33096] = 0x00
+$bytes[33097] = 0x00
+$bytes[33098] = 0x00
+$bytes[33449] = 0x64
+$bytes[33576] = 0x8d
+$bytes[33577] = 0x54
+$bytes[33579] = 0x24
+$bytes[33580] = 0xe9
+$bytes[33581] = 0x55
+$bytes[33582] = 0x01
+$bytes[33583] = 0x00
+$bytes[33584] = 0x00
+$bytes[33978] = 0xc3
+$bytes[34189] = 0x59
+$bytes[34190] = 0xeb
+$bytes[34191] = 0x28
+$bytes[34238] = 0xe9
+$bytes[34239] = 0x4f
+$bytes[34240] = 0x00
+$bytes[34241] = 0x00
+$bytes[34242] = 0x00
+$bytes[34346] = 0x24
+$bytes[34376] = 0xeb
+$bytes[34377] = 0x63
+[System.IO.File]::WriteAllBytes("C:\Files\gatherosstatemodified.exe", $bytes)
+```
 
 -   Now right click on the file `gatherosstatemodified.exe` and goto properties and set the compatibility to Windows XP SP3.\
 -   Now we need to generate the ticket, to do that, enter the below command.
 
 <!-- -->
 
-    C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1
+```         
+C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1
+```
 
 -   A GenuineTicket.xml file should be created in the folder `C:\Files\` now let's apply it.
 
@@ -326,7 +330,7 @@ In this process we will perform activation from scratch. This is based on Univer
 **Notes:**
 
 -   To make the exact ticket used in MAS KMS38 script, fix the time with below Powershell command and then initiate the ticket generation process as per above mentioned steps.\
-    `$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
+    `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 -   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have `clipup.exe` file.\
     To KMS38 activate it, you need to download `ClipUp.exe` file from [this link](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
