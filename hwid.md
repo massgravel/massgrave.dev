@@ -304,7 +304,7 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;DownlevelGenuineState=1
 -   If the system is already activated then created ticket will be a Lockbox ticket and if not then it will be a Downlevel ticket.
 
 -   To make the exact ticket used in MAS HWID script, make sure system is already activated and fix the time with below Powershell command and then initiate the ticket generation process as per above mentioned steps.\
-    `$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
+    `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 ------------------------------------------------------------------------
 

@@ -972,7 +972,7 @@ command.</li>
 <li><p>To make the exact ticket used in MAS KMS38 script, fix the time
 with below Powershell command and then initiate the ticket generation
 process as per above mentioned steps.<br />
-<code>$date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
+<code>Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
 <li><p>In the case of Windows Server Cor/Acor (No GUI) editions, the
 system doesn’t have <code>clipup.exe</code> file.<br />
 To KMS38 activate it, you need to download <code>ClipUp.exe</code> file
