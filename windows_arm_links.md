@@ -124,9 +124,9 @@ Build - 19045.2965
 
 (Build - 19044.1288)
 
-| Links                                                                                                            |
-|------------------------------------------------------------------------|
-| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**arm64**\_dvd_e8d4fc46.iso](https://pixeldrain.com/u/sCLkA2Pi) |
+| Links                                                                                                                                                                                    |
+|-----------------------------------------------------------------------|
+| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**arm64**\_dvd_e8d4fc46.iso](https://haze.seedhost.eu/user/windows/10/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
 
 ------------------------------------------------------------------------
 
