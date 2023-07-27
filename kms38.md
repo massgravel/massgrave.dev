@@ -51,36 +51,37 @@ pagetitle: KMS38 Activation
 
 ## Supported Products
 
-| Windows 10/11                    | Generic Volume License Key      |
-|:---------------------------------|:--------------------------------|
-| Education                        | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
-| Education N                      | `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ` |
-| Enterprise                       | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
-| Enterprise N                     | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
-| Enterprise G                     | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
-| Enterprise G N                   | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
-| Enterprise LTSB 2015             | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
-| Enterprise LTSB 2016             | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
-| Enterprise LTSC 2019             | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
-| Enterprise LTSC 2021             | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
-| Enterprise N LTSB 2015           | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
-| Enterprise N LTSB 2016           | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
-| Enterprise N LTSC 2019           | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
-| Enterprise N LTSC 2021           | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
-| IoT Enterprise LTSC (Windows 11) | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
-| Home                             | `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99` |
-| Home N                           | `3KHY7-WNT83-DGQKR-F7HPR-844BM` |
-| Home China                       | `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR` |
-| Home Single Language             | `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH` |
-| Lean                             | `NBTWJ-3DR69-3C4V8-C26MC-GQ9M6` |
-| Pro                              | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
-| Pro N                            | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
-| Pro Education                    | `6TP4R-GNPTD-KYYHQ-7B7DP-J447Y` |
-| Pro Education N                  | `YVWGF-BXNMC-HTQYQ-CPQ99-66QFC` |
-| Pro for Workstations             | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
-| Pro N for Workstations           | `9FNHH-K3HBT-3W4TD-6383H-6XYWF` |
-| SE                               | `37D7F-N49CB-WQR8W-TBJ73-FM8RX` |
-| SE N                             | `6XN7V-PCBDC-BDBRH-8DQY7-G6R44` |
+| Windows 10/11                                   | Generic Volume License Key      |
+|:------------------------------------------------|:--------------------------------|
+| Education                                       | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
+| Education N                                     | `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ` |
+| Enterprise                                      | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
+| Enterprise N                                    | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
+| Enterprise G                                    | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
+| Enterprise G N                                  | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
+| Enterprise LTSB 2015                            | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
+| Enterprise LTSB 2016                            | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
+| Enterprise LTSC 2019                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
+| Enterprise LTSC 2021                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
+| Enterprise N LTSB 2015                          | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
+| Enterprise N LTSB 2016                          | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
+| Enterprise N LTSC 2019                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
+| Enterprise N LTSC 2021                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
+| IoT Enterprise LTSC 2021 (19044.2788 and later) | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
+| IoT Enterprise LTSC (Windows 11)                | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
+| Home                                            | `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99` |
+| Home N                                          | `3KHY7-WNT83-DGQKR-F7HPR-844BM` |
+| Home China                                      | `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR` |
+| Home Single Language                            | `7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH` |
+| Lean                                            | `NBTWJ-3DR69-3C4V8-C26MC-GQ9M6` |
+| Pro                                             | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
+| Pro N                                           | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
+| Pro Education                                   | `6TP4R-GNPTD-KYYHQ-7B7DP-J447Y` |
+| Pro Education N                                 | `YVWGF-BXNMC-HTQYQ-CPQ99-66QFC` |
+| Pro for Workstations                            | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
+| Pro N for Workstations                          | `9FNHH-K3HBT-3W4TD-6383H-6XYWF` |
+| SE                                              | `37D7F-N49CB-WQR8W-TBJ73-FM8RX` |
+| SE N                                            | `6XN7V-PCBDC-BDBRH-8DQY7-G6R44` |
 
 | Windows Server (LTSC)             | Generic Volume License Key      |
 |:----------------------------------|:--------------------------------|
@@ -119,6 +120,8 @@ pagetitle: KMS38 Activation
 -   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
 
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
+
+-   Initial release (19044.1288) of Iot LTSC 2021 doesn't support KMS license and it was added later in update 19044.2788.
 
 -   ServerRdsh, Server Azure Datacenter editions do not [officially](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq) support activation on non-azure systems.
 
