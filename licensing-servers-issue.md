@@ -4,6 +4,9 @@ pagetitle: Licensing Servers Issue
 
 # Licensing Servers Issue
 
+📌 Update: UTC 10.00 Friday, 28 July, 2023\
+Microsoft licensing servers are down at the moment. Please wait...
+
 ------------------------------------------------------------------------
 
 -   In some cases, **HWID activation** may fail because system couldn't connect to HWID licensing servers.
@@ -35,11 +38,10 @@ pagetitle: Licensing Servers Issue
 
 ## VPN
 
--   You can install either of the below VPN to fix issue if script is showing failed to connect licensing servers.
+-   You can install below VPN to fix issue if script is showing failed to connect licensing servers.
 
--   Cloudflare WARP - <https://1.1.1.1/>
-
--   Psiphon - <https://psiphon.ca/>
+-   Freedome VPN\
+    <https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe>
 
 -   Once done, try HWID Activation.
 
@@ -55,26 +57,30 @@ Around 8 Feb 2023 in China, MS licensing servers failed to properly connect and 
 
 <!-- -->
 
-    $filePath = "C:\Windows\System32\drivers\etc\hosts"
+```         
+$filePath = "C:\Windows\System32\drivers\etc\hosts"
 
-    Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
+Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
 
-    Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
+Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
 
-    Add-Content -Path $filePath -Value "124.108.22.138 licensing.mp.microsoft.com"
+Add-Content -Path $filePath -Value "124.108.22.138 licensing.mp.microsoft.com"
 
-    Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
+Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
+```
 
 -   Done. Now try HWID Activation.
 
 To restore it, run below commands.
 
-    $filePath = "C:\Windows\System32\drivers\etc\hosts"
+```         
+$filePath = "C:\Windows\System32\drivers\etc\hosts"
 
-    Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
+Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
 
-    Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
+Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
 
-    Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
+Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
+```
 
 ------------------------------------------------------------------------
