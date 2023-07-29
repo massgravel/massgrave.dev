@@ -45,10 +45,10 @@ pagetitle: HWID Activation
 -   How to convince the gatherosstate.exe?\
     There are two methods for it.\
     \
-    **1-** Place a [custom slc.dll](https://github.com/Gamers-Against-Weed/Integrated_Patcher_3) file beside gatherosstate.exe:\
+    **1-** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file beside gatherosstate.exe:\
     gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather the system's info. If we place a custom slc.dll file beside gatherosstate.exe which can send the rubbish data to it, then it will simply accept it and generate a valid ticket.\
     \
-    **2-** [Modify](https://github.com/Gamers-Against-Weed/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and can directly create a valid ticket.
+    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and can directly create a valid ticket.
 
 -   **Notes:**
 
@@ -199,7 +199,7 @@ In this process we will perform activation from scratch. This is based on Univer
 
 `slmgr /ipk <key>`
 
--   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file. This code to modify the file is based on [GamersOsState](https://github.com/Gamers-Against-Weed/GamersOsState).
+-   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file. This code to modify the file is based on [GamersOsState](https://github.com/asdcorp/GamersOsState).
 
 <!-- -->
 

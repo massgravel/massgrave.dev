@@ -16,7 +16,7 @@ pagetitle: Fix WPA Registry
 
 ## Steps To Fix WPA Registry
 
--   Download <https://github.com/Gamers-Against-Weed/rearm/archive/refs/heads/principalis.zip>
+-   Download <https://github.com/asdcorp/rearm/archive/refs/heads/principalis.zip>
 
 -   Extract this zip file
 

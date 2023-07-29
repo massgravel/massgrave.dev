@@ -15,7 +15,7 @@ pagetitle: Change Windows Edition
     -   Changepk.exe Method\
     -   slmgr /ipk Method\
     -   DISM Method\
-    -   [CBS Upgrade method](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition)
+    -   [CBS Upgrade method](https://github.com/asdcorp/Set-WindowsCbsEdition)
 
 -   Available editions for change are shown in the script basis on all these 4 options.
 
