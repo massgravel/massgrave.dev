@@ -4,9 +4,6 @@ pagetitle: Licensing Servers Issue
 
 # Licensing Servers Issue
 
-📌 Update: UTC 10.00 Friday, 28 July, 2023\
-Microsoft licensing servers are down at the moment. Please wait...
-
 ------------------------------------------------------------------------
 
 -   In some cases, **HWID activation** may fail because system couldn't connect to HWID licensing servers.
