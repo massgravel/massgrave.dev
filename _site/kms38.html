@@ -447,7 +447,7 @@ year 1970.</p></li>
 There are two methods for it.<br />
 <br />
 <strong>1-</strong> Place a <a
-href="https://github.com/Gamers-Against-Weed/Integrated_Patcher_3">custom
+href="https://github.com/asdcorp/Integrated_Patcher_3">custom
 slc.dll</a> file beside gatherosstate.exe:<br />
 gatherosstate.exe uses the system’s
 <code>C:\Windows\System32\slc.dll</code> file to gather the system’s
@@ -457,7 +457,7 @@ generate a valid ticket allowing activation upto 19 January 2038
 03:14:07 UTC.<br />
 <br />
 <strong>2-</strong> <a
-href="https://github.com/Gamers-Against-Weed/GamersOsState">Modify</a>
+href="https://github.com/asdcorp/GamersOsState">Modify</a>
 the gatherosstate.exe file itself so that it doesn’t check the system’s
 activation status and we can put the activation period as we
 wish.</p></li>
@@ -885,7 +885,7 @@ from the above list) with the following command</p></li>
 <li>Copy the below code all at once and enter in PowerShell to modify
 the <code>gatherosstate.exe</code> file.<br />
 This code to modify the file is based on <a
-href="https://github.com/Gamers-Against-Weed/GamersOsState">GamersOsState</a>.</li>
+href="https://github.com/asdcorp/GamersOsState">GamersOsState</a>.</li>
 </ul>
 <!-- -->
 <pre><code>$bytes  = [System.IO.File]::ReadAllBytes(&quot;C:\Files\gatherosstate.exe&quot;)
