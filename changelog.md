@@ -39,7 +39,7 @@ pagetitle: Changelog
 
 #### Change Windows Edition:
 
--   Script now [supports](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition/commit/2b3c50024d58e9d9eb158fd538afd98e5345140c) default Win 7 RTM, WMF requirement is removed. Thanks to \@ave9858 (Alex)
+-   Script now [supports](https://github.com/asdcorp/Set-WindowsCbsEdition/commit/2b3c50024d58e9d9eb158fd538afd98e5345140c) default Win 7 RTM, WMF requirement is removed. Thanks to \@ave9858 (Alex)
 
 #### All:
 
@@ -83,7 +83,7 @@ pagetitle: Changelog
 
 #### Change Windows Edition:
 
--   Support for Windows 7/8//8.1 and their server equivalent editions are added and alternative method is added for Windows 10/11 and their server equivalent. Thanks to Gamers Against Weed for [CBS Upgrade method](https://github.com/Gamers-Against-Weed/Set-WindowsCbsEdition).
+-   Support for Windows 7/8//8.1 and their server equivalent editions are added and alternative method is added for Windows 10/11 and their server equivalent. Thanks to Anomalous Software Deterioration Corporation for [CBS Upgrade method](https://github.com/asdcorp/Set-WindowsCbsEdition).
 
 #### Check Activation Status WMI:
 
@@ -104,7 +104,7 @@ pagetitle: Changelog
 
 #### **HWID/KMS38:**
 
--   slc.dll is removed, we will patch the original gatherosstate.exe on the fly with Powershell. (Thanks to [Gamers Against Weed](https://github.com/Gamers-Against-Weed))
+-   slc.dll is removed, we will patch the original gatherosstate.exe on the fly with Powershell. (Thanks to [Anomalous Software Deterioration Corporation](https://github.com/asdcorp))
 
 -   arm64 files are removed, now x86 gatherosstate.exe can work in all
 
