@@ -1,7 +1,7 @@
 name: "Microsoft_Activation_Scripts"
 include: ["get.ps1"]
 navbar:
-  title: '<div><img src="logo.png" style="margin-top:-3pt" height="32">   Microsoft Activation Scripts</div>'
+  title: '<div><img src="logo.png" class="logo">   Microsoft Activation Scripts</div>'
   right:
     - text: "Home"
       href: index.html
