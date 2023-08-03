@@ -2,7 +2,7 @@
 pagetitle: HWID Activation
 ---
 
-# **HWID Activation**
+# HWID Activation
 
 ------------------------------------------------------------------------
 
