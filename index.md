@@ -61,7 +61,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                               |
-|:----------------|:----------------|:-------------------------------------|
+|:----------------|:---------------------|:------------------------------------------------|
 | HWID            | Windows 10-11        | Permanent                                       |
 | KMS38           | Windows 10-11-Server | Until the year 2038                             |
 | Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |
@@ -81,6 +81,12 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ![](MAS_KMS.png)
 
 ![](MAS_Troubleshoot.png)
+
+------------------------------------------------------------------------
+
+## Other Projects
+
+-   [IDM Activation Script (IAS)](idm-activation-script.html)
 
 ------------------------------------------------------------------------
 
