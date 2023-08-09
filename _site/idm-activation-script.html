@@ -11,7 +11,7 @@
 
 
 
-<title>MAS</title>
+<title>IDM Activation Script</title>
 
 <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -405,42 +405,40 @@ div.tocify {
 </div>
 
 
-<div id="intro" class="section level2">
-<h2>Intro</h2>
-<p><strong>Microsoft_Activation_Scripts (MAS)</strong></p>
-<p>A Windows and Office activator using HWID / KMS38 / Online KMS
-activation methods, with a focus on open-source code and fewer antivirus
-detections.</p>
+<div id="idm-activation-script" class="section level2">
+<h2>IDM Activation Script</h2>
+<p>An open source tool to activate and reset trial of <a
+href="https://www.internetdownloadmanager.com/">Internet Download
+Manager</a></p>
 <hr />
 </div>
 <div id="features" class="section level2">
 <h2>Features</h2>
 <ul>
-<li>HWID Activation</li>
-<li>KMS38 Activation</li>
-<li>Online KMS Activation</li>
-<li>Activation Troubleshoot</li>
-<li>$OEM$ Folders For Preactivation</li>
-<li>Change Windows Edition</li>
-<li>Check Windows-Office Activation Status</li>
-<li>Available in All In One &amp; Separate Files Version</li>
-<li>Fully Open Source</li>
-<li>All Files Are Transparent Batch Scripts</li>
-<li>Fewer Antivirus Detections</li>
+<li>IDM activation with registry key lock method</li>
+<li>Activation persists even after installing IDM updates</li>
+<li>IDM trial reset</li>
+<li>Fully open source</li>
+<li>Based on transparent batch script</li>
 </ul>
 <hr />
 </div>
-<div id="mas-latest-release" class="section level2">
-<h2>MAS Latest Release</h2>
-<p>Last Release - v1.8 (16-Mar-2023)<br />
+<div id="ias-latest-release" class="section level2">
+<h2>IAS Latest Release</h2>
+<p>Last Release - v0.8 (10-Aug-2023)<br />
 <a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts">GitHub</a>
-/ <a
-href="https://gitlab.com/massgrave/microsoft-activation-scripts">GitLab</a></p>
+href="https://github.com/WindowsAddict/IDM-Activation-Script">GitHub</a></p>
 <hr />
 </div>
 <div id="download-how-to-use-it" class="section level2">
 <h2>Download / How to use it?</h2>
+<ul>
+<li>First fresh install <a
+href="https://www.internetdownloadmanager.com/">Internet Download
+Manager</a>. Make sure previous cracks/patches are removed/uninstalled
+if there are any.</li>
+<li>After that follow below steps to activate it.</li>
+</ul>
 <div id="method-1---powershell" class="section level3">
 <h3>Method 1 - PowerShell</h3>
 <p>(Recommended)</p>
@@ -448,7 +446,7 @@ href="https://gitlab.com/massgrave/microsoft-activation-scripts">GitLab</a></p>
 <li>On Windows 8.1/10/11, right-click on the windows start menu and
 select PowerShell or Terminal (Not CMD).</li>
 <li>Copy-paste the below code and press enter<br />
-<code>irm https://massgrave.dev/get | iex</code></li>
+<code>irm https://massgrave.dev/ias | iex</code></li>
 <li>You will see the activation options, and follow onscreen
 instructions.</li>
 <li>That’s all.</li>
@@ -458,73 +456,145 @@ instructions.</li>
 <h3>Method 2 - Traditional</h3>
 <ul>
 <li>Download the file from <a
-href="https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip">here</a></li>
+href="https://github.com/WindowsAddict/IDM-Activation-Script/archive/refs/heads/main.zip">here</a></li>
 <li>Right click on the downloaded zip file and extract</li>
-<li>In the extracted folder, find the folder named
-<code>All-In-One-Version</code></li>
-<li>Run the file named <code>MAS_AIO.cmd</code></li>
+<li>In the extracted folder, run the file named
+<code>IAS.cmd</code></li>
 <li>You will see the activation options, and follow onscreen
 instructions.</li>
 <li>That’s all.</li>
 </ul>
-<p>To run the scripts in unattended mode, check <a
-href="command_line_switches.html">here</a></p>
 <hr />
 </div>
 </div>
-<div id="activations-summary" class="section level2">
-<h2>Activations Summary</h2>
-<table>
-<colgroup>
-<col width="19%" />
-<col width="25%" />
-<col width="55%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">Activation Type</th>
-<th align="left">Supported Product</th>
-<th align="left">Activation Period</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">HWID</td>
-<td align="left">Windows 10-11</td>
-<td align="left">Permanent</td>
-</tr>
-<tr class="even">
-<td align="left">KMS38</td>
-<td align="left">Windows 10-11-Server</td>
-<td align="left">Until the year 2038</td>
-</tr>
-<tr class="odd">
-<td align="left">Online KMS</td>
-<td align="left">Windows / Office</td>
-<td align="left">180 Days. Lifetime Activation With Renewal Task</td>
-</tr>
-</tbody>
-</table>
-<p>For more details, use the respective activation details in Doc.</p>
-<p>To activate unsupported products such as <strong>Office on
-Mac</strong>, check <a
-href="unsupported_products_activation.html">here</a>.</p>
+<div id="info" class="section level2">
+<h2>Info</h2>
+<div id="activation" class="section level4">
+<h4>Activation</h4>
+<ul>
+<li>This script applies registry lock method to activate Internet
+download manager (IDM).</li>
+<li>This method requires Internet at the time of activation.</li>
+<li>IDM updates can be installed directly without having to activate
+again.</li>
+<li>After the activation, if in some case, the IDM starts to show
+activation nag screen, then just run the activation option again.</li>
+</ul>
+</div>
+<div id="reset-idm-activation-trial" class="section level4">
+<h4>Reset IDM Activation / Trial</h4>
+<ul>
+<li>Internet download manager provides 30 days trial period, you can use
+this script to reset this Activation / Trial period whenever you
+want.</li>
+<li>This option also can be used to restore status if in case the IDM
+reports fake serial key and other similar errors.</li>
+</ul>
+</div>
+<div id="os-requirement" class="section level4">
+<h4>OS requirement</h4>
+<ul>
+<li>Project is supported for Windows 7/8/8.1/10/11 and their Server
+equivalent.</li>
+<li>Powershell method to run IAS is supported on Windows 8 and
+higher.</li>
+</ul>
+</div>
+<div id="advanced-info" class="section level4">
+<h4>Advanced Info</h4>
+<ul>
+<li>To add a custom name in IDM license info, edit the line number 21 in
+the script file.</li>
+<li>For activation in unattended mode, run the script with
+<code>/act</code> parameter.</li>
+<li>For reset in unattended mode, run the script with <code>/res</code>
+parameter.</li>
+<li>To enable silent mode with above two methods, run the script with
+<code>/s</code> parameter.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="how-does-it-work" class="section level2">
+<h2>How does it work?</h2>
+<ul>
+<li>IDM stores the data related to trial and activation in across
+various registry keys. Some of these keys are locked to protect them
+from tampering and data is stored in a pattern to track the fake serial
+issue and the remaining trial days. To activate it, script here simply
+generate those registry keys by triggering a few downloads in IDM and
+identifies those registry keys and locks them so IDM can’t edit and
+view. That way IDM can not show the warning that it’s activated with a
+fake serial key.</li>
+</ul>
+<hr />
+</div>
+<div id="troubleshoot" class="section level2">
+<h2>Troubleshoot</h2>
+<ul>
+<li>Browser Integration Fix: <a
+href="https://www.internetdownloadmanager.com/register/new_faq/bi9.html">Chrome</a>
+<a
+href="https://www.internetdownloadmanager.com/register/new_faq/bi4.html">FireFox</a></li>
+<li>Reach out to us on <a
+href="https://discord.gg/gjJEfq7ux8">Discord</a> (signup not required)
+with an error screenshot.</li>
+</ul>
+<p><a href="https://discord.gg/gjJEfq7ux8"><img
+src="https://lookimg.com/images/2023/03/21/QTvjcD.png" /></a></p>
+<hr />
+</div>
+<div id="changelog" class="section level2">
+<h2>Changelog</h2>
+<p>v0.8</p>
+<ul>
+<li>Move the project to <a
+href="https://github.com/WindowsAddict/IDM-Activation-Script">Github</a>
+and <a
+href="https://massgrave.dev/idm-activation-script.html">massgrave.dev</a></li>
+<li>Minor bug fixes</li>
+<li>Add an info to inform users that empty registry keys are being
+deleted when script deletes a lot of them</li>
+</ul>
 <hr />
 </div>
 <div id="screenshots" class="section level2">
 <h2>Screenshots</h2>
-<p><img src="MAS_AIO.png" /></p>
-<p><img src="MAS_HWID.png" /></p>
-<p><img src="MAS_KMS.png" /></p>
-<p><img src="MAS_Troubleshoot.png" /></p>
+<p><img src="IAS.png" /></p>
+<p><img src="IAS_Activation.png" /></p>
 <hr />
 </div>
-<div id="other-projects" class="section level2">
-<h2>Other Projects</h2>
-<ul>
-<li><a href="idm-activation-script.html">IDM Activation Script
-(IAS)</a></li>
-</ul>
+<div id="credits" class="section level2">
+<h2>Credits</h2>
+<table>
+<colgroup>
+<col width="29%" />
+<col width="70%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Dukun Cabul</td>
+<td>Original researcher of this IDM trial reset and activation logic,
+made an Autoit tool for these methods, <a
+href="https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062">IDM-AIO_2020_Final</a></td>
+</tr>
+<tr class="even">
+<td>AveYo aka BAU</td>
+<td><a href="https://pastebin.com/XTPt0JSC">reg_own lean and mean
+snippet</a></td>
+</tr>
+<tr class="odd">
+<td><a href="https://github.com/abbodi1406">abbodi1406</a></td>
+<td>Help in coding</td>
+</tr>
+<tr class="even">
+<td>WindowsAddict</td>
+<td>IAS Author</td>
+</tr>
+</tbody>
+</table>
+<p>And thanks to the IAS users for their interest, feedback, and
+assistance.</p>
 <hr />
 <p>Made with Love ❤️</p>
 </div>
