@@ -95,6 +95,7 @@ table,
 pre,
 code {
   font-family: "IBM Plex Mono", monospace;
+  font-size: 14px
 }
 
 .navbar {
