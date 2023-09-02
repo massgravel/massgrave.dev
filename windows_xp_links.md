@@ -20,41 +20,43 @@ All download links leads to genuine files only.
 
 -   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
 
+-   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
+
 ------------------------------------------------------------------------
 
 ## Windows XP SP3 VL (x86)
 
-| Links                                                                                                                                                                                             |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**ar**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74065.iso](https://drive.massgrave.dev/ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.iso)           |
-| [**cs**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73965.iso](https://drive.massgrave.dev/cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso)           |
-| [**da**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73968.iso](https://drive.massgrave.dev/da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.iso)           |
-| [**de**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73985.iso](https://drive.massgrave.dev/de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.iso)           |
-| [**el**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73988.iso](https://drive.massgrave.dev/el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso)           |
-| [**en**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73974.iso](https://drive.massgrave.dev/en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso)           |
-| [**es**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74009.iso](https://drive.massgrave.dev/es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.iso)           |
-| [**fi**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73979.iso](https://drive.massgrave.dev/fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.iso)           |
-| [**fr**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73982.iso](https://drive.massgrave.dev/fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.iso)           |
-| [**he**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74143.iso](https://drive.massgrave.dev/he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.iso)           |
-| [**hu**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73991.iso](https://drive.massgrave.dev/hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso)           |
-| [**it**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73994.iso](https://drive.massgrave.dev/it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso)           |
-| [**ja**\_windows_xp_professional_with_service_pack_3\_**x86**\_dvd_vl_x14-74058.iso](https://drive.massgrave.dev/ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso)         |
-| [**nl**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-73971.iso](https://drive.massgrave.dev/nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso)           |
-| [**no**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74000.iso](https://drive.massgrave.dev/no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso)           |
-| [**pl**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74003.iso](https://drive.massgrave.dev/pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso)           |
-| [**pt-br**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74137.iso](https://drive.massgrave.dev/pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.iso)     |
-| [**pt-pt**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74006.iso](https://drive.massgrave.dev/pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.iso)     |
-| [**ru**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74146.iso](https://drive.massgrave.dev/ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.iso)           |
-| [**sv**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74012.iso](https://drive.massgrave.dev/sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso)           |
-| [**tr**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74085.iso](https://drive.massgrave.dev/tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso)           |
-| [**zh-hans**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74070.iso](https://drive.massgrave.dev/zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso) |
-| [**zh-hk**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74075.iso](https://drive.massgrave.dev/zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso)     |
-| [**zh-tw**\_windows_xp_professional_with_service_pack_3\_**x86**\_cd_vl_x14-74140.iso](https://drive.massgrave.dev/zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso)     |
+| Links                                                                                                                    |
+|------------------------------------------------------------------|
+| [**ar**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74065.iso](https://pixeldrain.com/u/fK4Up1uf)      |
+| [**cs**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73965.iso](https://pixeldrain.com/u/A1fEu2xm)      |
+| [**da**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73968.iso](https://pixeldrain.com/u/tHqpSzYt)      |
+| [**de**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73985.iso](https://pixeldrain.com/u/h5dsjLZa)      |
+| [**el**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73988.iso](https://pixeldrain.com/u/Q3axcg8f)      |
+| [**en**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73974.iso](https://pixeldrain.com/u/S4S3Qjjj)      |
+| [**es**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74009.iso](https://pixeldrain.com/u/45bjoSup)      |
+| [**fi**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73979.iso](https://pixeldrain.com/u/SkXxU8Dw)      |
+| [**fr**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73982.iso](https://pixeldrain.com/u/HerB1mrb)      |
+| [**he**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74143.iso](https://pixeldrain.com/u/72APjSBT)      |
+| [**hu**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73991.iso](https://pixeldrain.com/u/QGRYX9Lx)      |
+| [**it**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73994.iso](https://pixeldrain.com/u/qRo2iYpX)      |
+| [**ja**_windows_xp_professional_with_service_pack_3_**x86**_dvd_vl_x14-74058.iso](https://pixeldrain.com/u/QxQkaLQu)     |
+| [**nl**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-73971.iso](https://pixeldrain.com/u/WxajCyjx)      |
+| [**no**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74000.iso](https://pixeldrain.com/u/DB4oP9yT)      |
+| [**pl**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74003.iso](https://pixeldrain.com/u/WVP6qZzz)      |
+| [**pt-br**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74137.iso](https://pixeldrain.com/u/VTmTNgE8)   |
+| [**pt-pt**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74006.iso](https://pixeldrain.com/u/D6DWEYQd)   |
+| [**ru**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74146.iso](https://pixeldrain.com/u/HsWvTUG5)      |
+| [**sv**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74012.iso](https://pixeldrain.com/u/TrWpfRon)      |
+| [**tr**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74085.iso](https://pixeldrain.com/u/VAX1NCo9)      |
+| [**zh-hans**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74070.iso](https://pixeldrain.com/u/sDA8DZKV) |
+| [**zh-hk**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74075.iso](https://pixeldrain.com/u/HytJ89gn)   |
+| [**zh-tw**_windows_xp_professional_with_service_pack_3_**x86**_cd_vl_x14-74140.iso](https://pixeldrain.com/u/5NqzNZpG)   |
 
 ------------------------------------------------------------------------
 
 ## Windows XP SP2 VL (x64)
 
-| Links                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------|
-| [**en**\_win_xp_pro\_**x64**\_with_sp2_vl_x13-41611.iso](https://drive.massgrave.dev/en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso) |
+| Links                                                                                    |
+|-----------------------------------------------------------------|
+| [**en**_win_xp_pro_**x64**_with_sp2_vl_x13-41611.iso](https://pixeldrain.com/u/MSnmjEUK) |
