@@ -34,7 +34,7 @@ All download links leads to genuine files only.
 
 (Build - 9600.17415)\
 \
-Official Links - [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/)\
+Official Links - [Link1](https://www.microsoft.com/software-download) - [Link2](msdl.html)\
 Below linked Core / Pro ISO's are identical but they are downloaded from MVS and hosted on 3rd party.
 
 | Links                                                                                                                                             |
