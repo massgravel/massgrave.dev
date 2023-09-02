@@ -18,34 +18,32 @@ All download links leads to genuine files only.
 
 -   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
 
--   To **bypass daily 10 GB download limit** on pixeldrain, you can use free [Warp VPN](https://1.1.1.1/).
-
 ------------------------------------------------------------------------
 
 ## Windows Server 2022
 
 (Build - 20348.169)
 
-| Links                                                                                       |
-|-------------------------------------------------------------|
-| [**cs-cz**_windows_server_2022_**x64**_dvd_9cc09859.iso](https://pixeldrain.com/u/JfFza6jP) |
-| [**de-de**_windows_server_2022_**x64**_dvd_e2c1874e.iso](https://pixeldrain.com/u/UMxebY31) |
-| [**en-us**_windows_server_2022_**x64**_dvd_620d7eac.iso](https://pixeldrain.com/u/tS6ncsWe) |
-| [**es-es**_windows_server_2022_**x64**_dvd_c25dea55.iso](https://pixeldrain.com/u/DaUQcLj9) |
-| [**fr-fr**_windows_server_2022_**x64**_dvd_9f7d1adb.iso](https://pixeldrain.com/u/owCPNoyj) |
-| [**hu-hu**_windows_server_2022_**x64**_dvd_d7eb4371.iso](https://pixeldrain.com/u/7uvBTCsp) |
-| [**it-it**_windows_server_2022_**x64**_dvd_2ef5266d.iso](https://pixeldrain.com/u/P8nZrF9D) |
-| [**ja-jp**_windows_server_2022_**x64**_dvd_d49acd0d.iso](https://pixeldrain.com/u/5n8QVsM6) |
-| [**ko-kr**_windows_server_2022_**x64**_dvd_c14a04ba.iso](https://pixeldrain.com/u/iTGW2dGY) |
-| [**nl-nl**_windows_server_2022_**x64**_dvd_1421617b.iso](https://pixeldrain.com/u/uBvrcgiT) |
-| [**pl-pl**_windows_server_2022_**x64**_dvd_ac6af29a.iso](https://pixeldrain.com/u/Q6dgZCjQ) |
-| [**pt-br**_windows_server_2022_**x64**_dvd_b873861f.iso](https://pixeldrain.com/u/3esTGw34) |
-| [**pt-pt**_windows_server_2022_**x64**_dvd_39cc8179.iso](https://pixeldrain.com/u/y7vXdsZq) |
-| [**ru-ru**_windows_server_2022_**x64**_dvd_d8fd3d54.iso](https://pixeldrain.com/u/AW5474ST) |
-| [**sv-se**_windows_server_2022_**x64**_dvd_1b669ce4.iso](https://pixeldrain.com/u/evwYbbSn) |
-| [**tr-tr**_windows_server_2022_**x64**_dvd_266ef676.iso](https://pixeldrain.com/u/VXfDs1ya) |
-| [**zh-cn**_windows_server_2022_**x64**_dvd_6c73507d.iso](https://pixeldrain.com/u/EJhVYh3u) |
-| [**zh-tw**_windows_server_2022_**x64**_dvd_02ed5775.iso](https://pixeldrain.com/u/jsQdFRNP) |
+| Links                                                                                                                                   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|
+| [**cs-cz**\_windows_server_2022\_**x64**\_dvd_9cc09859.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_x64_dvd_9cc09859.iso) |
+| [**de-de**\_windows_server_2022\_**x64**\_dvd_e2c1874e.iso](https://drive.massgrave.dev/de-de_windows_server_2022_x64_dvd_e2c1874e.iso) |
+| [**en-us**\_windows_server_2022\_**x64**\_dvd_620d7eac.iso](https://drive.massgrave.dev/en-us_windows_server_2022_x64_dvd_620d7eac.iso) |
+| [**es-es**\_windows_server_2022\_**x64**\_dvd_c25dea55.iso](https://drive.massgrave.dev/es-es_windows_server_2022_x64_dvd_c25dea55.iso) |
+| [**fr-fr**\_windows_server_2022\_**x64**\_dvd_9f7d1adb.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_x64_dvd_9f7d1adb.iso) |
+| [**hu-hu**\_windows_server_2022\_**x64**\_dvd_d7eb4371.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_x64_dvd_d7eb4371.iso) |
+| [**it-it**\_windows_server_2022\_**x64**\_dvd_2ef5266d.iso](https://drive.massgrave.dev/it-it_windows_server_2022_x64_dvd_2ef5266d.iso) |
+| [**ja-jp**\_windows_server_2022\_**x64**\_dvd_d49acd0d.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_x64_dvd_d49acd0d.iso) |
+| [**ko-kr**\_windows_server_2022\_**x64**\_dvd_c14a04ba.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_x64_dvd_c14a04ba.iso) |
+| [**nl-nl**\_windows_server_2022\_**x64**\_dvd_1421617b.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_x64_dvd_1421617b.iso) |
+| [**pl-pl**\_windows_server_2022\_**x64**\_dvd_ac6af29a.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_x64_dvd_ac6af29a.iso) |
+| [**pt-br**\_windows_server_2022\_**x64**\_dvd_b873861f.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_x64_dvd_b873861f.iso) |
+| [**pt-pt**\_windows_server_2022\_**x64**\_dvd_39cc8179.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_x64_dvd_39cc8179.iso) |
+| [**ru-ru**\_windows_server_2022\_**x64**\_dvd_d8fd3d54.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_x64_dvd_d8fd3d54.iso) |
+| [**sv-se**\_windows_server_2022\_**x64**\_dvd_1b669ce4.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_x64_dvd_1b669ce4.iso) |
+| [**tr-tr**\_windows_server_2022\_**x64**\_dvd_266ef676.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_x64_dvd_266ef676.iso) |
+| [**zh-cn**\_windows_server_2022\_**x64**\_dvd_6c73507d.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_x64_dvd_6c73507d.iso) |
+| [**zh-tw**\_windows_server_2022\_**x64**\_dvd_02ed5775.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_x64_dvd_02ed5775.iso) |
 
 ------------------------------------------------------------------------
 
@@ -53,26 +51,26 @@ All download links leads to genuine files only.
 
 (Build - 17763.107)
 
-| Links                                                                                    |
-|-------------------------------------------------------------|
-| [**cn**_windows_server_2019_**x64**_dvd_4de40f33.iso](https://pixeldrain.com/u/dc2N5BXD) |
-| [**cs**_windows_server_2019_**x64**_dvd_65383121.iso](https://pixeldrain.com/u/2SJ2hCyG) |
-| [**ct**_windows_server_2019_**x64**_dvd_b776f44b.iso](https://pixeldrain.com/u/eTGHUNAe) |
-| [**de**_windows_server_2019_**x64**_dvd_17559a5b.iso](https://pixeldrain.com/u/oFb4VqCy) |
-| [**en**_windows_server_2019_**x64**_dvd_4cb967d8.iso](https://pixeldrain.com/u/Uy7S4T7J) |
-| [**es**_windows_server_2019_**x64**_dvd_dd6b7747.iso](https://pixeldrain.com/u/HEoL1w9G) |
-| [**fr**_windows_server_2019_**x64**_dvd_d936fc7a.iso](https://pixeldrain.com/u/9EDGiUPJ) |
-| [**hu**_windows_server_2019_**x64**_dvd_c8f2c460.iso](https://pixeldrain.com/u/XKq4VV9W) |
-| [**it**_windows_server_2019_**x64**_dvd_03c34df6.iso](https://pixeldrain.com/u/w7kw1pH9) |
-| [**ja**_windows_server_2019_**x64**_dvd_260a1d93.iso](https://pixeldrain.com/u/79oAZFVA) |
-| [**ko**_windows_server_2019_**x64**_dvd_8778047d.iso](https://pixeldrain.com/u/GDxZfKgC) |
-| [**nl**_windows_server_2019_**x64**_dvd_82f9a152.iso](https://pixeldrain.com/u/RnupRTfU) |
-| [**pl**_windows_server_2019_**x64**_dvd_2cd7adba.iso](https://pixeldrain.com/u/r16j5KPZ) |
-| [**pp**_windows_server_2019_**x64**_dvd_e8fadd22.iso](https://pixeldrain.com/u/x61M9RUM) |
-| [**pt**_windows_server_2019_**x64**_dvd_e078dea6.iso](https://pixeldrain.com/u/UW1NsYnF) |
-| [**ru**_windows_server_2019_**x64**_dvd_3411c84a.iso](https://pixeldrain.com/u/8yrScqdy) |
-| [**sv**_windows_server_2019_**x64**_dvd_ce3d1a8d.iso](https://pixeldrain.com/u/fG87zasg) |
-| [**tr**_windows_server_2019_**x64**_dvd_475b2d44.iso](https://pixeldrain.com/u/3awyqR9Y) |
+| Links                                                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------|
+| [**cn**\_windows_server_2019\_**x64**\_dvd_4de40f33.iso](https://drive.massgrave.dev/cn_windows_server_2019_x64_dvd_4de40f33.iso) |
+| [**cs**\_windows_server_2019\_**x64**\_dvd_65383121.iso](https://drive.massgrave.dev/cs_windows_server_2019_x64_dvd_65383121.iso) |
+| [**ct**\_windows_server_2019\_**x64**\_dvd_b776f44b.iso](https://drive.massgrave.dev/ct_windows_server_2019_x64_dvd_b776f44b.iso) |
+| [**de**\_windows_server_2019\_**x64**\_dvd_17559a5b.iso](https://drive.massgrave.dev/de_windows_server_2019_x64_dvd_17559a5b.iso) |
+| [**en**\_windows_server_2019\_**x64**\_dvd_4cb967d8.iso](https://drive.massgrave.dev/en_windows_server_2019_x64_dvd_4cb967d8.iso) |
+| [**es**\_windows_server_2019\_**x64**\_dvd_dd6b7747.iso](https://drive.massgrave.dev/es_windows_server_2019_x64_dvd_dd6b7747.iso) |
+| [**fr**\_windows_server_2019\_**x64**\_dvd_d936fc7a.iso](https://drive.massgrave.dev/fr_windows_server_2019_x64_dvd_d936fc7a.iso) |
+| [**hu**\_windows_server_2019\_**x64**\_dvd_c8f2c460.iso](https://drive.massgrave.dev/hu_windows_server_2019_x64_dvd_c8f2c460.iso) |
+| [**it**\_windows_server_2019\_**x64**\_dvd_03c34df6.iso](https://drive.massgrave.dev/it_windows_server_2019_x64_dvd_03c34df6.iso) |
+| [**ja**\_windows_server_2019\_**x64**\_dvd_260a1d93.iso](https://drive.massgrave.dev/ja_windows_server_2019_x64_dvd_260a1d93.iso) |
+| [**ko**\_windows_server_2019\_**x64**\_dvd_8778047d.iso](https://drive.massgrave.dev/ko_windows_server_2019_x64_dvd_8778047d.iso) |
+| [**nl**\_windows_server_2019\_**x64**\_dvd_82f9a152.iso](https://drive.massgrave.dev/nl_windows_server_2019_x64_dvd_82f9a152.iso) |
+| [**pl**\_windows_server_2019\_**x64**\_dvd_2cd7adba.iso](https://drive.massgrave.dev/pl_windows_server_2019_x64_dvd_2cd7adba.iso) |
+| [**pp**\_windows_server_2019\_**x64**\_dvd_e8fadd22.iso](https://drive.massgrave.dev/pp_windows_server_2019_x64_dvd_e8fadd22.iso) |
+| [**pt**\_windows_server_2019\_**x64**\_dvd_e078dea6.iso](https://drive.massgrave.dev/pt_windows_server_2019_x64_dvd_e078dea6.iso) |
+| [**ru**\_windows_server_2019\_**x64**\_dvd_3411c84a.iso](https://drive.massgrave.dev/ru_windows_server_2019_x64_dvd_3411c84a.iso) |
+| [**sv**\_windows_server_2019\_**x64**\_dvd_ce3d1a8d.iso](https://drive.massgrave.dev/sv_windows_server_2019_x64_dvd_ce3d1a8d.iso) |
+| [**tr**\_windows_server_2019\_**x64**\_dvd_475b2d44.iso](https://drive.massgrave.dev/tr_windows_server_2019_x64_dvd_475b2d44.iso) |
 
 ------------------------------------------------------------------------
 
@@ -80,23 +78,23 @@ All download links leads to genuine files only.
 
 (Build - 14393)
 
-| Links                                                                                   |
-|-----------------------------------------------------------------|
-| [**cn**_windows_server_2016_**x64**_dvd_9327743.iso](https://pixeldrain.com/u/5j5sF6fP) |
-| [**cs**_windows_server_2016_**x64**_dvd_9327749.iso](https://pixeldrain.com/u/pWhAc4fW) |
-| [**ct**_windows_server_2016_**x64**_dvd_9327748.iso](https://pixeldrain.com/u/SBPiWMUG) |
-| [**de**_windows_server_2016_**x64**_dvd_9327757.iso](https://pixeldrain.com/u/Nbfn1jPV) |
-| [**en**_windows_server_2016_**x64**_dvd_9327751.iso](https://pixeldrain.com/u/i1sQVTwV) |
-| [**es**_windows_server_2016_**x64**_dvd_9327767.iso](https://pixeldrain.com/u/S7BGPt2u) |
-| [**fr**_windows_server_2016_**x64**_dvd_9327754.iso](https://pixeldrain.com/u/Go5u1oWx) |
-| [**hu**_windows_server_2016_**x64**_dvd_9327759.iso](https://pixeldrain.com/u/efN42zNU) |
-| [**it**_windows_server_2016_**x64**_dvd_9327760.iso](https://pixeldrain.com/u/mtB6Tgm7) |
-| [**ja**_windows_server_2016_**x64**_dvd_9327761.iso](https://pixeldrain.com/u/DzTTXJYT) |
-| [**ko**_windows_server_2016_**x64**_dvd_9327762.iso](https://pixeldrain.com/u/LE2Hj2fN) |
-| [**nl**_windows_server_2016_**x64**_dvd_9327750.iso](https://pixeldrain.com/u/Rd5Eht8g) |
-| [**pl**_windows_server_2016_**x64**_dvd_9327763.iso](https://pixeldrain.com/u/if91RbRp) |
-| [**pp**_windows_server_2016_**x64**_dvd_9327765.iso](https://pixeldrain.com/u/RH8SzAwc) |
-| [**pt**_windows_server_2016_**x64**_dvd_9327764.iso](https://pixeldrain.com/u/ZuqxSNoV) |
-| [**ru**_windows_server_2016_**x64**_dvd_9327766.iso](https://pixeldrain.com/u/rYLSTdbT) |
-| [**sv**_windows_server_2016_**x64**_dvd_9327768.iso](https://pixeldrain.com/u/yM6eWso1) |
-| [**tr**_windows_server_2016_**x64**_dvd_9327769.iso](https://pixeldrain.com/u/E3Tkkrgk) |
+| Links                                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------|
+| [**cn**\_windows_server_2016\_**x64**\_dvd_9327743.iso](https://drive.massgrave.dev/cn_windows_server_2016_x64_dvd_9327743.iso) |
+| [**cs**\_windows_server_2016\_**x64**\_dvd_9327749.iso](https://drive.massgrave.dev/cs_windows_server_2016_x64_dvd_9327749.iso) |
+| [**ct**\_windows_server_2016\_**x64**\_dvd_9327748.iso](https://drive.massgrave.dev/ct_windows_server_2016_x64_dvd_9327748.iso) |
+| [**de**\_windows_server_2016\_**x64**\_dvd_9327757.iso](https://drive.massgrave.dev/de_windows_server_2016_x64_dvd_9327757.iso) |
+| [**en**\_windows_server_2016\_**x64**\_dvd_9327751.iso](https://drive.massgrave.dev/en_windows_server_2016_x64_dvd_9327751.iso) |
+| [**es**\_windows_server_2016\_**x64**\_dvd_9327767.iso](https://drive.massgrave.dev/es_windows_server_2016_x64_dvd_9327767.iso) |
+| [**fr**\_windows_server_2016\_**x64**\_dvd_9327754.iso](https://drive.massgrave.dev/fr_windows_server_2016_x64_dvd_9327754.iso) |
+| [**hu**\_windows_server_2016\_**x64**\_dvd_9327759.iso](https://drive.massgrave.dev/hu_windows_server_2016_x64_dvd_9327759.iso) |
+| [**it**\_windows_server_2016\_**x64**\_dvd_9327760.iso](https://drive.massgrave.dev/it_windows_server_2016_x64_dvd_9327760.iso) |
+| [**ja**\_windows_server_2016\_**x64**\_dvd_9327761.iso](https://drive.massgrave.dev/ja_windows_server_2016_x64_dvd_9327761.iso) |
+| [**ko**\_windows_server_2016\_**x64**\_dvd_9327762.iso](https://drive.massgrave.dev/ko_windows_server_2016_x64_dvd_9327762.iso) |
+| [**nl**\_windows_server_2016\_**x64**\_dvd_9327750.iso](https://drive.massgrave.dev/nl_windows_server_2016_x64_dvd_9327750.iso) |
+| [**pl**\_windows_server_2016\_**x64**\_dvd_9327763.iso](https://drive.massgrave.dev/pl_windows_server_2016_x64_dvd_9327763.iso) |
+| [**pp**\_windows_server_2016\_**x64**\_dvd_9327765.iso](https://drive.massgrave.dev/pp_windows_server_2016_x64_dvd_9327765.iso) |
+| [**pt**\_windows_server_2016\_**x64**\_dvd_9327764.iso](https://drive.massgrave.dev/pt_windows_server_2016_x64_dvd_9327764.iso) |
+| [**ru**\_windows_server_2016\_**x64**\_dvd_9327766.iso](https://drive.massgrave.dev/ru_windows_server_2016_x64_dvd_9327766.iso) |
+| [**sv**\_windows_server_2016\_**x64**\_dvd_9327768.iso](https://drive.massgrave.dev/sv_windows_server_2016_x64_dvd_9327768.iso) |
+| [**tr**\_windows_server_2016\_**x64**\_dvd_9327769.iso](https://drive.massgrave.dev/tr_windows_server_2016_x64_dvd_9327769.iso) |
