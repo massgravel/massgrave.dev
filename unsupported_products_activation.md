@@ -54,7 +54,7 @@ UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
 
 ## Windows XP SP3
 
--   Download Genuine Pro VL x86 - [Link](https://archive.org/download/windows-xp-professional-collection-multilanguages)
+-   Download Genuine Pro VL x86 - [Link](windows_xp_links.html)
 
 -   Activation Key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 
