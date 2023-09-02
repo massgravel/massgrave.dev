@@ -26,7 +26,7 @@ All download links leads to genuine files only.
 
 ## Windows 11 Consumer 22H2
 
-Build - 22621.1702 - Official Link ❤️ - [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/)\
+Build - 22621.1702 - Official Link ❤️ - [Link1](https://www.microsoft.com/software-download) - [Link2](msdl.html)\
 Build - 22621.2134 - Check below links for Aug 2023 Updated genuine ISO's
 
 | Links                                                                                                                                                                                                                        |
