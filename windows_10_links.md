@@ -26,7 +26,7 @@ All download links leads to genuine files only.
 
 ## Windows 10 Consumer 22H2
 
-Build - 19045.2965 - Official Link ❤️ - [Link](msdl/#2618.html)\
+Build - 19045.2965 - Official Link ❤️ - [Link](/msdl/)\
 Build - 19045.3324 - Check below links for Aug 2023 Updated genuine ISO's
 
 | Links                                                                                                                                                                                                                           |
