@@ -1,5 +1,5 @@
 ---
-pagetitle: MAS
+pagetitle: Microsoft Activation Scripts (MAS)
 ---
 
 ## Intro
