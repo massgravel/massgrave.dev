@@ -13,7 +13,7 @@ pagetitle: Command Line Switches
 -   If you want to use it in Windows Pre-Activation then check [this](oem-folder.html) page for more details.
 
 | Switches                  | Meaning                                                  |
-|------------------------|-----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | `/HWID`                   | Activate with HWID                                       |
 | `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID            |
 |                           |                                                          |
@@ -39,13 +39,13 @@ pagetitle: Command Line Switches
 
 ## Uses In Powershell One Liner
 
-`iex "&{$(irm https://mass grave.dev/get)} /para"`
+`& ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para`
 
-Note - Remove space between `mass grave`
+Note - Remove space between `mass grave`
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /KMS-Office /KMS-ActAndRenewalTask`
 
-**Note:** This Powershell one liner will work on Windows 8 and later versions only.
+**Note:** This Powershell one liner will work on Windows 8.1 and later versions only.
 
 ------------------------------------------------------------------------
 
