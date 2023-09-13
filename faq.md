@@ -9,7 +9,7 @@ pagetitle: FAQ
 ------------------------------------------------------------------------
 
 -   **How to use it?\
-    **Checks how to info [here](index.html#Download__How_to_use_it).
+    **Check the info [here](index.html#Download__How_to_use_it).
 
 -   **How to activate Windows permanently?**\
     Use HWID option in MAS.
@@ -57,10 +57,10 @@ pagetitle: FAQ
     Use the change edition option in the Extras section in MAS.
 
 -   **Can I activate Office 365?**\
-    O365 can not be activated with KMS. To activate it, the script installs Mondo 2016 licenses and activates that. This license is near to O365 feature-wise, you can get offline features of O365 but you can't get Online features of O365.
+    O365 can not be activated with KMS. To activate it, the script installs Mondo 2016 licenses and activates that. This license is near to O365 feature-wise, you can get offline features of O365 but you can't get server side O365 specific features such as 1TB storage in Onedrive. 5GB storage in free onedrive account would work fine.
 
 -   **Can I get Co-Pilot feature in Office 365 with Mondo License?**\
-    At the time of writing, this feature is in testing period and not available to all 365 users. And as stated in above question, all online features are not available in Mondo License, so most likely it won't work.
+    At the time of writing, this feature is in testing period and not available to all 365 users. And as stated in above question, all online features are not available in Mondo License, so we can't say if it will work or not.
 
 -   **I'm getting 'Office is not genuine banner'.**\
     Run Online KMS from the latest MAS version.

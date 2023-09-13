@@ -418,8 +418,8 @@ href="oem-folder.html">this</a> page for more details.</p></li>
 </ul>
 <table>
 <colgroup>
-<col width="33%" />
-<col width="66%" />
+<col width="36%" />
+<col width="63%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -514,15 +514,15 @@ href="oem-folder.html">this</a> page for more details.</p></li>
 </div>
 <div id="uses-in-powershell-one-liner" class="section level2">
 <h2>Uses In Powershell One Liner</h2>
-<p><code>iex "&amp;{$(irm https://mass grave.dev/get)} /para"</code></p>
-<p>Note - Remove space between <code>mass grave</code></p>
+<p><code>&amp; ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para</code></p>
+<p>Note - Remove space between <code>mass grave</code></p>
 <ul>
 <li>Replace <code>/para</code> in this command with the switches from
 the above table. You can also use multiple switches. For example,
 <code>/HWID /KMS-Office /KMS-ActAndRenewalTask</code></li>
 </ul>
 <p><strong>Note:</strong> This Powershell one liner will work on Windows
-8 and later versions only.</p>
+8.1 and later versions only.</p>
 <hr />
 </div>
 <div id="rules" class="section level2">
