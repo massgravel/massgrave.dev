@@ -28,7 +28,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ## MAS Latest Release
 
-Last Release - v1.9 (25-Sep-2023)\
+Last Release - v2.0 (25-Sep-2023)\
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                    |
-|:----------------|:---------------------|:-------------------------------------|
+|:-----------------|:-------------------|:---------------------------------|
 | HWID            | Windows 10-11        | Permanent                            |
 | Ohook           | Office               | Permanent                            |
 | KMS38           | Windows 10-11-Server | Till the Year 2038                   |
