@@ -6,6 +6,12 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.0
+
+-   Minor update: Add info in check activation scripts to ignore ospp.vbs /dstatus results if Ohook install is found.
+
+------------------------------------------------------------------------
+
 ## 1.9
 
 **Added Permanent Activation for Office**
