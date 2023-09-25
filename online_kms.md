@@ -41,9 +41,9 @@ pagetitle: Online KMS Activation
     You can install the auto-renewal in the script.\
     This method puts the following two files,\
     \
-    `C:\ProgramData\Activation-Renewal\Activation_task.cmd`
+    `C:\Program Files\Activation-Renewal\Activation_task.cmd`
 
-    `C:\ProgramData\Activation-Renewal\Info.txt`
+    `C:\Program Files\Activation-Renewal\Info.txt`
 
     And creates a scheduled task (`\Activation-Renewal`) to run the script every 7 days. This task registers the working KMS server and triggers activation commands only for the installed Volume products.\
     The scheduled task runs only if the system is connected to the Internet.
@@ -78,7 +78,7 @@ pagetitle: Online KMS Activation
     Enterprise, Enterprise LTSC, IoT Enterprise LTSC, Enterprise G, Enterprise multi-session, SE (CloudEdition), Education, Pro, Pro Workstation, Pro Education, Home, Home Single Language, Home China
 
 -   **Windows 10:**\
-    Enterprise, Enterprise LTSC/LTSB, Enterprise G, Enterprise multi-session, Education, Pro, Pro Workstation, Pro Education, Home, Home Single Language, Home China
+    Enterprise, Enterprise LTSC/LTSB, IoT Enterprise LTSC, Enterprise G, Enterprise multi-session, Education, Pro, Pro Workstation, Pro Education, Home, Home Single Language, Home China
 
 -   **Windows 8.1:**\
     Enterprise, Pro, Pro with Media Center, Core, Core Single Language, Core China, Pro for Students, Bing, Bing Single Language, Bing China, Embedded Industry Enterprise/Pro/Automotive
@@ -192,9 +192,11 @@ Feel free to contact us in case you have a contradictory point of view.
 
 <!-- -->
 
-    HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
+```         
+HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
 
-    HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
+HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
+```
 
 This is perfectly fine to keep, and it does not affect Windows or Office activation. For more explanation, visit [here](office-license-is-not-genuine.html)
 

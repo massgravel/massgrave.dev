@@ -6,30 +6,30 @@ pagetitle: Microsoft Activation Scripts (MAS)
 
 **Microsoft Activation Scripts (MAS)**
 
-A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
 ------------------------------------------------------------------------
 
 ## Features
 
--   HWID Activation
--   KMS38 Activation
--   Online KMS Activation
--   Activation Troubleshoot
+-   **HWID (Digital License)** Method to Permanently Activate Windows
+-   **Ohook** Method to Permanently Activate Office
+-   **KMS38** Method to Activate Windows/Server Till the Year 2038
+-   **Online KMS** Method to Activate Windows/Server/Office Till 180 Days (Lifetime With Renewal Task)
+-   Advanced Activation Troubleshoot
 -   \$OEM\$ Folders For Preactivation
 -   Change Windows Edition
--   Check Windows-Office Activation Status
--   Available in All In One & Separate Files Version
--   Fully Open Source
--   All Files Are Transparent Batch Scripts
+-   Check Windows/Office Activation Status
+-   Available in All In One and Separate Files Version
+-   Fully Open Source and Based on Batch Script
 -   Fewer Antivirus Detections
 
 ------------------------------------------------------------------------
 
 ## MAS Latest Release
 
-Last Release - v1.8 (16-Mar-2023)\
-[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [GitLab](https://gitlab.com/massgrave/microsoft-activation-scripts)
+Last Release - v1.9 (25-Sep-2023)\
+[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Last Release - v1.8 (16-Mar-2023)\
 
 (Recommended)
 
--   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
+-   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     `irm https://massgrave.dev/get | iex`
 -   You will see the activation options, and follow onscreen instructions.
@@ -60,11 +60,12 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 
 ## Activations Summary
 
-| Activation Type | Supported Product    | Activation Period                               |
-|:----------------|:----------------|:-------------------------------------|
-| HWID            | Windows 10-11        | Permanent                                       |
-| KMS38           | Windows 10-11-Server | Until the year 2038                             |
-| Online KMS      | Windows / Office     | 180 Days. Lifetime Activation With Renewal Task |
+| Activation Type | Supported Product    | Activation Period                    |
+|:----------------|:---------------------|:-------------------------------------|
+| HWID            | Windows 10-11        | Permanent                            |
+| Ohook           | Office               | Permanent                            |
+| KMS38           | Windows 10-11-Server | Till the Year 2038                   |
+| Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task |
 
 For more details, use the respective activation details in Doc.
 
@@ -78,7 +79,7 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ![](MAS_HWID.png)
 
-![](MAS_KMS.png)
+![](MAS_Ohook.png)
 
 ![](MAS_Troubleshoot.png)
 

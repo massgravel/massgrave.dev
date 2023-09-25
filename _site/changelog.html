@@ -340,6 +340,9 @@ div.tocify {
       <a href="hwid.html">HWID Activation</a>
     </li>
     <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
       <a href="kms38.html">KMS38 Activation</a>
     </li>
     <li>
@@ -359,9 +362,6 @@ div.tocify {
     </li>
     <li>
       <a href="change_edition.html">Change Edition</a>
-    </li>
-    <li>
-      <a href="install_hwid_key.html">Install HWID Key</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -409,10 +409,95 @@ div.tocify {
 <h1>MAS Changelog</h1>
 <hr />
 <div id="section" class="section level2">
+<h2>1.9</h2>
+<p><strong>Added Permanent Activation for Office</strong></p>
+<hr />
+<div id="ohook" class="section level4">
+<h4>Ohook:</h4>
+<ul>
+<li>Added Ohook activation method, it can activate Office permanently on
+Windows 8 and higher and their Server equivalent except Office 2010 and
+Office UWP apps. Thanks to <span class="citation">@asdcorp</span> for
+this new method. More info <a href="https://massgrave.dev/ohook.html"
+class="uri">https://massgrave.dev/ohook.html</a> <a
+href="https://github.com/asdcorp/ohook"
+class="uri">https://github.com/asdcorp/ohook</a></li>
+</ul>
+</div>
+<div id="hwidkms38" class="section level4">
+<h4>HWID/KMS38:</h4>
+<ul>
+<li>HWID activation is added for IotEnterpriseS 2024. At the moment, the
+2024 version of IotEnterpriseS and IotEnterpriseSK have HWID activation,
+EnterpriseS/SN don’t</li>
+<li>More checks are added to find better error details for: Internet
+issue WMI issue SvcRestartTask issue Services issue</li>
+<li>Some codes are optimized</li>
+</ul>
+</div>
+<div id="online-kms" class="section level4">
+<h4>Online KMS:</h4>
+<ul>
+<li>Script will create schduled task files in
+<code>C:\Program Files\Activation-Renewal</code> instead of
+<code>C:\ProgramData\Activation-Renewal</code> due to security
+reasons</li>
+<li>The script is updated as per <span
+class="citation">@abbodi1406</span> KVA v50. Changes:
+<ul>
+<li>Fixed conversion for Office 2016 C2R Retail previously, the first
+run mistakenly said conversion had failed, even though it was successful
+(due to confusion with Office 2019 licenses/location detection)</li>
+<li>Added support for activating Windows 10 IoT Enterprise LTSC 2021
+(LCU 19044.2788 or later)</li>
+</ul></li>
+</ul>
+</div>
+<div id="change-windows-edition" class="section level4">
+<h4>Change Windows Edition:</h4>
+<ul>
+<li>Script will use <span class="citation">@ave9858</span> (Alex) DISM
+API method instead of changepk.exe method to change from Windows 10/11
+Core to Non-core (e.g. Home to Pro) Advantages: Internet doesn’t need to
+be disabled, all OEM/GVLK key restrictions are removed, and better error
+output</li>
+<li>Script will only use best methods to change edition instead of
+showing multiple choices</li>
+</ul>
+</div>
+<div id="troubleshoot" class="section level4">
+<h4>Troubleshoot:</h4>
+<ul>
+<li>Script will compress large log files to cab instead of deleting and
+creating them fresh in DISM restore and SFC scan options</li>
+<li>WMI fix is improved</li>
+</ul>
+</div>
+<div id="all" class="section level4">
+<h4>All:</h4>
+<ul>
+<li>Insert HWID key script is removed because it’s not important and
+causes confusion</li>
+<li>Scripts will now disable quick edit mode temporarily because users
+often click inside the script window and it pauses the script</li>
+<li>Check is added for Null service at the start of the script because
+corrupt service crashes the script</li>
+<li>Codes are optimized and fixed a few bugs</li>
+<li><a
+href="https://gitlab.com/massgrave/microsoft-activation-scripts">Gitlab</a>
+repo was taken down, we have created a repo on <a
+href="https://bitbucket.org/WindowsAddict/microsoft-activation-scripts">Bitbucket</a>
+as a replacement. Also revived the <a
+href="https://www.reddit.com/r/MAS_Activator/">Subreddit</a>.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="section-1" class="section level2">
 <h2>1.8</h2>
 <p><strong>Goodbye to Cleanospp.exe / MAS is now 100% naked</strong></p>
 <hr />
-<div id="hwidkms38" class="section level4">
+<div id="hwidkms38-1" class="section level4">
 <h4>HWID/KMS38:</h4>
 <ul>
 <li>Checks are added to find issues in:
@@ -429,7 +514,7 @@ div.tocify {
 <li>Fixed a few bugs</li>
 </ul>
 </div>
-<div id="online-kms" class="section level4">
+<div id="online-kms-1" class="section level4">
 <h4>Online KMS:</h4>
 <ul>
 <li>Replaced cleanospp.exe with powershell script <a
@@ -445,7 +530,7 @@ install them the old way (using slmgr.vbs/ospp.vbs)</li>
 </ul></li>
 </ul>
 </div>
-<div id="troubleshoot" class="section level4">
+<div id="troubleshoot-1" class="section level4">
 <h4>Troubleshoot:</h4>
 <ul>
 <li>Fix WMI option is improved</li>
@@ -454,7 +539,7 @@ OSPP licenses and SPP permissions in files and registry. Thanks to
 @ave9858 (Alex)</li>
 </ul>
 </div>
-<div id="change-windows-edition" class="section level4">
+<div id="change-windows-edition-1" class="section level4">
 <h4>Change Windows Edition:</h4>
 <ul>
 <li>Script now <a
@@ -463,7 +548,7 @@ default Win 7 RTM, WMF requirement is removed. Thanks to @ave9858
 (Alex)</li>
 </ul>
 </div>
-<div id="all" class="section level4">
+<div id="all-1" class="section level4">
 <h4>All:</h4>
 <ul>
 <li>All C# code is changed to Powershell reflection code to avoid temp
@@ -485,11 +570,11 @@ group</a> is created for MAS-related queries and activation issues</li>
 <hr />
 </div>
 </div>
-<div id="section-1" class="section level2">
+<div id="section-2" class="section level2">
 <h2>1.7</h2>
 <p><strong>Goodbye to Gatherosstate.exe</strong></p>
 <hr />
-<div id="hwidkms38-1" class="section level4">
+<div id="hwidkms38-2" class="section level4">
 <h4>HWID/KMS38:</h4>
 <ul>
 <li>Gatherosstate.exe is replaced by <a
@@ -513,7 +598,7 @@ to KMS38 activate them.</li>
 <li>More checks are added to find the cause of activation failure.</li>
 </ul>
 </div>
-<div id="online-kms-1" class="section level4">
+<div id="online-kms-2" class="section level4">
 <h4>Online KMS:</h4>
 <ul>
 <li>Script is updated as per <span class="citation">@abbodi1406</span>
@@ -532,7 +617,7 @@ Gaming Spoofers, Fix issues Caused By KB971033 In Windows 7, Export
 Event Viewer Logs.</li>
 </ul>
 </div>
-<div id="change-windows-edition-1" class="section level4">
+<div id="change-windows-edition-2" class="section level4">
 <h4>Change Windows Edition:</h4>
 <ul>
 <li>Support for Windows 7/8//8.1 and their server equivalent editions
@@ -564,13 +649,13 @@ code to execute it as well.</li>
 <hr />
 </div>
 </div>
-<div id="section-2" class="section level2">
+<div id="section-3" class="section level2">
 <h2>1.6</h2>
 <div id="future-proofing-goodbye-to-slc.dll" class="section level4">
 <h4><strong>Future-proofing / Goodbye to slc.dll</strong></h4>
 <hr />
 </div>
-<div id="hwidkms38-2" class="section level4">
+<div id="hwidkms38-3" class="section level4">
 <h4><strong>HWID/KMS38:</strong></h4>
 <ul>
 <li><p>slc.dll is removed, we will patch the original gatherosstate.exe
@@ -603,7 +688,7 @@ help in download &amp; execution in Powershell</p></li>
 <li><p>Bug fixes and lots of improvements</p></li>
 </ul>
 </div>
-<div id="online-kms-2" class="section level4">
+<div id="online-kms-3" class="section level4">
 <h4><strong>Online KMS:</strong></h4>
 <ul>
 <li><p>The script is updated as per KVA v47 (major change: improved
@@ -636,7 +721,7 @@ enough</p></li>
 issues in licensing in older builds</p></li>
 </ul>
 </div>
-<div id="change-windows-edition-2" class="section level4">
+<div id="change-windows-edition-3" class="section level4">
 <h4><strong>Change Windows Edition:</strong></h4>
 <ul>
 <li><p>Added feature to change Windows Server editions</p></li>
@@ -656,7 +741,7 @@ choose</p></li>
 the key from the system</li>
 </ul>
 </div>
-<div id="all-1" class="section level4">
+<div id="all-2" class="section level4">
 <h4><strong>All:</strong></h4>
 <ul>
 <li><p>Fixed an issue when the script wouldn’t launch if the path have
@@ -684,7 +769,7 @@ format</p></li>
 <hr />
 </div>
 </div>
-<div id="section-3" class="section level2">
+<div id="section-4" class="section level2">
 <h2>1.5</h2>
 <pre><code># All
 
@@ -741,13 +826,13 @@ format</p></li>
 - Now it can change the Windows editions from Core to Non core too with proper error handling. Works on Windows build 10240 and later</code></pre>
 <hr />
 </div>
-<div id="section-4" class="section level2">
+<div id="section-5" class="section level2">
 <h2>1.4</h2>
 <pre><code>- Now Microsoft support HWID (Digital License) for Windows 10 LTSC 2019, added key for it in the script.
 - Some minor improvements.</code></pre>
 <hr />
 </div>
-<div id="section-5" class="section level2">
+<div id="section-6" class="section level2">
 <h2>1.3</h2>
 <pre><code># HWID / KMS38
 
@@ -760,7 +845,7 @@ format</p></li>
  - Some minor improvements</code></pre>
 <hr />
 </div>
-<div id="section-6" class="section level2">
+<div id="section-7" class="section level2">
 <h2>1.2</h2>
 <pre><code># HWID / KMS38
 
@@ -790,7 +875,7 @@ format</p></li>
 - Created a repository for this tool at Gitlab https://gitlab.com/massgrave/microsoft-activation-scripts</code></pre>
 <hr />
 </div>
-<div id="section-7" class="section level2">
+<div id="section-8" class="section level2">
 <h2>1.1</h2>
 <pre><code>   HWID/KMS38:
 
@@ -833,7 +918,7 @@ format</p></li>
  - In MAS Separate files version&#39;s $OEM$ folders are now removed, now I&#39;ve added $OEM$ extraction script to remove the files redundancy.</code></pre>
 <hr />
 </div>
-<div id="section-8" class="section level2">
+<div id="section-9" class="section level2">
 <h2>1.0</h2>
 <pre><code> - (Re)added Online KMS renewal task with proper warnings.
  - Redirected all the read me&#39;s to online page for easy online translation.
@@ -841,7 +926,7 @@ format</p></li>
  - Some minor tweaks.</code></pre>
 <hr />
 </div>
-<div id="section-9" class="section level2">
+<div id="section-10" class="section level2">
 <h2>0.9</h2>
 <pre><code>   HWID and KMS38
 
@@ -894,7 +979,7 @@ format</p></li>
    &#39;Extract the text from script without character issue&#39; https://forums.mydigitallife.net/posts/1221231/ by @Compo</code></pre>
 <hr />
 </div>
-<div id="section-10" class="section level2">
+<div id="section-11" class="section level2">
 <h2>0.8</h2>
 <pre><code>- HWID and KMS38 activation now use the new slc.dll method which requires no registry and temp file.
   Thanks to @sponpa for the new ideas and codes https://tinyurl.com/y24dbdmw 
@@ -932,7 +1017,7 @@ format</p></li>
 - That&#39;s all i remember.</code></pre>
 <hr />
 </div>
-<div id="section-11" class="section level2">
+<div id="section-12" class="section level2">
 <h2>0.7</h2>
 <pre><code>To further make sure that script is clean from av&#39;s, following changes were made,
 
@@ -964,7 +1049,7 @@ Some more changes -
 - Screen shots https://lookimg.com/images/2019/02/17/D8SkM.jpg</code></pre>
 <hr />
 </div>
-<div id="section-12" class="section level2">
+<div id="section-13" class="section level2">
 <h2>0.6</h2>
 <pre><code> - Fixed an issue where KMS task creation and deletion show incorrect msg in Non English OS&#39;s.
  - Fixed an issue in LTSB 2015 HWID activation. 
@@ -989,7 +1074,7 @@ Some more changes -
    - Thats all i remember.</code></pre>
 <hr />
 </div>
-<div id="section-13" class="section level2">
+<div id="section-14" class="section level2">
 <h2>0.5</h2>
 <pre><code>- Updated $OEM$ Folder scripts, so that users can use it easily with any edits and other scripts.
 - Now Read Me and Credits details will open in notepad, for easy browsing.
@@ -997,7 +1082,7 @@ Some more changes -
 - Some cosmetic changes in Menu.</code></pre>
 <hr />
 </div>
-<div id="section-14" class="section level2">
+<div id="section-15" class="section level2">
 <h2>0.4</h2>
 <pre><code>- Removed all the Graphic ASCII characters to avoid errors in editing and viewing of this script in non English os&#39;s.
 - Added additional verification in creation and deletion of online KMS task(s).
@@ -1009,13 +1094,13 @@ Some more changes -
 - Read Me improved and Some cosmetic changes.</code></pre>
 <hr />
 </div>
-<div id="section-15" class="section level2">
+<div id="section-16" class="section level2">
 <h2>0.3</h2>
 <pre><code>- Abbodi1406 fixed an imp bug in his KMS_VL_ALL Script regarding KMS38, I copied those fix in online KMS script. It also fixes the error (only cosmetic, not imp) in last run result of scheduled task when KMS38 is applied. Now there is no error remains in last run result of scheduled task.
  (Reminder - This online kms script is a fork of abbodi1406&#39;s Standalone-Activate-Local.cmd, it was adjusted to work with multi kms server&#39;s and renewal task, preactivation, etc. see @credits)</code></pre>
 <hr />
 </div>
-<div id="section-16" class="section level2">
+<div id="section-17" class="section level2">
 <h2>0.2</h2>
 <pre><code>- Added Windows OS checks in HWID, KMS38, and insert keys and change edition option, now these option will only work in Windows 10.
 - Fixed an issue where in certain condition user needs to open the script again to fix non functioning option.
@@ -1027,7 +1112,7 @@ Some more changes -
 - Some other minor changes.</code></pre>
 <hr />
 </div>
-<div id="section-17" class="section level2">
+<div id="section-18" class="section level2">
 <h2>0.1</h2>
 <pre><code>MAS_0.1_BETA First release.
 

@@ -10,13 +10,7 @@ pagetitle: Office C2R Custom Install
 
 -   If the below guide is confusing to you then the simplest option for you is to use [Office C2R Installer](office_c2r_links.html).
 
--   Retail Office (O365 with Mondo 2016 KMS License installed by Activation script):\
-    Pros - Latest feature updates\
-    Cons - On Office repair or Windows major feature updates, you will need to run activation script again.
-
--   Volume Office (2021):\
-    Pros - You won't need to run activation script again on Office repair or Windows major feature updates.\
-    Cons - No latest feature updates
+-   Retail Office (e.g. O365) has latest feature updates and Volume Office (e.g. ProPlus 2021) don't have latest feature updates. Both can be activated using Ohook activation method.
 
 -   Please note that in the official C2R office custom installation method, there is no ISO or any one-click solution available. Below is the simplest guide to installing the customized office.
 
@@ -44,7 +38,7 @@ Once done,
 
 -   If you want Volume Office then select `Office LTSC Professional Plus 2021 - Volume License` (Don't select SPLA version) in the office suites section.
 
--   You can add Visio and Project apps if you need them. Don't select language which is [not available for Project/Visio](office_c2r_links.html) if you are installing these apps.
+-   You can add Visio and Project apps if you need them. Don't select language that is [not available for Project/Visio](office_c2r_links.html) if you are installing these apps.
 
 -   Customize other things and leave them as default where you don't understand something.
 

@@ -22,7 +22,8 @@ pagetitle: Fix WPA Registry
 
 -   Copy `rearm.cmd` file to the root of the C drive like `C:\rearm.cmd`
 
--   Press shift and click on the restart button in the start menu
+-   Open command prompt as admin and enter the below command\
+    `Shutdown /f /r /o /t 0`
 
 -   After system restart, you will find Troubleshoot \> Advanced Option, select Command Prompt option
 

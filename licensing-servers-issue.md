@@ -10,14 +10,24 @@ pagetitle: Licensing Servers Issue
 
 -   Activation script will inform you about this if that is the case. We suggest to follow the below guide only when the script tells you to do it. If you are unsure, you can take the help from [here](troubleshoot.html).
 
--   This may happen mostly either due to DNS or Issues in MS licensing servers itself or Firewall rules in the system. Below you can find listed fixes for it.
+-   This may happen mostly either due to DNS or Issues in MS licensing servers itself or Firewall rules in the system. Below you can find fixes for it.
 
 -   **Which method to choose for the fix?\
     \
     **If you are located in China then choose **Modify Host File** option.\
-    If you are not in China then first try **Fix DNS** option, and if that doesn't work then try **VPN** method or try another Internet connection.
+    If you are not in China then first try **Network Reset** option and if that doesn't work then **Fix DNS** option, and if that doesn't work then try **VPN** method or try another Internet connection.
 
 -   If you are still facing issues then check [here](troubleshoot.html).
+
+------------------------------------------------------------------------
+
+## Network Reset
+
+-   In Windows 10/11, goto settings and search for Network Reset and apply this option.
+
+-   Restart your system and try HWID Activation.
+
+-   If it's showing same Internet error then apply the Fix DNS option.
 
 ------------------------------------------------------------------------
 
@@ -31,16 +41,18 @@ pagetitle: Licensing Servers Issue
 
 -   Once done, try HWID Activation.
 
+-   If it's showing same Internet error then try VPN option.
+
 ------------------------------------------------------------------------
 
 ## VPN
 
--   You can install below VPN to fix issue if script is showing failed to connect licensing servers.
-
--   Freedome VPN\
+-   Install Freedome VPN\
     <https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe>
 
--   Once done, try HWID Activation.
+-   Once done connect to USA servers and then try HWID Activation.
+
+-   If it's showing same Internet error then check [here](troubleshoot.html).
 
 ------------------------------------------------------------------------
 
@@ -59,11 +71,7 @@ $filePath = "C:\Windows\System32\drivers\etc\hosts"
 
 Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
 
-Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
-
 Add-Content -Path $filePath -Value "124.108.22.138 licensing.mp.microsoft.com"
-
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
 ```
 
 -   Done. Now try HWID Activation.
@@ -73,11 +81,7 @@ To restore it, run below commands.
 ```         
 $filePath = "C:\Windows\System32\drivers\etc\hosts"
 
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
-
 Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace "124.108.22.138 licensing.mp.microsoft.com", "" })
-
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true
 ```
 
 ------------------------------------------------------------------------

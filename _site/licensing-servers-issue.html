@@ -340,6 +340,9 @@ div.tocify {
       <a href="hwid.html">HWID Activation</a>
     </li>
     <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
       <a href="kms38.html">KMS38 Activation</a>
     </li>
     <li>
@@ -359,9 +362,6 @@ div.tocify {
     </li>
     <li>
       <a href="change_edition.html">Change Edition</a>
-    </li>
-    <li>
-      <a href="install_hwid_key.html">Install HWID Key</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -417,18 +417,30 @@ do it. If you are unsure, you can take the help from <a
 href="troubleshoot.html">here</a>.</p></li>
 <li><p>This may happen mostly either due to DNS or Issues in MS
 licensing servers itself or Firewall rules in the system. Below you can
-find listed fixes for it.</p></li>
+find fixes for it.</p></li>
 <li><p><strong>Which method to choose for the fix?<br />
 <br />
 </strong>If you are located in China then choose <strong>Modify Host
 File</strong> option.<br />
-If you are not in China then first try <strong>Fix DNS</strong> option,
+If you are not in China then first try <strong>Network Reset</strong>
+option and if that doesn’t work then <strong>Fix DNS</strong> option,
 and if that doesn’t work then try <strong>VPN</strong> method or try
 another Internet connection.</p></li>
 <li><p>If you are still facing issues then check <a
 href="troubleshoot.html">here</a>.</p></li>
 </ul>
 <hr />
+<div id="network-reset" class="section level2">
+<h2>Network Reset</h2>
+<ul>
+<li><p>In Windows 10/11, goto settings and search for Network Reset and
+apply this option.</p></li>
+<li><p>Restart your system and try HWID Activation.</p></li>
+<li><p>If it’s showing same Internet error then apply the Fix DNS
+option.</p></li>
+</ul>
+<hr />
+</div>
 <div id="fix-dns" class="section level2">
 <h2>Fix DNS</h2>
 <ul>
@@ -438,19 +450,21 @@ href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=
 file and run it as admin.</p></li>
 <li><p>Follow onscreen instructions.</p></li>
 <li><p>Once done, try HWID Activation.</p></li>
+<li><p>If it’s showing same Internet error then try VPN option.</p></li>
 </ul>
 <hr />
 </div>
 <div id="vpn" class="section level2">
 <h2>VPN</h2>
 <ul>
-<li><p>You can install below VPN to fix issue if script is showing
-failed to connect licensing servers.</p></li>
-<li><p>Freedome VPN<br />
+<li><p>Install Freedome VPN<br />
 <a
 href="https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe"
 class="uri">https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe</a></p></li>
-<li><p>Once done, try HWID Activation.</p></li>
+<li><p>Once done connect to USA servers and then try HWID
+Activation.</p></li>
+<li><p>If it’s showing same Internet error then check <a
+href="troubleshoot.html">here</a>.</p></li>
 </ul>
 <hr />
 </div>
@@ -471,22 +485,14 @@ failing to resolve MS licensing servers.</p>
 
 Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
 
-Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace &quot;124.108.22.138 licensing.mp.microsoft.com&quot;, &quot;&quot; })
-
-Add-Content -Path $filePath -Value &quot;124.108.22.138 licensing.mp.microsoft.com&quot;
-
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true</code></pre>
+Add-Content -Path $filePath -Value &quot;124.108.22.138 licensing.mp.microsoft.com&quot;</code></pre>
 <ul>
 <li>Done. Now try HWID Activation.</li>
 </ul>
 <p>To restore it, run below commands.</p>
 <pre><code>$filePath = &quot;C:\Windows\System32\drivers\etc\hosts&quot;
 
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $false
-
-Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace &quot;124.108.22.138 licensing.mp.microsoft.com&quot;, &quot;&quot; })
-
-Set-ItemProperty -Path $filePath -Name IsReadOnly -Value $true</code></pre>
+Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace &quot;124.108.22.138 licensing.mp.microsoft.com&quot;, &quot;&quot; })</code></pre>
 <hr />
 </div>
 </div>

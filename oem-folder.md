@@ -22,7 +22,9 @@ pagetitle: OEM Folders
 
 -   You can check [here](index.html) about activation method details and select the activation method as per your requirement.
 
--   On Windows 8 and later, running setupcomplete.cmd is disabled if the default installed key for the edition is OEM Channel. For example - Preactivation won't work for Windows 10 Iot Enterprise because installed key is of OEM channel.
+-   On Windows 8 and later, **running setupcomplete.cmd is disabled** if the default installed key for the edition is OEM Channel.\
+    For example - Preactivation won't work for Windows 10 Iot Enterprise LTSC because installed key is of OEM channel.\
+    The **solution** for this issue is to use (Non-Iot) Windows 10 Enterprise LTSC ISO and HWID method in preactivation will use Iot LTSC key to change the edition.
 
 ------------------------------------------------------------------------
 
@@ -49,6 +51,12 @@ pagetitle: OEM Folders
 
 ------------------------------------------------------------------------
 
+## Ohook
+
+-   If Office is preinstalled then Ohook method will activate the Office immediately without Internet. This activation uses custom sppc.dll file for the activation.
+
+------------------------------------------------------------------------
+
 ## KMS38
 
 -   When using KMS38 activation, no files are stored on the system, and Windows 10-11-Server becomes activated immediately without Internet.
@@ -57,16 +65,36 @@ pagetitle: OEM Folders
 
 ## Online KMS
 
--   When using Online KMS activation, Windows and Office both will be activated when connected to the internet for the first time. This option uses a renewal task for lifetime activation.
+-   When using Online KMS activation, Windows-Server and Office (Preinstalled) both will be activated when connected to the internet for the first time. This option uses a renewal task for lifetime activation.
+
+------------------------------------------------------------------------
+
+## HWID + Ohook
+
+-   In this method, Windows 10-11 will be activated with HWID, and **Office** (Preinstalled) will be activated using Ohook.
 
 ------------------------------------------------------------------------
 
 ## HWID + Online KMS
 
--   In this method, Windows 10-11 will be activated with HWID, and **Office** will be activated using Online KMS.
+-   In this method, Windows 10-11 will be activated with HWID, and **Office** (Preinstalled) will be activated using Online KMS.
+
+------------------------------------------------------------------------
+
+## KMS38 + Ohook
+
+-   In this method, Windows 10-11-Server will be activated with KMS38, and **Office** (Preinstalled) will be activated using Ohook.
 
 ------------------------------------------------------------------------
 
 ## KMS38 + Online KMS
 
--   In this method, Windows 10-11-Server will be activated with KMS38, and **Office** will be activated using Online KMS.
+-   In this method, Windows 10-11-Server will be activated with KMS38, and **Office** (Preinstalled) will be activated using Online KMS.
+
+------------------------------------------------------------------------
+
+## Online KMS + Ohook
+
+-   In this method, Windows-Server will be activated with Online KMS, and **Office** (Preinstalled) will be activated using Ohook.
+
+------------------------------------------------------------------------
