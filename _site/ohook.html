@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Ohook Activation</title>
+
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link rel="shortcut icon" href="favicon.ico">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><div><img src="logo.png" class="logo">   Microsoft Activation Scripts</div></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="bypass-russian-geoblock.html">Bypass Russian Geoblock</a>
+    </li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li>
+      <a href="fix-wpa-registry.html">Fix WPA Registry</a>
+    </li>
+    <li>
+      <a href="licensing-servers-issue.html">Licensing Servers Issue</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="ohook-activation" class="section level1">
+<h1>Ohook Activation</h1>
+<hr />
+<div id="overview" class="section level2">
+<h2>Overview</h2>
+<ul>
+<li><p>How to use it? Please find the instructions <a
+href="index.html#Download__How_to_use_it">here</a>.</p></li>
+<li><p>This activation method can activate all kinds of Office versions
+on Windows 8 and higher and their Server equivalent except Office 2010
+and Office UWP apps.</p></li>
+<li><p>This activation method works offline and activates Office
+permanently.</p></li>
+<li><p>This activation method can survive Office repairs, Office
+updates, and even Windows major feature upgrades. You do not need to
+reactivate in these cases.</p></li>
+<li><p>For the O365 subscription version, you can’t get server side O365
+specific features such as 1TB storage in Onedrive. However, almost all
+other features and 5GB storage in free onedrive account would work
+fine.</p></li>
+<li><p>This activation method does not modify/patch any onboard system
+files, instead it installs a custom SPPC.dll (open source) file for the
+activation to work. Check further details in below “How does it work?”
+section.</p></li>
+</ul>
+<hr />
+</div>
+<div id="how-does-it-work" class="section level2">
+<h2>How does it work?</h2>
+<p><img src="MAS-before-ohook.png" /></p>
+<ul>
+<li>As illustrated in the above 1st image, in the Official activation
+process of SPP based Office, Office asks
+<code>C:\Windows\System32\sppc.dll</code> about the activation status
+and that file asks the same thing to SPP (Software Protection Platform)
+<code>C:\Windows\System32\sppsvc.exe</code> and returns the message back
+to Office.</li>
+</ul>
+<p><img src="MAS-after-ohook.png" /></p>
+<ul>
+<li><p>As illustrated in the above 2nd image, we modify this behavior by
+placing a custom <code>sppc.dll</code> file in Office folder without
+touching system’s <code>C:\Windows\System32\sppc.dll</code> file and
+that custom file always returns the message that Office is activated.
+This is how ohook activation works.</p></li>
+<li><p>You can find the source code of ohook custom sppc.dll file <a
+href="https://github.com/asdcorp/ohook">here</a>.</p></li>
+</ul>
+<hr />
+</div>
+<div id="supported-products" class="section level2">
+<h2>Supported Products</h2>
+<p>TL;DR all kinds of Office products are supported on Windows 8 and
+higher and their Server equivalent except Office 2010 and Office UWP
+apps.</p>
+<table>
+<colgroup>
+<col width="16%" />
+<col width="25%" />
+<col width="40%" />
+<col width="16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Office Version</th>
+<th>Office Product</th>
+<th>Generic Key</th>
+<th>Key Type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>AccessRetail</td>
+<td>B7RFY-7NXPK-Q4342-Y9X2H-3JX4X</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>AccessVolume</td>
+<td>9MF9G-CN32B-HV7XT-9XJ8T-9KVF4</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>ExcelRetail</td>
+<td>NT889-MBH4X-8MD4H-X8R2D-WQHF8</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>ExcelVolume</td>
+<td>Y3N36-YCHDK-XYWBG-KYQVV-BDTJ2</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>GrooveRetail</td>
+<td>BMK4W-6N88B-BP9QR-PHFCK-MG7GF</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>GrooveVolume</td>
+<td>RN84D-7HCWY-FTCBK-JMXWM-HT7GJ</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>HomeBusinessPipcRetail</td>
+<td>2WQNF-GBK4B-XVG6F-BBMX7-M4F2Y</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>HomeBusinessRetail</td>
+<td>NVTDK-QB8J9-M28GR-92BPC-BR96Q</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>HomeStudentRetail</td>
+<td>R29WQ-CMNCM-2THCT-K4H92-FX6KR</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>InfoPathRetail</td>
+<td>RV7NQ-HY3WW-7CKWH-QTVMW-29VHC</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>InfoPathVolume</td>
+<td>C4TGN-QQW6Y-FYKXC-6WJW7-X73VG</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>LyncAcademicRetail</td>
+<td>6MDN4-WF3FV-4WH3Q-W699V-RGCMY</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>LyncEntryRetail</td>
+<td>N42BF-CBY9F-W2C7R-X397X-DYFQW</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>LyncRetail</td>
+<td>89P23-2NK2R-JXM2M-3Q8R8-BWM3Y</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>LyncVolume</td>
+<td>3WKCD-RN489-4M7XJ-GJ2GQ-YBFQ6</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>MondoRetail</td>
+<td>YYHXG-KTNKF-XGRT7-H299D-8K6MM</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>MondoVolume</td>
+<td>2YNYQ-FQMVG-CB8KW-6XKYD-M7RRJ</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>OneNoteFreeRetail</td>
+<td>4TGWV-6N9P6-G2H8Y-2HWKB-B4FF4</td>
+<td>Bypass</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>OneNoteRetail</td>
+<td>3KXXQ-PVN2C-8P7YY-HCV88-GVGQ6</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>OneNoteVolume</td>
+<td>JDMWF-NJC7B-HRCHY-WFT8G-BPXD9</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>OutlookRetail</td>
+<td>9N4RQ-CF8R2-HBVCB-J3C9V-94P4D</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>OutlookVolume</td>
+<td>HNG29-GGWRG-RFC8C-JTFP4-2J9FH</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>PersonalPipcRetail</td>
+<td>9CYB3-NFMRW-YFDG6-XC7TF-BY36J</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>PersonalRetail</td>
+<td>2NCQJ-MFRMH-TXV83-J7V4C-RVRWC</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>PowerPointRetail</td>
+<td>HVMN2-KPHQH-DVQMK-7B3CM-FGBFC</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>PowerPointVolume</td>
+<td>47DKN-HPJP7-RF9M3-VCYT2-TMQ4G</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>ProPlusRetail</td>
+<td>N3QMM-GKDT3-JQGX6-7X3MQ-4GBG3</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>ProPlusVolume</td>
+<td>QKHNX-M9GGH-T3QMW-YPK4Q-QRP9V</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>ProfessionalPipcRetail</td>
+<td>CF9DD-6CNW2-BJWJQ-CVCFX-Y7TXD</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>ProfessionalRetail</td>
+<td>MBQBN-CQPT6-PXRMC-TYJFR-3C8MY</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>ProjectProRetail</td>
+<td>B4RN4-H4JYG-YMQMC-CYGKH-46WPH</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>ProjectProVolume</td>
+<td>WFCT2-NBFQ7-JD7VV-MFJX6-6F2CM</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>ProjectStdRetail</td>
+<td>2B96V-X9NJY-WFBRC-Q8MP2-7CCC4</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>ProjectStdVolume</td>
+<td>3CNQX-T34TY-99RH4-C4YD2-KWYGV</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>PublisherRetail</td>
+<td>TWNCJ-YR84W-X7PPF-6DPRP-D67VC</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>PublisherVolume</td>
+<td>DJPHV-NCJV6-GWPT6-K26JX-C7GX6</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>SPDRetail</td>
+<td>3NY6J-WHT3F-47BDV-JHF36-2343W</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>StandardRetail</td>
+<td>V6VWN-KC2HR-YYDD6-9V7HQ-7T7VP</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>StandardVolume</td>
+<td>9TN6B-PCYH4-MCVDQ-KT83C-TMQ7T</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>VisioProRetail</td>
+<td>JRJNJ-33M7C-R73X3-P9XF7-R89MY</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>VisioProVolume</td>
+<td>YN7CF-XRH6R-CGKRY-GKPV3-BG7WF</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>VisioStdRetail</td>
+<td>G2N2Q-4QD2T-DY4TP-GY489-3RQCG</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>VisioStdVolume</td>
+<td>RX63Y-4NFK2-XTYC8-C6B3W-YPXPJ</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (2013)</td>
+<td>WordRetail</td>
+<td>NB77V-RPFQ6-PMMKQ-T87DV-M4D84</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (2013)</td>
+<td>WordVolume</td>
+<td>RPHPB-Y7NC4-3VYFM-DW7VD-G8YJ8</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v15.0 (O365)</td>
+<td>O365BusinessRetail</td>
+<td>JXR8H-NJ3MK-X66W8-78CWD-QRQ6C</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (O365)</td>
+<td>O365HomePremRetail</td>
+<td>J2W28-TN9C8-26PWV-F7J4G-72XCB</td>
+<td>Subscription1</td>
+</tr>
+<tr class="even">
+<td>v15.0 (O365)</td>
+<td>O365ProPlusRetail</td>
+<td>T6JJW-DYN99-WK46B-9MKKV-94P2Y</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v15.0 (O365)</td>
+<td>O365SmallBusPremRetail</td>
+<td>B9V9Q-F6ND8-T4K4K-8868M-HT7KT</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>AccessRetail</td>
+<td>WHK4N-YQGHB-XWXCC-G3HYC-6JF94</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>AccessRuntimeRetail</td>
+<td>RNB7V-P48F4-3FYY6-2P3R3-63BQV</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>AccessVolume</td>
+<td>JJ2Y4-N8KM3-Y8KY3-Y22FR-R3KVK</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ExcelRetail</td>
+<td>RKJBN-VWTM2-BDKXX-RKQFD-JTYQ2</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ExcelVolume</td>
+<td>FVGNR-X82B2-6PRJM-YT4W7-8HV36</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>HomeBusinessPipcRetail</td>
+<td>2WQNF-GBK4B-XVG6F-BBMX7-M4F2Y</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>HomeBusinessRetail</td>
+<td>HM6FM-NVF78-KV9PM-F36B8-D9MXD</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>HomeStudentRetail</td>
+<td>PNPRV-F2627-Q8JVC-3DGR9-WTYRK</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>HomeStudentVNextRetail</td>
+<td>YWD4R-CNKVT-VG8VJ-9333B-RC3B8</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>MondoRetail</td>
+<td>Y3XPN-P7PC4-MGPTJ-2BY3Q-RJRFV</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>MondoVolume</td>
+<td>FMTQQ-84NR8-2744R-MXF4P-PGYR3</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>OneNoteFreeRetail</td>
+<td>XYNTG-R96FY-369HX-YFPHY-F9CPM</td>
+<td>Bypass</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>OneNoteRetail</td>
+<td>FXF6F-CNC26-W643C-K6KB7-6XXW3</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>OneNoteVolume</td>
+<td>9TYVN-D76HK-BVMWT-Y7G88-9TPPV</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>OutlookRetail</td>
+<td>7N4KG-P2QDH-86V9C-DJFVF-369W9</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>OutlookVolume</td>
+<td>7QPNR-3HFDG-YP6T9-JQCKQ-KKXXC</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>PersonalPipcRetail</td>
+<td>9CYB3-NFMRW-YFDG6-XC7TF-BY36J</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>PersonalRetail</td>
+<td>FT7VF-XBN92-HPDJV-RHMBY-6VKBF</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>PowerPointRetail</td>
+<td>N7GCB-WQT7K-QRHWG-TTPYD-7T9XF</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>PowerPointVolume</td>
+<td>X3RT9-NDG64-VMK2M-KQ6XY-DPFGV</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ProPlusRetail</td>
+<td>GM43N-F742Q-6JDDK-M622J-J8GDV</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ProPlusVolume</td>
+<td>FNVK8-8DVCJ-F7X3J-KGVQB-RC2QY</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ProfessionalPipcRetail</td>
+<td>CF9DD-6CNW2-BJWJQ-CVCFX-Y7TXD</td>
+<td>OEM-Perp</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ProfessionalRetail</td>
+<td>NXFTK-YD9Y7-X9MMJ-9BWM6-J2QVH</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ProjectProRetail</td>
+<td>WKKGF-TTN8F-QC9T2-6C2DC-3YH63</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ProjectProVolume</td>
+<td>PKC3N-8F99H-28MVY-J4RYY-CWGDH</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ProjectProXVolume</td>
+<td>JBNPH-YF2F7-Q9Y29-86CTG-C9YGV</td>
+<td>MAKC2R</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ProjectStdRetail</td>
+<td>4H6NF-QDPG8-83W97-9K8XY-XBT9Y</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>ProjectStdVolume</td>
+<td>4TGWV-6N9P6-G2H8Y-2HWKB-B4G93</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>ProjectStdXVolume</td>
+<td>N3W2Q-69MBT-27RD9-BH8V3-JT2C8</td>
+<td>MAKC2R</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>PublisherRetail</td>
+<td>WKWND-X6G9G-CDMTV-CPGYJ-6MVBF</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>PublisherVolume</td>
+<td>9QVN2-PXXRX-8V4W8-Q7926-TJGD8</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>SkypeServiceBypassRetail</td>
+<td>6MDN4-WF3FV-4WH3Q-W699V-RGCMY</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>SkypeforBusinessEntryRetail</td>
+<td>4N4D8-3J7Y3-YYW7C-73HD2-V8RHY</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>SkypeforBusinessRetail</td>
+<td>PBJ79-77NY4-VRGFG-Y8WYC-CKCRC</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>SkypeforBusinessVolume</td>
+<td>DMTCJ-KNRKR-JV8TQ-V2CR2-VFTFH</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>StandardRetail</td>
+<td>2FPWN-4H6CM-KD8QQ-8HCHC-P9XYW</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>StandardVolume</td>
+<td>WHGMQ-JNMGT-MDQVF-WDR69-KQBWC</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>VisioProRetail</td>
+<td>7TM6H-KNR4K-Q7HBX-72T2Q-H22RV</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>VisioProVolume</td>
+<td>NRKT9-C8GP2-XDYXQ-YW72K-MG92B</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>VisioProXVolume</td>
+<td>G98Q2-B6N77-CFH9J-K824G-XQCC4</td>
+<td>MAKC2R</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>VisioStdRetail</td>
+<td>Q8R4N-GJCPG-CF32R-JFCYR-K4TF3</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>VisioStdVolume</td>
+<td>XNCJB-YY883-JRW64-DPXMX-JXCR6</td>
+<td>MAK</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>VisioStdXVolume</td>
+<td>B2HTN-JPH8C-J6Y6V-HCHKB-43MGT</td>
+<td>MAKC2R</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2016)</td>
+<td>WordRetail</td>
+<td>P8K82-NQ7GG-JKY8T-6VHVY-88GGD</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2016)</td>
+<td>WordVolume</td>
+<td>YHMWC-YN6V9-WJPXD-3WQKP-TMVCV</td>
+<td>MAK</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Access2019Retail</td>
+<td>WRYJ6-G3NP7-7VH94-8X7KP-JB7HC</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Access2019Volume</td>
+<td>6FWHX-NKYXK-BW34Q-7XC9F-Q9PX7</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>AccessRuntime2019Retail</td>
+<td>FGQNJ-JWJCG-7Q8MG-RMRGJ-9TQVF</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Excel2019Retail</td>
+<td>KBPNW-64CMM-8KWCB-23F44-8B7HM</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Excel2019Volume</td>
+<td>8NT4X-GQMCK-62X4P-TW6QP-YKPYF</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>HomeBusiness2019Retail</td>
+<td>QBN2Y-9B284-9KW78-K48PB-R62YT</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>HomeStudent2019Retail</td>
+<td>XNWPM-32XQC-Y7QJC-QGGBV-YY7JK</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Outlook2019Retail</td>
+<td>WR43D-NMWQQ-HCQR2-VKXDR-37B7H</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Outlook2019Volume</td>
+<td>RN3QB-GT6D7-YB3VH-F3RPB-3GQYB</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Personal2019Retail</td>
+<td>NMBY8-V3CV7-BX6K6-2922Y-43M7T</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>PowerPoint2019Retail</td>
+<td>HN27K-JHJ8R-7T7KK-WJYC3-FM7MM</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>PowerPoint2019Volume</td>
+<td>29GNM-VM33V-WR23K-HG2DT-KTQYR</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>ProPlus2019Retail</td>
+<td>BN4XJ-R9DYY-96W48-YK8DM-MY7PY</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>ProPlus2019Volume</td>
+<td>T8YBN-4YV3X-KK24Q-QXBD7-T3C63</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Professional2019Retail</td>
+<td>9NXDK-MRY98-2VJV8-GF73J-TQ9FK</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>ProjectPro2019Retail</td>
+<td>JDTNC-PP77T-T9H2W-G4J2J-VH8JK</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>ProjectPro2019Volume</td>
+<td>TBXBD-FNWKJ-WRHBD-KBPHH-XD9F2</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>ProjectStd2019Retail</td>
+<td>R3JNT-8PBDP-MTWCK-VD2V8-HMKF9</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>ProjectStd2019Volume</td>
+<td>RBRFX-MQNDJ-4XFHF-7QVDR-JHXGC</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Publisher2019Retail</td>
+<td>4QC36-NW3YH-D2Y9D-RJPC7-VVB9D</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Publisher2019Volume</td>
+<td>K8F2D-NBM32-BF26V-YCKFJ-29Y9W</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>SkypeforBusiness2019Retail</td>
+<td>JBDKF-6NCD6-49K3G-2TV79-BKP73</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>SkypeforBusiness2019Volume</td>
+<td>9MNQ7-YPQ3B-6WJXM-G83T3-CBBDK</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>SkypeforBusinessEntry2019Retail</td>
+<td>N9722-BV9H6-WTJTT-FPB93-978MK</td>
+<td>PrepidBypass</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Standard2019Retail</td>
+<td>NDGVM-MD27H-2XHVC-KDDX2-YKP74</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Standard2019Volume</td>
+<td>NT3V6-XMBK7-Q66MF-VMKR4-FC33M</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>VisioPro2019Retail</td>
+<td>2NWVW-QGF4T-9CPMB-WYDQ9-7XP79</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>VisioPro2019Volume</td>
+<td>33YF4-GNCQ3-J6GDM-J67P3-FM7QP</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>VisioStd2019Retail</td>
+<td>263WK-3N797-7R437-28BKG-3V8M8</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>VisioStd2019Volume</td>
+<td>BGNHX-QTPRJ-F9C9G-R8QQG-8T27F</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2019)</td>
+<td>Word2019Retail</td>
+<td>JXR8H-NJ3MK-X66W8-78CWD-QRVR2</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2019)</td>
+<td>Word2019Volume</td>
+<td>9F36R-PNVHH-3DXGQ-7CD2H-R9D3V</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Access2021Retail</td>
+<td>P286B-N3XYP-36QRQ-29CMP-RVX9M</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Access2021Volume</td>
+<td>JBH3N-P97FP-FRTJD-MGK2C-VFWG6</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Excel2021Retail</td>
+<td>V6QFB-7N7G9-PF7W9-M8FQM-MY8G9</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Excel2021Volume</td>
+<td>WNYR4-KMR9H-KVC8W-7HJ8B-K79DQ</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>HomeBusiness2021Retail</td>
+<td>QV2VN-37WPX-DHH4K-B82H6-PDP3T</td>
+<td>Retail1</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>HomeStudent2021Retail</td>
+<td>3QNG6-8FJTH-88BF9-KBBVM-JMB78</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>OneNote2021Retail</td>
+<td>NB2TQ-3Y79C-77C6M-QMY7H-7QY8P</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Outlook2021Retail</td>
+<td>4NCWR-9V92Y-34VB2-RPTHR-YTGR7</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Outlook2021Volume</td>
+<td>JQ9MJ-QYN6B-67PX9-GYFVY-QJ6TB</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Personal2021Retail</td>
+<td>RRRYB-DN749-GCPW4-9H6VK-HCHPT</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>PowerPoint2021Retail</td>
+<td>3KXXQ-PVN2C-8P7YY-HCV88-GVM96</td>
+<td>Retail1</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>PowerPoint2021Volume</td>
+<td>39G2N-3BD9C-C4XCM-BD4QG-FVYDY</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>ProPlus2021Retail</td>
+<td>8WXTP-MN628-KY44G-VJWCK-C7PCF</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>ProPlus2021Volume</td>
+<td>RNHJY-DTFXW-HW9F8-4982D-MD2CW</td>
+<td>MAK-AE1</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>ProPlusSPLA2021Volume</td>
+<td>JRJNJ-33M7C-R73X3-P9XF7-R9F6M</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Professional2021Retail</td>
+<td>DJPHV-NCJV6-GWPT6-K26JX-C7PBG</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>ProjectPro2021Retail</td>
+<td>QKHNX-M9GGH-T3QMW-YPK4Q-QRWMV</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>ProjectPro2021Volume</td>
+<td>HVC34-CVNPG-RVCMT-X2JRF-CR7RK</td>
+<td>MAK-AE1</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>ProjectStd2021Retail</td>
+<td>2B96V-X9NJY-WFBRC-Q8MP2-7CHRR</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>ProjectStd2021Volume</td>
+<td>3CNQX-T34TY-99RH4-C4YD2-KW6WH</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Publisher2021Retail</td>
+<td>CDNFG-77T8D-VKQJX-B7KT3-KK28V</td>
+<td>Retail1</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Publisher2021Volume</td>
+<td>2KXJH-3NHTW-RDBPX-QFRXJ-MTGXF</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>SkypeforBusiness2021Retail</td>
+<td>DVBXN-HFT43-CVPRQ-J89TF-VMMHG</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>SkypeforBusiness2021Volume</td>
+<td>R3FCY-NHGC7-CBPVP-8Q934-YTGXG</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Standard2021Retail</td>
+<td>HXNXB-J4JGM-TCF44-2X2CV-FJVVH</td>
+<td>Retail</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Standard2021Volume</td>
+<td>2CJN4-C9XK2-HFPQ6-YH498-82TXH</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>StandardSPLA2021Volume</td>
+<td>BQWDW-NJ9YF-P7Y79-H6DCT-MKQ9C</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>VisioPro2021Retail</td>
+<td>T6P26-NJVBR-76BK8-WBCDY-TX3BC</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>VisioPro2021Volume</td>
+<td>JNKBX-MH9P4-K8YYV-8CG2Y-VQ2C8</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>VisioStd2021Retail</td>
+<td>89NYY-KB93R-7X22F-93QDF-DJ6YM</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>VisioStd2021Volume</td>
+<td>BW43B-4PNFP-V637F-23TR2-J47TX</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (2021)</td>
+<td>Word2021Retail</td>
+<td>VNCC4-CJQVK-BKX34-77Y8H-CYXMR</td>
+<td>Retail</td>
+</tr>
+<tr class="even">
+<td>v16.0 (2021)</td>
+<td>Word2021Volume</td>
+<td>BJG97-NW3GM-8QQQ7-FH76G-686XM</td>
+<td>MAK-AE</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (O365)</td>
+<td>O365BusinessRetail</td>
+<td>2P3C9-BQNJH-VCVPH-YDY6M-43JPQ</td>
+<td>Subscription</td>
+</tr>
+<tr class="even">
+<td>v16.0 (O365)</td>
+<td>O365EduCloudRetail</td>
+<td>W62NQ-267QR-RTF74-PF2MH-JQMTH</td>
+<td>Subscription</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (O365)</td>
+<td>O365HomePremRetail</td>
+<td>J2W28-TN9C8-26PWV-F7J4G-72XCB</td>
+<td>Subscription1</td>
+</tr>
+<tr class="even">
+<td>v16.0 (O365)</td>
+<td>O365ProPlusRetail</td>
+<td>2N382-D6PKK-QTX4D-2JJYK-M96P2</td>
+<td>Subscription1</td>
+</tr>
+<tr class="odd">
+<td>v16.0 (O365)</td>
+<td>O365SmallBusPremRetail</td>
+<td>HN8JP-87TQJ-PBF3P-Y66KC-W2K9V</td>
+<td>Subscription1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Notes:</strong></p>
+<ul>
+<li><p>For the O365 subscription version, you can’t get server side O365
+specific features such as 1TB storage in Onedrive. However, almost all
+other features and 5GB storage in free onedrive account would work
+fine.</p></li>
+<li><p>Script doesn’t convert any product to Volume or vice-versa. All
+products are activated with their own licence.</p></li>
+</ul>
+<hr />
+</div>
+<div id="unsupported-products" class="section level2">
+<h2>Unsupported Products</h2>
+<ul>
+<li><p>Office on Windows 7 and their Server equivalent</p></li>
+<li><p>Office 2010</p></li>
+<li><p>Office UWP (Store apps)</p></li>
+</ul>
+<hr />
+</div>
+<div id="how-to-remove-ohook" class="section level2">
+<h2>How to remove Ohook?</h2>
+<ul>
+<li><p>In MAS, goto Ohook Activation and apply Uninstall
+option.</p></li>
+<li><p>Done.</p></li>
+</ul>
+<hr />
+</div>
+<div id="custom-sppc.dll-info" class="section level2">
+<h2>Custom sppc.dll Info</h2>
+<ul>
+<li><p>Custom sppc.dll source code is available at <a
+href="https://github.com/asdcorp/ohook"
+class="uri">https://github.com/asdcorp/ohook</a></p></li>
+<li><p>SHA-256 checksums:</p></li>
+</ul>
+<pre><code>C6DF24DEEF2E83813DEE9C81DDD9793A3D60C117A4E8E231B82E32B3192927E7 *sppc64.dll
+E6AC83560C19EC7EB868C50EA97EA0ED5632A397A9F43C17E24E6DE4A694D118 *sppc32.dll</code></pre>
+<ul>
+<li>In MAS separate files version, these files are located in
+<code>Ohook_Activation\BIN</code> folder and in MAS AIO version, these 2
+files are encoded in base64 to make MAS AIO version. In AIO script, <a
+href="https://stackoverflow.com/a/35335273">instructions</a> are
+mentioned on how to decode files from Base64 format.</li>
+</ul>
+<p><strong>How to create identical sppc.dll files from
+scratch?</strong></p>
+<ul>
+<li><p>Download ohook 0.3 source code file from <a
+href="https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip">here</a></p></li>
+<li><p>Extract this zip file to a folder named
+<code>C:\ohook</code></p></li>
+<li><p>Now download these two compiler archives, <a
+href="https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z">mingw32</a>
+and <a
+href="https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z">mingw64</a></p></li>
+<li><p>Extract both archives with 7-zip in C drive, so that path would
+look like this,</p>
+<p><code>C:\mingw32</code><br />
+<code>C:\mingw64</code></p></li>
+<li><p>Open Powershell as admin and enter below command to set the time
+and date,<br />
+<br />
+<code>Set-TimeZone -Id 'UTC'; $date=[datetime]'2023/8/7 12:00';while($true){set-date $date; start-sleep -milliseconds 10;}</code></p></li>
+<li><p>Now open another Windows for Powershell and enter below command
+to create sppc.dll files,<br />
+<br />
+<code>Set-Location -Path C:\ohook</code><br />
+<code>C:\mingw64\bin\mingw32-make.exe</code></p></li>
+<li><p>Calculate the SHA-256 of the created sppc64.dll and sppc32.dll
+files using 7-zip or Powershell, it would be same as mentioned
+above.</p></li>
+<li><p>Done, you can now close that powershell window and correct the
+date now.</p></li>
+</ul>
+<hr />
+</div>
+<div id="manual-activation" class="section level2">
+<h2>Manual Activation</h2>
+<p>This is for those who wants to perform manual activation. If you want
+a tool to do this for you then check <a
+href="https://massgrave.dev/index.html">here</a>.</p>
+<ul>
+<li><p>These steps are listed for Office 16.0 (2016, 2019, 2021, O365)
+C2R x64 bit on Windows x64 bit version.</p></li>
+<li><p>Download ohook sppc.dll files from <a
+href="https://github.com/asdcorp/ohook/releases/download/0.3/ohook_0.3.zip">here</a>
+or create sppc.dll files from scratch as per the above
+instructions.</p></li>
+<li><p>Extract this zip file to a folder named
+<code>C:\ohook</code></p></li>
+<li><p>Open command prompt as admin and enter below command to create a
+symlink of the system sppc.dll in the Office C2R System directory as
+sppcs.dll,</p>
+<p><code>mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"</code></p></li>
+<li><p>Now enter below command to copy the hook library as sppc.dll to
+the Office C2R system directory,<br />
+<br />
+<code>cd /d C:\ohook</code><br />
+<code>copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"</code></p></li>
+<li><p>Some O365 editions check the license status and show the banner
+“There was a problem checking this device’s license status”. To stop
+this, enter below command,<br />
+<br />
+<code>reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2033-08-18T22:18:45Z" /f</code></p></li>
+<li><p>Enter the key, (Replace &lt;key&gt; with the key from the above
+list) with the following command,</p>
+<p><code>slmgr /ipk &lt;key&gt;</code></p></li>
+<li><p>Done.</p></li>
+</ul>
+<hr />
+</div>
+<div id="command-line-switches" class="section level2">
+<h2>Command line Switches</h2>
+<ul>
+<li>Check <a href="command_line_switches.html">here</a>.</li>
+</ul>
+<hr />
+</div>
+<div id="setup-preactivate" class="section level2">
+<h2>Setup Preactivate</h2>
+<ul>
+<li><p>Check the Extract OEM option in the MAS <code>Extras</code>
+section if you want pre-activated Windows installation.</p></li>
+<li><p>Further read <a href="oem-folder.html">here</a>.</p></li>
+</ul>
+<hr />
+</div>
+<div id="troubleshooting" class="section level2">
+<h2>Troubleshooting</h2>
+<ul>
+<li>Check <a href="troubleshoot.html">here</a>.</li>
+</ul>
+</div>
+</div>
+
+<script type="text/javascript" src="links.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

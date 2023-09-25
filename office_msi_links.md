@@ -16,7 +16,7 @@ All download links leads to genuine files only.
 
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine. Office 2010, 2013, 2016 MSI VL files were released on VLSC only so you may find it hard to find checksums for them. You can download SHA-1 hashes list from [here](https://pixeldrain.com/u/UcxBns92) for all below listed Office versions.
 
--   You can activate all below listed 2010/2013/2016 Office files with Online KMS option in MAS. To activate below listed Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
+-   You can activate all below listed 2010/2013/2016 Office files with Online KMS option and 2013/2016 with Ohook option in MAS. To activate below listed Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 
 -   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 

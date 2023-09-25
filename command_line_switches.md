@@ -12,28 +12,29 @@ pagetitle: Command Line Switches
 
 -   If you want to use it in Windows Pre-Activation then check [this](oem-folder.html) page for more details.
 
-| Switches                  | Meaning                                                  |
-|--------------------------|----------------------------------------------|
-| `/HWID`                   | Activate with HWID                                       |
-| `/HWID-NoEditionChange`   | Don't change edition if not supported by HWID            |
-|                           |                                                          |
-| `/KMS38`                  | Activate with KMS38                                      |
-| `/KMS38-RemoveProtection` | Remove KMS38 protection                                  |
-| `/KMS38-NoEditionChange`  | Don't change edition if not supported by KMS38           |
-|                           |                                                          |
-| `/KMS-Windows`            | Activate Windows with Online KMS                         |
-| `/KMS-Office`             | Activate Office with Online KMS                          |
-| `/KMS-WindowsOffice`      | Activate Windows & Office with Online KMS                |
-| `/KMS-RenewalTask`        | Install Online KMS renewal task                          |
-| `/KMS-ActAndRenewalTask`  | Install Online KMS activation & renewal tasks (Use this) |
-| `/KMS-Uninstall`          | Uninstall Online KMS                                     |
-| `/KMS-KeepvNext`          | Don't override Office C2R vNext license                  |
-| `/KMS-Debug`              | Create Debug log in Online KMS Activation                |
-| `/KMS-Logger`             | Create simple log in Online KMS Activation               |
-|                           |                                                          |
-| `/Insert-HWID-Key`        | Insert Windows HWID key                                  |
-|                           |                                                          |
-| `/S`                      | Run operations in silent mode (no output)                |
+| Switches                  | Meaning                                                                                                                                                                                                             |
+|-----------------------|----------------------------------------------|
+| `/HWID`                   | Activate with HWID                                                                                                                                                                                                  |
+| `/HWID-NoEditionChange`   | Some editions don't support HWID, script by default change edition to nearest available to enable HWID activation. This switch can be used to stop this change. You don't need to add `/HWID` switch with this.     |
+|                           |                                                                                                                                                                                                                     |
+| `/Ohook`                  | Install Ohook to activate Office                                                                                                                                                                                    |
+| `/Ohook-Uninstall`        | Uninstall Ohook                                                                                                                                                                                                     |
+|                           |                                                                                                                                                                                                                     |
+| `/KMS38`                  | Activate with KMS38                                                                                                                                                                                                 |
+| `/KMS38-RemoveProtection` | Remove KMS38 protection                                                                                                                                                                                             |
+| `/KMS38-NoEditionChange`  | Some editions don't support KMS38, script by default change edition to nearest available to enable KMS38 activation. This switch can be used to stop this change. You don't need to add `/KMS38` switch with this.  |
+|                           |                                                                                                                                                                                                                     |
+| `/KMS-Windows`            | Activate Windows with Online KMS                                                                                                                                                                                    |
+| `/KMS-Office`             | Activate Office with Online KMS                                                                                                                                                                                     |
+| `/KMS-WindowsOffice`      | Activate Windows & Office with Online KMS                                                                                                                                                                           |
+| `/KMS-RenewalTask`        | Install Online KMS renewal task                                                                                                                                                                                     |
+| `/KMS-ActAndRenewalTask`  | Install Online KMS activation & renewal tasks (Recommended)                                                                                                                                                         |
+| `/KMS-Uninstall`          | Uninstall Online KMS                                                                                                                                                                                                |
+| `/KMS-KeepvNext`          | Don't override Office C2R vNext license                                                                                                                                                                             |
+| `/KMS-Debug`              | Create Debug log in Online KMS Activation                                                                                                                                                                           |
+| `/KMS-Logger`             | Create simple log in Online KMS Activation                                                                                                                                                                          |
+|                           |                                                                                                                                                                                                                     |
+| `/S`                      | Run operations in silent mode (no output)                                                                                                                                                                           |
 
 ------------------------------------------------------------------------
 

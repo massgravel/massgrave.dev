@@ -340,6 +340,9 @@ div.tocify {
       <a href="hwid.html">HWID Activation</a>
     </li>
     <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
       <a href="kms38.html">KMS38 Activation</a>
     </li>
     <li>
@@ -359,9 +362,6 @@ div.tocify {
     </li>
     <li>
       <a href="change_edition.html">Change Edition</a>
-    </li>
-    <li>
-      <a href="install_hwid_key.html">Install HWID Key</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -427,10 +427,14 @@ contact.</p></li>
 <li><p>You can check <a href="index.html">here</a> about activation
 method details and select the activation method as per your
 requirement.</p></li>
-<li><p>On Windows 8 and later, running setupcomplete.cmd is disabled if
-the default installed key for the edition is OEM Channel. For example -
-Preactivation won’t work for Windows 10 Iot Enterprise because installed
-key is of OEM channel.</p></li>
+<li><p>On Windows 8 and later, <strong>running setupcomplete.cmd is
+disabled</strong> if the default installed key for the edition is OEM
+Channel.<br />
+For example - Preactivation won’t work for Windows 10 Iot Enterprise
+LTSC because installed key is of OEM channel.<br />
+The <strong>solution</strong> for this issue is to use (Non-Iot) Windows
+10 Enterprise LTSC ISO and HWID method in preactivation will use Iot
+LTSC key to change the edition.</p></li>
 </ul>
 <hr />
 </div>
@@ -469,6 +473,15 @@ first time.</li>
 </ul>
 <hr />
 </div>
+<div id="ohook" class="section level2">
+<h2>Ohook</h2>
+<ul>
+<li>If Office is preinstalled then Ohook method will activate the Office
+immediately without Internet. This activation uses custom sppc.dll file
+for the activation.</li>
+</ul>
+<hr />
+</div>
 <div id="kms38" class="section level2">
 <h2>KMS38</h2>
 <ul>
@@ -481,9 +494,19 @@ Internet.</li>
 <div id="online-kms" class="section level2">
 <h2>Online KMS</h2>
 <ul>
-<li>When using Online KMS activation, Windows and Office both will be
-activated when connected to the internet for the first time. This option
-uses a renewal task for lifetime activation.</li>
+<li>When using Online KMS activation, Windows-Server and Office
+(Preinstalled) both will be activated when connected to the internet for
+the first time. This option uses a renewal task for lifetime
+activation.</li>
+</ul>
+<hr />
+</div>
+<div id="hwid-ohook" class="section level2">
+<h2>HWID + Ohook</h2>
+<ul>
+<li>In this method, Windows 10-11 will be activated with HWID, and
+<strong>Office</strong> (Preinstalled) will be activated using
+Ohook.</li>
 </ul>
 <hr />
 </div>
@@ -491,7 +514,17 @@ uses a renewal task for lifetime activation.</li>
 <h2>HWID + Online KMS</h2>
 <ul>
 <li>In this method, Windows 10-11 will be activated with HWID, and
-<strong>Office</strong> will be activated using Online KMS.</li>
+<strong>Office</strong> (Preinstalled) will be activated using Online
+KMS.</li>
+</ul>
+<hr />
+</div>
+<div id="kms38-ohook" class="section level2">
+<h2>KMS38 + Ohook</h2>
+<ul>
+<li>In this method, Windows 10-11-Server will be activated with KMS38,
+and <strong>Office</strong> (Preinstalled) will be activated using
+Ohook.</li>
 </ul>
 <hr />
 </div>
@@ -499,8 +532,19 @@ uses a renewal task for lifetime activation.</li>
 <h2>KMS38 + Online KMS</h2>
 <ul>
 <li>In this method, Windows 10-11-Server will be activated with KMS38,
-and <strong>Office</strong> will be activated using Online KMS.</li>
+and <strong>Office</strong> (Preinstalled) will be activated using
+Online KMS.</li>
 </ul>
+<hr />
+</div>
+<div id="online-kms-ohook" class="section level2">
+<h2>Online KMS + Ohook</h2>
+<ul>
+<li>In this method, Windows-Server will be activated with Online KMS,
+and <strong>Office</strong> (Preinstalled) will be activated using
+Ohook.</li>
+</ul>
+<hr />
 </div>
 </div>
 

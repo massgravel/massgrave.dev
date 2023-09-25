@@ -340,6 +340,9 @@ div.tocify {
       <a href="hwid.html">HWID Activation</a>
     </li>
     <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
       <a href="kms38.html">KMS38 Activation</a>
     </li>
     <li>
@@ -359,9 +362,6 @@ div.tocify {
     </li>
     <li>
       <a href="change_edition.html">Change Edition</a>
-    </li>
-    <li>
-      <a href="install_hwid_key.html">Install HWID Key</a>
     </li>
     <li class="divider"></li>
     <li>
@@ -412,10 +412,10 @@ div.tocify {
 <li><p>You can find this option in the MAS extras section.</p></li>
 <li><p>It can change the Windows 7-8-8.1-10-11 and equivalent Server
 Editions.</p></li>
-<li><p>Script incorporates 4 methods for edition change:<br />
-</p>
+<li><p>Script incorporates 4 methods for edition change:</p>
 <ul>
-<li>Changepk.exe Method<br />
+<li>Alex (aka may, ave9858) DISM Api Method (Based on changepk.exe
+method but better)<br />
 </li>
 <li>slmgr /ipk Method<br />
 </li>
@@ -429,12 +429,9 @@ all these 4 options.</p></li>
 <li><p>The script is future proof, which means on the release of new
 Windows / Server editions, the script doesn’t need an update and can get
 the required key from the system itself.</p></li>
-<li><p>Script blocks the change to/from CountrySpecific and CloudEdition
-editions since it’s officially not supported and the user may face
-issues.</p></li>
-<li><p>Internet needs to be turned off and a restart is required while
-changing from Core (Home) to Non-Core (Pro, Enterprise, etc) edition
-with Changepk.exe method.</p></li>
+<li><p>Script blocks the change to CountrySpecific and to/from
+CloudEdition editions since it’s officially not supported and the user
+may face issues.</p></li>
 <li><p>The script can not change the Non-Core (Pro, Enterprise, etc) to
 Core (Home) edition.</p></li>
 </ul>
