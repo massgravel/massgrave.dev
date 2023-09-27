@@ -33,6 +33,8 @@ Last Release - v2.0 (25-Sep-2023)\
 
 ------------------------------------------------------------------------
 
+**Note: Microsoft servers are currently rejecting HWID activation requests when activating through MAS, we're checking what's going on now. Use the KMS38 activation option for now.**
+
 ## Download / How to use it?
 
 ### Method 1 - PowerShell
@@ -61,7 +63,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                    |
-|:-----------------|:-------------------|:---------------------------------|
+|:----------------|:---------------------|:-------------------------------------|
 | HWID            | Windows 10-11        | Permanent                            |
 | Ohook           | Office               | Permanent                            |
 | KMS38           | Windows 10-11-Server | Till the Year 2038                   |
