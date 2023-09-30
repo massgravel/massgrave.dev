@@ -49,15 +49,15 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v15.0 (2013)   | GrooveRetail                    | BMK4W-6N88B-BP9QR-PHFCK-MG7GF | Retail        |
 | v15.0 (2013)   | GrooveVolume                    | RN84D-7HCWY-FTCBK-JMXWM-HT7GJ | MAK           |
 | v15.0 (2013)   | HomeBusinessPipcRetail          | 2WQNF-GBK4B-XVG6F-BBMX7-M4F2Y | OEM-Perp      |
-| v15.0 (2013)   | HomeBusinessRetail              | NVTDK-QB8J9-M28GR-92BPC-BR96Q | Retail        |
-| v15.0 (2013)   | HomeStudentRetail               | R29WQ-CMNCM-2THCT-K4H92-FX6KR | Retail        |
+| v15.0 (2013)   | HomeBusinessRetail              | YWD4R-CNKVT-VG8VJ-9333B-RCW9F | Subscription  |
+| v15.0 (2013)   | HomeStudentRetail               | 6WW3N-BDGM9-PCCHD-9QPP9-P34QG | Subscription  |
 | v15.0 (2013)   | InfoPathRetail                  | RV7NQ-HY3WW-7CKWH-QTVMW-29VHC | Retail        |
 | v15.0 (2013)   | InfoPathVolume                  | C4TGN-QQW6Y-FYKXC-6WJW7-X73VG | MAK           |
 | v15.0 (2013)   | LyncAcademicRetail              | 6MDN4-WF3FV-4WH3Q-W699V-RGCMY | PrepidBypass  |
 | v15.0 (2013)   | LyncEntryRetail                 | N42BF-CBY9F-W2C7R-X397X-DYFQW | PrepidBypass  |
 | v15.0 (2013)   | LyncRetail                      | 89P23-2NK2R-JXM2M-3Q8R8-BWM3Y | Retail        |
 | v15.0 (2013)   | LyncVolume                      | 3WKCD-RN489-4M7XJ-GJ2GQ-YBFQ6 | MAK           |
-| v15.0 (2013)   | MondoRetail                     | YYHXG-KTNKF-XGRT7-H299D-8K6MM | Retail        |
+| v15.0 (2013)   | MondoRetail                     | VNWHF-FKFBW-Q2RGD-HYHWF-R3HH2 | Subscription  |
 | v15.0 (2013)   | MondoVolume                     | 2YNYQ-FQMVG-CB8KW-6XKYD-M7RRJ | MAK           |
 | v15.0 (2013)   | OneNoteFreeRetail               | 4TGWV-6N9P6-G2H8Y-2HWKB-B4FF4 | Bypass        |
 | v15.0 (2013)   | OneNoteRetail                   | 3KXXQ-PVN2C-8P7YY-HCV88-GVGQ6 | Retail        |
@@ -72,25 +72,25 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v15.0 (2013)   | ProPlusVolume                   | QKHNX-M9GGH-T3QMW-YPK4Q-QRP9V | MAK           |
 | v15.0 (2013)   | ProfessionalPipcRetail          | CF9DD-6CNW2-BJWJQ-CVCFX-Y7TXD | OEM-Perp      |
 | v15.0 (2013)   | ProfessionalRetail              | MBQBN-CQPT6-PXRMC-TYJFR-3C8MY | Retail        |
-| v15.0 (2013)   | ProjectProRetail                | B4RN4-H4JYG-YMQMC-CYGKH-46WPH | Retail        |
+| v15.0 (2013)   | ProjectProRetail                | WPY8N-PDPY4-FC7TF-KMP7P-KWYFY | Subscription  |
 | v15.0 (2013)   | ProjectProVolume                | WFCT2-NBFQ7-JD7VV-MFJX6-6F2CM | MAK           |
-| v15.0 (2013)   | ProjectStdRetail                | 2B96V-X9NJY-WFBRC-Q8MP2-7CCC4 | Retail        |
+| v15.0 (2013)   | ProjectStdRetail                | NTHQT-VKK6W-BRB87-HV346-Y96W8 | Subscription  |
 | v15.0 (2013)   | ProjectStdVolume                | 3CNQX-T34TY-99RH4-C4YD2-KWYGV | MAK           |
 | v15.0 (2013)   | PublisherRetail                 | TWNCJ-YR84W-X7PPF-6DPRP-D67VC | Retail        |
 | v15.0 (2013)   | PublisherVolume                 | DJPHV-NCJV6-GWPT6-K26JX-C7GX6 | MAK           |
 | v15.0 (2013)   | SPDRetail                       | 3NY6J-WHT3F-47BDV-JHF36-2343W | PrepidBypass  |
 | v15.0 (2013)   | StandardRetail                  | V6VWN-KC2HR-YYDD6-9V7HQ-7T7VP | Retail        |
 | v15.0 (2013)   | StandardVolume                  | 9TN6B-PCYH4-MCVDQ-KT83C-TMQ7T | MAK           |
-| v15.0 (2013)   | VisioProRetail                  | JRJNJ-33M7C-R73X3-P9XF7-R89MY | Retail        |
+| v15.0 (2013)   | VisioProRetail                  | NVK2G-2MY4G-7JX2P-7D6F2-VFQBR | Subscription  |
 | v15.0 (2013)   | VisioProVolume                  | YN7CF-XRH6R-CGKRY-GKPV3-BG7WF | MAK           |
-| v15.0 (2013)   | VisioStdRetail                  | G2N2Q-4QD2T-DY4TP-GY489-3RQCG | Retail        |
+| v15.0 (2013)   | VisioStdRetail                  | NCRB7-VP48F-43FYY-62P3R-367WK | Subscription  |
 | v15.0 (2013)   | VisioStdVolume                  | RX63Y-4NFK2-XTYC8-C6B3W-YPXPJ | MAK           |
 | v15.0 (2013)   | WordRetail                      | NB77V-RPFQ6-PMMKQ-T87DV-M4D84 | Retail        |
 | v15.0 (2013)   | WordVolume                      | RPHPB-Y7NC4-3VYFM-DW7VD-G8YJ8 | MAK           |
-| v15.0 (O365)   | O365BusinessRetail              | JXR8H-NJ3MK-X66W8-78CWD-QRQ6C | Retail        |
+| v15.0 (O365)   | O365BusinessRetail              | 2P3C9-BQNJH-VCVPH-YDY6M-43JPQ | Subscription  |
 | v15.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
-| v15.0 (O365)   | O365ProPlusRetail               | T6JJW-DYN99-WK46B-9MKKV-94P2Y | Retail        |
-| v15.0 (O365)   | O365SmallBusPremRetail          | B9V9Q-F6ND8-T4K4K-8868M-HT7KT | Retail        |
+| v15.0 (O365)   | O365ProPlusRetail               | 2N382-D6PKK-QTX4D-2JJYK-M96P2 | Subscription1 |
+| v15.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
 | v16.0 (2016)   | AccessRetail                    | WHK4N-YQGHB-XWXCC-G3HYC-6JF94 | Retail        |
 | v16.0 (2016)   | AccessRuntimeRetail             | RNB7V-P48F4-3FYY6-2P3R3-63BQV | PrepidBypass  |
 | v16.0 (2016)   | AccessVolume                    | JJ2Y4-N8KM3-Y8KY3-Y22FR-R3KVK | MAK           |
@@ -100,7 +100,7 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2016)   | HomeBusinessRetail              | HM6FM-NVF78-KV9PM-F36B8-D9MXD | Retail        |
 | v16.0 (2016)   | HomeStudentRetail               | PNPRV-F2627-Q8JVC-3DGR9-WTYRK | Retail        |
 | v16.0 (2016)   | HomeStudentVNextRetail          | YWD4R-CNKVT-VG8VJ-9333B-RC3B8 | Retail        |
-| v16.0 (2016)   | MondoRetail                     | Y3XPN-P7PC4-MGPTJ-2BY3Q-RJRFV | Retail        |
+| v16.0 (2016)   | MondoRetail                     | VNWHF-FKFBW-Q2RGD-HYHWF-R3HH2 | Subscription  |
 | v16.0 (2016)   | MondoVolume                     | FMTQQ-84NR8-2744R-MXF4P-PGYR3 | MAK           |
 | v16.0 (2016)   | OneNoteFreeRetail               | XYNTG-R96FY-369HX-YFPHY-F9CPM | Bypass        |
 | v16.0 (2016)   | OneNoteRetail                   | FXF6F-CNC26-W643C-K6KB7-6XXW3 | Retail        |
@@ -115,10 +115,10 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2016)   | ProPlusVolume                   | FNVK8-8DVCJ-F7X3J-KGVQB-RC2QY | MAK           |
 | v16.0 (2016)   | ProfessionalPipcRetail          | CF9DD-6CNW2-BJWJQ-CVCFX-Y7TXD | OEM-Perp      |
 | v16.0 (2016)   | ProfessionalRetail              | NXFTK-YD9Y7-X9MMJ-9BWM6-J2QVH | Retail        |
-| v16.0 (2016)   | ProjectProRetail                | WKKGF-TTN8F-QC9T2-6C2DC-3YH63 | Retail        |
+| v16.0 (2016)   | ProjectProRetail                | WPY8N-PDPY4-FC7TF-KMP7P-KWYFY | Subscription  |
 | v16.0 (2016)   | ProjectProVolume                | PKC3N-8F99H-28MVY-J4RYY-CWGDH | MAK           |
 | v16.0 (2016)   | ProjectProXVolume               | JBNPH-YF2F7-Q9Y29-86CTG-C9YGV | MAKC2R        |
-| v16.0 (2016)   | ProjectStdRetail                | 4H6NF-QDPG8-83W97-9K8XY-XBT9Y | Retail        |
+| v16.0 (2016)   | ProjectStdRetail                | NTHQT-VKK6W-BRB87-HV346-Y96W8 | Subscription  |
 | v16.0 (2016)   | ProjectStdVolume                | 4TGWV-6N9P6-G2H8Y-2HWKB-B4G93 | MAK           |
 | v16.0 (2016)   | ProjectStdXVolume               | N3W2Q-69MBT-27RD9-BH8V3-JT2C8 | MAKC2R        |
 | v16.0 (2016)   | PublisherRetail                 | WKWND-X6G9G-CDMTV-CPGYJ-6MVBF | Retail        |
@@ -129,10 +129,10 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2016)   | SkypeforBusinessVolume          | DMTCJ-KNRKR-JV8TQ-V2CR2-VFTFH | MAK           |
 | v16.0 (2016)   | StandardRetail                  | 2FPWN-4H6CM-KD8QQ-8HCHC-P9XYW | Retail        |
 | v16.0 (2016)   | StandardVolume                  | WHGMQ-JNMGT-MDQVF-WDR69-KQBWC | MAK           |
-| v16.0 (2016)   | VisioProRetail                  | 7TM6H-KNR4K-Q7HBX-72T2Q-H22RV | Retail        |
+| v16.0 (2016)   | VisioProRetail                  | NVK2G-2MY4G-7JX2P-7D6F2-VFQBR | Subscription  |
 | v16.0 (2016)   | VisioProVolume                  | NRKT9-C8GP2-XDYXQ-YW72K-MG92B | MAK           |
 | v16.0 (2016)   | VisioProXVolume                 | G98Q2-B6N77-CFH9J-K824G-XQCC4 | MAKC2R        |
-| v16.0 (2016)   | VisioStdRetail                  | Q8R4N-GJCPG-CF32R-JFCYR-K4TF3 | Retail        |
+| v16.0 (2016)   | VisioStdRetail                  | NCRB7-VP48F-43FYY-62P3R-367WK | Subscription  |
 | v16.0 (2016)   | VisioStdVolume                  | XNCJB-YY883-JRW64-DPXMX-JXCR6 | MAK           |
 | v16.0 (2016)   | VisioStdXVolume                 | B2HTN-JPH8C-J6Y6V-HCHKB-43MGT | MAKC2R        |
 | v16.0 (2016)   | WordRetail                      | P8K82-NQ7GG-JKY8T-6VHVY-88GGD | Retail        |
@@ -173,8 +173,8 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2021)   | Access2021Volume                | JBH3N-P97FP-FRTJD-MGK2C-VFWG6 | MAK-AE        |
 | v16.0 (2021)   | Excel2021Retail                 | V6QFB-7N7G9-PF7W9-M8FQM-MY8G9 | Retail        |
 | v16.0 (2021)   | Excel2021Volume                 | WNYR4-KMR9H-KVC8W-7HJ8B-K79DQ | MAK-AE        |
-| v16.0 (2021)   | HomeBusiness2021Retail          | QV2VN-37WPX-DHH4K-B82H6-PDP3T | Retail1       |
-| v16.0 (2021)   | HomeStudent2021Retail           | 3QNG6-8FJTH-88BF9-KBBVM-JMB78 | Retail        |
+| v16.0 (2021)   | HomeBusiness2021Retail          | JM99N-4MMD8-DQCGJ-VMYFY-R63YK | Subscription  |
+| v16.0 (2021)   | HomeStudent2021Retail           | N3CWD-38XVH-KRX2Y-YRP74-6RBB2 | Subscription  |
 | v16.0 (2021)   | OneNote2021Retail               | NB2TQ-3Y79C-77C6M-QMY7H-7QY8P | Retail        |
 | v16.0 (2021)   | Outlook2021Retail               | 4NCWR-9V92Y-34VB2-RPTHR-YTGR7 | Retail        |
 | v16.0 (2021)   | Outlook2021Volume               | JQ9MJ-QYN6B-67PX9-GYFVY-QJ6TB | MAK-AE        |
@@ -213,6 +213,8 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 -   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
 
 -   Script doesn't convert any product to Volume or vice-versa. All products are activated with their own licence.
+
+-   Key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
 
 ------------------------------------------------------------------------
 

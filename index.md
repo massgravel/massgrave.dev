@@ -28,12 +28,13 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ## MAS Latest Release
 
-Last Release - v2.0 (25-Sep-2023)\
+Last Release - v2.1 (30-Sep-2023)\
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
 
-**Note: Microsoft servers are currently rejecting HWID activation requests when activating through MAS, we're checking what's going on now. Use the KMS38 activation option for now.**
+**Note: HWID Activation is not working, use KMS38 option for now\
+**HWID activation is not working because of server-side changes at Microsoft. Use the KMS38 option for now. Your previously established HWID is safe. This happened because of [recent change](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) to not allow Windows 7/8 free upgrades.
 
 ## Download / How to use it?
 
@@ -62,12 +63,12 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 
 ## Activations Summary
 
-| Activation Type | Supported Product    | Activation Period                    |
-|:----------------|:---------------------|:-------------------------------------|
-| HWID            | Windows 10-11        | Permanent                            |
-| Ohook           | Office               | Permanent                            |
-| KMS38           | Windows 10-11-Server | Till the Year 2038                   |
-| Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task |
+| Activation Type    | Supported Product    | Activation Period                    |
+|:-----------------|:-------------------|:---------------------------------|
+| HWID (Not working) | Windows 10-11        | Permanent                            |
+| Ohook              | Office               | Permanent                            |
+| KMS38              | Windows 10-11-Server | Till the Year 2038                   |
+| Online KMS         | Windows / Office     | 180 Days. Lifetime With Renewal Task |
 
 For more details, use the respective activation details in Doc.
 
