@@ -59,11 +59,9 @@ pagetitle: KMS38 Activation
 | Enterprise N                                    | `DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4` |
 | Enterprise G                                    | `YYVX9-NTFWV-6MDM3-9PT4T-4M68B` |
 | Enterprise G N                                  | `44RPN-FTY23-9VTTB-MP9BX-T84FV` |
-| Enterprise LTSB 2015                            | `WNMTR-4C88C-JK8YV-HQ7T2-76DF9` |
 | Enterprise LTSB 2016                            | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
 | Enterprise LTSC 2019                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
 | Enterprise LTSC 2021                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
-| Enterprise N LTSB 2015                          | `2F77B-TNFGY-69QQF-B8YKP-D69TJ` |
 | Enterprise N LTSB 2016                          | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
 | Enterprise N LTSC 2019                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
 | Enterprise N LTSC 2021                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |

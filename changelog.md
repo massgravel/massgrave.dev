@@ -6,6 +6,24 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.1
+
+**HWID Activation is not working**
+
+------------------------------------------------------------------------
+
+#### HWID:
+
+-   Added info for activation not working issue.\
+    It's not working because of server-side changes at Microsoft. Use the KMS38 option for now. Your previously established HWID is safe. This happened because of [recent change](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) to not allow Windows 7/8 free upgrades.
+
+#### Ohook:
+
+-   Change the key preference for Office products in this order `Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK`
+-   Fixed a few bugs
+
+------------------------------------------------------------------------
+
 ## 2.0
 
 -   Minor update: Add info in check activation scripts to ignore ospp.vbs /dstatus results if Ohook install is found.
