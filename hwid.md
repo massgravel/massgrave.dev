@@ -8,8 +8,7 @@ pagetitle: HWID Activation
 
 ## Overview
 
--   **Note: HWID Activation is not working\
-    **HWID activation is not working because of server-side changes at Microsoft. Use the KMS38 option for now. Your previously established HWID is safe. This happened because of [recent change](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) to not allow Windows 7/8 free upgrades.
+**Note: HWID Activation is working again with a new method.**
 
 ------------------------------------------------------------------------
 
@@ -39,9 +38,13 @@ pagetitle: HWID Activation
 
 ------------------------------------------------------------------------
 
+## HWID History
+
 ## How does it work?
 
--   In the official upgrade process from Windows 7 to Windows 10, Microsoft provides an HWID (digital license) activation for Windows 10 without any cost.
+#### HWID 1 (Now defunct) (Summer of 2018 - Sep 26 2023)
+
+-   In the official upgrade process from Windows 7 to Windows 10, Microsoft provided an HWID (digital license) activation for Windows 10 without any cost.
 
 -   In the background, the upgrade process runs a file named gatherosstate.exe (available in Windows 10/11 ISO) and it checks the license of current Windows if found activated, it generates a valid GenuineTicket.xml **ticket** which is sent to Microsoft and in return, MS authorizes a license.
 
@@ -51,33 +54,23 @@ pagetitle: HWID Activation
     There are two methods for it.\
     \
     **1-** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file beside gatherosstate.exe:\
-    gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather the system's info. If we place a custom slc.dll file beside gatherosstate.exe which can send the rubbish data to it, then it will simply accept it and generate a valid ticket.\
+    gatherosstate.exe uses the system\'s `C:\Windows\System32\slc.dll` file to gather the system\'s info. If we place a custom slc.dll file beside gatherosstate.exe which can send the rubbish data to it, then it will simply accept it and generate a valid ticket.\
     \
-    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file itself so that it doesn't check the system's activation status and can directly create a valid ticket.
+    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file itself so that it doesn\'t check the system\'s activation status and can directly create a valid ticket.
 
--   **Notes:**
+-   You can find working of this old method here [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods).
 
-    -   To be clear, we are **not modifying/patching any on-board system file** to get digital license. Gatherosstate.exe is a part of ISO file and not available in C drive system files. System's slc.dll file is not touched, instead we use custom slc.dll only for a brief moment of ticket generation.
-    -   If you want to understand more about how these above mentioned both methods then check this repo [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods)
-    -   Latest MAS doesn't use any of these methods, instead it uses ready to use Universal tickets (check below for info).
+-   Microsoft [made](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) server side changes to to block the free upgrade and with that server side change, this method stopped working. To be clear, only new activation requests coming from new hardware was blocked, already established HWID are fine.
+
+#### HWID 2 (Currently working) (03 Oct 2023 - Current)
+
+-   When Microsoft stopped the free upgrade, it started requiring Genuine valid key in ticket to authorize a digital license. In the new method we used only the Installation ID of a genuine, valid key. This gets accepted by the server and allows us to get a digital license for free. Check manual activation process in below section to know how to make working universal tickets.
 
 ------------------------------------------------------------------------
 
-## Types of Tickets
-
-There are many methods for ticket generation, majorly we can classify the ticket types in 3 categories.
-
-1.  **Downlevel Ticket** - This is the simplest ticket generation process. In this method, ticket is signed by downlevel key by the system and the ticket's OSVersion is =\<10. If it's generated on Windows 10/11 then MS ideally aren't supposed to grant activation, however they do and method is continuously working from last 4-5 years. Almost every HWID activator (at the time of writing this) is based on this method.
-
-2.  **Lockbox Ticket** - This is slightly a trickier method. The ticket is signed by Lockbox key by the system and the ticket's OSVersion is 10. This ticket generation process involves cleaning Clipsvc licenses and IdentityCRL registry key in the system. Due to some hiccups in the process, this method is not primarily used in MAS, however these are the types of tickets that are identical to the genuine ticket generated by system on activated Windows 10/11.
-
-3.  **Universal Ticket** - In this method, we set the OSVersion =\<5 in the ticket and when we apply the ticket, system ignores the HWID in the ticket due to lower OSVersion and grant the activation anyway. This ticket can be applied on any system. These tickets can either be Downlevel or Lockbox type. MS ideally aren't supposed to grant activation, however they do.
-
-Latest version of MAS is using Universal ticket method. Other ticket method scripts can be found in this repo [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods)
-
 Now a question, can Microsoft block the new requests or revoke already established HWID license?
 
--   Revoking the license would be too extreme and will face many complications and risk of voiding valid licenses. However maybe they can block the new activation requests coming from Downlevel and Universal tickets. But the tools are working from 4-5 years and they don't seem to care much for consumer piracy; That's not where they get the most money from.
+-   Revoking the license would be too extreme and will face many complications and risk of voiding valid licenses. However they can block the new activation requests for new hardware coming from the methods mentioned here.
 
 ------------------------------------------------------------------------
 
@@ -156,7 +149,7 @@ We can divide the manual activation process into two parts.
 
 `slmgr /ipk <key>`
 
--   Download Universal tickets from [here](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&file_id=f_1171245497490) and extract the downloaded file.
+-   Download Universal tickets from [here](https://pixeldrain.com/u/GbVLtMn6) and extract the downloaded file.
 
 -   Now enter below code in Powershell
 
@@ -288,7 +281,7 @@ $bytes[34377] = 0x63
 ```         
 $value = (Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn
 
-C:\Files\gatherosstatemodified.exe /c Pfn=$value`;DownlevelGenuineState=1
+C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=465145217131314304264339481117862266242033457260311819664735280
 ```
 
 -   A GenuineTicket.xml file should be created in the folder `C:\Files\` now let's apply it.

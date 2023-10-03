@@ -8,8 +8,7 @@ pagetitle: FAQ
 
 ------------------------------------------------------------------------
 
--   **Why HWID Activation is not working?\
-    **HWID activation is not working because of server-side changes at Microsoft. Use the KMS38 option for now. Your previously established HWID is safe. This happened because of [recent change](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) to not allow Windows 7/8 free upgrades.
+**Note: HWID Activation is working again with a new method.**
 
 -   **How to use it?\
     **Check the info [here](index.html#Download__How_to_use_it).
