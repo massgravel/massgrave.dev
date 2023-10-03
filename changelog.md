@@ -6,6 +6,17 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.2
+
+**A New Hope For HWID**
+
+#### HWID:
+
+-   A new method is discovered to activate with HWID. <https://massgrave.dev/hwid.html>\
+    Thanks a lot to the [asdcorp](https://github.com/asdcorp) and team for the discovery.
+
+------------------------------------------------------------------------
+
 ## 2.1
 
 **HWID Activation is not working**
