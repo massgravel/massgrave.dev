@@ -21,7 +21,7 @@ pagetitle: Change Windows Edition
 
 -   The script is future proof, which means on the release of new Windows / Server editions, the script doesn't need an update and can get the required key from the system itself.
 
--   Script blocks the change to CountrySpecific and to/from CloudEdition editions since it's officially not supported and the user may face issues.
+-   Script blocks the change to CountrySpecific, ServerRdsh and to/from CloudEdition editions since it's officially not supported and the user may face issues.
 
 -   The script can not change the Non-Core (Pro, Enterprise, etc) to Core (Home) edition.
 

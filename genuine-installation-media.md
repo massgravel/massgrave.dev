@@ -7,7 +7,7 @@ pagetitle: Genuine Installation Media
 All download links leads to genuine files only.
 
 | **Windows**                               |                                                                                                                                                                               |
-|:-----------------------------|:------------------------------------|
+|:-------------------------------|:---------------------------------------|
 | Windows 11 / 10 / 8.1 (Official Links) ❤️ | [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/) (Works in Russia)                                                                                      |
 | Windows 11                                | [Link](windows_11_links.html)                                                                                                                                                 |
 | Windows 10                                | [Link](windows_10_links.html)                                                                                                                                                 |
@@ -32,7 +32,7 @@ You can contact [here](https://discord.gg/gjJEfq7ux8) if you need any other Wind
 
 -   We can use [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine or not but we must first know the actual checksum of the file.
 
--   Microsoft does not publish a checksums list on public links for their files, however, it's available to paid subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/).
+-   Microsoft publish a checksum list for [Windows 11](https://www.microsoft.com/software-download/windows11) consumer edition. Checksum list for other products is not public and it's available to paid subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/).
 
 -   There are many places where we can find the checksums for Microsoft files and compare them with our files with tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right click on ISO file and goto 7-Zip \> CRC SHA). Below is a list of sites containing checksums.
 

@@ -6,6 +6,29 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.3
+
+**Bug Fixes**
+
+------------------------------------------------------------------------
+
+#### Ohook:
+
+-   Script is updated to use [v0.4 Ohook](https://github.com/asdcorp/ohook/releases). It will help in preventing license check banner in non-admin, Domain joined and future new user accounts.
+-   Script is updated to find and remove remnants of Office vNext license for all user accounts in registry.
+
+#### Change Edition:
+
+-   Script will check for Pending reboot flags before proceeding with Edition change with DISM.
+-   Change to ServerRdsh edition is blocked in the script since it's policies often can not roll back.
+
+#### All:
+
+-   Scripts will now check for updates and notify users.
+-   Some other bugs fixed.
+
+------------------------------------------------------------------------
+
 ## 2.2
 
 **A New Hope For HWID**

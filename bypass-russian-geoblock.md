@@ -52,13 +52,15 @@ It's primarily checking Russian IP address and basis on that above error is show
 
 ### Solution
 
-Open command prompt as admin and enter,
+**1-** Open command prompt as admin and enter,
 
 ```         
 reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "CountryCode" /t REG_SZ /d "std::wstring|US" /f
 ```
 
 After that office installer won't show any such errors. You can apply this before or after running the Office installer and you can download Office without any VPN and with your Russian IP address.
+
+**2-** Use [Offline installer file](office_c2r_links.html) to install Office.
 
 ------------------------------------------------------------------------
 
