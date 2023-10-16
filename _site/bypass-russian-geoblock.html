@@ -451,11 +451,13 @@ still keep showing the error.</p>
 </div>
 <div id="solution-1" class="section level3">
 <h3>Solution</h3>
-<p>Open command prompt as admin and enter,</p>
+<p><strong>1-</strong> Open command prompt as admin and enter,</p>
 <pre><code>reg add &quot;HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs&quot; /v &quot;CountryCode&quot; /t REG_SZ /d &quot;std::wstring|US&quot; /f</code></pre>
 <p>After that office installer won’t show any such errors. You can apply
 this before or after running the Office installer and you can download
 Office without any VPN and with your Russian IP address.</p>
+<p><strong>2-</strong> Use <a href="office_c2r_links.html">Offline
+installer file</a> to install Office.</p>
 <hr />
 <p>Please let us <a href="contactus.html">know</a> if you face any
 issues or have any suggestions.</p>

@@ -41,7 +41,7 @@ pagetitle: Ohook Activation
 TL;DR all kinds of Office products are supported on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
 
 | Office Version | Office Product                  | Generic Key                   | Key Type      |
-|------------|------------------|-----------------------------|------------|
+|------------|------------------|------------------------------|------------|
 | v15.0 (2013)   | AccessRetail                    | B7RFY-7NXPK-Q4342-Y9X2H-3JX4X | Retail        |
 | v15.0 (2013)   | AccessVolume                    | 9MF9G-CN32B-HV7XT-9XJ8T-9KVF4 | MAK           |
 | v15.0 (2013)   | ExcelRetail                     | NT889-MBH4X-8MD4H-X8R2D-WQHF8 | Retail        |
@@ -214,7 +214,7 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 -   Script doesn't convert any product to Volume or vice-versa. All products are activated with their own licence.
 
--   Key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
+-   Key preference is given in this order, Retail:TB:Sub \> Retail \> OEM:NONSLP \> Volume:MAK \> Volume:GVLK
 
 ------------------------------------------------------------------------
 
@@ -225,6 +225,10 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 -   Office 2010
 
 -   Office UWP (Store apps)
+
+**Notes:**
+
+-   Theoretically Office on Windows 7 and Office 2010 can be activated with Ohook but these versions require changing Office registry keys and renaming Office file names, that is why we have not added support for it. We recommend to use KMS activation for them.
 
 ------------------------------------------------------------------------
 
@@ -243,19 +247,19 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 -   SHA-256 checksums:
 
 ```         
-C6DF24DEEF2E83813DEE9C81DDD9793A3D60C117A4E8E231B82E32B3192927E7 *sppc64.dll
-E6AC83560C19EC7EB868C50EA97EA0ED5632A397A9F43C17E24E6DE4A694D118 *sppc32.dll
+0abe025db85d896d5f65b69800229ebd0ca3168d83569d8c77a04c0bcf06097b *sppc64.dll
+0186c259c2aacef59b91003ba9c00b284b806eb87a70b018687189797885ec6a *sppc32.dll
 ```
 
 -   In MAS separate files version, these files are located in `Ohook_Activation\BIN` folder and in MAS AIO version, these 2 files are encoded in base64 to make MAS AIO version. In AIO script, [instructions](https://stackoverflow.com/a/35335273) are mentioned on how to decode files from Base64 format.
 
 **How to create identical sppc.dll files from scratch?**
 
--   Download ohook 0.3 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip)
+-   Download ohook 0.4 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.4.zip)
 
 -   Extract this zip file to a folder named `C:\ohook`
 
--   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z)
+-   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0mcf-16.0.6-11.0.0-ucrt-r1/winlibs-i686-mcf-dwarf-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0mcf-16.0.6-11.0.0-ucrt-r1/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.7z)
 
 -   Extract both archives with 7-zip in C drive, so that path would look like this,
 
@@ -283,7 +287,7 @@ This is for those who wants to perform manual activation. If you want a tool to 
 
 -   These steps are listed for Office 16.0 (2016, 2019, 2021, O365) C2R x64 bit on Windows x64 bit version.
 
--   Download ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases/download/0.3/ohook_0.3.zip) or create sppc.dll files from scratch as per the above instructions.
+-   Download ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases) or create sppc.dll files from scratch as per the above instructions.
 
 -   Extract this zip file to a folder named `C:\ohook`
 
@@ -295,10 +299,6 @@ This is for those who wants to perform manual activation. If you want a tool to 
     \
     `cd /d C:\ohook`\
     `copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"`
-
--   Some O365 editions check the license status and show the banner "There was a problem checking this device's license status". To stop this, enter below command,\
-    \
-    `reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2033-08-18T22:18:45Z" /f`
 
 -   Enter the key, (Replace \<key\> with the key from the above list) with the following command,
 
