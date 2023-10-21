@@ -28,7 +28,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ## MAS Latest Release
 
-Last Release - v2.3 (16-Oct-2023)\
+Last Release - v2.4 (21-Oct-2023)\
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
