@@ -41,7 +41,7 @@ pagetitle: Ohook Activation
 TL;DR all kinds of Office products are supported on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
 
 | Office Version | Office Product                  | Generic Key                   | Key Type      |
-|------------|------------------|------------------------------|------------|
+|-----------|-------------------|------------------------------|------------|
 | v15.0 (2013)   | AccessRetail                    | B7RFY-7NXPK-Q4342-Y9X2H-3JX4X | Retail        |
 | v15.0 (2013)   | AccessVolume                    | 9MF9G-CN32B-HV7XT-9XJ8T-9KVF4 | MAK           |
 | v15.0 (2013)   | ExcelRetail                     | NT889-MBH4X-8MD4H-X8R2D-WQHF8 | Retail        |
@@ -242,24 +242,24 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 ## Custom sppc.dll Info
 
--   Custom sppc.dll source code is available at <https://github.com/asdcorp/ohook>
+-   Custom sppc.dll source code (Ohook 0.3) is available [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip).
 
 -   SHA-256 checksums:
 
 ```         
-0abe025db85d896d5f65b69800229ebd0ca3168d83569d8c77a04c0bcf06097b *sppc64.dll
-0186c259c2aacef59b91003ba9c00b284b806eb87a70b018687189797885ec6a *sppc32.dll
+e6ac83560c19ec7eb868c50ea97ea0ed5632a397a9f43c17e24e6de4a694d118 *sppc32.dll
+c6df24deef2e83813dee9c81ddd9793a3d60c117a4e8e231b82e32b3192927e7 *sppc64.dll
 ```
 
--   In MAS separate files version, these files are located in `Ohook_Activation\BIN` folder and in MAS AIO version, these 2 files are encoded in base64 to make MAS AIO version. In AIO script, [instructions](https://stackoverflow.com/a/35335273) are mentioned on how to decode files from Base64 format.
+-   In MAS AIO version, these 2 files are encoded in base64 to make MAS AIO version. In AIO script, [instructions](https://stackoverflow.com/a/35335273) are mentioned on how to decode files from Base64 format.
 
 **How to create identical sppc.dll files from scratch?**
 
--   Download ohook 0.4 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.4.zip)
+-   Download ohook 0.3 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip)
 
 -   Extract this zip file to a folder named `C:\ohook`
 
--   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0mcf-16.0.6-11.0.0-ucrt-r1/winlibs-i686-mcf-dwarf-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/13.2.0mcf-16.0.6-11.0.0-ucrt-r1/winlibs-x86_64-mcf-seh-gcc-13.2.0-llvm-16.0.6-mingw-w64ucrt-11.0.0-r1.7z)
+-   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z)
 
 -   Extract both archives with 7-zip in C drive, so that path would look like this,
 
@@ -287,7 +287,7 @@ This is for those who wants to perform manual activation. If you want a tool to 
 
 -   These steps are listed for Office 16.0 (2016, 2019, 2021, O365) C2R x64 bit on Windows x64 bit version.
 
--   Download ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases) or create sppc.dll files from scratch as per the above instructions.
+-   Download ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases/download/0.3/ohook_0.3.zip) or create sppc.dll files from scratch as per the above instructions.
 
 -   Extract this zip file to a folder named `C:\ohook`
 
@@ -299,6 +299,10 @@ This is for those who wants to perform manual activation. If you want a tool to 
     \
     `cd /d C:\ohook`\
     `copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"`
+
+-   Some O365 editions check the license status and show the banner "There was a problem checking this device's license status". To stop this, enter below command,\
+    \
+    `reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2040-01-01T00:00:00Z" /f`
 
 -   Enter the key, (Replace \<key\> with the key from the above list) with the following command,
 

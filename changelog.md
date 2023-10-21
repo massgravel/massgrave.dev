@@ -6,6 +6,22 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.4
+
+**Minor Update**
+
+------------------------------------------------------------------------
+
+#### Ohook:
+
+-   Reverted the Ohook version back to 0.3. We noticed some Antivirus detections (false positive), possibly due to the registry adding change introduced in 0.4. The downside of 0.3 is that the Ohook script would need to be run again upon new user account creation in Windows if O365 is installed.
+
+-   Separate files version for Ohook script is changed to AIO.
+
+-   Users don't need to update their Ohook installation with this update.
+
+------------------------------------------------------------------------
+
 ## 2.3
 
 **Bug Fixes**
