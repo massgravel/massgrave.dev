@@ -22,9 +22,30 @@ pagetitle: OEM Folders
 
 -   You can check [here](index.html) about activation method details and select the activation method as per your requirement.
 
+------------------------------------------------------------------------
+
+## Edit ISO File
+
+-   As stated above, you can copy the `$OEM$` folder to your bootable USB so you don't have to edit the ISO file, however if you need to then follow below steps.
+
+-   Extract the ISO file with an archive software like 7-zip or Winrar.
+
+-   Add the mentioned folder to the specified location.
+
+-   Run [MakeISO.reg](https://forums.mydigitallife.net/posts/1733596) by Aveyo. [Mirror](https://pixeldrain.com/u/sKEdjFJA).
+
+-   Right click on extracted ISO folder and select `MakeISO` option.
+
+-   That's it.
+
+------------------------------------------------------------------------
+
+## Limitations
+
 -   On Windows 8 and later, **running setupcomplete.cmd is disabled** if the default installed key for the edition is OEM Channel.\
-    For example - Preactivation won't work for Windows 10 Iot Enterprise LTSC because installed key is of OEM channel.\
-    The **solution** for this issue is to use (Non-Iot) Windows 10 Enterprise LTSC ISO and HWID method in preactivation will use Iot LTSC key to change the edition.
+    For example - Preactivation won't work for Windows 10 Iot Enterprise LTSC because installed key is of OEM channel.
+
+-   The **solution** for this issue is to use (Non-Iot) Windows 10 Enterprise LTSC ISO and HWID method in preactivation will use Iot LTSC key to change the edition.
 
 ------------------------------------------------------------------------
 
