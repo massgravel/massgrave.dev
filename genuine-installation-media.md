@@ -7,7 +7,7 @@ pagetitle: Genuine Installation Media
 All download links leads to genuine files only.
 
 | **Windows**                               |                                                                                                                                                                               |
-|:-------------------------------|:---------------------------------------|
+|:-----------------------------|:---------------------------------|
 | Windows 11 / 10 / 8.1 (Official Links) ❤️ | [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/) (Works in Russia)                                                                                      |
 | Windows 11                                | [Link](windows_11_links.html)                                                                                                                                                 |
 | Windows 10                                | [Link](windows_10_links.html)                                                                                                                                                 |
@@ -28,7 +28,7 @@ You can contact [here](https://discord.gg/gjJEfq7ux8) if you need any other Wind
 
 ------------------------------------------------------------------------
 
-## How to verify genuinity of files?
+## Verify Authenticity Of Files
 
 -   We can use [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine or not but we must first know the actual checksum of the file.
 
