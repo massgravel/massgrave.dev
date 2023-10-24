@@ -9,32 +9,32 @@ pagetitle: Check Activation Status
 MAS includes checking activation options (WMI/VBS) which are taken from abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/).\
 It checks the status of Windows and Office products.
 
-Please find below the difference between vbs and wmi options.
+Please find below the difference between VBS and WMI options.
 
 ------------------------------------------------------------------------
 
-## Check Activation Status [vbs]
+## Check Activation Status [VBS]
 
--   Query and execute official licensing VBScripts: slmgr.vbs for Windows, ospp.vbs for Office
+-   Queries and executes official licensing VBScripts: slmgr.vbs for Windows, ospp.vbs for Office.
 
--   Shows the activation expiration date for Windows
+-   Shows the activation expiration date for Windows.
 
--   Office 2010 ospp.vbs shows a very little info
+-   Office 2010 ospp.vbs shows very little information.
 
 ------------------------------------------------------------------------
 
-## Check Activation Status [wmi]
+## Check Activation Status [WMI]
 
--   Query and execute WMI functions using wmic.exe or VBScripts
+-   Queries and executes WMI functions using wmic.exe or VBScripts.
 
--   Shows extra info (SKU ID, key channel)
+-   Shows extra information (SKU ID, key channel).
 
--   Shows the activation expiration date for all products
+-   Shows the activation expiration date for all products.
 
--   Shows more detailed info for Office 2010
+-   Shows more detailed information for Office 2010.
 
--   Can show the status of Office UWP apps
+-   Can show the status of Office UWP apps.
 
--   Implement vNextDiag.ps1 functions to **detect new Office 365 vNext licenses and subscriptions**
+-   Implement vNextDiag.ps1 functions to **detect new Office 365 vNext licenses and subscriptions**.
 
 ------------------------------------------------------------------------

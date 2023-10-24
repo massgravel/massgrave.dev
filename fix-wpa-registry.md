@@ -6,11 +6,11 @@ pagetitle: Fix WPA Registry
 
 ------------------------------------------------------------------------
 
--   In some cases, system may have corrupt WPA registry keys `HKEY_LOCAL_MACHINE\SYSTEM\WPA` which can cause `sppsvc` to not work and activation will fail.
+-   In some cases, the system may have corrupt WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` which can cause `sppsvc` to not work and activation to fail.
 
--   The activation scripts in MAS can detect this issue and will inform you accordingly when to run this option. We suggest to run this only when script asks you to do it. If you are not sure if you need to do it, you can take the help from [here](troubleshoot.html).
+-   The activation scripts in MAS can detect this issue and will inform you accordingly when to run this option. We suggest running this only when the script asks you to do so. If you are not sure whether you need to do it, you can get help from [here](troubleshoot.html).
 
--   This registry key is protected by the Kernal and can not be deleted normally. That is why we need to follow some more below steps to clear it.
+-   This registry key is protected by the Kernel and cannot be deleted normally. That is why we need to follow some more steps below to clear it.
 
 ------------------------------------------------------------------------
 
@@ -18,27 +18,27 @@ pagetitle: Fix WPA Registry
 
 -   Download <https://github.com/asdcorp/rearm/archive/refs/heads/principalis.zip>
 
--   Extract this zip file
+-   Extract this zip file.
 
--   Copy `rearm.cmd` file to the root of the C drive like `C:\rearm.cmd`
+-   Copy `rearm.cmd` file to the root of the C drive, like `C:\rearm.cmd`.
 
--   Open command prompt as admin and enter the below command\
+-   Open the command prompt as administrator and enter the below command\
     `Shutdown /f /r /o /t 0`
 
--   After system restart, you will find Troubleshoot \> Advanced Option, select Command Prompt option
+-   After the system restarts, select Troubleshoot \> Advanced Options \> Command Prompt.
 
--   Now enter the below command\
+-   Enter the following command\
     `C:\rearm.cmd`
 
--   If it says the command is not recognized then enter\
+-   If it says the command is not recognized, enter\
     `bcdedit | find "osdevice"`
 
--   It will show you the OS drive letter, use that drive letter in the command, for example -\
+-   It will show you the OS drive letter. Use that drive letter in the command, for example -\
     `E:\rearm.cmd`
 
--   Wait for it to finish. When it's finished, you will be able to type in the command prompt, if not then wait.
+-   Wait for it to finish. When it's finished, you will be able to type in the command prompt, If not then wait.
 
--   Once done, exit and then normally boot into windows.
+-   Once done, exit and then normally boot into Windows.
 
 -   Let [us know](contactus.html) if it doesn't help.
 
