@@ -4,7 +4,7 @@ pagetitle: Credits
 
 # Credits
 
-MAS project wouldn't be possible without kind help and uses of other honorable developer's tools and scripts. I would like to say thanks to all those wonderful people and projects.
+The MAS project wouldn't be possible without the kind help and use of other honorable developers' tools and scripts. I would like to say thanks to all those wonderful people and projects.
 
 |                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |----------------------|:-------------------------------------------------|
