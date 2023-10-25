@@ -53,7 +53,7 @@ Last Release - v2.4 (21-Oct-2023)\
 -   Right click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
--   You will see the activation options. Follow the on-screen instructions.
+-   You will see the activation options, follow the on-screen instructions.
 -   That's all.
 
 To run the scripts in unattended mode, check [here](command_line_switches.html)

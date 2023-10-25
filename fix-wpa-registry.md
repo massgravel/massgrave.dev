@@ -8,7 +8,7 @@ pagetitle: Fix WPA Registry
 
 -   In some cases, the system may have corrupt WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` which can cause `sppsvc` to not work and activation to fail.
 
--   The activation scripts in MAS can detect this issue and will inform you accordingly when to run this option. We suggest running this only when the script asks you to do so. If you are not sure whether you need to do it, you can get help from [here](troubleshoot.html).
+-   The activation scripts in MAS can detect this issue and will inform you accordingly when it is necesarry to run this option. We suggest running this only when the script asks you to do so. If you are not sure whether you need to do it or not, you can get help from [here](troubleshoot.html).
 
 -   This registry key is protected by the Kernel and cannot be deleted normally. That is why we need to follow some more steps below to clear it.
 
