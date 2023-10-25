@@ -6,10 +6,9 @@ pagetitle: Check Activation Status
 
 ------------------------------------------------------------------------
 
-MAS includes checking activation options (WMI/VBS) which are taken from abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/).\
-It checks the status of Windows and Office products.
+MAS includes 2 scripts for checking activation status in Windows and Office (WMI, VBS) which are taken from abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/).\
 
-Please find below the difference between VBS and WMI options.
+Read below to see the differences between the 2 scripts.
 
 ------------------------------------------------------------------------
 

@@ -32,7 +32,7 @@ pagetitle: FAQ
     Run HWID activation to activate Pro. Each edition requires separate activation.
 
 -   **How to remove HWID activation?**\
-    You cannot remove it, just like you cannot remove an official Windows digital (HWID) license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+    You cannot remove it, just like you cannot remove an official Windows digital license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
 
 -   **How to remove Ohook, KMS38, Online KMS activation?**\
     [Ohook](ohook.html#How_to_remove_Ohook), [KMS38](kms38.html#How_to_remove_KMS38), [Online KMS](online_kms.html#How_to_remove_Online_KMS).
