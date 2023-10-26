@@ -115,7 +115,7 @@ pagetitle: KMS38 Activation
 
 -   X86-X64 and ARM64 architecture systems are supported.
 
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. You can convert Server editions of Windows to non-evaluation using Change Edition option.
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. 
 
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 

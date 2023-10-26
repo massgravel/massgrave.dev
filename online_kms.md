@@ -109,7 +109,7 @@ pagetitle: Online KMS Activation
 
 -   X86-X64 and ARM64 architecture systems are supported.
 
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. You cannot convert evaluation client editions of Windows to non-evaluation but you can convert Server editions.
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. 
 
 -   ServerRdsh edition does not [officially](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq#can-i-run-windows-10-enterprise-multi-session-on-premises) support activation on non-azure systems.
 
