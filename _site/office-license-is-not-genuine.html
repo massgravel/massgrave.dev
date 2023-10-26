@@ -417,19 +417,19 @@ activate Office.</p>
 <h2>Reasons</h2>
 <ul>
 <li><p>Office Click-to-Run builds (since February 2021) that are
-activated with KMS check the existence of the KMS server name in the
+activated with KMS check the existence of a KMS server name in the
 registry. If the KMS server is not present, a banner is shown in Office
 programs notifying that “Office isn’t licensed properly”</p></li>
-<li><p>In the case of 32-bit Office installed on 64-bit Windows, Office
-checks the KMS server existence in the corresponding WOW6432Node
-registry key as well.</p></li>
+<li><p>If 32-bit Office is installed on 64-bit Windows, Office checks
+the KMS server existence in the corresponding WOW6432Node registry key
+as well.</p></li>
 <li><p>Apart from this, they also detect if a registered KMS server is
 on their blacklist or not. As far as I know, the below 3 addresses are
 blacklisted.</p>
 <p><code>km-s8.MSG-uides.com</code> <code>km-s9.MSG-uides.com</code>
 <code>0.0.0.0</code>(Remove hyphen)<br />
-The first two are public KMS servers and the last one in simple words is
-neither public nor private IP.</p></li>
+The first two are public KMS servers and the last one is not a real
+IP.</p></li>
 <li><p>Please note that these checks are not performed by Office if the
 proper installation of the Volume version of Office is done with
 Perpetual2019 / 2021 VL channel.</p></li>
@@ -438,7 +438,7 @@ Perpetual2019 / 2021 VL channel.</p></li>
 </div>
 <div id="solutions" class="section level2">
 <h2>Solutions:</h2>
-<p>Please find below various ways you can avoid this banner. The
+<p>Below, you can find various ways of avoiding this banner. The
 simplest option for you is to just use an Office activation tool
 mentioned here.</p>
 <hr />
@@ -463,8 +463,8 @@ hostname.</p></li>
 <li><p><strong>If using private KMS server IP:<br />
 </strong>Make sure to use a valid private IP address.</p></li>
 </ul>
-<p>Please find below how to set the KMS server address in the registry.
-For example with a private IP <code>10.0.0.10</code></p>
+<p>Below, you can find how to set the KMS server address in the
+registry. For example, with a private IP <code>10.0.0.10</code></p>
 <pre><code>reg delete &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663&quot; /f
 
 reg delete &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663&quot; /f /reg:32
@@ -476,11 +476,11 @@ reg add &quot;HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtecti
 </div>
 <div id="install-vl-office" class="section level3">
 <h3>3- Install VL Office</h3>
-<p>As mentioned in the reasons section, these checks are performed only
-if Retail Office is installed and later converted to VL. The office
-doesn’t perform any such checks if the proper installation of the VL
-office is done.</p>
-<p>Please the guide <a href="office_c2r_custom.html">here</a> for VL
+<p>As mentioned in the Reasons section, these checks are performed only
+if Retail Office is installed and was later converted to VL. The office
+doesn’t perform any kind of related checks if the proper installation of
+the VL office is done.</p>
+<p>Please see the guide <a href="office_c2r_custom.html">here</a> for VL
 Office installation.</p>
 <hr />
 </div>
@@ -492,9 +492,9 @@ Office installation.</p>
 non-genuine banners won’t appear by default.</p></li>
 <li><p>Before doing this, make sure your Office update channel is either
 Insider or Current.</p></li>
-<li><p>Make sure the Internet is connected</p></li>
-<li><p>Open command prompt as admin and enter below lines and press
-enter,</p></li>
+<li><p>Make sure the internet is connected.</p></li>
+<li><p>Open command prompt as admin, enter the below commands and press
+enter:</p></li>
 </ul>
 <!-- -->
 <pre><code>reg add HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v CDNBaseUrl /t REG_SZ /d &quot;http://officecdn.microsoft.com/pr/55336B82-A18D-4DD6-B5F6-9E5095C314A6&quot; /f
@@ -511,7 +511,8 @@ reg delete HKLM\SOFTWARE\Policies\Microsoft\Office\16.0\Common\OfficeUpdate\ /f
 <ul>
 <li><p>It will change the update channel to Production::MEC |
 MonthlyEnterprise</p></li>
-<li><p>Make sure Office starts updating with the last command.</p></li>
+<li><p>Make sure that Office starts updating with the last
+command.</p></li>
 </ul>
 <hr />
 </div>

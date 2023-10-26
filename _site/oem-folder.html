@@ -413,19 +413,19 @@ div.tocify {
 <h2>Overview</h2>
 <ul>
 <li><p>To create a pre-activated Windows installation .iso, do the
-following things:</p></li>
-<li><p>Extract <code>$OEM$</code> folder to the desktop using the MAS
-script.</p></li>
+following:</p></li>
+<li><p>Extract the <code>$OEM$</code> folder to the desktop using the
+MAS script.</p></li>
 <li><p>Copy the <code>$OEM$</code> folder to the <code>sources</code>
 folder in the Windows installation media (.iso or USB).</p></li>
 <li><p>The directory will appear like this: <code>\sources\$OEM$</code>
 in your altered .iso or on your bootable USB drive.</p></li>
-<li><p>Now use this .iso or bootable USB drive to install Windows and it
+<li><p>Now use this .iso or bootable USB drive to install Windows, it
 will either already be activated (KMS38) as soon as it boots or will
 self-activate (HWID or Online KMS) at the first internet
 contact.</p></li>
-<li><p>You can check <a href="index.html">here</a> about activation
-method details and select the activation method as per your
+<li><p>You can check <a href="index.html">here</a> for activation method
+details and select the activation method as per your
 requirement.</p></li>
 </ul>
 <hr />
@@ -434,15 +434,15 @@ requirement.</p></li>
 <h2>Edit ISO File</h2>
 <ul>
 <li><p>As stated above, you can copy the <code>$OEM$</code> folder to
-your bootable USB so you don’t have to edit the ISO file, however if you
-need to then follow below steps.</p></li>
+your bootable USB so you don’t have to edit the ISO file. However, if
+you need to, then follow the steps below.</p></li>
 <li><p>Extract the ISO file with an archive software like 7-zip or
 Winrar.</p></li>
 <li><p>Add the mentioned folder to the specified location.</p></li>
 <li><p>Run <a
 href="https://forums.mydigitallife.net/posts/1733596">MakeISO.reg</a> by
 Aveyo. <a href="https://pixeldrain.com/u/sKEdjFJA">Mirror</a>.</p></li>
-<li><p>Right click on extracted ISO folder and select
+<li><p>Right-click on the extracted ISO folder and select
 <code>MakeISO</code> option.</p></li>
 <li><p>That’s it.</p></li>
 </ul>
@@ -455,19 +455,19 @@ Aveyo. <a href="https://pixeldrain.com/u/sKEdjFJA">Mirror</a>.</p></li>
 disabled</strong> if the default installed key for the edition is OEM
 Channel.<br />
 For example - Preactivation won’t work for Windows 10 Iot Enterprise
-LTSC because installed key is of OEM channel.</p></li>
+LTSC because installed key is of the OEM channel.</p></li>
 <li><p>The <strong>solution</strong> for this issue is to use (Non-Iot)
-Windows 10 Enterprise LTSC ISO and HWID method in preactivation will use
-Iot LTSC key to change the edition.</p></li>
+Windows 10 Enterprise LTSC ISO, and the HWID method in preactivation
+will use Iot LTSC key to change the edition.</p></li>
 </ul>
 <hr />
 </div>
 <div id="kms38---server-coracor" class="section level2">
 <h2>KMS38 - Server Cor/Acor</h2>
 <ul>
-<li><p>Windows Server Cor/Acor (No GUI) editions don’t have
+<li><p>Windows Server Cor/Acor (No GUI) editions don’t have the
 <code>clipup.exe</code> file.</p></li>
-<li><p>To KMS38 activate it, you need to download
+<li><p>To KMS38 activate it, you need to download the missing
 <code>ClipUp.exe</code> file from <a
 href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&amp;file_id=f_747809716860">this
 link</a>.<br />
@@ -475,8 +475,8 @@ link</a>.<br />
 <code>File: ClipUp.exe</code><br />
 <code>SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef</code><br />
 <br />
-This file has digital signatures which can be verified. You can also get
-this file from official <a
+This file has digital signatures that can be verified. You can also get
+this file from the official <a
 href="https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO">Windows
 Server 2016 x64 RTM ISO</a>.</p></li>
 <li><p>Put the <code>ClipUp.exe</code> beside the KMS38 Activation

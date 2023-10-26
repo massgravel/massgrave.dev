@@ -410,26 +410,25 @@ div.tocify {
 <hr />
 <div id="overview" class="section level2">
 <h2>Overview</h2>
-<p><strong>Note: HWID Activation is working again with a new
+<p><strong>Note: HWID Activation is now working again with a new
 method.</strong></p>
 <hr />
 <ul>
 <li><p>How to use it? Please find the instructions <a
 href="index.html#Download__How_to_use_it">here</a>.</p></li>
-<li><p>This activation is supported for Windows 10/11 only.</p></li>
-<li><p>This activation does not store or modify/patch any files in your
+<li><p>This activation method supports Windows 10/11 only.</p></li>
+<li><p>This activation method does not store or modify any files in your
 system.</p></li>
-<li><p>This activation is a permanent activation for your system
-Hardware.</p></li>
-<li><p>On a system, this activation can be created for all the supported
-editions, and all can be linked to Microsoft account without any
+<li><p>This activation method gives you permanent Windows activation for
+your system hardware.</p></li>
+<li><p>All activations can be linked to a Microsoft account without any
 issues.</p></li>
-<li><p>Once a system is activated, this activation cannot be removed
+<li><p>Once the system is activated, this activation cannot be removed
 because the license is stored in the Microsoft servers and not in the
 user’s system. MS checks the hardware ID (HWID) and if a license is
 found in their database, the system will automatically activate. This is
 how official digital license works.</p></li>
-<li><p>Any significant changes in the Hardware (such as a motherboard)
+<li><p>Any significant changes to the hardware (such as a motherboard)
 may deactivate the system. It is possible to reactivate a system that
 was deactivated because of significant hardware changes, IF your
 activation, was linked to an online Microsoft account.</p></li>
@@ -437,17 +436,18 @@ activation, was linked to an online Microsoft account.</p></li>
 If you are trying to activate without these conditions being met, then
 the system will auto-activate later when the conditions are
 met.</p></li>
-<li><p>Auto activation scenario after the Windows re-install:</p>
+<li><p>The following is required for Windows to reactivate itself after
+Windows reinstall:</p>
 <ul>
-<li><p>The Internet is required. (Only at the time of
+<li><p>The internet is required. (Only at the time of
 activation)</p></li>
-<li><p>The system will auto-activate if Retail (Consumer) media was used
-for the installation.</p></li>
+<li><p>The system will auto-activate only if Retail (Consumer) media was
+used for installing Windows.</p></li>
 <li><p>The system will NOT auto-activate if VL (Business) media was used
-for the installation. In this case, the user will have to insert that
-windows edition Retail/OEM key (find keys below on this page) to
-activate, if the user doesn’t wish to activate again using this
-script.</p></li>
+for the installation. In this case, the user will have to insert the
+generic Retail/OEM key corresponding to the Windows edition currently
+running to activate if the user doesn’t want to use the script again.
+(Those keys can be found below on this page)</p></li>
 </ul></li>
 </ul>
 <hr />
@@ -461,19 +461,21 @@ script.</p></li>
 class="section level4">
 <h4>HWID 1 (Now defunct) (Summer of 2018 - Sep 26 2023)</h4>
 <ul>
-<li><p>In the official upgrade process from Windows 7 to Windows 10,
-Microsoft provided an HWID (digital license) activation for Windows 10
-without any cost.</p></li>
+<li><p>In the official upgrade process from Windows 7 to Windows 10, if
+your copy of Windows 7 was activated, Microsoft provided a digital
+license for Windows 10 without any cost.</p></li>
 <li><p>In the background, the upgrade process runs a file named
 gatherosstate.exe (available in Windows 10/11 ISO) and it checks the
-license of current Windows if found activated, it generates a valid
-GenuineTicket.xml <strong>ticket</strong> which is sent to Microsoft and
-in return, MS authorizes a license.</p></li>
-<li><p>So if we just convince the gatherosstate.exe file that the
+license of the current Windows installation. If it detected that it is
+activated, it generates a valid GenuineTicket.xml
+<strong>ticket</strong> which is sent to Microsoft and in return, MS
+authorizes a license.</p></li>
+<li><p>So, if we can convince the gatherosstate.exe file that the
 conditions are met for ticket generation by fooling it, it will generate
-a valid ticket, which can be used to get the valid HWID (Digital
-license).</p></li>
-<li><p>How to convince the gatherosstate.exe?<br />
+a valid ticket, which can be used to get the valid digital
+license.</p></li>
+<li><p>How to convince gatherosstate.exe that Windows is
+activated?<br />
 There are two methods for it.<br />
 <br />
 <strong>1-</strong> Place a <a
@@ -481,43 +483,44 @@ href="https://github.com/asdcorp/Integrated_Patcher_3">custom
 slc.dll</a> file beside gatherosstate.exe:<br />
 gatherosstate.exe uses the system's
 <code>C:\Windows\System32\slc.dll</code> file to gather the system's
-info. If we place a custom slc.dll file beside gatherosstate.exe which
-can send the rubbish data to it, then it will simply accept it and
-generate a valid ticket.<br />
+info. If we place a custom slc.dll file beside gatherosstate.exe, it can
+send rubbish data to it, then it will simply accept it and generate a
+valid ticket.<br />
 <br />
 <strong>2-</strong> <a
 href="https://github.com/asdcorp/GamersOsState">Modify</a> the
-gatherosstate.exe file itself so that it doesn't check the system's
-activation status and can directly create a valid ticket.</p></li>
-<li><p>You can find working of this old method here <a
+gatherosstate.exe file directly so that it doesn't check the system's
+activation status at all and create a valid ticket.</p></li>
+<li><p>You can find the workings of this old method here: <a
 href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a>.</p></li>
 <li><p>Microsoft <a
 href="https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade">made</a>
-server side changes to to block the free upgrade and with that server
-side change, this method stopped working. To be clear, only new
-activation requests coming from new hardware was blocked, already
-established HWID are fine.</p></li>
+server-side changes to their licensing servers to block the free
+upgrade, and with that server-side change, this method stopped working.
+To be clear, only new activation requests coming from new hardware were
+blocked, already established digital licenses with this method are
+fine.</p></li>
 </ul>
 </div>
 <div id="hwid-2-currently-working-03-oct-2023---current"
 class="section level4">
 <h4>HWID 2 (Currently working) (03 Oct 2023 - Current)</h4>
 <ul>
-<li>When Microsoft stopped the free upgrade, it started requiring
-Genuine valid key in ticket to authorize a digital license. In the new
-method we used only the Installation ID of a genuine, valid key. This
-gets accepted by the server and allows us to get a digital license for
-free. Check manual activation process in below section to know how to
-make working universal tickets.</li>
+<li>When Microsoft stopped the free upgrade, it started requiring a
+genuine valid key in the ticket to authorize a digital license. In the
+new method, we use only the Installation ID of a genuine, valid key.
+This gets accepted by the server and allows us to get a digital license
+for free. Check the manual activation process in below section to know
+how to make working universal tickets.</li>
 </ul>
 <hr />
 <p>Now a question, can Microsoft block the new requests or revoke
-already established HWID license?</p>
+already established digital licenses?</p>
 <ul>
-<li>Revoking the license would be too extreme and will face many
-complications and risk of voiding valid licenses. However they can block
-the new activation requests for new hardware coming from the methods
-mentioned here.</li>
+<li>Revoking the licenses would be too extreme and will face many
+complications and create a risk of voiding valid licenses. However, they
+can very easily block the new activation requests for new hardware
+coming from the methods mentioned here.</li>
 </ul>
 <hr />
 </div>
@@ -667,8 +670,8 @@ support activation on non-azure systems.</p></li>
 <div id="how-to-remove-hwid" class="section level2">
 <h2>How to remove HWID?</h2>
 <ul>
-<li>You can not remove it, same as you can not remove official Windows
-digital (HWID) license. Once a system is activated, this activation
+<li>You cannot remove it, just like you cannot remove an official
+Windows digital license. Once a system is activated, this activation
 cannot be removed because the license is stored in the Microsoft servers
 and not in the user’s system. MS checks the hardware ID (HWID) and if a
 license is found in their database, the system will automatically
@@ -686,23 +689,23 @@ activate.</li>
 <div id="manual-activation" class="section level2">
 <h2>Manual Activation</h2>
 <p>This is for those who wants to perform manual activation. If you want
-a tool to do this for you then check <a href="index.html">here</a>.</p>
-<p>We can divide the manual activation process into two parts.</p>
+a tool to do this for you, then check <a href="index.html">here</a>.</p>
+<p>We can perform the manual activation process in 2 ways.</p>
 <div id="from-ready-made-ticket" class="section level3">
 <h3>1- From Ready-Made Ticket</h3>
 <ul>
-<li><p>Make sure the Internet is enabled.</p></li>
-<li><p>Open Windows Powershell as administrator, and enter the following
-listed commands in the sequence in which they are given.</p></li>
-<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
-from the above list) with the following command</p></li>
+<li><p>Make sure the internet is enabled.</p></li>
+<li><p>Open Windows PowerShell as administrator, and enter the following
+commands in the sequence in which they are given.</p></li>
+<li><p>Enter the Key (Replace <code>&lt;key&gt;</code> with the key from
+the above list) with the following command:</p></li>
 </ul>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
 <li><p>Download Universal tickets from <a
 href="https://pixeldrain.com/u/GbVLtMn6">here</a> and extract the
 downloaded file.</p></li>
-<li><p>Now enter below code in Powershell</p></li>
+<li><p>Now enter below code in PowerShell:</p></li>
 </ul>
 <p><code>(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn</code></p>
 <ul>
@@ -710,17 +713,17 @@ downloaded file.</p></li>
 <code>Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe</code></p></li>
 <li><p>You need to find the exact same name ticket file in the folder
 which you have extracted earlier.</p></li>
-<li><p>Copy that ticket file and paste it in the below folder</p>
+<li><p>Copy that ticket file and paste it in the following folder:</p>
 <p><code>C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket</code></p></li>
-<li><p>Now run below command in Powershell to apply the ticket</p></li>
+<li><p>Now run below command in PowerShell to apply the ticket:</p></li>
 </ul>
 <p><code>clipup -v -o</code></p>
 <ul>
-<li>Activate Windows with the following command</li>
+<li>Activate Windows with the following command:</li>
 </ul>
 <p><code>slmgr /ato</code></p>
 <ul>
-<li>Check Activation Status with the following command</li>
+<li>Check Activation Status with the following command:</li>
 </ul>
 <p><code>slmgr /xpr</code></p>
 <ul>
@@ -730,26 +733,27 @@ which you have extracted earlier.</p></li>
 </div>
 <div id="from-scratch" class="section level3">
 <h3>2- From Scratch</h3>
-<p>In this process we will perform activation from scratch. This is
-based on Universal ticket method. Here we will create identical tickets
-which are used in MAS HWID script and activate the system with it.</p>
+<p>In this process, we will perform activation from scratch. This is
+based on the Universal ticket method. Here, we will create identical
+tickets that are used in the MAS HWID script and activate the system
+with them.</p>
 <ul>
-<li><p>Download file from the below official MS link and extract this
-.cab file.<br />
+<li><p>Download the file from the official MS link and extract the .cab
+file.<br />
 <a
 href="https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab"
 class="uri">https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab</a></p></li>
 <li><p>Find the file named
-<code>filf8377e82b29deadca67bc4858ed3fba9</code> and rename it as
+<code>filf8377e82b29deadca67bc4858ed3fba9</code> and rename it to
 <code>gatherosstate.exe</code></p></li>
-<li><p>Make a folder named <code>Files</code> in C drive,
+<li><p>Make a folder named <code>Files</code> in the C drive,
 <code>C:\Files</code> and copy the <code>gatherosstate.exe</code> file
-in that folder.</p></li>
-<li><p>Make sure the Internet is enabled.</p></li>
-<li><p>Open Windows Powershell as administrator, and enter the following
-listed commands in the sequence in which they are given.</p></li>
-<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
-from the above list) with the following command</p></li>
+into that folder.</p></li>
+<li><p>Make sure that the internet is enabled.</p></li>
+<li><p>Open Windows PowerShell as administrator and enter the following
+commands in the sequence in which they are given.</p></li>
+<li><p>Enter the key (Replace <code>&lt;key&gt;</code> with the key from
+the above list) with the following command:</p></li>
 </ul>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
@@ -828,11 +832,11 @@ $bytes[34376] = 0xeb
 $bytes[34377] = 0x63
 [System.IO.File]::WriteAllBytes(&quot;C:\Files\gatherosstatemodified.exe&quot;, $bytes)</code></pre>
 <ul>
-<li>Now right click on the file <code>gatherosstatemodified.exe</code>
-and goto properties and set the compatibility to Windows XP SP3.<br />
+<li>Now right click on the file <code>gatherosstatemodified.exe</code>,
+go to properties and set the compatibility mode to Windows XP SP3.<br />
 </li>
 <li>Now we need to generate the ticket, to do that, enter the below
-command.</li>
+command:</li>
 </ul>
 <!-- -->
 <pre><code>$value = (Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn
@@ -840,15 +844,15 @@ command.</li>
 C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=465145217131314304264339481117862266242033457260311819664735280</code></pre>
 <ul>
 <li>A GenuineTicket.xml file should be created in the folder
-<code>C:\Files\</code> now let’s apply it.</li>
+<code>C:\Files\</code>. Now, let’s apply it.</li>
 </ul>
 <p><code>clipup -v -o -altto C:\Files\</code></p>
 <ul>
-<li>Activate Windows with the following command</li>
+<li>Activate Windows with the following command:</li>
 </ul>
 <p><code>slmgr /ato</code></p>
 <ul>
-<li>Check Activation Status with the following command</li>
+<li>Check Activation Status with the following command:</li>
 </ul>
 <p><code>slmgr /xpr</code></p>
 <ul>
@@ -856,12 +860,13 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=4651452171313143042643
 </ul>
 <p><strong>Notes:</strong></p>
 <ul>
-<li><p>If the system is already activated then created ticket will be a
-Lockbox ticket and if not then it will be a Downlevel ticket.</p></li>
+<li><p>If the system is already activated then, then the created ticket
+will be a Lockbox ticket. If not, it will be a Downlevel
+ticket.</p></li>
 <li><p>To make the exact ticket used in MAS HWID script, make sure
-system is already activated and fix the time with below Powershell
-command and then initiate the ticket generation process as per above
-mentioned steps.<br />
+system is already activated and fix the time with the below PowerShell
+command and then initiate the ticket generation process as per the steps
+mentioned above.<br />
 <code>Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
 </ul>
 <hr />
