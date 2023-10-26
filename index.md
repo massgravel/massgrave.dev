@@ -15,13 +15,13 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 -   **HWID (Digital License)** Method to Permanently Activate Windows
 -   **Ohook** Method to Permanently Activate Office
 -   **KMS38** Method to Activate Windows/Server Till the Year 2038
--   **Online KMS** Method to Activate Windows/Server/Office Till 180 Days (Lifetime With Renewal Task)
--   Advanced Activation Troubleshoot
+-   **Online KMS** Method to Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
+-   Advanced Activation Troubleshooting
 -   \$OEM\$ Folders For Preactivation
 -   Change Windows Edition
 -   Check Windows/Office Activation Status
--   Available in All In One and Separate Files Version
--   Fully Open Source and Based on Batch Script
+-   Available in All In One and Separate Files Versions
+-   Fully Open Source and Based on Batch Scripts
 -   Fewer Antivirus Detections
 
 ------------------------------------------------------------------------
@@ -42,9 +42,9 @@ Last Release - v2.4 (21-Oct-2023)\
 (Recommended)
 
 -   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy-paste the below code and press enter\
+-   Copy and paste the code below and press enter\
     `irm https://massgrave.dev/get | iex`
--   You will see the activation options, and follow onscreen instructions.
+-   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
 ### Method 2 - Traditional
@@ -53,7 +53,7 @@ Last Release - v2.4 (21-Oct-2023)\
 -   Right click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, and follow onscreen instructions.
+-   You will see the activation options, follow the on-screen instructions.
 -   That's all.
 
 To run the scripts in unattended mode, check [here](command_line_switches.html)

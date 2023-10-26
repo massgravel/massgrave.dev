@@ -42,7 +42,7 @@ pagetitle: Command Line Switches
 
 `& ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para`
 
-Note - Remove space between `mass grave`
+Note - Remove the space between `mass grave`
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /KMS-Office /KMS-ActAndRenewalTask`
 
@@ -60,7 +60,7 @@ Note - Remove space between `mass grave`
 
 -   KMS Uninstall switch will take precedence over other KMS switches.
 
--   KMS38 remove protection switch will task precedence over KMS38 activation.
+-   KMS38 remove protection switch will take precedence over KMS38 activation.
 
 ------------------------------------------------------------------------
 
