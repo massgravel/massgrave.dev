@@ -14,7 +14,7 @@ pagetitle: Get genuine Office banner
 
 -   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of a KMS server name in the registry. If the KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly"
 
--   If 32-bit Office installed on 64-bit Windows, Office checks the KMS server existence in the corresponding WOW6432Node registry key as well.
+-   If 32-bit Office is installed on 64-bit Windows, Office checks the KMS server existence in the corresponding WOW6432Node registry key as well.
 
 -   Apart from this, they also detect if a registered KMS server is on their blacklist or not. As far as I know, the below 3 addresses are blacklisted.
 
