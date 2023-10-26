@@ -409,16 +409,16 @@ div.tocify {
 <h1>Fix WPA Registry</h1>
 <hr />
 <ul>
-<li><p>In some cases, system may have corrupt WPA registry keys
+<li><p>In some cases, the system may have corrupt WPA registry keys at
 <code>HKEY_LOCAL_MACHINE\SYSTEM\WPA</code> which can cause
-<code>sppsvc</code> to not work and activation will fail.</p></li>
+<code>sppsvc</code> to not work and activation to fail.</p></li>
 <li><p>The activation scripts in MAS can detect this issue and will
-inform you accordingly when to run this option. We suggest to run this
-only when script asks you to do it. If you are not sure if you need to
-do it, you can take the help from <a
+inform you accordingly when it is necesarry to run this option. We
+suggest running this only when the script asks you to do so. If you are
+not sure whether you need to do it or not, you can get help from <a
 href="troubleshoot.html">here</a>.</p></li>
-<li><p>This registry key is protected by the Kernal and can not be
-deleted normally. That is why we need to follow some more below steps to
+<li><p>This registry key is protected by the Kernel and cannot be
+deleted normally. That is why we need to follow some more steps below to
 clear it.</p></li>
 </ul>
 <hr />
@@ -428,23 +428,24 @@ clear it.</p></li>
 <li><p>Download <a
 href="https://github.com/asdcorp/rearm/archive/refs/heads/principalis.zip"
 class="uri">https://github.com/asdcorp/rearm/archive/refs/heads/principalis.zip</a></p></li>
-<li><p>Extract this zip file</p></li>
-<li><p>Copy <code>rearm.cmd</code> file to the root of the C drive like
-<code>C:\rearm.cmd</code></p></li>
-<li><p>Open command prompt as admin and enter the below command<br />
+<li><p>Extract this zip file.</p></li>
+<li><p>Copy <code>rearm.cmd</code> file to the root of the C drive, like
+<code>C:\rearm.cmd</code>.</p></li>
+<li><p>Open the command prompt as administrator and enter the below
+command<br />
 <code>Shutdown /f /r /o /t 0</code></p></li>
-<li><p>After system restart, you will find Troubleshoot &gt; Advanced
-Option, select Command Prompt option</p></li>
-<li><p>Now enter the below command<br />
+<li><p>After the system restarts, select Troubleshoot &gt; Advanced
+Options &gt; Command Prompt.</p></li>
+<li><p>Enter the following command<br />
 <code>C:\rearm.cmd</code></p></li>
-<li><p>If it says the command is not recognized then enter<br />
+<li><p>If it says the command is not recognized, enter<br />
 <code>bcdedit | find "osdevice"</code></p></li>
-<li><p>It will show you the OS drive letter, use that drive letter in
+<li><p>It will show you the OS drive letter. Use that drive letter in
 the command, for example -<br />
 <code>E:\rearm.cmd</code></p></li>
 <li><p>Wait for it to finish. When it’s finished, you will be able to
-type in the command prompt, if not then wait.</p></li>
-<li><p>Once done, exit and then normally boot into windows.</p></li>
+type in the command prompt, If not then wait.</p></li>
+<li><p>Once done, exit and then normally boot into Windows.</p></li>
 <li><p>Let <a href="contactus.html">us know</a> if it doesn’t
 help.</p></li>
 </ul>

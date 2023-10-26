@@ -410,33 +410,33 @@ div.tocify {
 <hr />
 <ul>
 <li><p>In some cases, <strong>HWID activation</strong> may fail because
-system couldn’t connect to HWID licensing servers.</p></li>
-<li><p>Activation script will inform you about this if that is the case.
-We suggest to follow the below guide only when the script tells you to
-do it. If you are unsure, you can take the help from <a
+the system couldn’t connect to HWID licensing servers.</p></li>
+<li><p>The activation script will inform you about this if that is the
+case. We suggest to following the below guide only when the script tells
+you to do so. If you are unsure, you can get help from <a
 href="troubleshoot.html">here</a>.</p></li>
-<li><p>This may happen mostly either due to DNS or Issues in MS
-licensing servers itself or Firewall rules in the system. Below you can
-find fixes for it.</p></li>
-<li><p><strong>Which method to choose for the fix?<br />
+<li><p>This may happen mostly due to DNS issues, issues in MS licensing
+servers themselves or firewall rules in the system. Below you can find
+fixes for it.</p></li>
+<li><p><strong>Which method should you choose for the fix?<br />
 <br />
-</strong>If you are located in China then choose <strong>Modify Host
-File</strong> option.<br />
-If you are not in China then first try <strong>Network Reset</strong>
-option and if that doesn’t work then <strong>Fix DNS</strong> option,
-and if that doesn’t work then try <strong>VPN</strong> method or try
-another Internet connection.</p></li>
-<li><p>If you are still facing issues then check <a
+</strong>If you are located in China, then choose the <strong>Modify
+Host File</strong> option.<br />
+If you are not in China, then first try the <strong>Network
+Reset</strong> option. If that doesn’t work, try the <strong>Fix
+DNS</strong> option. If that doesn’t work, then try the
+<strong>VPN</strong> method or try another internet connection.</p></li>
+<li><p>If you are still facing issues, check <a
 href="troubleshoot.html">here</a>.</p></li>
 </ul>
 <hr />
 <div id="network-reset" class="section level2">
 <h2>Network Reset</h2>
 <ul>
-<li><p>In Windows 10/11, goto settings and search for Network Reset and
-apply this option.</p></li>
+<li><p>In Windows 10/11, go to settings and search for Network Reset,
+then apply this option.</p></li>
 <li><p>Restart your system and try HWID Activation.</p></li>
-<li><p>If it’s showing same Internet error then apply the Fix DNS
+<li><p>If it’s showing the same Internet error then apply the Fix DNS
 option.</p></li>
 </ul>
 <hr />
@@ -446,11 +446,11 @@ option.</p></li>
 <ul>
 <li><p>Download the <code>Fix_DNS.zip</code> file from <a
 href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=4c66hw8ezuijy5j0trwczy860sf825i7&amp;file_id=f_1146300205040">here</a>.</p></li>
-<li><p>Extract the zip file and right click on <code>Fix_DNS.cmd</code>
-file and run it as admin.</p></li>
-<li><p>Follow onscreen instructions.</p></li>
+<li><p>Extract the zip file and right-click on <code>Fix_DNS.cmd</code>
+file and run it as administrator.</p></li>
+<li><p>Follow the on-screen instructions.</p></li>
 <li><p>Once done, try HWID Activation.</p></li>
-<li><p>If it’s showing same Internet error then try VPN option.</p></li>
+<li><p>If it shows the same internet error, try the VPN option.</p></li>
 </ul>
 <hr />
 </div>
@@ -461,24 +461,24 @@ file and run it as admin.</p></li>
 <a
 href="https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe"
 class="uri">https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe</a></p></li>
-<li><p>Once done connect to USA servers and then try HWID
+<li><p>Once done, connect to USA servers and then try HWID
 Activation.</p></li>
-<li><p>If it’s showing same Internet error then check <a
+<li><p>If it’s showing the same internet error, check <a
 href="troubleshoot.html">here</a>.</p></li>
 </ul>
 <hr />
 </div>
 <div id="modify-host-file" class="section level2">
 <h2>Modify Host File</h2>
-<p>Around 8 Feb 2023 in China, MS licensing servers failed to properly
-connect and it disrupted many Windows services including activation.
-Solution to this issue is to simply hardcode another country’s MS
-licensing servers IP in hosts file and Windows will use that for
-activation. This method can also be used if for any reason DNS is
-failing to resolve MS licensing servers.</p>
+<p>Around February 8, 2023, in China, MS licensing servers failed to
+properly connect, disrupting many Windows services, including
+activation. The solution to this issue is to simply hardcode another
+country’s MS licensing servers IP in hosts file, and Windows will use
+that for activation. This method can also be used if, for any reason,
+DNS is failing to resolve MS licensing servers.</p>
 <ul>
-<li><p>Open Powershell or Terminal as admin (don’t open CMD).</p></li>
-<li><p>Copy paste below lines and press enter,</p></li>
+<li><p>Open PowerShell or Terminal as admin (don’t open CMD).</p></li>
+<li><p>Copy and paste the lines below and press enter:</p></li>
 </ul>
 <!-- -->
 <pre><code>$filePath = &quot;C:\Windows\System32\drivers\etc\hosts&quot;
@@ -489,7 +489,7 @@ Add-Content -Path $filePath -Value &quot;124.108.22.138 licensing.mp.microsoft.c
 <ul>
 <li>Done. Now try HWID Activation.</li>
 </ul>
-<p>To restore it, run below commands.</p>
+<p>To restore it, run the commands below.</p>
 <pre><code>$filePath = &quot;C:\Windows\System32\drivers\etc\hosts&quot;
 
 Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace &quot;124.108.22.138 licensing.mp.microsoft.com&quot;, &quot;&quot; })</code></pre>

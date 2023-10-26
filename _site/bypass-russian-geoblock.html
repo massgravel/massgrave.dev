@@ -424,27 +424,27 @@ Microsoft page</a>.</p>
 <h3>Solution</h3>
 <p><a href="/msdl/">MSDL</a></p>
 <p>It uses shared sessions/proxy to generate official download links in
-Russia and in all other blocked places.</p>
+Russia and all other blocked places.</p>
 <hr />
 </div>
 </div>
 <div id="office-download" class="section level2">
 <h2>Office Download</h2>
 <p>Russian users face an error when they try to <a
-href="genuine-installation-media.html">download</a> Office C2R with
+href="genuine-installation-media.html">download</a> Office C2R with the
 online installer or ODT.</p>
 <div id="error-1" class="section level3">
 <h3>Error</h3>
 <pre><code>Command not supported
 We&#39;re sorry, we can&#39;t continue because we weren&#39;t able to download a required file. Please make sure you&#39;re connected to the internet or connect to a different network, then try again.</code></pre>
 <p><img src="https://lookimg.com/images/2023/03/24/QTAO3s.png" /></p>
-<div id="how-microsoft-is-blocking-it" class="section level4">
-<h4>How Microsoft is blocking it?</h4>
-<p>It’s primarily checking Russian IP address and basis on that above
-error is shown to users. However that’s not the end of it. Once it find
-out that Russian IP is used then installer creates a below registry key
-to remember it. After that if you even use a VPN then installer will
-still keep showing the error.</p>
+<div id="how-is-microsoft-blocking-it" class="section level4">
+<h4>How is Microsoft blocking it?</h4>
+<p>Primarily, it checks for Russian IP addresses, and based on that, the
+above error is shown to users. However that’s not the end of it. Once it
+find out that Russian IP is used, the installer creates the registry key
+below to remember it. After that, even if you use a VPN, the installer
+will still keep showing the error.</p>
 <pre><code>[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs]
 &quot;CountryCode&quot;=&quot;std::wstring|RU&quot;</code></pre>
 </div>
@@ -453,10 +453,10 @@ still keep showing the error.</p>
 <h3>Solution</h3>
 <p><strong>1-</strong> Open command prompt as admin and enter,</p>
 <pre><code>reg add &quot;HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs&quot; /v &quot;CountryCode&quot; /t REG_SZ /d &quot;std::wstring|US&quot; /f</code></pre>
-<p>After that office installer won’t show any such errors. You can apply
-this before or after running the Office installer and you can download
-Office without any VPN and with your Russian IP address.</p>
-<p><strong>2-</strong> Use <a href="office_c2r_links.html">Offline
+<p>After that, the office installer won’t show any related errors. You
+can apply this before or after running the Office installer and you can
+download Office without any VPN with your Russian IP address.</p>
+<p><strong>2-</strong> Use the <a href="office_c2r_links.html">Offline
 installer file</a> to install Office.</p>
 <hr />
 <p>Please let us <a href="contactus.html">know</a> if you face any

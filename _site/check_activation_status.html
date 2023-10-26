@@ -408,33 +408,33 @@ div.tocify {
 <div id="check-activation-status" class="section level1">
 <h1>Check Activation Status</h1>
 <hr />
-<p>MAS includes checking activation options (WMI/VBS) which are taken
-from abbodi1406’s <a
+<p>MAS includes 2 scripts for checking activation status in Windows and
+Office (WMI, VBS) which are taken from abbodi1406’s <a
 href="https://github.com/abbodi1406/KMS_VL_ALL_AIO/">KMS_VL_ALL</a>.<br />
-It checks the status of Windows and Office products.</p>
-<p>Please find below the difference between vbs and wmi options.</p>
+</p>
+<p>Read below to see the differences between the 2 scripts.</p>
 <hr />
 <div id="check-activation-status-vbs" class="section level2">
-<h2>Check Activation Status [vbs]</h2>
+<h2>Check Activation Status [VBS]</h2>
 <ul>
-<li><p>Query and execute official licensing VBScripts: slmgr.vbs for
-Windows, ospp.vbs for Office</p></li>
-<li><p>Shows the activation expiration date for Windows</p></li>
-<li><p>Office 2010 ospp.vbs shows a very little info</p></li>
+<li><p>Queries and executes official licensing VBScripts: slmgr.vbs for
+Windows, ospp.vbs for Office.</p></li>
+<li><p>Shows the activation expiration date for Windows.</p></li>
+<li><p>Office 2010 ospp.vbs shows very little information.</p></li>
 </ul>
 <hr />
 </div>
 <div id="check-activation-status-wmi" class="section level2">
-<h2>Check Activation Status [wmi]</h2>
+<h2>Check Activation Status [WMI]</h2>
 <ul>
-<li><p>Query and execute WMI functions using wmic.exe or
-VBScripts</p></li>
-<li><p>Shows extra info (SKU ID, key channel)</p></li>
-<li><p>Shows the activation expiration date for all products</p></li>
-<li><p>Shows more detailed info for Office 2010</p></li>
-<li><p>Can show the status of Office UWP apps</p></li>
+<li><p>Queries and executes WMI functions using wmic.exe or
+VBScripts.</p></li>
+<li><p>Shows extra information (SKU ID, key channel).</p></li>
+<li><p>Shows the activation expiration date for all products.</p></li>
+<li><p>Shows more detailed information for Office 2010.</p></li>
+<li><p>Can show the status of Office UWP apps.</p></li>
 <li><p>Implement vNextDiag.ps1 functions to <strong>detect new Office
-365 vNext licenses and subscriptions</strong></p></li>
+365 vNext licenses and subscriptions</strong>.</p></li>
 </ul>
 <hr />
 </div>

@@ -414,11 +414,11 @@ div.tocify {
 <li><p>How to use it? Please find the instructions <a
 href="index.html#Download__How_to_use_it">here</a>.</p></li>
 <li><p>This activation method activates Windows 10/11 and Windows Server
-(14393 and later builds), until 19 January 2038 03:14:07 UTC.</p></li>
+(14393 and later builds), until January 19, 2038, 03:14:07 UTC.</p></li>
 <li><p>This activation method does not store any files on the
 system.</p></li>
 <li><p>This activation method works offline.</p></li>
-<li><p>Unlike HWID and Online KMS activation option, KMS38 does not
+<li><p>Unlike HWID and Online KMS activation options, KMS38 does not
 match with any official activation method.</p></li>
 </ul>
 <hr />
@@ -432,18 +432,18 @@ activation environment, activation lasts a maximum of up to 180 days.
 This is done using a valid license and server setup.</p></li>
 <li><p>In the Windows major upgrade process, the system uses
 <code>gatherosstate.exe</code> to carry over the remaining KMS
-activation period. It does it by creating a ticket that can be used
+activation period. It does this by creating a ticket that can be used
 offline.</p></li>
 <li><p>The trick is that we can fool the <code>gatherosstate.exe</code>
 about the remaining KMS activation period and manually put the desired
-period maximum up to 19 January 2038 03:14:07 UTC.</p></li>
-<li><p>Why it’s limited to the year 2038?<br />
+period maximum up to January 19, 2038, 03:14:07 UTC.</p></li>
+<li><p>Why is it limited to the year 2038?<br />
 It’s related to the <a
 href="https://en.wikipedia.org/wiki/Year_2038_problem">Y2K38 problem</a>
 as this date (19 January 2038 03:14:07 UTC) is the maximum date we can
 give to <code>gatherosstate.exe</code> without it looping back to the
 year 1970.</p></li>
-<li><p>How to convince the gatherosstate.exe?<br />
+<li><p>How can we convince the gatherosstate.exe?<br />
 There are two methods for it.<br />
 <br />
 <strong>1-</strong> Place a <a
@@ -453,7 +453,7 @@ gatherosstate.exe uses the system’s
 <code>C:\Windows\System32\slc.dll</code> file to gather the system’s
 info. If we place a custom slc.dll file beside gatherosstate.exe which
 can send the rubbish data to it, then it will simply accept it and
-generate a valid ticket allowing activation upto 19 January 2038
+generate a valid ticket allowing activation up to January 19, 2038,
 03:14:07 UTC.<br />
 <br />
 <strong>2-</strong> <a
@@ -465,11 +465,12 @@ wish.</p></li>
 <ul>
 <li>To be clear, we are <strong>not modifying/patching any on-board
 system file</strong> to get the ticket. Gatherosstate.exe is a part of
-ISO file and not available in C drive system files. System’s slc.dll
-file is not touched, instead we use custom slc.dll only for a brief
-moment of ticket generation.</li>
-<li>Latest MAS doesn’t use any of these methods, instead it uses ready
-to use Universal tickets (check below for manual activation info).</li>
+the ISO file and not available in C drive system files. The system’s
+slc.dll file is not touched; Instead, we use custom slc.dll only for a
+brief moment of ticket generation.</li>
+<li>Latest MAS doesn’t use any of these methods; Instead, it uses
+ready-to-use Universal tickets (check below for manual activation
+info).</li>
 </ul></li>
 </ul>
 <p><strong>Q:</strong> Can Microsoft block this kind of
@@ -742,10 +743,10 @@ support activation on non-azure systems.</p></li>
 <div id="how-to-remove-kms38" class="section level2">
 <h2>How to remove KMS38?</h2>
 <ul>
-<li><p>In MAS, goto KMS38 Activation and apply Remove KM38 Protection
-option.</p></li>
-<li><p>After that, In MAS, goto Troubleshoot and apply Fix Licensing
-option.</p></li>
+<li><p>In MAS, go to KMS38 Activation and apply the Remove KM38
+Protection option.</p></li>
+<li><p>After that, In MAS, go to Troubleshoot and apply the Fix
+Licensing option.</p></li>
 <li><p>Done.</p></li>
 </ul>
 <hr />
@@ -753,9 +754,9 @@ option.</p></li>
 <div id="kms38---server-coracor" class="section level2">
 <h2>KMS38 - Server Cor/Acor</h2>
 <ul>
-<li><p>Windows Server Cor/Acor (No GUI) editions don’t have
+<li><p>Windows Server Cor/Acor (No GUI) editions don’t have the
 <code>clipup.exe</code> file.</p></li>
-<li><p>To KMS38 activate it, you need to download
+<li><p>To KMS38 activate it, you need to download the
 <code>ClipUp.exe</code> file from <a
 href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&amp;file_id=f_747809716860">this
 link</a>.<br />
@@ -763,15 +764,15 @@ link</a>.<br />
 <code>File: ClipUp.exe</code><br />
 <code>SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef</code><br />
 <br />
-This file has digital signatures which can be verified. You can also get
-this file from official <a
+This file has digital signatures that can be verified. You can also get
+this file from the official <a
 href="https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO">Windows
 Server 2016 x64 RTM ISO</a>.</p></li>
-<li><p>Put the <code>ClipUp.exe</code> beside the KMS38 Activation
+<li><p>Put the <code>ClipUp.exe</code> file beside the KMS38 Activation
 script. That would be either <code>MAS_AIO.cmd</code> or
 <code>KMS38_Activation.cmd</code></p></li>
-<li><p>Activation script will check <code>ClipUp.exe</code> in the
-current folder (from where script is running) and will use it
+<li><p>The activation script will check for <code>ClipUp.exe</code> in
+the current folder (from where the script is running) and will use it
 accordingly.</p></li>
 </ul>
 <hr />
@@ -781,7 +782,7 @@ accordingly.</p></li>
 <ul>
 <li><p>KMS38 Activation is vulnerable to unintended replacement by a
 180-Day KMS Activator.</p></li>
-<li><p>From MAS 1.7, script will enable the KMS38 protection by
+<li><p>From MAS 1.7, the script will enable KMS38 protection by
 default.</p></li>
 <li><p>If you are going to use <a
 href="(https://github.com/abbodi1406/KMS_VL_ALL_AIO)">KMS_VL_ALL</a> by
@@ -791,13 +792,14 @@ protection.</p></li>
 <li><p>Below is the explanation for how the script protect
 KMS38.</p></li>
 <li><p>In the KMS activation method, Windows first checks the KMS IP
-registered as a specific KMS, and if that is not defined then it checks
+registered as a specific KMS, and if that is not defined, then it checks
 the Global KMS IP. Another fact is that if Localhost (IP range
-127.0.0.0/8) is defined as KMS IP in Windows 8 and later OS then Windows
-will not accept it as a valid KMS IP. This script simply utilizes the
-above facts to protect the KMS38 activation from being overwritten by
-any alternative ‘normal’ 180-Day KMS Activation and at the same time
-that KMS activator can be used for Office activation.</p></li>
+127.0.0.0/8) is defined as the KMS IP in Windows 8 and later OS, then
+Windows will not accept it as a valid KMS IP. This script simply
+utilizes the above facts to protect the KMS38 activation from being
+overwritten by any alternative ‘normal’ 180-Day KMS Activation, and at
+the same time, that KMS activator can be used for Office
+activation.</p></li>
 <li><p>Script steps-</p>
 <ul>
 <li><p>Set the Windows edition-specific KMS IP to Localhost
@@ -818,31 +820,32 @@ that KMS activator can be used for Office activation.</p></li>
 </div>
 <div id="manual-activation" class="section level2">
 <h2>Manual Activation</h2>
-<p>This is for those who wants to perform manual activation. If you want
-a tool to do this for you then check <a href="index.html">here</a>.</p>
-<p>We can divide the manual activation process into two parts.</p>
+<p>This is for those who want to perform manual activation. If you want
+a tool to do this for you, then check <a href="index.html">here</a>.</p>
+<p>We can perform the manual activation process in 2 ways.</p>
 <div id="from-ready-made-ticket" class="section level3">
 <h3>1- From Ready-Made Ticket</h3>
 <ul>
-<li><p>Open Windows Powershell as administrator, and enter the following
-listed commands in the sequence in which they are given.</p></li>
-<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
-from the above list) with the following command</p></li>
+<li><p>Open Windows PowerShell as administrator, and enter the following
+commands in the sequence in which they are given.</p></li>
+<li><p>Enter the key (Replace <code>&lt;key&gt;</code> with the key from
+the above list) with the following command:</p></li>
 </ul>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
-<li><p>Download Universal ticket from <a
+<li><p>Download the Universal ticket from <a
 href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&amp;file_id=f_1171245497490">here</a>
 and extract the downloaded file.</p></li>
 <li><p>Find a file named <code>KMS.xml</code> in the extracted
 folder.</p></li>
-<li><p>Copy that ticket file and paste it in the below folder</p>
+<li><p>Copy that ticket file and paste it in the following folder:</p>
 <p><code>C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket</code></p></li>
-<li><p>Now run below command in Powershell to apply the ticket</p></li>
+<li><p>Now run the below command in PowerShell to apply the
+ticket:</p></li>
 </ul>
 <p><code>clipup -v -o</code></p>
 <ul>
-<li>Check Activation Status with the following command</li>
+<li>Check the Activation Status with the following command:</li>
 </ul>
 <p><code>slmgr /xpr</code></p>
 <ul>
@@ -852,12 +855,13 @@ folder.</p></li>
 </div>
 <div id="from-scratch" class="section level3">
 <h3>2- From Scratch</h3>
-<p>In this process we will perform activation from scratch. This is
-based on Universal ticket method. Here we will create identical ticket
-which is used in MAS KMS38 script and activate the system with it.</p>
+<p>In this process, we will perform activation from scratch. This is
+based on the Universal ticket method. Here, we will create identical
+tickets that are used in the MAS HWID script and activate the system
+with them.</p>
 <ul>
-<li><p>Download file from the below official MS link and extract this
-.cab file.<br />
+<li><p>Download the file from the official MS link and extract this .cab
+file.<br />
 <a
 href="https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab"
 class="uri">https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab</a></p></li>
@@ -867,10 +871,10 @@ class="uri">https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864
 <li><p>Make a folder named <code>Files</code> in C drive,
 <code>C:\Files</code> and copy the <code>gatherosstate.exe</code> file
 in that folder.</p></li>
-<li><p>Open Windows Powershell as administrator, and enter the following
-listed commands in the sequence in which they are given.</p></li>
-<li><p>Enter the Key, (Replace <code>&lt;key&gt;</code> with the key
-from the above list) with the following command</p></li>
+<li><p>Open Windows PowerShell as administrator and enter the following
+commands in the sequence in which they are given.</p></li>
+<li><p>Enter the key (Replace <code>&lt;key&gt;</code> with the key from
+the above list) with the following command:</p></li>
 </ul>
 <p><code>slmgr /ipk &lt;key&gt;</code></p>
 <ul>
@@ -949,17 +953,17 @@ $bytes[34376] = 0xeb
 $bytes[34377] = 0x63
 [System.IO.File]::WriteAllBytes(&quot;C:\Files\gatherosstatemodified.exe&quot;, $bytes)</code></pre>
 <ul>
-<li>Now right click on the file <code>gatherosstatemodified.exe</code>
-and goto properties and set the compatibility to Windows XP SP3.<br />
+<li>Now right click on the file <code>gatherosstatemodified.exe</code>,
+go to properties and set the compatibility mode to Windows XP SP3.<br />
 </li>
 <li>Now we need to generate the ticket, to do that, enter the below
-command.</li>
+command:</li>
 </ul>
 <!-- -->
 <pre><code>C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1</code></pre>
 <ul>
 <li>A GenuineTicket.xml file should be created in the folder
-<code>C:\Files\</code> now let’s apply it.</li>
+<code>C:\Files\</code>. Now, let’s apply it:</li>
 </ul>
 <p><code>clipup -v -o -altto C:\Files\</code></p>
 <ul>
@@ -972,27 +976,27 @@ command.</li>
 <p><strong>Notes:</strong></p>
 <ul>
 <li><p>To make the exact ticket used in MAS KMS38 script, fix the time
-with below Powershell command and then initiate the ticket generation
-process as per above mentioned steps.<br />
+with the below PowerShell command and then initiate the ticket
+generation process as per the steps mentioned above.<br />
 <code>Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}</code></p></li>
 <li><p>In the case of Windows Server Cor/Acor (No GUI) editions, the
-system doesn’t have <code>clipup.exe</code> file.<br />
-To KMS38 activate it, you need to download <code>ClipUp.exe</code> file
-from <a
+system doesn’t have the <code>clipup.exe</code> file.<br />
+To KMS38 activate it, you need to download the missing
+<code>ClipUp.exe</code> file from <a
 href="https://www.box.com/index.php?rm=box_download_shared_file&amp;shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&amp;file_id=f_747809716860">this
 link</a>.<br />
 <br />
 <code>File: ClipUp.exe</code><br />
 <code>SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef</code><br />
 <br />
-This file has digital signatures which can be verified. You can also get
-this file from official <a
+This file has digital signatures that can be verified. You can also get
+this file from the official <a
 href="https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO">Windows
 Server 2016 x64 RTM ISO</a>.<br />
 <br />
-Put the <code>ClipUp.exe</code> in <code>C:\Windows\System32</code>
-folder and then initiate the above mentioned activation process. Once
-the activation is done, you can remove the file.</p></li>
+Put the <code>ClipUp.exe</code> in the <code>C:\Windows\System32</code>
+folder and then initiate the above-mentioned activation process. Once
+the activation is complete, you can remove the file.</p></li>
 </ul>
 <hr />
 </div>
