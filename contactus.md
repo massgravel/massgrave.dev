@@ -6,7 +6,7 @@ pagetitle: Contact Us
 
 ------------------------------------------------------------------------
 
-Please feel free to share feedback regarding bug reports, documentation errors, troubleshooting, etc.
+Please feel free to share feedback regarding bug reports, documentation errors, troubleshooting, etc. using the links below.
 
 -   [Discord](https://discord.gg/gjJEfq7ux8) ❤️ (signup not required) - Discussion
 
