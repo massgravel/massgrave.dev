@@ -23,6 +23,6 @@ pagetitle: Change Windows Edition
 
 -   The script blocks changing to CountrySpecific, ServerRdsh and to/from CloudEdition editions since it's officially not supported and the user may face issues.
 
--   The script cannot change Windows edition to Home-level editions. 
+-   The script cannot change Non-Core editions to Core editions. (For example, Pro --> Home isn't available)
 
 ------------------------------------------------------------------------

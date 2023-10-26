@@ -111,7 +111,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 -   X86-X64 and ARM64 architecture systems are supported.
 
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. You cannot convert evaluation client editions of Windows to non-evaluation.
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
 
 -   IoTEnterpriseS (LTSC) 2021 key will be used to activate the unsupported EnterpriseS (LTSC) 2021 edition.
 
