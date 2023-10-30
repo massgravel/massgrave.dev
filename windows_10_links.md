@@ -196,7 +196,7 @@ Updated Oct 2023 (Build - 19045.3570)
 ------------------------------------------------------------------------
 
 ## Windows 10 IoT Enterprise 22H2
-
+#### (Not LTSC)
 Updated Oct 2022 (Build - 19045.2006) (This release is not updated every month)
 
 | Links                                                                                                                                                                             |
