@@ -120,7 +120,7 @@ Updated Oct 2023 (Build - 22621.2428)
 ------------------------------------------------------------------------
 
 ## Windows 11 IoT Enterprise 22H2
-
+#### (Not LTSC)
 Updated Sep 2022 (Build - 22621.525) (This release is not updated every month)
 
 | Links                                                                                                                                                                                                            |
