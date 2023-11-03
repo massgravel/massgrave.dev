@@ -130,7 +130,7 @@ Build - 22631.2428 (31-Oct-2023) (This release is not updated every month)
 
 ------------------------------------------------------------------------
 
-## Windows 11 ARM64 22H2
+## Windows 11 ARM64 23H2
 
 Check [here](windows_arm_links.html).
 
