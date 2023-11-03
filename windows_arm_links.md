@@ -14,7 +14,7 @@ All download links leads to genuine files only.
 
 -   Microsoft does not provide free public download links for Windows ARM64 architecture ISO's. They provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   On VLSC, they release business ISO's (No Home level editions) and on MVS, they release Iot versions for ARM64. Consumer ISO's for ARM64 are not released anywhere.
+-   On VLSC, they release business ISO's (No Home level editions) and on MVS, they release Iot versions for ARM64.
 
 -   Alternatively, you can create ARM64 ISO from [UUPdump](https://uupdump.net/) or [ESD](https://worproject.com/esd) file.
 
