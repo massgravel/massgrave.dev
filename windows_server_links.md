@@ -98,3 +98,107 @@ Updated Oct 2023 (Build - 20348.2031)
 | [**ru**\_windows_server_2016\_**x64**\_dvd_9327766.iso](https://drive.massgrave.dev/ru_windows_server_2016_x64_dvd_9327766.iso) |
 | [**sv**\_windows_server_2016\_**x64**\_dvd_9327768.iso](https://drive.massgrave.dev/sv_windows_server_2016_x64_dvd_9327768.iso) |
 | [**tr**\_windows_server_2016\_**x64**\_dvd_9327769.iso](https://drive.massgrave.dev/tr_windows_server_2016_x64_dvd_9327769.iso) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2012 R2
+
+(Build - 9600.17415)
+
+| Links                                                                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**cn**_windows_server_2012_r2_with_update_**x64**_dvd_6052725.iso](https://drive.massgrave.dev/cn_windows_server_2012_r2_with_update_x64_dvd_6052725.iso) |
+| [**cs**_windows_server_2012_r2_with_update_**x64**_dvd_6052695.iso](https://drive.massgrave.dev/cs_windows_server_2012_r2_with_update_x64_dvd_6052695.iso) |
+| [**de**_windows_server_2012_r2_with_update_**x64**_dvd_6052720.iso](https://drive.massgrave.dev/de_windows_server_2012_r2_with_update_x64_dvd_6052720.iso) |
+| [**en**_windows_server_2012_r2_with_update_**x64**_dvd_6052708.iso](https://drive.massgrave.dev/en_windows_server_2012_r2_with_update_x64_dvd_6052708.iso) |
+| [**es**_windows_server_2012_r2_with_update_**x64**_dvd_6052769.iso](https://drive.massgrave.dev/es_windows_server_2012_r2_with_update_x64_dvd_6052769.iso) |
+| [**fr**_windows_server_2012_r2_with_update_**x64**_dvd_6052713.iso](https://drive.massgrave.dev/fr_windows_server_2012_r2_with_update_x64_dvd_6052713.iso) |
+| [**hk**_windows_server_2012_r2_with_update_**x64**_dvd_6052731.iso](https://drive.massgrave.dev/hk_windows_server_2012_r2_with_update_x64_dvd_6052731.iso) |
+| [**hu**_windows_server_2012_r2_with_update_**x64**_dvd_6052727.iso](https://drive.massgrave.dev/hu_windows_server_2012_r2_with_update_x64_dvd_6052727.iso) |
+| [**it**_windows_server_2012_r2_with_update_**x64**_dvd_6052734.iso](https://drive.massgrave.dev/it_windows_server_2012_r2_with_update_x64_dvd_6052734.iso) |
+| [**ja**_windows_server_2012_r2_with_update_**x64**_dvd_6052738.iso](https://drive.massgrave.dev/ja_windows_server_2012_r2_with_update_x64_dvd_6052738.iso) |
+| [**ko**_windows_server_2012_r2_with_update_**x64**_dvd_6052743.iso](https://drive.massgrave.dev/ko_windows_server_2012_r2_with_update_x64_dvd_6052743.iso) |
+| [**nl**_windows_server_2012_r2_with_update_**x64**_dvd_6052701.iso](https://drive.massgrave.dev/nl_windows_server_2012_r2_with_update_x64_dvd_6052701.iso) |
+| [**pl**_windows_server_2012_r2_with_update_**x64**_dvd_6052749.iso](https://drive.massgrave.dev/pl_windows_server_2012_r2_with_update_x64_dvd_6052749.iso) |
+| [**pp**_windows_server_2012_r2_with_update_**x64**_dvd_6052758.iso](https://drive.massgrave.dev/pp_windows_server_2012_r2_with_update_x64_dvd_6052758.iso) |
+| [**pt**_windows_server_2012_r2_with_update_**x64**_dvd_6052754.iso](https://drive.massgrave.dev/pt_windows_server_2012_r2_with_update_x64_dvd_6052754.iso) |
+| [**ru**_windows_server_2012_r2_with_update_**x64**_dvd_6052763.iso](https://drive.massgrave.dev/ru_windows_server_2012_r2_with_update_x64_dvd_6052763.iso) |
+| [**sv**_windows_server_2012_r2_with_update_**x64**_dvd_6052773.iso](https://drive.massgrave.dev/sv_windows_server_2012_r2_with_update_x64_dvd_6052773.iso) |
+| [**tr**_windows_server_2012_r2_with_update_**x64**_dvd_6052778.iso](https://drive.massgrave.dev/tr_windows_server_2012_r2_with_update_x64_dvd_6052778.iso) |
+| [**tw**_windows_server_2012_r2_with_update_**x64**_dvd_6052736.iso](https://drive.massgrave.dev/tw_windows_server_2012_r2_with_update_x64_dvd_6052736.iso) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2008 R2 SP1
+
+(Build - 7601.17514)
+
+| Links                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**cn**_windows_server_2008_r2_with_sp1_**x64**_dvd_617598.iso](https://drive.massgrave.dev/cn_windows_server_2008_r2_with_sp1_x64_dvd_617598.iso) |
+| [**cs**_windows_server_2008_r2_with_sp1_**x64**_dvd_617602.iso](https://drive.massgrave.dev/cs_windows_server_2008_r2_with_sp1_x64_dvd_617602.iso) |
+| [**de**_windows_server_2008_r2_with_sp1_**x64**_dvd_617380.iso](https://drive.massgrave.dev/de_windows_server_2008_r2_with_sp1_x64_dvd_617380.iso) |
+| [**en**_windows_server_2008_r2_with_sp1_**x64**_dvd_617601.iso](https://drive.massgrave.dev/en_windows_server_2008_r2_with_sp1_x64_dvd_617601.iso) |
+| [**es**_windows_server_2008_r2_with_sp1_**x64**_dvd_617398.iso](https://drive.massgrave.dev/es_windows_server_2008_r2_with_sp1_x64_dvd_617398.iso) |
+| [**fr**_windows_server_2008_r2_with_sp1_**x64**_dvd_617591.iso](https://drive.massgrave.dev/fr_windows_server_2008_r2_with_sp1_x64_dvd_617591.iso) |
+| [**hk**_windows_server_2008_r2_with_sp1_**x64**_dvd_617586.iso](https://drive.massgrave.dev/hk_windows_server_2008_r2_with_sp1_x64_dvd_617586.iso) |
+| [**hu**_windows_server_2008_r2_with_sp1_**x64**_dvd_617383.iso](https://drive.massgrave.dev/hu_windows_server_2008_r2_with_sp1_x64_dvd_617383.iso) |
+| [**it**_windows_server_2008_r2_with_sp1_**x64**_dvd_617391.iso](https://drive.massgrave.dev/it_windows_server_2008_r2_with_sp1_x64_dvd_617391.iso) |
+| [**ja**_windows_server_2008_r2_with_sp1_**x64**_dvd_617387.iso](https://drive.massgrave.dev/ja_windows_server_2008_r2_with_sp1_x64_dvd_617387.iso) |
+| [**ko**_windows_server_2008_r2_with_sp1_**x64**_dvd_617385.iso](https://drive.massgrave.dev/ko_windows_server_2008_r2_with_sp1_x64_dvd_617385.iso) |
+| [**nl**_windows_server_2008_r2_with_sp1_**x64**_dvd_617597.iso](https://drive.massgrave.dev/nl_windows_server_2008_r2_with_sp1_x64_dvd_617597.iso) |
+| [**pl**_windows_server_2008_r2_with_sp1_**x64**_dvd_617388.iso](https://drive.massgrave.dev/pl_windows_server_2008_r2_with_sp1_x64_dvd_617388.iso) |
+| [**pp**_windows_server_2008_r2_with_sp1_**x64**_dvd_617382.iso](https://drive.massgrave.dev/pp_windows_server_2008_r2_with_sp1_x64_dvd_617382.iso) |
+| [**pt**_windows_server_2008_r2_with_sp1_**x64**_dvd_617599.iso](https://drive.massgrave.dev/pt_windows_server_2008_r2_with_sp1_x64_dvd_617599.iso) |
+| [**ru**_windows_server_2008_r2_with_sp1_**x64**_dvd_617389.iso](https://drive.massgrave.dev/ru_windows_server_2008_r2_with_sp1_x64_dvd_617389.iso) |
+| [**sv**_windows_server_2008_r2_with_sp1_**x64**_dvd_617393.iso](https://drive.massgrave.dev/sv_windows_server_2008_r2_with_sp1_x64_dvd_617393.iso) |
+| [**tr**_windows_server_2008_r2_with_sp1_**x64**_dvd_617390.iso](https://drive.massgrave.dev/tr_windows_server_2008_r2_with_sp1_x64_dvd_617390.iso) |
+| [**tw**_windows_server_2008_r2_with_sp1_**x64**_dvd_617595.iso](https://drive.massgrave.dev/tw_windows_server_2008_r2_with_sp1_x64_dvd_617595.iso) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2008 SP2
+
+(Build - 6002.18005)
+
+| Links                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**cn**_windows_server_2008_with_sp2_**x64**_dvd_x15-41319.iso](https://drive.massgrave.dev/cn_windows_server_2008_with_sp2_x64_dvd_x15-41319.iso) |
+| [**cn**_windows_server_2008_with_sp2_**x86**_dvd_x15-41045.iso](https://drive.massgrave.dev/cn_windows_server_2008_with_sp2_x86_dvd_x15-41045.iso) |
+| [**cs**_windows_server_2008_with_sp2_**x64**_dvd_x15-41331.iso](https://drive.massgrave.dev/cs_windows_server_2008_with_sp2_x64_dvd_x15-41331.iso) |
+| [**cs**_windows_server_2008_with_sp2_**x86**_dvd_x15-41057.iso](https://drive.massgrave.dev/cs_windows_server_2008_with_sp2_x86_dvd_x15-41057.iso) |
+| [**de**_windows_server_2008_with_sp2_**x64**_dvd_342381.iso](https://drive.massgrave.dev/de_windows_server_2008_with_sp2_x64_dvd_342381.iso)       |
+| [**de**_windows_server_2008_with_sp2_**x86**_dvd_342378.iso](https://drive.massgrave.dev/de_windows_server_2008_with_sp2_x86_dvd_342378.iso)       |
+| [**en**_windows_server_2008_with_sp2_**x64**_dvd_342336.iso](https://drive.massgrave.dev/en_windows_server_2008_with_sp2_x64_dvd_342336.iso)       |
+| [**en**_windows_server_2008_with_sp2_**x86**_dvd_342333.iso](https://drive.massgrave.dev/en_windows_server_2008_with_sp2_x86_dvd_342333.iso)       |
+| [**es**_windows_server_2008_with_sp2_**x64**_dvd_342419.iso](https://drive.massgrave.dev/es_windows_server_2008_with_sp2_x64_dvd_342419.iso)       |
+| [**es**_windows_server_2008_with_sp2_**x86**_dvd_342416.iso](https://drive.massgrave.dev/es_windows_server_2008_with_sp2_x86_dvd_342416.iso)       |
+| [**fr**_windows_server_2008_with_sp2_**x64**_dvd_342359.iso](https://drive.massgrave.dev/fr_windows_server_2008_with_sp2_x64_dvd_342359.iso)       |
+| [**fr**_windows_server_2008_with_sp2_**x86**_dvd_342356.iso](https://drive.massgrave.dev/fr_windows_server_2008_with_sp2_x86_dvd_342356.iso)       |
+| [**hk**_windows_server_2008_with_sp2_**x64**_dvd_x15-41327.iso](https://drive.massgrave.dev/hk_windows_server_2008_with_sp2_x64_dvd_x15-41327.iso) |
+| [**hk**_windows_server_2008_with_sp2_**x86**_dvd_x15-41053.iso](https://drive.massgrave.dev/hk_windows_server_2008_with_sp2_x86_dvd_x15-41053.iso) |
+| [**hu**_windows_server_2008_with_sp2_**x64**_dvd_x15-41339.iso](https://drive.massgrave.dev/hu_windows_server_2008_with_sp2_x64_dvd_x15-41339.iso) |
+| [**hu**_windows_server_2008_with_sp2_**x86**_dvd_x15-41065.iso](https://drive.massgrave.dev/hu_windows_server_2008_with_sp2_x86_dvd_x15-41065.iso) |
+| [**it**_windows_server_2008_with_sp2_**x64**_dvd_x15-41343.iso](https://drive.massgrave.dev/it_windows_server_2008_with_sp2_x64_dvd_x15-41343.iso) |
+| [**it**_windows_server_2008_with_sp2_**x86**_dvd_x15-41069.iso](https://drive.massgrave.dev/it_windows_server_2008_with_sp2_x86_dvd_x15-41069.iso) |
+| [**ja**_windows_server_2008_with_sp2_**x64**_dvd_342397.iso](https://drive.massgrave.dev/ja_windows_server_2008_with_sp2_x64_dvd_342397.iso)       |
+| [**ja**_windows_server_2008_with_sp2_**x86**_dvd_342394.iso](https://drive.massgrave.dev/ja_windows_server_2008_with_sp2_x86_dvd_342394.iso)       |
+| [**ko**_windows_server_2008_with_sp2_**x64**_dvd_x15-41347.iso](https://drive.massgrave.dev/ko_windows_server_2008_with_sp2_x64_dvd_x15-41347.iso) |
+| [**ko**_windows_server_2008_with_sp2_**x86**_dvd_x15-41073.iso](https://drive.massgrave.dev/ko_windows_server_2008_with_sp2_x86_dvd_x15-41073.iso) |
+| [**nl**_windows_server_2008_with_sp2_**x64**_dvd_x15-41335.iso](https://drive.massgrave.dev/nl_windows_server_2008_with_sp2_x64_dvd_x15-41335.iso) |
+| [**nl**_windows_server_2008_with_sp2_**x86**_dvd_x15-41061.iso](https://drive.massgrave.dev/nl_windows_server_2008_with_sp2_x86_dvd_x15-41061.iso) |
+| [**pl**_windows_server_2008_with_sp2_**x64**_dvd_x15-41351.iso](https://drive.massgrave.dev/pl_windows_server_2008_with_sp2_x64_dvd_x15-41351.iso) |
+| [**pl**_windows_server_2008_with_sp2_**x86**_dvd_x15-41077.iso](https://drive.massgrave.dev/pl_windows_server_2008_with_sp2_x86_dvd_x15-41077.iso) |
+| [**pp**_windows_server_2008_with_sp2_**x64**_dvd_x15-41355.iso](https://drive.massgrave.dev/pp_windows_server_2008_with_sp2_x64_dvd_x15-41355.iso) |
+| [**pp**_windows_server_2008_with_sp2_**x86**_dvd_x15-41081.iso](https://drive.massgrave.dev/pp_windows_server_2008_with_sp2_x86_dvd_x15-41081.iso) |
+| [**pt**_windows_server_2008_with_sp2_**x64**_dvd_x15-41315.iso](https://drive.massgrave.dev/pt_windows_server_2008_with_sp2_x64_dvd_x15-41315.iso) |
+| [**pt**_windows_server_2008_with_sp2_**x86**_dvd_x15-41041.iso](https://drive.massgrave.dev/pt_windows_server_2008_with_sp2_x86_dvd_x15-41041.iso) |
+| [**ru**_windows_server_2008_with_sp2_**x64**_dvd_x15-41359.iso](https://drive.massgrave.dev/ru_windows_server_2008_with_sp2_x64_dvd_x15-41359.iso) |
+| [**ru**_windows_server_2008_with_sp2_**x86**_dvd_x15-41085.iso](https://drive.massgrave.dev/ru_windows_server_2008_with_sp2_x86_dvd_x15-41085.iso) |
+| [**sv**_windows_server_2008_with_sp2_**x64**_dvd_x15-41363.iso](https://drive.massgrave.dev/sv_windows_server_2008_with_sp2_x64_dvd_x15-41363.iso) |
+| [**sv**_windows_server_2008_with_sp2_**x86**_dvd_x15-41089.iso](https://drive.massgrave.dev/sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.iso) |
+| [**tr**_windows_server_2008_with_sp2_**x64**_dvd_x15-41367.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.iso) |
+| [**tr**_windows_server_2008_with_sp2_**x86**_dvd_x15-41093.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso) |
+| [**tw**_windows_server_2008_with_sp2_**x64**_dvd_x15-41323.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso) |
+| [**tw**_windows_server_2008_with_sp2_**x86**_dvd_x15-41049.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso) |
+
