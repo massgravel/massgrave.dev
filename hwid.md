@@ -92,6 +92,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 | Home China                            | `N2434-X9D7W-8PF6X-8DV9T-8TYMD` |
 | Home Single Language                  | `BT79Q-G7N6G-PGBYW-4YWX6-6F4BT` |
 | IoT Enterprise                        | `XQQYW-NFFMW-XJPBH-K8732-CKFFD` |
+| IoT Enterprise Subscription           | `P8Q7T-WNK7X-PMFXY-VXHBG-RRK69` |
 | IoT Enterprise LTSC 2021              | `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` |
 | IoT Enterprise LTSC 2024              | `CGK42-GYN6Y-VD22B-BX98W-J8JXD` |
 | IoT Enterprise LTSC Subscription 2024 | `J7NJW-V6KBM-CC8RW-Y29Y4-HQ2MJ` |
@@ -149,7 +150,7 @@ We can perform the manual activation process in 2 ways.
 
 `slmgr /ipk <key>`
 
--   Download Universal tickets from [here](https://pixeldrain.com/u/GbVLtMn6) and extract the downloaded file.
+-   Download Universal tickets from [here](https://pixeldrain.com/u/pExQ5L8f) and extract the downloaded file.
 
 -   Now enter below code in PowerShell:
 

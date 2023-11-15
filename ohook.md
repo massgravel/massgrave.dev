@@ -202,6 +202,9 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2021)   | VisioStd2021Volume              | BW43B-4PNFP-V637F-23TR2-J47TX | MAK-AE        |
 | v16.0 (2021)   | Word2021Retail                  | VNCC4-CJQVK-BKX34-77Y8H-CYXMR | Retail        |
 | v16.0 (2021)   | Word2021Volume                  | BJG97-NW3GM-8QQQ7-FH76G-686XM | MAK-AE        |
+| v16.0 (2024)   | ProPlus2024Volume-Preview       | GNXWX-DF797-B2JT3-82W27-KHPXT | MAK-AE        |
+| v16.0 (2024)   | ProjectPro2024Volume-Preview    | X86XX-N3QMW-B4WGQ-QCB69-V26KW | MAK-AE        |
+| v16.0 (2024)   | VisioPro2024Volume-Preview      | DW99Y-H7NT6-6B29D-8JQ8F-R3QT7 | MAK-AE        |
 | v16.0 (O365)   | O365BusinessRetail              | 2P3C9-BQNJH-VCVPH-YDY6M-43JPQ | Subscription  |
 | v16.0 (O365)   | O365EduCloudRetail              | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
 | v16.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
