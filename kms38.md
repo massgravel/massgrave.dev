@@ -62,11 +62,13 @@ pagetitle: KMS38 Activation
 | Enterprise LTSB 2016                            | `DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ` |
 | Enterprise LTSC 2019                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
 | Enterprise LTSC 2021                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
+| Enterprise LTSC 2024                            | `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` |
 | Enterprise N LTSB 2016                          | `QFFDN-GRT3P-VKWWX-X7T3R-8B639` |
 | Enterprise N LTSC 2019                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
 | Enterprise N LTSC 2021                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
+| Enterprise N LTSC 2024                          | `92NFX-8DJQP-P6BBQ-THF9C-7CG2H` |
 | IoT Enterprise LTSC 2021 (19044.2788 and later) | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
-| IoT Enterprise LTSC (Windows 11)                | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
+| IoT Enterprise LTSC 2024                        | `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` |
 | Home                                            | `TX9XD-98N7V-6WMQ6-BX7FG-H8Q99` |
 | Home N                                          | `3KHY7-WNT83-DGQKR-F7HPR-844BM` |
 | Home China                                      | `PVMJN-6DFY6-9CCP6-7BKTT-D3WVR` |
@@ -81,26 +83,35 @@ pagetitle: KMS38 Activation
 | SE                                              | `37D7F-N49CB-WQR8W-TBJ73-FM8RX` |
 | SE N                                            | `6XN7V-PCBDC-BDBRH-8DQY7-G6R44` |
 
-| Windows Server (LTSC)             | Generic Volume License Key      |
-|:----------------------------------|:--------------------------------|
-| Windows Server 2022 Datacenter    | `WX4NM-KYWYW-QJJR4-XV3QB-6VM33` |
-| Windows Server 2022 Standard      | `VDYBN-27WPP-V4HQT-9VMD4-VMK7H` |
-| Windows Server 2022 Azure Core    | `6N379-GGTMK-23C6M-XVVTC-CKFRQ` |
-| Windows Server 2019 Datacenter    | `WMDGN-G9PQG-XVVXX-R3X43-63DFG` |
-| Windows Server 2019 Standard      | `N69G4-B89J2-4G8F4-WWYCC-J464C` |
-| Windows Server 2019 Essentials    | `WVDHN-86M7X-466P6-VHXV7-YY726` |
-| Windows Server 2019 Azure Core    | `FDNH6-VW9RW-BXPJ7-4XTYG-239TB` |
-| Windows Server 2019 ARM64         | `GRFBW-QNDC4-6QBHG-CCK3B-2PR88` |
-| Windows Server 2016 ARM64         | `K9FYF-G6NCK-73M32-XMVPY-F9DRR` |
-| Windows Server 2016 Datacenter    | `CB7KF-BWN84-R7R2Y-793K2-8XDDG` |
-| Windows Server 2016 Standard      | `WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY` |
-| Windows Server 2016 Essentials    | `JCKRF-N37P4-C2D82-9YXRT-4M63B` |
-| Windows Server 2016 Cloud Storage | `QN4C6-GBJD2-FB422-GHWJK-GJG2R` |
-| Windows Server 2016 Azure Core    | `VP34G-4NPPG-79JTQ-864T4-R3MQX` |
+| Windows Server (LTSC)                | Generic Volume License Key      |
+|:-------------------------------------|:--------------------------------|
+| Windows Server 2025 Standard         | `DPNXD-67YY9-WWFJJ-RYH99-RM832` |
+| Windows Server 2025 Datacenter       | `CNFDQ-2BW8H-9V4WM-TKCPD-MD2QF` |
+| Windows Server 2025 Azure Core       | `QN7G3-4RM92-MT6QR-PR966-FVYV7` |
+| Windows Server 2025 Azure Datacenter | `NQ8HH-FTDTM-6VGY7-TQ3DV-XFBV2` |
+| Windows Server 2022 Datacenter       | `WX4NM-KYWYW-QJJR4-XV3QB-6VM33` |
+| Windows Server 2022 Standard         | `VDYBN-27WPP-V4HQT-9VMD4-VMK7H` |
+| Windows Server 2022 Azure Core       | `6N379-GGTMK-23C6M-XVVTC-CKFRQ` |
+| Windows Server 2022 Azure Datacenter | `NTBV8-9K7Q8-V27C6-M2BTV-KHMXV` |
+| Windows Server 2019 Datacenter       | `WMDGN-G9PQG-XVVXX-R3X43-63DFG` |
+| Windows Server 2019 Standard         | `N69G4-B89J2-4G8F4-WWYCC-J464C` |
+| Windows Server 2019 Essentials       | `WVDHN-86M7X-466P6-VHXV7-YY726` |
+| Windows Server 2019 Azure Core       | `FDNH6-VW9RW-BXPJ7-4XTYG-239TB` |
+| Windows Server 2019 ARM64            | `GRFBW-QNDC4-6QBHG-CCK3B-2PR88` |
+| Windows Server 2016 ARM64            | `K9FYF-G6NCK-73M32-XMVPY-F9DRR` |
+| Windows Server 2016 Datacenter       | `CB7KF-BWN84-R7R2Y-793K2-8XDDG` |
+| Windows Server 2016 Standard         | `WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY` |
+| Windows Server 2016 Essentials       | `JCKRF-N37P4-C2D82-9YXRT-4M63B` |
+| Windows Server 2016 Cloud Storage    | `QN4C6-GBJD2-FB422-GHWJK-GJG2R` |
+| Windows Server 2016 Azure Core       | `VP34G-4NPPG-79JTQ-864T4-R3MQX` |
+
+| Windows Server (Annual Channel)      | Generic Volume License Key      |
+|:-------------------------------------|:--------------------------------|
+| **23H2**                             |                                 |
+| Windows Server Datacenter            | `WX4NM-KYWYW-QJJR4-XV3QB-6VM33` |
 
 | Windows Server (Semi-Annual Channel) | Generic Volume License Key      |
 |:-------------------------------------|:--------------------------------|
-| Windows Server Azure Datacenter      | `NTBV8-9K7Q8-V27C6-M2BTV-KHMXV` |
 | **20H2, 2004, 1909, 1903, and 1809** |                                 |
 | Windows Server Datacenter            | `6NMRW-2C8FM-D24W7-TQWMY-CWH2D` |
 | Windows Server Standard              | `N2KJX-J94YW-TQVFB-DG9YT-724CC` |

@@ -6,6 +6,32 @@ pagetitle: Changelog
 
 ------------------------------------------------------------------------
 
+## 2.5
+
+**Added Support For New Editions**
+
+------------------------------------------------------------------------
+
+#### HWID:
+
+-   Added support for the Windows 11 IoTEnterpriseK edition.
+
+#### KMS38:
+
+-   Added support for Windows Server 2025 editions.
+
+#### Ohook:
+
+-   Added support for Microsoft Office 2024 (Preview) editions.
+-   Fixed a delay issue in checking user account SIDs if a lot of users are added to the domain-joined system.
+
+#### All:
+
+-   Fixed a delay issue in checking WPA registry keys
+-   Optimized some codes and fixed a few bugs
+
+------------------------------------------------------------------------
+
 ## 2.4
 
 **Minor Update**
