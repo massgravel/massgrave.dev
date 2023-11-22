@@ -29,6 +29,8 @@ All download links leads to genuine files only.
 Build - 22631.2428 (31-Oct-2023) - Official Link ❤️ - [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/)\
 Build - 22631.2428 (31-Oct-2023) - Below links are for MVS ISO's (Identical to Official public ISO's)
 
+Note: Nov 2023 updated ISO for 23H2 is not available.
+
 | Links                                                                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**ar-sa**_windows_11_consumer_editions_version_23h2_**x64**_dvd_b507f164.iso](https://drive.massgrave.dev/ar-sa_windows_11_consumer_editions_version_23h2_x64_dvd_b507f164.iso)           |
@@ -76,6 +78,8 @@ Build - 22631.2428 (31-Oct-2023) - Below links are for MVS ISO's (Identical to O
 
 Build - 22631.2428 (31-Oct-2023)
 
+Note: Nov 2023 updated ISO for 23H2 is not available.
+
 | Links                                                                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**ar-sa**_windows_11_business_editions_version_23h2_**x64**_dvd_90df2506.iso](https://drive.massgrave.dev/ar-sa_windows_11_business_editions_version_23h2_x64_dvd_90df2506.iso)           |
@@ -121,7 +125,7 @@ Build - 22631.2428 (31-Oct-2023)
 
 ## Windows 11 IoT Enterprise 23H2
 #### (Not LTSC)
-Build - 22631.2428 (31-Oct-2023) (This release is not updated every month)
+Build - 22631.2428 (31-Oct-2023) (This ISO file is not updated every month)
 
 | Links                                                                                                                                                                          |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
