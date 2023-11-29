@@ -59,7 +59,7 @@ It will now download and install Office. You can activate it with your preferred
 
 ## Alternative Methods
 
--   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v9.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.6.zip) (Office Installer)
+-   [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v9.0.zip) (Office Downloader) & [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.7.zip) (Office Installer)
 
 -   [Office Tool Plus](http://otp.landian.vip/)
 
