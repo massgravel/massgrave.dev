@@ -20,7 +20,7 @@ An open-source tool to activate or reset the trial of [Internet Download Manager
 
 ## IAS Latest Release
 
-Last Release - v0.9 (29-Nov-2023)\
+Last Release - v1.0 (01-Dec-2023)\
 [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script) - [BitBucket](https://bitbucket.org/WindowsAddict/idm-activation-script/)
 
 ------------------------------------------------------------------------
@@ -94,6 +94,11 @@ Last Release - v0.9 (29-Nov-2023)\
 
 ## Changelog
 
+#### v1.0
+
+-   Added the code to relaunch the script with conhost.exe if the script is running from the terminal app.
+-   Fixed an issue in getting the current user account SID.
+
 #### v0.9
 
 -   Fixed an issue where the script can not activate and reset IDM in non-admin user accounts.
@@ -125,7 +130,7 @@ Last Release - v0.9 (29-Nov-2023)\
 ## Credits
 
 |                                             |                                                                                                                                                                                                                                        |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------|--------------------------------------------------------|
 | Dukun Cabul                                 | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final](https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062) |
 | AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
 | [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
