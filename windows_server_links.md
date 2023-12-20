@@ -22,28 +22,28 @@ All download links leads to genuine files only.
 
 ## Windows Server 2022
 
-Updated Nov 2023 (Build - 20348.2113)
+Updated Dec 2023 (Build - 20348.2159)
 
 | Links                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**cs-cz**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**de-de**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**en-us**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**es-es**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**fr-fr**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**hu-hu**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**it-it**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**ja-jp**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**ko-kr**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**nl-nl**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**pl-pl**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**pt-br**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**pt-pt**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**ru-ru**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**sv-se**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**tr-tr**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**zh-cn**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
-| [**zh-tw**_windows_server_2022_updated_nov_2023_**x64**_dvd_f4882e88.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_nov_2023_x64_dvd_f4882e88.iso) |
+| [**cs-cz**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**de-de**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**en-us**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**es-es**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**fr-fr**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**hu-hu**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**it-it**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**ja-jp**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**ko-kr**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**nl-nl**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**pl-pl**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**pt-br**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**pt-pt**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**ru-ru**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**sv-se**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**tr-tr**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**zh-cn**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
+| [**zh-tw**_windows_server_2022_updated_dec_2023_**x64**_dvd_f101ef8f.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_dec_2023_x64_dvd_f101ef8f.iso) |
 
 ------------------------------------------------------------------------
 
