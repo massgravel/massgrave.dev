@@ -8,7 +8,7 @@ All download links lead to genuine files only.
 
 | **Windows**                               |                                                                                                                                                                               |
 |:-----------------------------|:---------------------------------|
-| Windows 11 / 10 / 8.1 (Official Links) ❤️ | [Link1](https://www.microsoft.com/software-download) - [Link2](/msdl/) (Works in Russia)                                                                                      |
+| Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](/msdl/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                                     |
 | Windows 11                                | [Link](windows_11_links.html)                                                                                                                                                 |
 | Windows 10                                | [Link](windows_10_links.html)                                                                                                                                                 |
 | Windows 10 Enterprise **LTSC**            | [Link](windows_ltsc_links.html)                                                                                                                                               |
