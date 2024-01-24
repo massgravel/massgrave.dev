@@ -28,7 +28,7 @@ pagetitle: OEM Folders
 
 -   As stated above, you can copy the `$OEM$` folder to your bootable USB so you don't have to edit the ISO file. However, if you need to, then follow the steps below.
 
--   Extract the ISO file with an archive software like 7-zip or Winrar.
+-   Extract the ISO file with an archive software like 7-zip or Winrar and **rename the extracted folder** to something else so that the ISO and extracted folder names are not the same in the same directory (Otherwise MakeISO.reg will replace your ISO with modified ISO).
 
 -   Add the mentioned folder to the specified location.
 
@@ -62,7 +62,7 @@ pagetitle: OEM Folders
 
 -   Put the `ClipUp.exe` beside the KMS38 Activation script. That would be either `MAS_AIO.cmd` or `KMS38_Activation.cmd`
 
--   Activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
+-   The activation script will check `ClipUp.exe` in the current folder (from where script is running) and will use it accordingly.
 
 ------------------------------------------------------------------------
 

@@ -50,9 +50,9 @@ Primarily, it checks for Russian IP addresses, and based on that, the above erro
 "CountryCode"="std::wstring|RU"
 ```
 
-### Solution
+### Solution 1
 
-**1-** Open command prompt as admin and enter,
+-   Open command prompt as admin and enter,
 
 ```         
 reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "CountryCode" /t REG_SZ /d "std::wstring|US" /f
@@ -60,7 +60,11 @@ reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "C
 
 After that, the office installer won't show any related errors. You can apply this before or after running the Office installer and you can download Office without any VPN with your Russian IP address.
 
-**2-** Use the [Offline installer file](office_c2r_links.html) to install Office.
+**Or**
+
+### Solution 2
+
+-   Use the [Offline installer file](#0) to install Office.
 
 ------------------------------------------------------------------------
 

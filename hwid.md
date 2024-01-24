@@ -8,8 +8,6 @@ pagetitle: HWID Activation
 
 ## Overview
 
-**Note: HWID Activation is now working again with a new method.**
-
 ------------------------------------------------------------------------
 
 -   How to use it? Please find the instructions [here](index.html#Download__How_to_use_it).
@@ -54,9 +52,9 @@ pagetitle: HWID Activation
     There are two methods for it.\
     \
     **1-** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file beside gatherosstate.exe:\
-    gatherosstate.exe uses the system\'s `C:\Windows\System32\slc.dll` file to gather the system\'s info. If we place a custom slc.dll file beside gatherosstate.exe, it can send rubbish data to it, then it will simply accept it and generate a valid ticket.\
+    gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather the system's info. If we place a custom slc.dll file beside gatherosstate.exe, it can send rubbish data to it, then it will simply accept it and generate a valid ticket.\
     \
-    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file directly so that it doesn\'t check the system\'s activation status at all and create a valid ticket.
+    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file directly so that it doesn't check the system's activation status at all and create a valid ticket.
 
 -   You can find the workings of this old method here: [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods).
 
@@ -125,6 +123,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 ## How to remove HWID?
 
 -   You cannot remove it, just like you cannot remove an official Windows digital license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
+-   If you still want to remove the activation for any XYZ reason, you can either use the change edition option in the extras section in MAS **or** get the KMS key from [here](kms38.html#Supported_Products) and enter this in the Windows settings activation page.
 
 ------------------------------------------------------------------------
 

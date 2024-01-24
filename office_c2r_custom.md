@@ -76,6 +76,8 @@ We can use alternative steps to get the files and install them.
 -   Now run `YAOCTRI_Configurator.cmd` as admin to install Office
 -   When Office installation is done, activate with Ohook option in MAS
 
+Just FYI, Office 365 has most features, not 2024.
+
 ------------------------------------------------------------------------
 
 ## Need help?

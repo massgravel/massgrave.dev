@@ -410,8 +410,6 @@ div.tocify {
 <hr />
 <div id="overview" class="section level2">
 <h2>Overview</h2>
-<p><strong>Note: HWID Activation is now working again with a new
-method.</strong></p>
 <hr />
 <ul>
 <li><p>How to use it? Please find the instructions <a
@@ -481,15 +479,15 @@ There are two methods for it.<br />
 <strong>1-</strong> Place a <a
 href="https://github.com/asdcorp/Integrated_Patcher_3">custom
 slc.dll</a> file beside gatherosstate.exe:<br />
-gatherosstate.exe uses the system's
-<code>C:\Windows\System32\slc.dll</code> file to gather the system's
+gatherosstate.exe uses the system’s
+<code>C:\Windows\System32\slc.dll</code> file to gather the system’s
 info. If we place a custom slc.dll file beside gatherosstate.exe, it can
 send rubbish data to it, then it will simply accept it and generate a
 valid ticket.<br />
 <br />
 <strong>2-</strong> <a
 href="https://github.com/asdcorp/GamersOsState">Modify</a> the
-gatherosstate.exe file directly so that it doesn't check the system's
+gatherosstate.exe file directly so that it doesn’t check the system’s
 activation status at all and create a valid ticket.</p></li>
 <li><p>You can find the workings of this old method here: <a
 href="https://github.com/massgravel/MAS-Legacy-Methods">MAS-Legacy-Methods</a>.</p></li>
@@ -680,6 +678,11 @@ cannot be removed because the license is stored in the Microsoft servers
 and not in the user’s system. MS checks the hardware ID (HWID) and if a
 license is found in their database, the system will automatically
 activate.</li>
+<li>If you still want to remove the activation for any XYZ reason, you
+can either use the change edition option in the extras section in MAS
+<strong>or</strong> get the KMS key from <a
+href="kms38.html#Supported_Products">here</a> and enter this in the
+Windows settings activation page.</li>
 </ul>
 <hr />
 </div>

@@ -450,14 +450,22 @@ will still keep showing the error.</p>
 </div>
 </div>
 <div id="solution-1" class="section level3">
-<h3>Solution</h3>
-<p><strong>1-</strong> Open command prompt as admin and enter,</p>
+<h3>Solution 1</h3>
+<ul>
+<li>Open command prompt as admin and enter,</li>
+</ul>
 <pre><code>reg add &quot;HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs&quot; /v &quot;CountryCode&quot; /t REG_SZ /d &quot;std::wstring|US&quot; /f</code></pre>
 <p>After that, the office installer won’t show any related errors. You
 can apply this before or after running the Office installer and you can
 download Office without any VPN with your Russian IP address.</p>
-<p><strong>2-</strong> Use the <a href="office_c2r_links.html">Offline
-installer file</a> to install Office.</p>
+<p><strong>Or</strong></p>
+</div>
+<div id="solution-2" class="section level3">
+<h3>Solution 2</h3>
+<ul>
+<li>Use the <a href="#id_0">Offline installer file</a> to install
+Office.</li>
+</ul>
 <hr />
 <p>Please let us <a href="contactus.html">know</a> if you face any
 issues or have any suggestions.</p>
