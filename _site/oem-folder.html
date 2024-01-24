@@ -437,7 +437,10 @@ requirement.</p></li>
 your bootable USB so you don’t have to edit the ISO file. However, if
 you need to, then follow the steps below.</p></li>
 <li><p>Extract the ISO file with an archive software like 7-zip or
-Winrar.</p></li>
+Winrar and <strong>rename the extracted folder</strong> to something
+else so that the ISO and extracted folder names are not the same in the
+same directory (Otherwise MakeISO.reg will replace your ISO with
+modified ISO).</p></li>
 <li><p>Add the mentioned folder to the specified location.</p></li>
 <li><p>Run <a
 href="https://forums.mydigitallife.net/posts/1733596">MakeISO.reg</a> by
@@ -482,7 +485,7 @@ Server 2016 x64 RTM ISO</a>.</p></li>
 <li><p>Put the <code>ClipUp.exe</code> beside the KMS38 Activation
 script. That would be either <code>MAS_AIO.cmd</code> or
 <code>KMS38_Activation.cmd</code></p></li>
-<li><p>Activation script will check <code>ClipUp.exe</code> in the
+<li><p>The activation script will check <code>ClipUp.exe</code> in the
 current folder (from where script is running) and will use it
 accordingly.</p></li>
 </ul>
