@@ -64,7 +64,7 @@ After that, the office installer won't show any related errors. You can apply th
 
 ### Solution 2
 
--   Use the [Offline installer file](#0) to install Office.
+-   Use the [Offline installer file](office_c2r_links.html) to install Office.
 
 ------------------------------------------------------------------------
 
