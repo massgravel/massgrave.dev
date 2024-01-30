@@ -52,7 +52,7 @@ pagetitle: KMS38 Activation
 ## Supported Products
 
 | Windows 10/11                                   | Generic Volume License Key      |
-|:------------------------------------------------|:--------------------------------|
+|:------------------------------------------|:----------------------------|
 | Education                                       | `NW6C2-QMPVW-D7KKK-3GKT6-VCFB2` |
 | Education N                                     | `2WH4N-8QGBV-H22JP-CT43Q-MDWWJ` |
 | Enterprise                                      | `NPPR9-FWDCX-D2C8J-H872K-2YT43` |
@@ -105,10 +105,10 @@ pagetitle: KMS38 Activation
 | Windows Server 2016 Cloud Storage    | `QN4C6-GBJD2-FB422-GHWJK-GJG2R` |
 | Windows Server 2016 Azure Core       | `VP34G-4NPPG-79JTQ-864T4-R3MQX` |
 
-| Windows Server (Annual Channel)      | Generic Volume License Key      |
-|:-------------------------------------|:--------------------------------|
-| **23H2**                             |                                 |
-| Windows Server Datacenter            | `WX4NM-KYWYW-QJJR4-XV3QB-6VM33` |
+| Windows Server (Annual Channel) | Generic Volume License Key      |
+|:--------------------------------|:--------------------------------|
+| **23H2**                        |                                 |
+| Windows Server Datacenter       | `WX4NM-KYWYW-QJJR4-XV3QB-6VM33` |
 
 | Windows Server (Semi-Annual Channel) | Generic Volume License Key      |
 |:-------------------------------------|:--------------------------------|
@@ -126,7 +126,7 @@ pagetitle: KMS38 Activation
 
 -   X86-X64 and ARM64 architecture systems are supported.
 
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated. 
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
 
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 
@@ -150,7 +150,7 @@ pagetitle: KMS38 Activation
 
 -   Windows Server Cor/Acor (No GUI) editions don't have the `clipup.exe` file.
 
--   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+-   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).\
     \
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
