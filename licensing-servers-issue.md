@@ -24,11 +24,10 @@ pagetitle: Licensing Servers Issue
 
 ## VPN
 
--   Install Freedome VPN, connect to USA servers then try HWID activation.\
-    <https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe>
+-   Install [WARP](https://1.1.1.1/) VPN, connect, and try HWID activation.
 
--   If this VPN is not connecting then try <https://windscribe.com/download> (free but signup is required) or <https://1.1.1.1/> or any other VPN that is working in your country.
+-   If the VPN is not connecting then use another Internet connection such as your Mobile phone through USB Tethering or Wi-Fi Hotspot and try HWID activation.
 
--   If HWID activation is still showing the same Internet error then check [here](troubleshoot.html) for help.
+-   If HWID activation is still not working then check [here](troubleshoot.html) for help.
 
 ------------------------------------------------------------------------

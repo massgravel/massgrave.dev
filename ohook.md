@@ -239,6 +239,8 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 -   In MAS, goto Ohook Activation and apply Uninstall option.
 
+-   After that, In MAS, goto Troubleshoot and apply Fix Licensing option. (Optional)
+
 -   Done.
 
 ------------------------------------------------------------------------
