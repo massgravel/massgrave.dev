@@ -24,101 +24,101 @@ All download links leads to genuine files only.
 
 ## Windows 11 23H2 Business
 
-Build - 22631.2428
+Build - 22631.3007
 
-| Links                                                                                                                                                                                          |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Arabic**_Pro_Ent_EDU_N_MLF_X23-59521.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X23-59521.ISO)                 |  
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Brazilian**_Pro_Ent_EDU_N_MLF_X23-59516.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X23-59516.ISO)           |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Bulgarian**_Pro_Ent_EDU_N_MLF_X23-59522.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X23-59522.ISO)           |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_ChnSimp**_Pro_Ent_EDU_N_MLF_X23-59518.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X23-59518.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_ChnTrad**_Pro_Ent_EDU_N_MLF_X23-59551.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X23-59551.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Croatian**_Pro_Ent_EDU_N_MLF_X23-59514.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X23-59514.ISO)             |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Czech**_Pro_Ent_EDU_N_MLF_X23-59523.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Czech_Pro_Ent_EDU_N_MLF_X23-59523.ISO)                   |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Danish**_Pro_Ent_EDU_N_MLF_X23-59525.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Danish_Pro_Ent_EDU_N_MLF_X23-59525.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Dutch**_Pro_Ent_EDU_N_MLF_X23-59538.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X23-59538.ISO)                   |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Eng_Intl**_Pro_Ent_EDU_N_MLF_X23-59552.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-59552.ISO)             |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_English**_Pro_Ent_EDU_N_MLF_X23-59519.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_English_Pro_Ent_EDU_N_MLF_X23-59519.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Estonian**_Pro_Ent_EDU_N_MLF_X23-59534.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X23-59534.ISO)             |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Finnish**_Pro_Ent_EDU_N_MLF_X23-59546.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X23-59546.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_French**_Pro_Ent_EDU_N_MLF_X23-59527.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_French_Pro_Ent_EDU_N_MLF_X23-59527.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_FrenchCanadian**_Pro_Ent_EDU_N_MLF_X23-59517.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X23-59517.ISO) |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_German**_Pro_Ent_EDU_N_MLF_X23-59524.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_German_Pro_Ent_EDU_N_MLF_X23-59524.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Greek**_Pro_Ent_EDU_N_MLF_X23-59528.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Greek_Pro_Ent_EDU_N_MLF_X23-59528.ISO)                   |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Hebrew**_Pro_Ent_EDU_N_MLF_X23-59536.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X23-59536.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Hungarian**_Pro_Ent_EDU_N_MLF_X23-59529.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X23-59529.ISO)           |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Italian**_Pro_Ent_EDU_N_MLF_X23-59530.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Italian_Pro_Ent_EDU_N_MLF_X23-59530.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Japanese**_Pro_Ent_EDU_N_MLF_X23-59531.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X23-59531.ISO)             |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Korean**_Pro_Ent_EDU_N_MLF_X23-59532.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Korean_Pro_Ent_EDU_N_MLF_X23-59532.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Latvian**_Pro_Ent_EDU_N_MLF_X23-59512.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X23-59512.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Lithuanian**_Pro_Ent_EDU_N_MLF_X23-59513.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X23-59513.ISO)         |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Norwegian**_Pro_Ent_EDU_N_MLF_X23-59537.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X23-59537.ISO)           |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Polish**_Pro_Ent_EDU_N_MLF_X23-59540.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Polish_Pro_Ent_EDU_N_MLF_X23-59540.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Portuguese**_Pro_Ent_EDU_N_MLF_X23-59539.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X23-59539.ISO)         |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Romanian**_Pro_Ent_EDU_N_MLF_X23-59544.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X23-59544.ISO)             |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Russian**_Pro_Ent_EDU_N_MLF_X23-59548.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Russian_Pro_Ent_EDU_N_MLF_X23-59548.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Serbian_Latin**_Pro_Ent_EDU_N_MLF_X23-59520.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X23-59520.ISO)   |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Slovak**_Pro_Ent_EDU_N_MLF_X23-59547.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X23-59547.ISO)                 |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Slovenian**_Pro_Ent_EDU_N_MLF_X23-59533.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X23-59533.ISO)           |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Spanish_Latam**_Pro_Ent_EDU_N_MLF_X23-59553.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X23-59553.ISO)   |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Spanish**_Pro_Ent_EDU_N_MLF_X23-59526.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X23-59526.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Swedish**_Pro_Ent_EDU_N_MLF_X23-59545.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X23-59545.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Thai**_Pro_Ent_EDU_N_MLF_X23-59549.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Thai_Pro_Ent_EDU_N_MLF_X23-59549.ISO)                     |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Turkish**_Pro_Ent_EDU_N_MLF_X23-59550.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X23-59550.ISO)               |
-| [SW_DVD9_Win_Pro_11_23H2_**Arm64_Ukrainian**_Pro_Ent_EDU_N_MLF_X23-59515.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X23-59515.ISO)           |
+| Links                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Arabic**_Pro_Ent_EDU_N_MLF_X23-68013.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X23-68013.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Brazilian**_Pro_Ent_EDU_N_MLF_X23-68014.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X23-68014.ISO)             |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Bulgarian**_Pro_Ent_EDU_N_MLF_X23-68015.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X23-68015.ISO)             |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_ChnSimp**_Pro_Ent_EDU_N_MLF_X23-68016.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X23-68016.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_ChnTrad**_Pro_Ent_EDU_N_MLF_X23-68017.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X23-68017.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Croatian**_Pro_Ent_EDU_N_MLF_X23-68018.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X23-68018.ISO)               |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Czech**_Pro_Ent_EDU_N_MLF_X23-68019.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Czech_Pro_Ent_EDU_N_MLF_X23-68019.ISO)                     |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Danish**_Pro_Ent_EDU_N_MLF_X23-68020.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Danish_Pro_Ent_EDU_N_MLF_X23-68020.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Dutch**_Pro_Ent_EDU_N_MLF_X23-68021.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X23-68021.ISO)                     |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Eng_Intl**_Pro_Ent_EDU_N_MLF_X23-68022.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-68022.ISO)               |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_English**_Pro_Ent_EDU_N_MLF_X23-68023.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_English_Pro_Ent_EDU_N_MLF_X23-68023.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Estonian**_Pro_Ent_EDU_N_MLF_X23-68024.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X23-68024.ISO)               |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Finnish**_Pro_Ent_EDU_N_MLF_X23-68025.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X23-68025.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_FrenchCanadian**_Pro_Ent_EDU_N_MLF_X23-68027.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X23-68027.ISO)   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_French**_Pro_Ent_EDU_N_MLF_X23-68026.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_French_Pro_Ent_EDU_N_MLF_X23-68026.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_German**_Pro_Ent_EDU_N_MLF_X23-68028.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_German_Pro_Ent_EDU_N_MLF_X23-68028.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Greek**_Pro_Ent_EDU_N_MLF_X23-68029.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Greek_Pro_Ent_EDU_N_MLF_X23-68029.ISO)                     |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Hebrew**_Pro_Ent_EDU_N_MLF_X23-68030.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X23-68030.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Hungarian**_Pro_Ent_EDU_N_MLF_X23-68031.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X23-68031.ISO)             |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Italian**_Pro_Ent_EDU_N_MLF_X23-68032.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Italian_Pro_Ent_EDU_N_MLF_X23-68032.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Japanese**_Pro_Ent_EDU_N_MLF_X23-68033.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X23-68033.ISO)               |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Korean**_Pro_Ent_EDU_N_MLF_X23-68034.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Korean_Pro_Ent_EDU_N_MLF_X23-68034.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Latvian**_Pro_Ent_EDU_N_MLF_X23-68035.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X23-68035.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Lithuanian**_Pro_Ent_EDU_N_MLF_X23-68036.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X23-68036.ISO)           |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Norwegian**_Pro_Ent_EDU_N_MLF_X23-68037.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X23-68037.ISO)             |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Polish**_Pro_Ent_EDU_N_MLF_X23-68038.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Polish_Pro_Ent_EDU_N_MLF_X23-68038.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Portuguese**_Pro_Ent_EDU_N_MLF_X23-68039.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X23-68039.ISO)           |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Romanian**_Pro_Ent_EDU_N_MLF_X23-68040.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X23-68040.ISO)               |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Russian**_Pro_Ent_EDU_N_MLF_X23-68041.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Russian_Pro_Ent_EDU_N_MLF_X23-68041.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Serbian_Latin**_Pro_Ent_EDU_N_MLF_X23-68042.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X23-68042.ISO)     |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Slovak**_Pro_Ent_EDU_N_MLF_X23-68043.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X23-68043.ISO)                   |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Slovenian**_Pro_Ent_EDU_N_MLF_X23-68044.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X23-68044.ISO)             |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Spanish_Latam**_Pro_Ent_EDU_N_MLF_X23-68045.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X23-68045.ISO)     |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Spanish**_Pro_Ent_EDU_N_MLF_X23-68046.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X23-68046.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Swedish**_Pro_Ent_EDU_N_MLF_X23-68047.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X23-68047.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Thai**_Pro_Ent_EDU_N_MLF_X23-68048.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Thai_Pro_Ent_EDU_N_MLF_X23-68048.ISO)                       |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Turkish**_Pro_Ent_EDU_N_MLF_X23-68049.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X23-68049.ISO)                 |
+| [SW_DVD9_Win_Pro_11_23H2.2_**Arm64_Ukrainian**_Pro_Ent_EDU_N_MLF_X23-68050.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_23H2.2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X23-68050.ISO)             |
 
 ------------------------------------------------------------------------
 
 ## Windows 10 22H2 Business
 
-Build - 19045.3324
+Build - 19045.3930
 
-| Links                                                                                                                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Arabic**\_Pro_Ent_EDU_N_MLF_X23-55654.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X23-55654.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Brazilian**\_Pro_Ent_EDU_N_MLF_X23-55655.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X23-55655.ISO)           |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Bulgarian**\_Pro_Ent_EDU_N_MLF_X23-55656.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X23-55656.ISO)           |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_ChnSimp**\_Pro_Ent_EDU_N_MLF_X23-55657.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X23-55657.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_ChnTrad**\_Pro_Ent_EDU_N_MLF_X23-55658.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X23-55658.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Croatian**\_Pro_Ent_EDU_N_MLF_X23-55659.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X23-55659.ISO)             |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Czech**\_Pro_Ent_EDU_N_MLF_X23-55660.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Czech_Pro_Ent_EDU_N_MLF_X23-55660.ISO)                   |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Danish**\_Pro_Ent_EDU_N_MLF_X23-55661.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Danish_Pro_Ent_EDU_N_MLF_X23-55661.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Dutch**\_Pro_Ent_EDU_N_MLF_X23-55662.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X23-55662.ISO)                   |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Eng_Intl**\_Pro_Ent_EDU_N_MLF_X23-55663.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-55663.ISO)             |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_English**\_Pro_Ent_EDU_N_MLF_X23-55664.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_English_Pro_Ent_EDU_N_MLF_X23-55664.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Estonian**\_Pro_Ent_EDU_N_MLF_X23-55665.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X23-55665.ISO)             |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Finnish**\_Pro_Ent_EDU_N_MLF_X23-55666.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X23-55666.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_FrenchCanadian**\_Pro_Ent_EDU_N_MLF_X23-55668.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X23-55668.ISO) |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_French**\_Pro_Ent_EDU_N_MLF_X23-55667.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_French_Pro_Ent_EDU_N_MLF_X23-55667.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_German**\_Pro_Ent_EDU_N_MLF_X23-55669.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_German_Pro_Ent_EDU_N_MLF_X23-55669.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Greek**\_Pro_Ent_EDU_N_MLF_X23-55670.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Greek_Pro_Ent_EDU_N_MLF_X23-55670.ISO)                   |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Hebrew**\_Pro_Ent_EDU_N_MLF_X23-55671.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X23-55671.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Hungarian**\_Pro_Ent_EDU_N_MLF_X23-55672.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X23-55672.ISO)           |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Italian**\_Pro_Ent_EDU_N_MLF_X23-55673.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Italian_Pro_Ent_EDU_N_MLF_X23-55673.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Japanese**\_Pro_Ent_EDU_N_MLF_X23-55674.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X23-55674.ISO)             |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Korean**\_Pro_Ent_EDU_N_MLF_X23-55675.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Korean_Pro_Ent_EDU_N_MLF_X23-55675.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Latvian**\_Pro_Ent_EDU_N_MLF_X23-55676.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X23-55676.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Lithuanian**\_Pro_Ent_EDU_N_MLF_X23-55677.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X23-55677.ISO)         |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Norwegian**\_Pro_Ent_EDU_N_MLF_X23-55678.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X23-55678.ISO)           |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Polish**\_Pro_Ent_EDU_N_MLF_X23-55679.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Polish_Pro_Ent_EDU_N_MLF_X23-55679.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Portuguese**\_Pro_Ent_EDU_N_MLF_X23-55680.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X23-55680.ISO)         |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Romanian**\_Pro_Ent_EDU_N_MLF_X23-55681.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X23-55681.ISO)             |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Russian**\_Pro_Ent_EDU_N_MLF_X23-55682.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Russian_Pro_Ent_EDU_N_MLF_X23-55682.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Serbian_Latin**\_Pro_Ent_EDU_N_MLF_X23-55683.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X23-55683.ISO)   |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Slovak**\_Pro_Ent_EDU_N_MLF_X23-55684.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X23-55684.ISO)                 |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Slovenian**\_Pro_Ent_EDU_N_MLF_X23-55685.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X23-55685.ISO)           |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Spanish_Latam**\_Pro_Ent_EDU_N_MLF_X23-55686.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X23-55686.ISO)   |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Spanish**\_Pro_Ent_EDU_N_MLF_X23-55687.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X23-55687.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Swedish**\_Pro_Ent_EDU_N_MLF_X23-55688.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X23-55688.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Thai**\_Pro_Ent_EDU_N_MLF_X23-55689.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Thai_Pro_Ent_EDU_N_MLF_X23-55689.ISO)                     |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Turkish**\_Pro_Ent_EDU_N_MLF_X23-55690.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X23-55690.ISO)               |
-| [SW_DVD9_Win_Pro_10_22H2.10\_**Arm64_Ukrainian**\_Pro_Ent_EDU_N_MLF_X23-55691.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.10_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X23-55691.ISO)           |
+| Links                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Arabic**_Pro_Ent_EDU_N_MLF_X23-67213.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X23-67213.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Brazilian**_Pro_Ent_EDU_N_MLF_X23-67214.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X23-67214.ISO)           |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Bulgarian**_Pro_Ent_EDU_N_MLF_X23-67215.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X23-67215.ISO)           |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_ChnSimp**_Pro_Ent_EDU_N_MLF_X23-67216.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X23-67216.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_ChnTrad**_Pro_Ent_EDU_N_MLF_X23-67217.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X23-67217.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Croatian**_Pro_Ent_EDU_N_MLF_X23-67218.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X23-67218.ISO)             |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Czech**_Pro_Ent_EDU_N_MLF_X23-67219.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Czech_Pro_Ent_EDU_N_MLF_X23-67219.ISO)                   |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Danish**_Pro_Ent_EDU_N_MLF_X23-67220.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Danish_Pro_Ent_EDU_N_MLF_X23-67220.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Dutch**_Pro_Ent_EDU_N_MLF_X23-67221.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X23-67221.ISO)                   |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Eng_Intl**_Pro_Ent_EDU_N_MLF_X23-67222.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-67222.ISO)             |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_English**_Pro_Ent_EDU_N_MLF_X23-67223.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_English_Pro_Ent_EDU_N_MLF_X23-67223.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Estonian**_Pro_Ent_EDU_N_MLF_X23-67224.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X23-67224.ISO)             |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Finnish**_Pro_Ent_EDU_N_MLF_X23-67225.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X23-67225.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_FrenchCanadian**_Pro_Ent_EDU_N_MLF_X23-67227.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X23-67227.ISO) |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_French**_Pro_Ent_EDU_N_MLF_X23-67226.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_French_Pro_Ent_EDU_N_MLF_X23-67226.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_German**_Pro_Ent_EDU_N_MLF_X23-67228.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_German_Pro_Ent_EDU_N_MLF_X23-67228.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Greek**_Pro_Ent_EDU_N_MLF_X23-67229.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Greek_Pro_Ent_EDU_N_MLF_X23-67229.ISO)                   |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Hebrew**_Pro_Ent_EDU_N_MLF_X23-67230.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X23-67230.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Hungarian**_Pro_Ent_EDU_N_MLF_X23-67231.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X23-67231.ISO)           |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Italian**_Pro_Ent_EDU_N_MLF_X23-67232.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Italian_Pro_Ent_EDU_N_MLF_X23-67232.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Japanese**_Pro_Ent_EDU_N_MLF_X23-67233.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X23-67233.ISO)             |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Korean**_Pro_Ent_EDU_N_MLF_X23-67234.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Korean_Pro_Ent_EDU_N_MLF_X23-67234.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Latvian**_Pro_Ent_EDU_N_MLF_X23-67235.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X23-67235.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Lithuanian**_Pro_Ent_EDU_N_MLF_X23-67236.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X23-67236.ISO)         |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Norwegian**_Pro_Ent_EDU_N_MLF_X23-67237.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X23-67237.ISO)           |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Polish**_Pro_Ent_EDU_N_MLF_X23-67238.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Polish_Pro_Ent_EDU_N_MLF_X23-67238.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Portuguese**_Pro_Ent_EDU_N_MLF_X23-67239.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X23-67239.ISO)         |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Romanian**_Pro_Ent_EDU_N_MLF_X23-67240.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X23-67240.ISO)             |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Russian**_Pro_Ent_EDU_N_MLF_X23-67241.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Russian_Pro_Ent_EDU_N_MLF_X23-67241.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Serbian_Latin**_Pro_Ent_EDU_N_MLF_X23-67242.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X23-67242.ISO)   |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Slovak**_Pro_Ent_EDU_N_MLF_X23-67243.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X23-67243.ISO)                 |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Slovenian**_Pro_Ent_EDU_N_MLF_X23-67244.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X23-67244.ISO)           |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Spanish_Latam**_Pro_Ent_EDU_N_MLF_X23-67245.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X23-67245.ISO)   |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Spanish**_Pro_Ent_EDU_N_MLF_X23-67246.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X23-67246.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Swedish**_Pro_Ent_EDU_N_MLF_X23-67247.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X23-67247.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Thai**_Pro_Ent_EDU_N_MLF_X23-67248.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Thai_Pro_Ent_EDU_N_MLF_X23-67248.ISO)                     |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Turkish**_Pro_Ent_EDU_N_MLF_X23-67249.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X23-67249.ISO)               |
+| [SW_DVD9_Win_Pro_10_22H2.15_**Arm64_Ukrainian**_Pro_Ent_EDU_N_MLF_X23-67250.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.15_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X23-67250.ISO)           |
 
 ------------------------------------------------------------------------
 
 ## Win10 Iot Enterprise LTSC 2021
 
-(Build - 19044.1288)
+Build - 19044.1288
 
 | Links                                                                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

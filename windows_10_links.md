@@ -211,3 +211,15 @@ Updated Oct 2022 (Build - 19045.2006) (This ISO file is not updated every month)
 Check [here](windows_arm_links.html).
 
 ------------------------------------------------------------------------
+
+## Windows 10 Enterprise LTSC
+
+Check [here](windows_ltsc_links.html).
+
+------------------------------------------------------------------------
+
+## Old Versions
+
+https://os.click/
+
+------------------------------------------------------------------------
