@@ -93,7 +93,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 | IoT Enterprise Subscription           | `P8Q7T-WNK7X-PMFXY-VXHBG-RRK69` |
 | IoT Enterprise LTSC 2021              | `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` |
 | IoT Enterprise LTSC 2024              | `CGK42-GYN6Y-VD22B-BX98W-J8JXD` |
-| IoT Enterprise LTSC Subscription 2024 | `J7NJW-V6KBM-CC8RW-Y29Y4-HQ2MJ` |
+| IoT Enterprise LTSC Subscription 2024 | `N979K-XWD77-YW3GB-HBGH6-D32MH` |
 | Pro                                   | `VK7JG-NPHTM-C97JM-9MPGT-3V66T` |
 | Pro N                                 | `2B87N-8KFHP-DKV6R-Y2C8J-PKCKT` |
 | Pro Education                         | `8PTT6-RNW4C-6V7J2-C2D3X-MHBPB` |
