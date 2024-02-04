@@ -24,9 +24,9 @@ pagetitle: Licensing Servers Issue
 
 ## VPN
 
--   Install [WARP](https://1.1.1.1/) VPN, connect, and try HWID activation.
+-   Install [Freedome](https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe) VPN, connect, and try HWID activation.
 
--   If the VPN is not connecting then use another Internet connection such as your Mobile phone through USB Tethering or Wi-Fi Hotspot and try HWID activation.
+-   If the VPN is not connecting, use another Internet connection such as your Mobile phone through USB Tethering or Wi-Fi Hotspot, and try HWID activation.
 
 -   If HWID activation is still not working then check [here](troubleshoot.html) for help.
 
