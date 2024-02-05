@@ -123,8 +123,8 @@ All download links leads to genuine files only.
 | [**tr-tr**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_36fc55f4.iso](https://drive.massgrave.dev/tr-tr_windows_10_enterprise_ltsc_2021_x86_dvd_36fc55f4.iso)           |
 | [**uk-ua**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_816da3c3.iso](https://drive.massgrave.dev/uk-ua_windows_10_enterprise_ltsc_2021_x64_dvd_816da3c3.iso)           |
 | [**uk-ua**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_aa372ed6.iso](https://drive.massgrave.dev/uk-ua_windows_10_enterprise_ltsc_2021_x86_dvd_aa372ed6.iso)           |
-| [**zh-cn**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_033b7312.iso](https://drive.massgrave.dev/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso)           |
-| [**zh-cn**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_30600d9c.iso](https://drive.massgrave.dev/zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso)           |
+| [**zh-cn**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_033b7312.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso)  |
+| [**zh-cn**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_30600d9c.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso)  |
 | [**zh-tw**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_80dba877.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso)           |
 | [**zh-tw**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_03be1c20.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso)           |
 

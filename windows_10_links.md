@@ -103,8 +103,8 @@ Build - 19045.3930 - Check below links for Jan 2024 Updated genuine ISO's
 | [**tr-tr**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x86**_dvd_940c1df1.iso](https://drive.massgrave.dev/tr-tr_windows_10_consumer_editions_version_22h2_updated_jan_2024_x86_dvd_940c1df1.iso)           |
 | [**uk-ua**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x64**_dvd_940c1df1.iso](https://drive.massgrave.dev/uk-ua_windows_10_consumer_editions_version_22h2_updated_jan_2024_x64_dvd_940c1df1.iso)           |
 | [**uk-ua**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x86**_dvd_940c1df1.iso](https://drive.massgrave.dev/uk-ua_windows_10_consumer_editions_version_22h2_updated_jan_2024_x86_dvd_940c1df1.iso)           |
-| [**zh-cn**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x64**_dvd_940c1df1.iso](https://drive.massgrave.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_jan_2024_x64_dvd_940c1df1.iso)           |
-| [**zh-cn**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x86**_dvd_940c1df1.iso](https://drive.massgrave.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_jan_2024_x86_dvd_940c1df1.iso)           |
+| [**zh-cn**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x64**_dvd_940c1df1.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_jan_2024_x64_dvd_940c1df1.iso)  |
+| [**zh-cn**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x86**_dvd_940c1df1.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_jan_2024_x86_dvd_940c1df1.iso)  |
 | [**zh-tw**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x64**_dvd_940c1df1.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_jan_2024_x64_dvd_940c1df1.iso)           |
 | [**zh-tw**_windows_10_consumer_editions_version_22h2_updated_jan_2024_**x86**_dvd_940c1df1.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_jan_2024_x86_dvd_940c1df1.iso)           |
 
@@ -188,8 +188,8 @@ Updated Jan 2024 (Build - 19045.3930)
 | [**tr-tr**_windows_10_business_editions_version_22h2_updated_jan_2024_**x86**_dvd_4d298d74.iso](https://drive.massgrave.dev/tr-tr_windows_10_business_editions_version_22h2_updated_jan_2024_x86_dvd_4d298d74.iso)           |
 | [**uk-ua**_windows_10_business_editions_version_22h2_updated_jan_2024_**x64**_dvd_95069550.iso](https://drive.massgrave.dev/uk-ua_windows_10_business_editions_version_22h2_updated_jan_2024_x64_dvd_95069550.iso)           |
 | [**uk-ua**_windows_10_business_editions_version_22h2_updated_jan_2024_**x86**_dvd_0e2442fd.iso](https://drive.massgrave.dev/uk-ua_windows_10_business_editions_version_22h2_updated_jan_2024_x86_dvd_0e2442fd.iso)           |
-| [**zh-cn**_windows_10_business_editions_version_22h2_updated_jan_2024_**x64**_dvd_fef73a09.iso](https://drive.massgrave.dev/zh-cn_windows_10_business_editions_version_22h2_updated_jan_2024_x64_dvd_fef73a09.iso)           |
-| [**zh-cn**_windows_10_business_editions_version_22h2_updated_jan_2024_**x86**_dvd_00427300.iso](https://drive.massgrave.dev/zh-cn_windows_10_business_editions_version_22h2_updated_jan_2024_x86_dvd_00427300.iso)           |
+| [**zh-cn**_windows_10_business_editions_version_22h2_updated_jan_2024_**x64**_dvd_fef73a09.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_business_editions_version_22h2_updated_jan_2024_x64_dvd_fef73a09.iso)  |
+| [**zh-cn**_windows_10_business_editions_version_22h2_updated_jan_2024_**x86**_dvd_00427300.iso](https://drive.massgravel.workers.dev/zh-cn_windows_10_business_editions_version_22h2_updated_jan_2024_x86_dvd_00427300.iso)  |
 | [**zh-tw**_windows_10_business_editions_version_22h2_updated_jan_2024_**x64**_dvd_efe82aad.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_jan_2024_x64_dvd_efe82aad.iso)           |
 | [**zh-tw**_windows_10_business_editions_version_22h2_updated_jan_2024_**x86**_dvd_04e6b75f.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_jan_2024_x86_dvd_04e6b75f.iso)           |
 
