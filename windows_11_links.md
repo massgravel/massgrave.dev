@@ -67,7 +67,7 @@ Build - 22631.3007 (Jan-2024) - Below links are for MVS ISO's (Identical to Offi
 | [**th-th**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgrave.dev/th-th_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)           |
 | [**tr-tr**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgrave.dev/tr-tr_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)           |
 | [**uk-ua**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgrave.dev/uk-ua_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)           |
-| [**zh-cn**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgrave.dev/zh-cn_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)           |
+| [**zh-cn**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgravel.workers.dev/zh-cn_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)  |
 | [**zh-tw**_windows_11_consumer_editions_version_23h2_updated_jan_2024_**x64**_dvd_c6335b0e.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_23h2_updated_jan_2024_x64_dvd_c6335b0e.iso)           |
 
 ------------------------------------------------------------------------
@@ -114,7 +114,7 @@ Build - 22631.3007 (Jan-2024)
 | [**th-th**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_0c0dc13f.iso](https://drive.massgrave.dev/th-th_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_0c0dc13f.iso)           |
 | [**tr-tr**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_6e10997d.iso](https://drive.massgrave.dev/tr-tr_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_6e10997d.iso)           |
 | [**uk-ua**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_0dade3df.iso](https://drive.massgrave.dev/uk-ua_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_0dade3df.iso)           |
-| [**zh-cn**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_fee59269.iso](https://drive.massgrave.dev/zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso)           |
+| [**zh-cn**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_fee59269.iso](https://drive.massgravel.workers.dev/zh-cn_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_fee59269.iso)  |
 | [**zh-tw**_windows_11_business_editions_version_23h2_updated_jan_2024_**x64**_dvd_4a5e1807.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_23h2_updated_jan_2024_x64_dvd_4a5e1807.iso)           |
 
 ------------------------------------------------------------------------
