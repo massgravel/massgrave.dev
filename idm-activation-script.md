@@ -4,14 +4,14 @@ pagetitle: IDM Activation Script
 
 ## IDM Activation Script
 
-An open-source tool to activate or reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
+An open-source tool to activate and reset the trial of [Internet Download Manager](https://www.internetdownloadmanager.com/)
 
 ------------------------------------------------------------------------
 
 ## Features
 
--   IDM activation with registry key lock method
--   Activation persists even after installing IDM updates
+-   IDM freeze trial and activation with registry key lock method
+-   Activation and trial persist even after installing IDM updates
 -   IDM trial reset
 -   Fully open source
 -   Based on the transparent batch script
@@ -20,21 +20,29 @@ An open-source tool to activate or reset the trial of [Internet Download Manager
 
 ## IAS Latest Release
 
-Last Release - v1.0 (01-Dec-2023)\
+Last Release - v1.1 (09-Feb-2024)\
 [GitHub](https://github.com/WindowsAddict/IDM-Activation-Script) - [BitBucket](https://bitbucket.org/WindowsAddict/idm-activation-script/)
 
 ------------------------------------------------------------------------
 
 ## Download / How to use it?
 
--   First, fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
--   After that, follow the below steps to activate it.
+-   First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
+-   After that follow the below steps to activate it.
+
+------------------------------------------------------------------------
+
+## Note
+
+-   📌 The activation option is currently not working in the script, use the Freeze trial option to lock 30-day trial period for the lifetime.
+
+------------------------------------------------------------------------
 
 ### Method 1 - PowerShell
 
 (Recommended)
 
--   On Windows 8.1/10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+-   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     `irm https://massgrave.dev/ias | iex`
 -   You will see the activation options, follow the on-screen instructions.
@@ -52,7 +60,15 @@ Last Release - v1.0 (01-Dec-2023)\
 
 ## Info
 
+#### Freeze Trial
+
+-   IDM provides a 30-day trial period, you can use this option in the script to lock this trial period for the lifetime so that you won't have to reset the trial again and your trial won't expire.
+-   This method requires the Internet at the time of applying this option.
+-   IDM updates can be installed directly without having to freeze it again.
+
 #### Activation
+
+(\*Currently not working)
 
 -   This script applies the registry lock method to activate the Internet download manager (IDM).
 -   This method requires the Internet at the time of activation.
@@ -71,9 +87,8 @@ Last Release - v1.0 (01-Dec-2023)\
 
 #### Advanced Info
 
--   To add a custom name in IDM license info, edit line number 29 in the script file.
--   For activation in unattended mode, run the script with the `/act` parameter.
--   For reset in unattended mode, run the script with the `/res` parameter.
+-   To freeze the trial in unattended mode, run the script with the `/frz` parameter.
+-   To reset in unattended mode, run the script with the `/res` parameter.
 
 ------------------------------------------------------------------------
 
@@ -93,6 +108,12 @@ Last Release - v1.0 (01-Dec-2023)\
 ------------------------------------------------------------------------
 
 ## Changelog
+
+#### v1.1
+
+-   IDM update 6.42b3 has started showing fake serial popups with IAS activation, due to this we have removed the activation option and replaced it with the Freeze trial option to lock the 30-day trial period for the lifetime.
+-   Now the script will disable quick-edit in CMD windows using Powershell instead of editing registry, thanks to @abbodi1406 for the code and @awuctl for the idea.
+-   Code to relaunch script with conhost.exe to avoid terminal app is now merged in quick-edit disable code, thanks to @abbodi1406.
 
 #### v1.0
 
@@ -121,9 +142,9 @@ Last Release - v1.0 (01-Dec-2023)\
 
 ## Screenshots
 
-![](IAS.png)
+![](images/IAS.png)
 
-![](IAS_Activation.png)
+![](images/IAS_Freeze_Trial.png)
 
 ------------------------------------------------------------------------
 

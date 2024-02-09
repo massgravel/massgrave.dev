@@ -407,7 +407,7 @@ div.tocify {
 
 <div id="idm-activation-script" class="section level2">
 <h2>IDM Activation Script</h2>
-<p>An open-source tool to activate or reset the trial of <a
+<p>An open-source tool to activate and reset the trial of <a
 href="https://www.internetdownloadmanager.com/">Internet Download
 Manager</a></p>
 <hr />
@@ -415,8 +415,8 @@ Manager</a></p>
 <div id="features" class="section level2">
 <h2>Features</h2>
 <ul>
-<li>IDM activation with registry key lock method</li>
-<li>Activation persists even after installing IDM updates</li>
+<li>IDM freeze trial and activation with registry key lock method</li>
+<li>Activation and trial persist even after installing IDM updates</li>
 <li>IDM trial reset</li>
 <li>Fully open source</li>
 <li>Based on the transparent batch script</li>
@@ -425,7 +425,7 @@ Manager</a></p>
 </div>
 <div id="ias-latest-release" class="section level2">
 <h2>IAS Latest Release</h2>
-<p>Last Release - v1.0 (01-Dec-2023)<br />
+<p>Last Release - v1.1 (09-Feb-2024)<br />
 <a
 href="https://github.com/WindowsAddict/IDM-Activation-Script">GitHub</a>
 - <a
@@ -435,18 +435,28 @@ href="https://bitbucket.org/WindowsAddict/idm-activation-script/">BitBucket</a><
 <div id="download-how-to-use-it" class="section level2">
 <h2>Download / How to use it?</h2>
 <ul>
-<li>First, fresh install <a
+<li>First fresh install <a
 href="https://www.internetdownloadmanager.com/">Internet Download
 Manager</a>. Make sure previous cracks/patches are removed/uninstalled
 if there are any.</li>
-<li>After that, follow the below steps to activate it.</li>
+<li>After that follow the below steps to activate it.</li>
 </ul>
+<hr />
+</div>
+<div id="note" class="section level2">
+<h2>Note</h2>
+<ul>
+<li>📌 The activation option is currently not working in the script, use
+the Freeze trial option to lock 30-day trial period for the
+lifetime.</li>
+</ul>
+<hr />
 <div id="method-1---powershell" class="section level3">
 <h3>Method 1 - PowerShell</h3>
 <p>(Recommended)</p>
 <ul>
-<li>On Windows 8.1/10/11, right-click on the Windows start menu and
-select PowerShell or Terminal (Not CMD).</li>
+<li>Right-click on the Windows start menu and select PowerShell or
+Terminal (Not CMD).</li>
 <li>Copy-paste the below code and press enter<br />
 <code>irm https://massgrave.dev/ias | iex</code></li>
 <li>You will see the activation options, follow the on-screen
@@ -473,8 +483,21 @@ instructions.</li>
 </div>
 <div id="info" class="section level2">
 <h2>Info</h2>
+<div id="freeze-trial" class="section level4">
+<h4>Freeze Trial</h4>
+<ul>
+<li>IDM provides a 30-day trial period, you can use this option in the
+script to lock this trial period for the lifetime so that you won’t have
+to reset the trial again and your trial won’t expire.</li>
+<li>This method requires the Internet at the time of applying this
+option.</li>
+<li>IDM updates can be installed directly without having to freeze it
+again.</li>
+</ul>
+</div>
 <div id="activation" class="section level4">
 <h4>Activation</h4>
+<p>(*Currently not working)</p>
 <ul>
 <li>This script applies the registry lock method to activate the
 Internet download manager (IDM).</li>
@@ -508,11 +531,9 @@ higher.</li>
 <div id="advanced-info" class="section level4">
 <h4>Advanced Info</h4>
 <ul>
-<li>To add a custom name in IDM license info, edit line number 29 in the
-script file.</li>
-<li>For activation in unattended mode, run the script with the
-<code>/act</code> parameter.</li>
-<li>For reset in unattended mode, run the script with the
+<li>To freeze the trial in unattended mode, run the script with the
+<code>/frz</code> parameter.</li>
+<li>To reset in unattended mode, run the script with the
 <code>/res</code> parameter.</li>
 </ul>
 <hr />
@@ -549,6 +570,22 @@ src="https://lookimg.com/images/2023/03/21/QTvjcD.png" /></a></p>
 </div>
 <div id="changelog" class="section level2">
 <h2>Changelog</h2>
+<div id="v1.1" class="section level4">
+<h4>v1.1</h4>
+<ul>
+<li>IDM update 6.42b3 has started showing fake serial popups with IAS
+activation, due to this we have removed the activation option and
+replaced it with the Freeze trial option to lock the 30-day trial period
+for the lifetime.</li>
+<li>Now the script will disable quick-edit in CMD windows using
+Powershell instead of editing registry, thanks to <span
+class="citation">@abbodi1406</span> for the code and <span
+class="citation">@awuctl</span> for the idea.</li>
+<li>Code to relaunch script with conhost.exe to avoid terminal app is
+now merged in quick-edit disable code, thanks to <span
+class="citation">@abbodi1406</span>.</li>
+</ul>
+</div>
 <div id="v1.0" class="section level4">
 <h4>v1.0</h4>
 <ul>
@@ -598,8 +635,8 @@ when the script deletes a lot of them</li>
 </div>
 <div id="screenshots" class="section level2">
 <h2>Screenshots</h2>
-<p><img src="IAS.png" /></p>
-<p><img src="IAS_Activation.png" /></p>
+<p><img src="images/IAS.png" /></p>
+<p><img src="images/IAS_Freeze_Trial.png" /></p>
 <hr />
 </div>
 <div id="credits" class="section level2">
