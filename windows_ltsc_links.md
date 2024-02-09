@@ -47,10 +47,10 @@ All download links leads to genuine files only.
 (Build - 19044.1288)
 
 
-| Links                                                                                                                                                                       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**x64**\_dvd_257ad90f.iso❤️](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   |
-| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**arm64**\_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
+| Links                                                                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**x64**\_dvd_257ad90f.iso❤️](https://drive.massgravel.workers.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso) |
+| [**en-us**\_windows_10_iot_enterprise_ltsc_2021\_**arm64**\_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso)        |
 
 ## Win10 Enterprise LTSC 2021
 
@@ -72,8 +72,8 @@ All download links leads to genuine files only.
 | [**el-gr**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_c7850ec0.iso](https://drive.massgrave.dev/el-gr_windows_10_enterprise_ltsc_2021_x86_dvd_c7850ec0.iso)           |
 | [**en-gb**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_7fe51fe8.iso](https://drive.massgrave.dev/en-gb_windows_10_enterprise_ltsc_2021_x64_dvd_7fe51fe8.iso)           |
 | [**en-gb**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_baa2b09f.iso](https://drive.massgrave.dev/en-gb_windows_10_enterprise_ltsc_2021_x86_dvd_baa2b09f.iso)           |
-| [**en-us**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_d289cf96.iso](https://drive.massgrave.dev/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso)           |
-| [**en-us**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_9f4aa95f.iso](https://drive.massgrave.dev/en-us_windows_10_enterprise_ltsc_2021_x86_dvd_9f4aa95f.iso)           |
+| [**en-us**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_d289cf96.iso](https://drive.massgravel.workers.dev/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso)  |
+| [**en-us**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_9f4aa95f.iso](https://drive.massgravel.workers.dev/en-us_windows_10_enterprise_ltsc_2021_x86_dvd_9f4aa95f.iso)  |
 | [**es-es**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_51d721ea.iso](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x64_dvd_51d721ea.iso)           |
 | [**es-es**\_windows_10_enterprise_ltsc_2021\_**x86**\_dvd_243c83eb.iso](https://drive.massgrave.dev/es-es_windows_10_enterprise_ltsc_2021_x86_dvd_243c83eb.iso)           |
 | [**es-mx**\_windows_10_enterprise_ltsc_2021\_**x64**\_dvd_f6aaf384.iso](https://drive.massgrave.dev/es-mx_windows_10_enterprise_ltsc_2021_x64_dvd_f6aaf384.iso)           |
