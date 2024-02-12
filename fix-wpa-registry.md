@@ -44,7 +44,7 @@ pagetitle: Fix WPA Registry
 
 ------------------------------------------------------------------------
 
-## Video Tutorial
+## Video_Tutorial
 
 ![](files\Fix_WPA_Registry.mp4)
 
