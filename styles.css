@@ -111,3 +111,7 @@ code {
   height: 32px;
   margin-top: -4px;
 }
+
+#Video_Tutorial video {
+  max-width: 100%;
+}
