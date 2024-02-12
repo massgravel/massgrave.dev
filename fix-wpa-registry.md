@@ -43,3 +43,9 @@ pagetitle: Fix WPA Registry
 -   Let [us know](contactus.html) if it doesn't help.
 
 ------------------------------------------------------------------------
+
+## Video Tutorial
+
+![](files\Fix_WPA_Registry.mp4)
+
+------------------------------------------------------------------------
