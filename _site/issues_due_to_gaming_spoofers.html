@@ -11,7 +11,7 @@
 
 
 
-<title>Command Line Switches</title>
+<title>Issues Due To Gaming Spoofers</title>
 
 <script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -405,161 +405,23 @@ div.tocify {
 </div>
 
 
-<div id="command-line-switches" class="section level1">
-<h1>Command Line Switches</h1>
+<div id="issues-due-to-gaming-spoofers" class="section level1">
+<h1>Issues Due To Gaming Spoofers</h1>
 <hr />
-<div id="switches-list" class="section level2">
-<h2>Switches List</h2>
+<div id="incorrect-moduleid" class="section level2">
+<h2>Incorrect ModuleId</h2>
+<p>MAS activation may show the error related to “Incorrect ModuleId”.
+Some gaming spoofers mess with Windows activation-related registry keys
+and because of that windows can not be activated. To fix this, you just
+need to restore that corrupt registry key with default data.</p>
 <ul>
-<li><p>You can use the below switches in MAS AIO, separate files version
-and in Powershell one-liner to run in unattended mode.</p></li>
-<li><p>If you want to use it in Windows Pre-Activation then check <a
-href="oem-folder.html">this</a> page for more details.</p></li>
-</ul>
-<table>
-<colgroup>
-<col width="33%" />
-<col width="66%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Switches</th>
-<th>Meaning</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><code>/HWID</code></td>
-<td>Activate with HWID</td>
-</tr>
-<tr class="even">
-<td><code>/HWID-NoEditionChange</code></td>
-<td>Some editions don’t support HWID, script by default change edition
-to nearest available to enable HWID activation. This switch can be used
-to stop this change. You don’t need to add <code>/HWID</code> switch
-with this.</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><code>/Ohook</code></td>
-<td>Install Ohook to activate Office</td>
-</tr>
-<tr class="odd">
-<td><code>/Ohook-Uninstall</code></td>
-<td>Uninstall Ohook</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><code>/KMS38</code></td>
-<td>Activate with KMS38</td>
-</tr>
-<tr class="even">
-<td><code>/KMS38-RemoveProtection</code></td>
-<td>Remove KMS38 protection</td>
-</tr>
-<tr class="odd">
-<td><code>/KMS38-NoEditionChange</code></td>
-<td>Some editions don’t support KMS38, script by default change edition
-to nearest available to enable KMS38 activation. This switch can be used
-to stop this change. You don’t need to add <code>/KMS38</code> switch
-with this.</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><code>/KMS-Windows</code></td>
-<td>Activate Windows with Online KMS</td>
-</tr>
-<tr class="even">
-<td><code>/KMS-Office</code></td>
-<td>Activate Office with Online KMS</td>
-</tr>
-<tr class="odd">
-<td><code>/KMS-WindowsOffice</code></td>
-<td>Activate Windows &amp; Office with Online KMS</td>
-</tr>
-<tr class="even">
-<td><code>/KMS-RenewalTask</code></td>
-<td>Install Online KMS renewal task</td>
-</tr>
-<tr class="odd">
-<td><code>/KMS-ActAndRenewalTask</code></td>
-<td>Install Online KMS activation &amp; renewal tasks (Recommended)</td>
-</tr>
-<tr class="even">
-<td><code>/KMS-Uninstall</code></td>
-<td>Uninstall Online KMS</td>
-</tr>
-<tr class="odd">
-<td><code>/KMS-KeepvNext</code></td>
-<td>Don’t override Office C2R vNext license</td>
-</tr>
-<tr class="even">
-<td><code>/KMS-Debug</code></td>
-<td>Create Debug log in Online KMS Activation</td>
-</tr>
-<tr class="odd">
-<td><code>/KMS-Logger</code></td>
-<td>Create simple log in Online KMS Activation</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><code>/S</code></td>
-<td>Run operations in silent mode (no output)</td>
-</tr>
-</tbody>
-</table>
-<hr />
-</div>
-<div id="uses-in-powershell-one-liner" class="section level2">
-<h2>Uses In Powershell One Liner</h2>
-<p><code>&amp; ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para</code></p>
-<p><strong>Notes</strong> - Remove the space
-between <code>mass grave</code></p>
-<ul>
-<li>Replace <code>/para</code> in this command with the switches from
-the above table. You can also use multiple switches. For example,
-<code>/HWID /KMS-Office /KMS-ActAndRenewalTask</code></li>
-<li>This Powershell one-liner will work on Windows 8.1 and later
-versions only.</li>
-<li>To change the edition through the command line, check <a
-href="change_edition.html#Manual_Edition_Change">here</a>. We didn’t
-automate it in MAS because it requires a reboot in some cases.</li>
+<li><p><a href="files\spp_pro.zip">Download</a> and run this registry
+file, and confirm all prompts.</p></li>
+<li><p>Restart your system.</p></li>
+<li><p>Run the activation in MAS and if the issue is still not resolved,
+connect with us <a href="troubleshoot.html">here</a>.</p></li>
 </ul>
 <hr />
-</div>
-<div id="rules" class="section level2">
-<h2>Rules</h2>
-<ul>
-<li><p>Script will run in unattended mode if any switch is
-used.</p></li>
-<li><p><code>/S</code> switch is not applicable in MAS separate files
-version scripts.</p></li>
-<li><p>All switches are case-insensitive, and work in any order, but
-must be separated with spaces.</p></li>
-<li><p>KMS Uninstall switch will take precedence over other KMS
-switches.</p></li>
-<li><p>KMS38 remove protection switch will take precedence over KMS38
-activation.</p></li>
-</ul>
-<hr />
-</div>
-<div id="need-help" class="section level2">
-<h2>Need help?</h2>
-<ul>
-<li>Check <a href="troubleshoot.html">here</a>.</li>
-</ul>
 </div>
 </div>
 
