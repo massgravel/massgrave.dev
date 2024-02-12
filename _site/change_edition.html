@@ -414,28 +414,74 @@ div.tocify {
 equivalent editions.</p></li>
 <li><p>The script incorporates 4 methods for edition changing:</p>
 <ul>
-<li>Alex (aka may, ave9858) DISM Api Method (Based on changepk.exe
-method but better)<br />
-</li>
-<li>slmgr /ipk Method<br />
-</li>
-<li>DISM Method<br />
-</li>
+<li>May’s DISM Api Method - Used in Windows 10/11 Core to Non-Core
+edition change</li>
+<li><a
+href="https://learn.microsoft.com/en-us/windows/deployment/upgrade/windows-edition-upgrades#upgrade-using-a-command-line-tool">slmgr
+/ipk Method</a> - Used in Windows 10/11 where edition license files are
+already there</li>
+<li><a
+href="https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options">DISM
+Method</a> - Used in Server 2016 and later server versions</li>
 <li><a href="https://github.com/asdcorp/Set-WindowsCbsEdition">CBS
-Upgrade method</a></li>
+Upgrade Method</a> - Used in Windows versions before 10</li>
 </ul></li>
 <li><p>Available editions that can be changed to are shown in the script
 based on all these 4 options.</p></li>
-<li><p>The script is future-proof, which means that upon the release of
-new Windows / Server editions, the script won’t need an update and can
-get the required product key from the system itself.</p></li>
-<li><p>The script blocks changing to CountrySpecific, ServerRdsh and
+<li><p>The script is future-proof, which means that it won’t need an
+update upon the release of new Windows / Server editions and can get the
+required product key from the system itself.</p></li>
+<li><p>The script blocks changing to CountrySpecific, ServerRdsh, and
 to/from CloudEdition editions since it’s officially not supported and
 the user may face issues.</p></li>
-<li><p>The script cannot change Non-Core editions to Core editions. (For
-example, Pro –&gt; Home isn’t available)</p></li>
+<li><p>The script cannot change,</p>
+<ul>
+<li>Non-Core editions to Core editions (For example, Pro –&gt; Home
+isn’t available)</li>
+<li>GAC editions to LTSC editions (For example, Enterprise –&gt;
+Enterprise LTSC isn’t available)</li>
+</ul></li>
 </ul>
 <hr />
+<div id="manual-edition-change" class="section level2">
+<h2>Manual Edition Change</h2>
+<p>If you want to manually change the edition instead of using the
+script, please follow the steps below.</p>
+<div id="windows-1011" class="section level3">
+<h3>Windows 10/11</h3>
+<ul>
+<li><p>To view the list of available editions, open the command prompt
+as admin and enter<br />
+<code>dism /online /english /Get-TargetEditions</code></p></li>
+<li><p>Get the keys for the desired edition from <a
+href="hwid.html#Supported_Products">here</a></p></li>
+<li><p>If you are upgrading from Home to Pro, you will need to disable
+the Internet before performing the upgrade.</p></li>
+<li><p>Now enter that product key with this command, replace
+&lt;product_key&gt; with the actual key.<br />
+<code>changepk.exe /ProductKey &lt;product_key&gt;</code></p></li>
+<li><p>In the Home to Pro upgrade, it may show an error, restart the
+system anyway. (Use the script if it’s still not working)</p></li>
+<li><p>Activate the changed edition with MAS, that’s all.</p></li>
+</ul>
+</div>
+<div id="windows-server-2016-and-later" class="section level3">
+<h3>Windows Server 2016 and Later</h3>
+<ul>
+<li>Follow the official Microsoft guide <a
+href="https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options">here</a>,
+you can get the required keys from <a
+href="kms38.html#Supported_Products">here</a>.</li>
+</ul>
+<hr />
+</div>
+</div>
+<div id="troubleshooting" class="section level2">
+<h2>Troubleshooting</h2>
+<ul>
+<li>Check <a href="change_edition_issues.html">here</a>.</li>
+</ul>
+</div>
 </div>
 
 <script type="text/javascript" src="links.js"></script>
