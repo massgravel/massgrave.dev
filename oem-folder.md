@@ -28,15 +28,15 @@ pagetitle: OEM Folders
 
 -   As stated above, you can copy the `$OEM$` folder to your bootable USB so you don't have to edit the ISO file. However, if you need to, then follow the steps below.
 
--   Extract the ISO file with an archive software like 7-zip or Winrar and **rename the extracted folder** to something else so that the ISO and extracted folder names are not the same in the same directory (Otherwise MakeISO.reg will replace your ISO with modified ISO).
+-   Download [AnyBurn Free Portable](https://www.anyburn.com/anyburn.zip) and extract this zip file
 
--   Add the mentioned folder to the specified location.
+-   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`
 
--   Run [MakeISO.reg](https://forums.mydigitallife.net/posts/1733596) by Aveyo. [Mirror](https://pixeldrain.com/u/sKEdjFJA).
+-   Select the option named `Edit image file`
 
--   Right-click on the extracted ISO folder and select `MakeISO` option.
+-   Follow the on-screen instructions and add the `$OEM$` folder to the `sources` folder so that the directory will appear like this: `\sources\$OEM$`
 
--   That's it.
+-   Save the ISO, that's it.
 
 ------------------------------------------------------------------------
 
