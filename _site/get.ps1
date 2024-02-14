@@ -1,4 +1,4 @@
-# Check the instructions here on how to use it https://massgrave.dev/
+# Check the instructions here on how to use it mass grave[.]dev
 
 $ErrorActionPreference = "Stop"
 # Enable TLSv1.2 for compatibility with older clients
