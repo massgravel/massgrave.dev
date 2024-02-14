@@ -1,5 +1,4 @@
 name: "Microsoft_Activation_Scripts"
-include: ["get.ps1"]
 navbar:
   title: '<div><img src="logo.png" class="logo">   Microsoft Activation Scripts</div>'
   right:
