@@ -4,7 +4,7 @@ pagetitle: Get genuine Office banner
 
 # 'Get genuine Office' banner
 
-![](office-license-is-not-genuine.png)
+![](images/office-license-is-not-genuine.png)
 
 **TL;DR** To solve it, use [MAS](index.html) or abbodi1406's [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) to activate Office.
 

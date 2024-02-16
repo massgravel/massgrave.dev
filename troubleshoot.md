@@ -12,6 +12,6 @@ pagetitle: Troubleshooting
 
 -   **Reach out to us** on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) or [Telegram](https://t.me/Microsoft_Activation_Scripts) with an error screenshot.
 
-[![](https://lookimg.com/images/2023/03/21/QTvjcD.png)](https://discord.gg/gjJEfq7ux8) [![](https://lookimg.com/images/2023/03/21/QTvLyd.png)](https://t.me/Microsoft_Activation_Scripts)
+[![](images/logo_discord.png)](https://discord.gg/gjJEfq7ux8) [![](images/logo_telegram.png)](https://t.me/Microsoft_Activation_Scripts)
 
 ------------------------------------------------------------------------
