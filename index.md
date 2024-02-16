@@ -75,13 +75,13 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ## Screenshots
 
-![](MAS_AIO.png)
+![](images/MAS_AIO.png)
 
-![](MAS_HWID.png)
+![](images/MAS_HWID.png)
 
-![](MAS_Ohook.png)
+![](images/MAS_Ohook.png)
 
-![](MAS_Troubleshoot.png)
+![](images/MAS_Troubleshoot.png)
 
 ------------------------------------------------------------------------
 

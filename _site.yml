@@ -1,6 +1,6 @@
 name: "Microsoft_Activation_Scripts"
 navbar:
-  title: '<div><img src="logo.png" class="logo">   Microsoft Activation Scripts</div>'
+  title: '<div><img src="images\logo.png" class="logo">   Microsoft Activation Scripts</div>'
   right:
     - text: "Home"
       href: index.html

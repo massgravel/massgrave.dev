@@ -39,7 +39,7 @@ Command not supported
 We're sorry, we can't continue because we weren't able to download a required file. Please make sure you're connected to the internet or connect to a different network, then try again.
 ```
 
-![](https://lookimg.com/images/2023/03/24/QTAO3s.png)
+![](images\office_download_error_in_russia.png)
 
 #### How is Microsoft blocking it?
 
