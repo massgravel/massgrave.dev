@@ -85,10 +85,4 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ------------------------------------------------------------------------
 
-## Other Projects
-
--   [IDM Activation Script (IAS)](idm-activation-script.html)
-
-------------------------------------------------------------------------
-
 Made with Love ❤️
