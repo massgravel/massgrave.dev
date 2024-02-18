@@ -36,12 +36,6 @@ All download links leads to genuine files only.
 
 ------------------------------------------------------------------------
 
-#### Torrent - Windows 10 Iot/Enterprise LTSC 2021
-
--   Torrent downloading option is available for Windows 10 Iot/Enterprise LTSC 2021. To download from torrent, install a torrent client like [qBittorrent](https://www.qbittorrent.org/download) and use this [torrent file](files\Windows_10_Enterprise_LTSC_2021.torrent) and select the file you need.
-
-------------------------------------------------------------------------
-
 ## Win10 Iot Enterprise LTSC 2021
 
 (Build - 19044.1288)
