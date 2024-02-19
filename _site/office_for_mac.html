@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Office For Mac</title>
+
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link rel="shortcut icon" href="images\favicon.ico">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><div><img src="images/logo.png" class="logo">   Microsoft Activation Scripts</div></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="faq.html">FAQ</a>
+</li>
+<li>
+  <a href="troubleshoot.html">Troubleshoot</a>
+</li>
+<li>
+  <a href="genuine-installation-media.html">Download Windows/Office</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Docs
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="hwid.html">HWID Activation</a>
+    </li>
+    <li>
+      <a href="ohook.html">Ohook Activation</a>
+    </li>
+    <li>
+      <a href="kms38.html">KMS38 Activation</a>
+    </li>
+    <li>
+      <a href="online_kms.html">Online KMS Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="command_line_switches.html">Command Line Switches</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="check_activation_status.html">Check Activation Status</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="oem-folder.html">Extract $OEM$ Folder</a>
+    </li>
+    <li>
+      <a href="change_edition.html">Change Edition</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="bypass-russian-geoblock.html">Bypass Russian Geoblock</a>
+    </li>
+    <li>
+      <a href="office-license-is-not-genuine.html">Office License Is Not Genuine</a>
+    </li>
+    <li>
+      <a href="fix-wpa-registry.html">Fix WPA Registry</a>
+    </li>
+    <li>
+      <a href="licensing-servers-issue.html">Licensing Servers Issue</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="unsupported_products_activation.html">Unsupported Products Activation</a>
+    </li>
+    <li class="divider"></li>
+    <li>
+      <a href="changelog.html">Changelog</a>
+    </li>
+    <li>
+      <a href="credits.html">Credits</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="contactus.html">Contact Us</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<div id="office-for-mac" class="section level1">
+<h1>Office For Mac</h1>
+<hr />
+<div id="notes" class="section level2">
+<h2>Notes</h2>
+<ul>
+<li><p>The latest Office installer files on Mac are the same for the
+Office 365 and Office 2021 retail/volume license users.</p></li>
+<li><p>The latest installer files are available for free to download on
+the <a
+href="https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac">Official
+site</a>, but old Volume versions of Office are available to paid <a
+href="https://www.microsoft.com/licensing/ServiceCenter/default.aspx">VLSC</a>
+subscribers.</p></li>
+<li><p>For that reason, we need to host these old files on a 3rd party
+website. You can check <a
+href="genuine-installation-media.html#How_to_verify_genuinity_of_files">here</a>
+on how to be sure that the files are genuine. You can download the SHA-1
+hashes list from <a href="https://pixeldrain.com/u/5UEKLN2U">here</a>
+for VLSC files.</p></li>
+<li><p>Microsoft provides Volume licenses through a serializer file to
+paid <a
+href="https://www.microsoft.com/licensing/ServiceCenter/default.aspx">VLSC</a>
+Volume license subscribers. However, <strong>anyone can activate
+Office</strong> with this serializer file (the link is shared
+below).</p></li>
+<li><p>A minimum of macOS Monterey is required to install versions 16.78
+or later. Pick an older Office version on old macOS.</p></li>
+<li><p>Office 2019 for Mac reached the end of support on October 10,
+2023, and will no longer receive updates.</p></li>
+<li><p>If you need links for any other Windows/office files, please
+contact us <a href="https://discord.gg/gjJEfq7ux8">here</a>.</p></li>
+<li><p><strong>Troubleshoot-</strong></p>
+<ul>
+<li><p>If you are facing issues in activation then make sure only one
+version of Office is installed, <a
+href="https://support.microsoft.com/office/b032c0f6-a431-4dad-83a9-6b727c03b193">remove
+Office licenses</a>, and apply the activation file again.</p></li>
+<li><p>If the issue is still not resolved then check the steps to
+completely remove Office <a href="https://office-reset.com/">here</a>
+and <a
+href="https://support.microsoft.com/office/ec3aa66e-6a76-451f-9d35-cba2e14e94c0">here</a>.</p></li>
+</ul></li>
+</ul>
+<hr />
+</div>
+<div id="latest-office-365-2021" class="section level2">
+<h2>Latest Office 365 / 2021</h2>
+<p>These links always download the latest files. The links are taken
+from the <a
+href="https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac">official
+site</a>.</p>
+<table>
+<colgroup>
+<col width="37%" />
+<col width="62%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Application</th>
+<th>Latest Installer Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Office suite (with Teams) ❤️</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=2009112"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=2009112</a></td>
+</tr>
+<tr class="even">
+<td>Office suite (without Teams)</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=525133"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=525133</a></td>
+</tr>
+<tr class="odd">
+<td>Word</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=525134"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=525134</a></td>
+</tr>
+<tr class="even">
+<td>Excel</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=525135"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=525135</a></td>
+</tr>
+<tr class="odd">
+<td>PowerPoint</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=525136"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=525136</a></td>
+</tr>
+<tr class="even">
+<td>Outlook</td>
+<td><a href="https://go.microsoft.com/fwlink/p/?linkid=525137"
+class="uri">https://go.microsoft.com/fwlink/p/?linkid=525137</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="office-activator" class="section level2">
+<h2>Office Activator</h2>
+<p>To activate, run the listed activation file after installing Office.
+You will need to extract the listed .iso file with software such as <a
+href="https://www.7-zip.org/download.html">7-zip</a> to use the .pkg
+file.</p>
+<table>
+<colgroup>
+<col width="30%" />
+<col width="69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Office Version</th>
+<th>Activator Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Office 2021 ❤️</td>
+<td><a
+href="https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso">SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso</a></td>
+</tr>
+<tr class="even">
+<td>Office 2019 (New)</td>
+<td><a
+href="https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso">SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso</a></td>
+</tr>
+<tr class="odd">
+<td>Office 2019 (Old)</td>
+<td><a
+href="https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso">SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso</a></td>
+</tr>
+<tr class="even">
+<td>Office 2016 (New)</td>
+<td><a
+href="https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso">SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso</a></td>
+</tr>
+<tr class="odd">
+<td>Office 2016 (Old)</td>
+<td><a
+href="https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso">SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="office-2016" class="section level2">
+<h2>Office 2016</h2>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Excel_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58277.iso">SW_DVD5_<strong>Excel_Mac_2016_MultiLang</strong>_-8_.dmg_MLF_X21-58277.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2016_MultiLang_-9_.dmg_MLF_X21-58282.iso">SW_DVD5_<strong>Office_Mac_Standard_2016_MultiLang</strong>_-9_.dmg_MLF_X21-58282.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2016_MAC_MultiLang_-8_.dmg_MLF_X21-58279.iso">SW_DVD5_<strong>Outlook_Mac_2016_MAC_MultiLang</strong>_-8_.dmg_MLF_X21-58279.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_PowerPoint_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58280.iso">SW_DVD5_<strong>PowerPoint_Mac_2016_MultiLang</strong>_-8_.dmg_MLF_X21-58280.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Word_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58281.iso">SW_DVD5_<strong>Word_Mac_2016_MultiLang</strong>_-8_.dmg_MLF_X21-58281.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="office-2011-sp4" class="section level2">
+<h2>Office 2011 SP4</h2>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_ChnSimp</strong>_-3_ISO_MLF_X21-39848.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_ChnTrad</strong>_-3_ISO_MLF_X21-39852.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Danish</strong>_-3_ISO_MLF_X21-39844.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Dutch</strong>_-3_ISO_MLF_X21-39850.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_English</strong>_-3_ISO_MLF_X21-39841.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Finnish</strong>_-3_ISO_MLF_X21-39846.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_French</strong>_-3_ISO_MLF_X21-39843.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_German</strong>_-3_ISO_MLF_X21-39853.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Italian</strong>_-3_ISO_MLF_X21-39849.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Japanese</strong>_-3_ISO_MLF_X21-39842.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Norwegian</strong>_-3_ISO_MLF_X21-39845.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Polish</strong>_-3_ISO_MLF_X21-39851.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Russian</strong>_-3_ISO_MLF_X21-39854.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Spanish</strong>_-3_ISO_MLF_X21-39855.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso">SW_DVD5_<strong>Office_Mac_Standard_2011w_SP4_Swedish</strong>_-3_ISO_MLF_X21-39847.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_ChnSimp_-2_ISO_MLF_X19-67657.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_ChnSimp</strong>_-2_ISO_MLF_X19-67657.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_ChnTrad_-2_ISO_MLF_X19-67661.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_ChnTrad</strong>_-2_ISO_MLF_X19-67661.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Danish_-2_ISO_MLF_X19-67662.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Danish</strong>_-2_ISO_MLF_X19-67662.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Dutch_-2_ISO_MLF_X19-67660.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Dutch</strong>_-2_ISO_MLF_X19-67660.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_English_-2_ISO_MLF_X19-67651.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_English</strong>_-2_ISO_MLF_X19-67651.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Finnish_-2_ISO_MLF_X19-67663.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Finnish</strong>_-2_ISO_MLF_X19-67663.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_French_-2_ISO_MLF_X19-67653.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_French</strong>_-2_ISO_MLF_X19-67653.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_German_-2_ISO_MLF_X19-67664.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_German</strong>_-2_ISO_MLF_X19-67664.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Italian_-2_ISO_MLF_X19-67658.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Italian</strong>_-2_ISO_MLF_X19-67658.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Japanese_-2_ISO_MLF_X19-67652.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Japanese</strong>_-2_ISO_MLF_X19-67652.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Norwegian_-2_ISO_MLF_X19-67665.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Norwegian</strong>_-2_ISO_MLF_X19-67665.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Polish_-2_ISO_MLF_X19-67659.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Polish</strong>_-2_ISO_MLF_X19-67659.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Russian_-2_ISO_MLF_X19-67666.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Russian</strong>_-2_ISO_MLF_X19-67666.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Spanish_-2_ISO_MLF_X19-67667.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Spanish</strong>_-2_ISO_MLF_X19-67667.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Swedish_-2_ISO_MLF_X19-67668.iso">SW_DVD5_<strong>Outlook_Mac_2011w_SP4_MAC_Swedish</strong>_-2_ISO_MLF_X19-67668.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="office-2008-sp2" class="section level2">
+<h2>Office 2008 SP2</h2>
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Links</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Danish_Finnish_Norwegian_w__SP2_MLF_X15-90445.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_Danish_Finnish_Norwegian</strong>_w__SP2_MLF_X15-90445.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Dutch_w__SP2_MLF_X15-90449.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_Dutch</strong>_w__SP2_MLF_X15-90449.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_English_w__SP2_MLF_X15-90417.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_English</strong>_w__SP2_MLF_X15-90417.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_French_w__SP2_MLF_X15-90433.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_French</strong>_w__SP2_MLF_X15-90433.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_German_w__SP2_MLF_X15-90421.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_German</strong>_w__SP2_MLF_X15-90421.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Japanese_w__SP2_MLF_X15-90441.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_Japanese</strong>_w__SP2_MLF_X15-90441.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Spanish_w__SP2_MLF_X15-90429.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_Spanish</strong>_w__SP2_MLF_X15-90429.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Swedish_w__SP2_MLF_X15-90453.iso">SW_DVD5_<strong>Entourage_Mac_2008_MAC_Swedish</strong>_w__SP2_MLF_X15-90453.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_DA_FI_NO_EXTRA_X15-82818.iso">SW_DVD5_<strong>Office_Mac_2008_DA_FI_NO</strong>_EXTRA_X15-82818.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_DA_FI_NO_w_SP2_MLF_X15-69811.iso">SW_DVD5_<strong>Office_Mac_2008_DA_FI_NO</strong>_w_SP2_MLF_X15-69811.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Dutch_EXTRA_X15-82821.iso">SW_DVD5_<strong>Office_Mac_2008_Dutch</strong>_EXTRA_X15-82821.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Dutch_w_SP2_MLF_X15-70499.iso">SW_DVD5_<strong>Office_Mac_2008_Dutch</strong>_w_SP2_MLF_X15-70499.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_English_-2_Extra_X16-17024.iso">SW_DVD5_<strong>Office_Mac_2008_English</strong>_-2_Extra_X16-17024.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_English_-2_w_SP2_MLF_X16-17410.iso">SW_DVD5_<strong>Office_Mac_2008_English</strong>_-2_w_SP2_MLF_X16-17410.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_French_-2_Extra_X16-17015.iso">SW_DVD5_<strong>Office_Mac_2008_French</strong>_-2_Extra_X16-17015.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_French_-2_w_SP2_MLF_X16-17405.iso">SW_DVD5_<strong>Office_Mac_2008_French</strong>_-2_w_SP2_MLF_X16-17405.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_German_EXTRA_X15-82828.iso">SW_DVD5_<strong>Office_Mac_2008_German</strong>_EXTRA_X15-82828.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_German_w_SP2_MLF_X15-74334.iso">SW_DVD5_<strong>Office_Mac_2008_German</strong>_w_SP2_MLF_X15-74334.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Italian_EXTRA_X15-82830.iso">SW_DVD5_<strong>Office_Mac_2008_Italian</strong>_EXTRA_X15-82830.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Italian_w_SP2_MLF_X15-74338.iso">SW_DVD5_<strong>Office_Mac_2008_Italian</strong>_w_SP2_MLF_X15-74338.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Japanese_EXTRA_X15-82834.iso">SW_DVD5_<strong>Office_Mac_2008_Japanese</strong>_EXTRA_X15-82834.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Japanese_w_SP2_MLF_X15-75700.iso">SW_DVD5_<strong>Office_Mac_2008_Japanese</strong>_w_SP2_MLF_X15-75700.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Spanish_-2_Extra_X16-17012.iso">SW_DVD5_<strong>Office_Mac_2008_Spanish</strong>_-2_Extra_X16-17012.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Spanish_-2_w_SP2_MLF_X16-17408.iso">SW_DVD5_<strong>Office_Mac_2008_Spanish</strong>_-2_w_SP2_MLF_X16-17408.iso</a></td>
+</tr>
+<tr class="odd">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Swedish_EXTRA_X15-82824.iso">SW_DVD5_<strong>Office_Mac_2008_Swedish</strong>_EXTRA_X15-82824.iso</a></td>
+</tr>
+<tr class="even">
+<td><a
+href="https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Swedish_w_SP2_MLF_X15-72486.iso">SW_DVD5_<strong>Office_Mac_2008_Swedish</strong>_w_SP2_MLF_X15-72486.iso</a></td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+</div>
+
+<script type="text/javascript" src="links.js"></script>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = false;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
