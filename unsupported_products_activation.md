@@ -6,24 +6,11 @@ pagetitle: Unsupported Products Activation
 
 ------------------------------------------------------------------------
 
-In this page, those products activation methods are mentioned which are not supported by MAS.
+In this page, those product activation methods are mentioned which are not supported by MAS.
 
 ## MS Office For Mac
 
--   Download Office 2021 - [Latest Office 2021](https://go.microsoft.com/fwlink/p/?linkid=2009112) - [More Options](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac) - [Alternative](https://macadmins.software/)
-
--   Office 2021 Activator - [Link](https://app.box.com/s/hi2ejfi2qxfctcicu2qgebsz6bsgdsxc)
-
--   Office 2016 & Activator - [Link](https://drive.google.com/uc?export=download&id=1sZdFvQWPPacP3_oCJyBB4W8Gej3nsnee) (For older Mac versions)\
-    `SHA-256: 71e63badbf1e22b2416f8784c3a480b26e0e1ac2be30a6b3fdacaa089ef95ce6`
-
-**Notes:**
-
--   Office download link is official from MS.
--   Activator file is also a original Microsoft file but hosted on 3rd party site by me. Original download link requires VLSC subscription.
--   To activate, install office and then run the activation file, that's all.
--   If you are facing issues in activation then make sure only one version of Office is installed and [remove Office licenses](https://support.microsoft.com/office/b032c0f6-a431-4dad-83a9-6b727c03b193) and apply activation file again.
--   If issue is still not resolved then check steps to completely remove Office [here](https://office-reset.com/) and [here](https://support.microsoft.com/office/ec3aa66e-6a76-451f-9d35-cba2e14e94c0).
+-   Check [here](office_for_mac.html).
 
 ------------------------------------------------------------------------
 
