@@ -149,7 +149,7 @@ We can perform the manual activation process in 2 ways.
 
 `slmgr /ipk <key>`
 
--   Download Universal tickets from [here](https://pixeldrain.com/u/pExQ5L8f) and extract the downloaded file.
+-   Download Universal tickets from [here](files\Tickets.zip) and extract the downloaded file.
 
 -   Now enter below code in PowerShell:
 
@@ -186,7 +186,7 @@ In this process, we will perform activation from scratch. This is based on the U
 -   Download the file from the official MS link and extract the .cab file.\
     <https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab>
 
--   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` and rename it to `gatherosstate.exe`
+-   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` (Size: 330 KB) and rename it to `gatherosstate.exe`
 
 -   Make a folder named `Files` in the C drive, `C:\Files` and copy the `gatherosstate.exe` file into that folder.
 

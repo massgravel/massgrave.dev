@@ -186,7 +186,7 @@ Feel free to contact us in case you have a contradictory point of view.
 
 -   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of the KMS server name in the registry.
 
--   If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly", see [here](https://i.imgur.com/gLFxssD.png).
+-   If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly", see [here](images/office-license-is-not-genuine.png).
 
 -   Therefore in manual mode, `KeyManagementServiceName` value containing a non-existent IP address 10.0.0.10 will be kept in the below registry keys:
 
