@@ -150,7 +150,7 @@ pagetitle: KMS38 Activation
 
 -   Windows Server Cor/Acor (No GUI) editions don't have the `clipup.exe` file.
 
--   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).\
+-   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](files\ClipUp.zip).\
     \
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\
@@ -207,7 +207,7 @@ We can perform the manual activation process in 2 ways.
 
 `slmgr /ipk <key>`
 
--   Download the Universal ticket from [here](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=p9zvmu4tnogv4nkn01kpyvkndfzhhiv4&file_id=f_1171245497490) and extract the downloaded file.
+-   Download the Universal ticket from [here](files\Tickets.zip) and extract the downloaded file.
 
 -   Find a file named `KMS.xml` in the extracted folder.
 
@@ -234,7 +234,7 @@ In this process, we will perform activation from scratch. This is based on the U
 -   Download the file from the official MS link and extract this .cab file.\
     <https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab>
 
--   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` and rename it as `gatherosstate.exe`
+-   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` (Size: 330 KB) and rename it as `gatherosstate.exe`
 
 -   Make a folder named `Files` in C drive, `C:\Files` and copy the `gatherosstate.exe` file in that folder.
 
@@ -345,7 +345,7 @@ C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGen
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 -   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have the `clipup.exe` file.\
-    To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](https://www.box.com/index.php?rm=box_download_shared_file&shared_name=qrmkewit9ty6ah0qzk0vncyyrwo8hei9&file_id=f_747809716860).\
+    To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](files\ClipUp.zip).\
     \
     `File: ClipUp.exe`\
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`\

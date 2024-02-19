@@ -14,7 +14,7 @@ All download links leads to genuine files only.
 
 -   Microsoft provides download links of Office MSI VL versions on [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee.
 
--   For that reason, we need to host files on a 3rd party website. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that the files are genuine. Office 2010, 2013 and 2016 MSI VL files were released on VLSC only, so you may find it hard to find checksums for them. You can download SHA-1 hashes list from [here](https://pixeldrain.com/u/UcxBns92) for all below listed Office versions.
+-   For that reason, we need to host files on a 3rd party website. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that the files are genuine. Office 2010, 2013 and 2016 MSI VL files were released on VLSC only, so you may find it hard to find checksums for them. You can download SHA-1 hashes list from [here](files\Office_MSI_VL_SHA-1.zip) for all below listed Office versions.
 
 -   You can activate all of the below listed 2010/2013/2016 Office files with Online KMS option and 2013/2016 with Ohook option in MAS. To activate Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 

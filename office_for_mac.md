@@ -12,7 +12,7 @@ pagetitle: Office For Mac
 
 -   The latest installer files are available for free to download on the [Official site](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac), but old Volume versions of Office are available to paid [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) subscribers.
 
--   For that reason, we need to host these old files on a 3rd party website. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that the files are genuine. You can download the SHA-1 hashes list from [here](https://pixeldrain.com/u/5UEKLN2U) for VLSC files.
+-   For that reason, we need to host these old files on a 3rd party website. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that the files are genuine. You can download the SHA-1 hashes list from [here](files\Old_Office_For_Mac_SHA-1.zip) for VLSC files.
 
 -   Microsoft provides Volume licenses through a serializer file to paid [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) Volume license subscribers. However, **anyone can activate Office** with this serializer file (the link is shared below).
 
@@ -32,7 +32,7 @@ pagetitle: Office For Mac
 
 ## Latest Office 365 / 2021
 
-These links always download the latest files. The links are taken from the [official site](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac).
+These links always download the latest files. The links are taken from the [official site](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac). Alternatively, you can check links [here](https://macadmins.software/) as well.
 
 | Application                  | Latest Installer Links                              |
 |---------------------------|---------------------------------------------|
