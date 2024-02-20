@@ -23,7 +23,9 @@ All download links lead to genuine files only.
 | Office C2R Installers (Retail) ❤️         | [Link](office_c2r_links.html) (Easy to install)                                                                                                                               |
 | Office C2R Custom Install (Retail / VL)   | [Link](office_c2r_custom.html) (More steps, allows customization)                                                                                                             |
 | Office MSI VL (Old versions)              | [Link](office_msi_links.html)                                                                                                                                                 |
-| **Office For Mac**                        | [Link](office_for_mac.html)                                                                                                                                                   |
+| Office For **Mac**                        | [Link](office_for_mac.html)                                                                                                                                                   |
+| **Misc**                                  |                                                                                                                                                                               |
+| Encarta                                   | [Link](misc_products.html)                                                                                                                                                    |
 
 You can contact us [here](https://discord.gg/gjJEfq7ux8) if you need any other Windows / Office files.
 
