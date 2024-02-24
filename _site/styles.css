@@ -115,3 +115,9 @@ code {
 video {
   max-width: 100%;
 }
+
+@media (max-width: 991px) {
+  .navbar .container {
+    width: 100%;
+  }
+}
