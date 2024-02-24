@@ -1,6 +1,6 @@
-name: "Microsoft_Activation_Scripts"
+name: "Microsoft Activation Scripts"
 navbar:
-  title: '<div><img src="images\logo.png" class="logo">   Microsoft Activation Scripts</div>'
+  title: '<div><img src="images\logo.png" class="logo">   MAS</div>'
   right:
     - text: "Home"
       href: index.html
@@ -63,4 +63,4 @@ output:
     toc: true
     toc_float:
       collapsed: false
-      smooth_scroll: false
+      smooth_scroll: true
