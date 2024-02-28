@@ -21,7 +21,7 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
     -   To check the installed Windows Language, open Powershell as admin and enter,\
         `dism /english /online /get-intl | find /i "Default system UI language"`
 
-    -   Note: If you are running Enterprise or Enterprise LTSC edition then you will need to download those edition ISO files from [here](genuine-installation-media.html).
+    -   Note: If you are running the Enterprise LTSC edition, you will need to download that edition's ISO file from [here](genuine-installation-media.html).
 -   Double-click on the ISO file once it is downloaded.
 -   If it opens in another program like 7-Zip, close it, right-click on the ISO, Open With \> Windows Explorer
 -   A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
