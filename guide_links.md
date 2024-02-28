@@ -21,3 +21,5 @@ pagetitle: Guide Links
 -   [Issues Due To Gaming Spoofers](issues_due_to_gaming_spoofers.html)
 
 -   [Change Edition Issues](change_edition_issues.html)
+
+-   [In-place Repair Upgrade](in-place_repair_upgrade.html)
