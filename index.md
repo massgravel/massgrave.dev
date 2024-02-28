@@ -40,15 +40,19 @@ Last Release - v2.5 (16-Nov-2023)\
 (Recommended)
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
--   Copy and paste the code below and press enter\
-    `irm https://massgrave.dev/get | iex`
+-   Copy and paste the code below and press enter
+
+```         
+irm https://massgrave.dev/get | iex
+```
+
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
 ### Method 2 - Traditional
 
 -   Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip)
--   Right click on the downloaded zip file and extract
+-   Right-click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
 -   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options, follow the on-screen instructions.
@@ -61,7 +65,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.html)
 ## Activations Summary
 
 | Activation Type | Supported Product    | Activation Period                    |
-|:-----------------|:-------------------|:---------------------------------|
+|:----------------|:---------------------|:-------------------------------------|
 | HWID            | Windows 10-11        | Permanent                            |
 | Ohook           | Office               | Permanent                            |
 | KMS38           | Windows 10-11-Server | Till the Year 2038                   |
@@ -87,7 +91,7 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ## Other Projects
 
--   https://github.com/WindowsAddict/IDM-Activation-Script
+-   <https://github.com/WindowsAddict/IDM-Activation-Script>
 
 ------------------------------------------------------------------------
 
