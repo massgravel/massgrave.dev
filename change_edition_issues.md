@@ -16,13 +16,19 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 
 -   This issue often appears due to the installed .Net 3.5 framework.
 
--   To solve this, we need to disable it, to do that, open the command prompt as admin and enter\
-    `DISM /Online /English /Disable-Feature /FeatureName:"NetFx3"`
+-   To solve this, we need to disable it, to do that, open the command prompt as admin and enter
+
+    ```bat
+    DISM /Online /English /Disable-Feature /FeatureName:"NetFx3"
+    ```
 
 -   Once it's done, try to change the edition again.
 
--   After the edition change, you can enable .net 3.5 again, to do that, enter,\
-    `DISM /Online /English /Enable-Feature /FeatureName:"NetFx3"`
+-   After the edition change, you can enable .net 3.5 again, to do that, enter,
+
+    ```bat
+    DISM /Online /English /Enable-Feature /FeatureName:"NetFx3"
+    ```
 
 ------------------------------------------------------------------------
 

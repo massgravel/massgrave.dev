@@ -271,14 +271,17 @@ c6df24deef2e83813dee9c81ddd9793a3d60c117a4e8e231b82e32b3192927e7 *sppc64.dll
     `C:\mingw32`\
     `C:\mingw64`
 
--   Open Powershell as admin and enter below command to set the time and date,\
-    \
-    `Set-TimeZone -Id 'UTC'; $date=[datetime]'2023/8/7 12:00';while($true){set-date $date; start-sleep -milliseconds 10;}`
+-   Open Powershell as admin and enter below command to set the time and date,
+
+    ```powershell
+    Set-TimeZone -Id 'UTC'; $date=[datetime]'2023/8/7 12:00';while($true){set-date $date; start-sleep -milliseconds 10;}
+    ```
 
 -   Now open another Windows for Powershell and enter below command to create sppc.dll files,\
-    \
-    `Set-Location -Path C:\ohook`\
-    `C:\mingw64\bin\mingw32-make.exe`
+    ```powershell
+    Set-Location -Path C:\ohook
+    C:\mingw64\bin\mingw32-make.exe
+    ```
 
 -   Calculate the SHA-256 of the created sppc64.dll and sppc32.dll files using 7-zip or Powershell, it would be same as mentioned above.
 
@@ -298,20 +301,28 @@ This is for those who wants to perform manual activation. If you want a tool to 
 
 -   Open command prompt as admin and enter below command to create a symlink of the system sppc.dll in the Office C2R System directory as sppcs.dll,
 
-    `mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"`
+    ```bat
+    mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"
+    ```
 
--   Now enter below command to copy the hook library as sppc.dll to the Office C2R system directory,\
-    \
-    `cd /d C:\ohook`\
-    `copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"`
+-   Now enter below command to copy the hook library as sppc.dll to the Office C2R system directory,
 
--   Some O365 editions check the license status and show the banner "There was a problem checking this device's license status". To stop this, enter below command,\
-    \
-    `reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2040-01-01T00:00:00Z" /f`
+    ```bat
+    cd /d C:\ohook
+    copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"
+    ```
+
+-   Some O365 editions check the license status and show the banner "There was a problem checking this device's license status". To stop this, enter below command,
+
+    ```bat
+    reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2040-01-01T00:00:00Z" /f
+    ```
 
 -   Enter the key, (Replace \<key\> with the key from the above list) with the following command,
 
-    `slmgr /ipk <key>`
+    ```bat
+    slmgr /ipk <key>
+    ```
 
 -   Done.
 

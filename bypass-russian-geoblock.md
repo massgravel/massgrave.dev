@@ -45,7 +45,7 @@ We're sorry, we can't continue because we weren't able to download a required fi
 
 Primarily, it checks for Russian IP addresses, and based on that, the above error is shown to users. However that's not the end of it. Once it find out that Russian IP is used, the installer creates the registry key below to remember it. After that, even if you use a VPN, the installer will still keep showing the error.
 
-```         
+```
 [HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs]
 "CountryCode"="std::wstring|RU"
 ```
@@ -54,7 +54,7 @@ Primarily, it checks for Russian IP addresses, and based on that, the above erro
 
 -   Open command prompt as admin and enter,
 
-```         
+```bat
 reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "CountryCode" /t REG_SZ /d "std::wstring|US" /f
 ```
 

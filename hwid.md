@@ -147,13 +147,17 @@ We can perform the manual activation process in 2 ways.
 
 -   Enter the Key (Replace `<key>` with the key from the above list) with the following command:
 
-`slmgr /ipk <key>`
+```powershell
+slmgr /ipk <key>
+```
 
 -   Download Universal tickets from [here](files\Tickets.zip) and extract the downloaded file.
 
 -   Now enter below code in PowerShell:
 
-`(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn`
+```powershell
+(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn
+```
 
 -   This command will you show you some text like `Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe`
 
@@ -165,15 +169,21 @@ We can perform the manual activation process in 2 ways.
 
 -   Now run below command in PowerShell to apply the ticket:
 
-`clipup -v -o`
+```powershell
+clipup -v -o
+```
 
 -   Activate Windows with the following command:
 
-`slmgr /ato`
+```powershell
+slmgr /ato
+```
 
 -   Check Activation Status with the following command:
 
-`slmgr /xpr`
+```powershell
+slmgr /xpr
+```
 
 -   Done.
 
@@ -196,13 +206,15 @@ In this process, we will perform activation from scratch. This is based on the U
 
 -   Enter the key (Replace `<key>` with the key from the above list) with the following command:
 
-`slmgr /ipk <key>`
+```powershell
+slmgr /ipk <key>
+```
 
 -   Copy the below code all at once and enter it in PowerShell to modify the `gatherosstate.exe` file. This code to modify the file is based on [GamersOsState](https://github.com/asdcorp/GamersOsState).
 
 <!-- -->
 
-```         
+```powershell
 $bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
 $bytes[320] = 0xf8
 $bytes[321] = 0xfb
@@ -278,7 +290,7 @@ $bytes[34377] = 0x63
 
 <!-- -->
 
-```         
+```powershell
 $value = (Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn
 
 C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=465145217131314304264339481117862266242033457260311819664735280
@@ -286,15 +298,21 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=4651452171313143042643
 
 -   A GenuineTicket.xml file should be created in the folder `C:\Files\`. Now, let's apply it.
 
-`clipup -v -o -altto C:\Files\`
+```powershell
+clipup -v -o -altto C:\Files\
+```
 
 -   Activate Windows with the following command:
 
-`slmgr /ato`
+```powershell
+slmgr /ato
+```
 
 -   Check Activation Status with the following command:
 
-`slmgr /xpr`
+```powershell
+slmgr /xpr
+```
 
 -   Done.
 
@@ -302,8 +320,11 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=4651452171313143042643
 
 -   If the system is already activated then, then the created ticket will be a Lockbox ticket. If not, it will be a Downlevel ticket.
 
--   To make the exact ticket used in MAS HWID script, make sure system is already activated and fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.\
-    `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
+-   To make the exact ticket used in MAS HWID script, make sure system is already activated and fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.
+
+    ```powershell
+    Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}
+    ```
 
 ------------------------------------------------------------------------
 

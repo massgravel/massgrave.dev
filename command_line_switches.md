@@ -40,7 +40,9 @@ pagetitle: Command Line Switches
 
 ## Uses In Powershell One Liner
 
-`& ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para`
+```powershell
+& ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para
+```
 
 **Notes** - Remove the space between `mass grave`
 

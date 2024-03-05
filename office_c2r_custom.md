@@ -48,7 +48,7 @@ Once you're done:
 
 -   Open the command prompt as admin and run the below commands
 
-    ```         
+    ```bat
     cd /d C:\
     setup.exe /configure Configuration.xml
     ```

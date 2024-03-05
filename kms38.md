@@ -205,7 +205,9 @@ We can perform the manual activation process in 2 ways.
 
 -   Enter the key (Replace `<key>` with the key from the above list) with the following command:
 
-`slmgr /ipk <key>`
+```powershell
+slmgr /ipk <key>
+```
 
 -   Download the Universal ticket from [here](files\Tickets.zip) and extract the downloaded file.
 
@@ -217,11 +219,15 @@ We can perform the manual activation process in 2 ways.
 
 -   Now run the below command in PowerShell to apply the ticket:
 
-`clipup -v -o`
+```powershell
+clipup -v -o
+```
 
 -   Check the Activation Status with the following command:
 
-`slmgr /xpr`
+```powershell
+slmgr /xpr
+```
 
 -   Done.
 
@@ -242,14 +248,16 @@ In this process, we will perform activation from scratch. This is based on the U
 
 -   Enter the key (Replace `<key>` with the key from the above list) with the following command:
 
-`slmgr /ipk <key>`
+```powershell
+slmgr /ipk <key>
+```
 
 -   Copy the below code all at once and enter in PowerShell to modify the `gatherosstate.exe` file.\
     This code to modify the file is based on [GamersOsState](https://github.com/asdcorp/GamersOsState).
 
 <!-- -->
 
-```         
+```powershell
 $bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
 $bytes[320] = 0xf8
 $bytes[321] = 0xfb
@@ -331,18 +339,25 @@ C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGen
 
 -   A GenuineTicket.xml file should be created in the folder `C:\Files\`. Now, let's apply it:
 
-`clipup -v -o -altto C:\Files\`
+```powershell
+clipup -v -o -altto C:\Files\
+```
 
 -   Check Activation Status with the following command:
 
-`slmgr /xpr`
+```powershell
+slmgr /xpr
+```
 
 -   Done.
 
 **Notes:**
 
--   To make the exact ticket used in MAS KMS38 script, fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.\
-    `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
+-   To make the exact ticket used in MAS KMS38 script, fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.
+
+    ```powershell
+    Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}
+    ```
 
 -   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have the `clipup.exe` file.\
     To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](files\ClipUp.zip).\

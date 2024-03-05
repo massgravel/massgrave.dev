@@ -36,15 +36,21 @@ If you want to manually change the edition instead of using the script, please f
 
 ### Windows 10/11
 
--   To view the list of available editions, open the command prompt as admin and enter\
-    `dism /online /english /Get-TargetEditions`
+-   To view the list of available editions, open the command prompt as admin and enter
+
+    ```bat
+    dism /online /english /Get-TargetEditions
+    ```
 
 -   Get the keys for the desired edition from [here](hwid.html#Supported_Products)
 
 -   If you are upgrading from Home to Pro, you will need to disable the Internet before performing the upgrade.
 
--   Now enter that product key with this command, replace \<product_key\> with the actual key.\
-    `changepk.exe /ProductKey <product_key>`
+-   Now enter that product key with this command, replace \<product_key\> with the actual key.
+
+    ```bat
+    changepk.exe /ProductKey <product_key>
+    ```
 
 -   In the Home to Pro upgrade, it may show an error, restart the system anyway. (Use the script if it's still not working)
 

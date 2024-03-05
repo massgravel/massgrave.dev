@@ -13,13 +13,19 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 ## Steps
 
 -   Download the Windows ISO, preferably from [MSDL](/msdl/) in the same Windows language, and architecture.
-    -   To check the installed Windows architecture, open Powershell as admin and enter,\
-        `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`
+    -   To check the installed Windows architecture, open Powershell as admin and enter,
+
+        ```powershell
+        Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture
+        ```
 
         x64 means 64 Bit, x86 means 32 Bit
 
-    -   To check the installed Windows Language, open Powershell as admin and enter,\
-        `dism /english /online /get-intl | find /i "Default system UI language"`
+    -   To check the installed Windows Language, open Powershell as admin and enter,
+    
+        ```powershell
+        dism /english /online /get-intl | find /i "Default system UI language"
+        ```
 
     -   Note: If you are running the Enterprise LTSC edition, you will need to download that edition's ISO file from [here](genuine-installation-media.html).
 -   Double-click on the ISO file once it is downloaded.

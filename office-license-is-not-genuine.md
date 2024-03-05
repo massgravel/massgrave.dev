@@ -49,7 +49,7 @@ In this section, I'm only going to mention how to set up the KMS server in the r
 
 Below, you can find how to set the KMS server address in the registry. For example, with a private IP `10.0.0.10`
 
-```         
+```bat
 reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663" /f
 
 reg delete "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663" /f /reg:32
@@ -81,7 +81,7 @@ Please see the guide [here](office_c2r_custom.html) for VL Office installation.
 
 <!-- -->
 
-```         
+```bat
 reg add HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v CDNBaseUrl /t REG_SZ /d "http://officecdn.microsoft.com/pr/55336B82-A18D-4DD6-B5F6-9E5095C314A6" /f
 
 reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v UpdateUrl /f
