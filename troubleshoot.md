@@ -10,7 +10,7 @@ pagetitle: Troubleshooting
 
 -   If script is showing any instruction in **Blue color**, try to follow that.
 
--   **Reach out to us** on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) or [Telegram](https://t.me/Microsoft_Activation_Scripts) with an error screenshot.
+-   **Reach out to us** on [Discord](https://discord.gg/gjJEfq7ux8) or [Telegram](https://t.me/Microsoft_Activation_Scripts) with an error screenshot.
 
 [![](images/logo_discord.png)](https://discord.gg/gjJEfq7ux8) [![](images/logo_telegram.png)](https://t.me/Microsoft_Activation_Scripts)
 
