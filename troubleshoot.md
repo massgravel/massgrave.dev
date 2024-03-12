@@ -10,8 +10,8 @@ pagetitle: Troubleshooting
 
 -   If script is showing any instruction in **Blue color**, try to follow that.
 
--   **Reach out to us** on [Discord](https://discord.gg/gjJEfq7ux8) (signup not required) or [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) with an error screenshot.
+-   **Reach out to us** on [Discord](https://discord.gg/tVFN4N84PP) (signup not required) or [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) with an error screenshot.
 
-[![](images/logo_discord.png)](https://discord.gg/gjJEfq7ux8)
+[![](images/logo_discord.png)](https://discord.gg/tVFN4N84PP)
 
 ------------------------------------------------------------------------

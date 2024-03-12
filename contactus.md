@@ -8,7 +8,7 @@ pagetitle: Contact Us
 
 Please feel free to share feedback regarding bug reports, documentation errors, troubleshooting, etc. using the links below.
 
--   [Discord](https://discord.gg/gjJEfq7ux8) ❤️ (signup not required) - Discussion
+-   [Discord](https://discord.gg/tVFN4N84PP) ❤️ (signup not required) - Discussion
 
 -   [Reddit](https://www.reddit.com/r/MAS_Activator/)
 
