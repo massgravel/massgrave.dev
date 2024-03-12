@@ -121,3 +121,8 @@ video {
     width: 100%;
   }
 }
+
+.discord-widget {
+  padding-top: .75em;
+  text-align: center;
+}
