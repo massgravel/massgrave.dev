@@ -12,6 +12,6 @@ pagetitle: Troubleshooting
 
 -   **Reach out to us** on [Discord](https://discord.gg/tVFN4N84PP) (signup not required) or [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) with an error screenshot.
 
-[![](images/logo_discord.png)](https://discord.gg/tVFN4N84PP)
+<div class="discord-widget"><iframe src="https://discord.com/widget?id=746721520931569757&amp;theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe></div>
 
 ------------------------------------------------------------------------
