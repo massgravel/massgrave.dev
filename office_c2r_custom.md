@@ -24,7 +24,7 @@ First, you'll need to clear previous installations of Office. You can skip this 
 
 -   Uninstall Office with the App and Features option in Windows settings.
 
--   Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_11.7z) by abbodi1406 and select `[R] Remove all Licenses` option.
+-   Run `OfficeScrubber.cmd` file from [Office Scrubber](https://github.com/abbodi1406/WHD/raw/master/scripts/OfficeScrubber_12.zip) by abbodi1406 and select `[R] Remove all Licenses` option.
 
 Once you're done:
 
