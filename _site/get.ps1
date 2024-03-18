@@ -19,7 +19,7 @@ catch {
 }
 
 $ScriptArgs = "$args "
-$prefix = "@REM $rand `r`n"
+$prefix = "@:: $rand `r`n"
 $content = $prefix + $response
 Set-Content -Path $FilePath -Value $content
 
