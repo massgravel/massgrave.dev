@@ -16,44 +16,44 @@ All download links leads to genuine files only.
 
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.html#How_to_verify_genuinity_of_files) on how to be sure that files are genuine.
 
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/tVFN4N84PP).
 
 ------------------------------------------------------------------------
 
 ## Windows Server 2022
 
-Updated Feb 2024 (Build - 20348.2322)
+Updated Mar 2024 (Build - 20348.2340)
 
-| Links                                                                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**cs-cz**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**de-de**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**en-us**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**es-es**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**fr-fr**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**hu-hu**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**it-it**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**ja-jp**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**ko-kr**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**nl-nl**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**pl-pl**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**pt-br**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**pt-pt**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**ru-ru**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**sv-se**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**tr-tr**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**zh-cn**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
-| [**zh-tw**_windows_server_2022_updated_feb_2024_**x64**_dvd_95120870.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_feb_2024_x64_dvd_95120870.iso) |
+| Links                                                                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [**cs-cz**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**de-de**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**en-us**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**es-es**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**fr-fr**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**hu-hu**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**it-it**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**ja-jp**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**ko-kr**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**nl-nl**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**pl-pl**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**pt-br**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**pt-pt**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**ru-ru**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**sv-se**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**tr-tr**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**zh-cn**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
+| [**zh-tw**_windows_server_2022_updated_march_2024_**x64**_dvd_f6700d18.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_march_2024_x64_dvd_f6700d18.iso) |
 
 ------------------------------------------------------------------------
 
 ## Windows Server 23H2 (No GUI)
 #### (Only English ISO is available)
-Updated Feb 2024 (Build - 25398.709)
+Updated Mar 2024 (Build - 25398.763)
 
 | Links                                                                                                                                                                                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [**en-us**_windows_server_version_23h2_updated_feb_2024_**x64**_dvd_cfffe22b.iso](https://drive.massgrave.dev/en-us_windows_server_version_23h2_updated_feb_2024_x64_dvd_cfffe22b.iso)                                   |
+| [**en-us**_windows_server_version_23h2_updated_march_2024_**x64**_dvd_b34e71a0.iso](https://drive.massgrave.dev/en-us_windows_server_version_23h2_updated_march_2024_x64_dvd_b34e71a0.iso)                               |
 | [**mul_languages**_and_optional_features_for_windows_server_version_23h2_**x64**_dvd_f49e7fd8.iso](https://drive.massgrave.dev/mul_languages_and_optional_features_for_windows_server_version_23h2_x64_dvd_f49e7fd8.iso) |
 
 ------------------------------------------------------------------------
