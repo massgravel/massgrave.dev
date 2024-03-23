@@ -67,9 +67,14 @@ It will now download and install Office. You can activate it with your preferred
 
 ## Microsoft Office 2024 (Preview)
 
-Official Office Deployment Tool (ODT) is not yet allowing the installation of Microsoft Office 2024 however its license files are available in the Office DevMain (Dogfood) Channel. Official notes from Microsoft regarding Office 2024 have not been released yet.
+[Official notes](https://techcommunity.microsoft.com/t5/microsoft-365-blog/upcoming-preview-of-microsoft-office-ltsc-2024/ba-p/4082963) from Microsoft regarding Office 2024.
 
-We can use alternative steps to get the files and install them.
+Available Product IDs: ProPlus2024Volume, ProjectPro2024Volume, VisioPro2024Volume
+Update channel: PerpetualVL2024
+
+ODT can be used to install Office 2024 preview.
+
+Alternative steps to install Office 2024 preview:
 
 -   Download Office files for DevMain (Dogfood) Channel with [YAOCTRU](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRU_v9.0.zip)
 -   Extract `YAOCTRI_Configurator.cmd` file from [YAOCTRI](https://github.com/abbodi1406/WHD/raw/master/scripts/YAOCTRI_v10.7.zip) and place this file besides `Office` Folder which was downloaded by YAOCTRU
