@@ -12,7 +12,7 @@ pagetitle: Guide Links
 
 -   [Office License Is Not Genuine](office-license-is-not-genuine.html)
 
--   [Bypass Russian Geoblock](bypass-russian-geoblock.html)
+-   [Bypass Russian Geoblock](https://gravesoft.dev/guides/bypass-russian-geoblock)
 
 -   [Fix WPA Registry](fix-wpa-registry.html)
 

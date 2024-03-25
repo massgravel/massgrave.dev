@@ -7,8 +7,8 @@ pagetitle: Genuine Installation Media
 All download links lead to genuine files only.
 
 | **Windows**                               |                                                                                                                                                                               |
-|:-----------------------------|:-------------------------------|
-| Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](/msdl/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                                     |
+|:--------------------------------|:--------------------------------------|
+| Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](https://msdl.gravesoft.dev/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                |
 | Windows 11                                | [Link](windows_11_links.html)                                                                                                                                                 |
 | Windows 10                                | [Link](windows_10_links.html)                                                                                                                                                 |
 | Windows 10 Enterprise **LTSC**            | [Link](windows_ltsc_links.html)                                                                                                                                               |
@@ -20,8 +20,8 @@ All download links lead to genuine files only.
 | Windows Server                            | [Link](windows_server_links.html)                                                                                                                                             |
 | Windows Insider                           | [10/11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |
 | **Office**                                |                                                                                                                                                                               |
-| Office C2R Installers (Retail) ❤️         | [Link](office_c2r_links.html) (Easy to install)                                                                                                                               |
-| Office C2R Custom Install (Retail / VL)   | [Link](office_c2r_custom.html) (More steps, allows customization)                                                                                                             |
+| Office C2R Installers (Retail) ❤️         | [Link](https://gravesoft.dev/download_windows_office/office_c2r_links) (Easy to install)                                                                                      |
+| Office C2R Custom Install (Retail / VL)   | [Link](https://gravesoft.dev/download_windows_office/office_c2r_custom) (More steps, allows customization)                                                                    |
 | Office MSI VL (Old versions)              | [Link](office_msi_links.html)                                                                                                                                                 |
 | Office For **Mac**                        | [Link](office_for_mac.html)                                                                                                                                                   |
 | **Misc**                                  |                                                                                                                                                                               |
