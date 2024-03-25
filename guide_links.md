@@ -22,4 +22,4 @@ pagetitle: Guide Links
 
 -   [Change Edition Issues](change_edition_issues.html)
 
--   [In-place Repair Upgrade](in-place_repair_upgrade.html)
+-   [In-place Repair Upgrade](https://gravesoft.dev/guides/in-place_repair_upgrade)
