@@ -26,12 +26,6 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 
 ------------------------------------------------------------------------
 
-## Error In Windows Insider
-
--   Windows 11 insider **builds 26052 and later** has an issue that causes an error in changing the edition from Home to Pro. The solution is not known yet.
-
-------------------------------------------------------------------------
-
 ## Other Errors
 
 -   In Windows settings, go to the Windows Update page, run the check for updates button, and ensure that Windows is fully updated.
