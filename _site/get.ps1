@@ -9,18 +9,25 @@ $DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-script
 $DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/branch/master/' + $CommonURLPart
 $DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/' + $CommonURLPart
 
+$URLs = @($DownloadURL1, $DownloadURL2)
+$RandomURL1 = Get-Random -InputObject $URLs
+$RandomURL2 = $URLs -notmatch $RandomURL1 | Get-Random
+
+try {
+    $response = Invoke-WebRequest -Uri $RandomURL1 -UseBasicParsing
+}
+catch {
+    try {
+        $response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
+    }
+    catch {
+        $response = Invoke-WebRequest -Uri $DownloadURL3 -UseBasicParsing
+    }
+}
+
 $rand = Get-Random -Maximum 99999999
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
 $FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:TEMP\MAS_$rand.cmd" }
-
-$RandomURL = Get-Random -InputObject $DownloadURL1, $DownloadURL2
-
-try {
-    $response = Invoke-WebRequest -Uri $RandomURL -UseBasicParsing
-}
-catch {
-    $response = Invoke-WebRequest -Uri $DownloadURL3 -UseBasicParsing
-}
 
 $ScriptArgs = "$args "
 $prefix = "@:: $rand `r`n"
