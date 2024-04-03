@@ -23,8 +23,15 @@ pagetitle: FAQ
 -   **It says activation failed, what to do now?**\
     Check [here](troubleshoot.html).
 
+-   **When is the release date for Windows 11 Enterprise LTSC?**\
+    It will be officially released in 2nd half of 2024, more [info](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-client-roadmap-update-april-2023/ba-p/3805227). Download links will be shared here.\
+    Insider build ISO for Windows 11 LTSC has been leaked but we recommend not installing it for general use because its authenticity can not be verified and the build is not stable.
+
 -   **How to download the full version of Windows 10 LTSC 2021?**\
     Check the info [here](genuine-installation-media.html).
+
+-   **I've downloaded Enterprise LTSC from Microsoft, why MAS is not activating it?**\
+    Microsoft doesn't provide the full LTSC version for free, instead, it provides an evaluation copy that works for 90 days and can not be activated. You need to install the full version from [here](genuine-installation-media.html) to be able to activate.
 
 -   **How to change the Windows edition from Home to Pro?\
     **In MAS, go to Extras and select the Change Edition option.
