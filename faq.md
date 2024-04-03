@@ -53,8 +53,14 @@ pagetitle: FAQ
 -   **Can I activate Office 365?**\
     Yes, use the Ohook activation option. However, you can't get server-side O365-specific features such as 1TB storage in OneDrive, though almost all other features and 5GB storage in a free OneDrive account would work fine.
 
+-   **Why Office is showing the "Update License" button in the file menu?\
+    **It is appearing even for customers who have a genuine subscription license and there is nothing to worry about. More [info](https://support.microsoft.com/office/update-license-button-29025197-58d9-4b17-acc1-99a45dabf330).
+
 -   **Can I get the Copilot feature in Office with MAS activation?\
-    **No. Copilot is an additional plan that can be added to existing subscriptions of Microsoft 365.
+    **No. [Copilot](https://www.microsoft.com/microsoft-365/microsoft-copilot) is an additional plan that can be added to existing subscriptions of Microsoft 365.
+
+-   **Can I get Python in Excel with MAS activation?**\
+    [Python in Excel](https://support.microsoft.com/office/introduction-to-python-in-excel-55643c2e-ff56-4168-b1ce-9428c8308545) is currently in the preview and it's a server-side feature. To get this feature, you need to switch the office update channel to the [Insider build](https://github.com/massgravel/Microsoft-Activation-Scripts/discussions/399#discussioncomment-8871527) and then you will be able to get a few tries to test it if you don't have a Microsoft 365 subscription, meaning to get full access, you need a subscription license and it won't work with MAS activation.
 
 -   **I'm getting an 'Office is not genuine' banner.**\
     Run Ohook activation from the latest MAS version.
