@@ -47,15 +47,16 @@ These links always download the latest files. The links are taken from the [offi
 
 ## Office Activator
 
-To activate, run the listed activation file after installing Office. You will need to extract the listed .iso file with software such as [7-zip](https://www.7-zip.org/download.html) to use the .pkg file.
+To activate, run the listed activation file after installing Office.
 
-| Office Version    | Activator Links                                                                                                                               |
-|--------------------|---------------------------------------------|
-| Office 2021 ❤️    | [SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)        |
-| Office 2019 (New) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso)        |
-| Office 2019 (Old) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)        |
-| Office 2016 (New) | [SWDVD5_Office_Mac_Serializer_2016\_-2_MLF_X21-93585.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso) |
-| Office 2016 (Old) | [SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)        |
+| Office Version    | Activator Links                                                                                                                                     |
+|----------------|-----------------------------------------------------|
+| Office 2021 ❤️    | [Microsoft_Office_LTSC_2021_VL_Serializer.pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) (Extracted from below ISO) |
+| Office 2021       | [SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)              |
+| Office 2019 (New) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso)              |
+| Office 2019 (Old) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)              |
+| Office 2016 (New) | [SWDVD5_Office_Mac_Serializer_2016\_-2_MLF_X21-93585.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)       |
+| Office 2016 (Old) | [SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)              |
 
 ------------------------------------------------------------------------
 
