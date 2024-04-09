@@ -89,10 +89,4 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ------------------------------------------------------------------------
 
-## Other Projects
-
--   <https://github.com/WindowsAddict/IDM-Activation-Script>
-
-------------------------------------------------------------------------
-
 Made with Love ❤️
