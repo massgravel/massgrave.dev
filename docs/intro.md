@@ -10,29 +10,6 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ------------------------------------------------------------------------
 
-## Features
-
--   **HWID (Digital License)** Method to Permanently Activate Windows
--   **Ohook** Method to Permanently Activate Office
--   **KMS38** Method to Activate Windows/Server Till the Year 2038
--   **Online KMS** Method to Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
--   Advanced Activation Troubleshooting
--   $OEM$ Folders For Preactivation
--   Change Windows Edition
--   Check Windows/Office Activation Status
--   Available in All In One and Separate Files Versions
--   Fully Open Source and Based on Batch Scripts
--   Fewer Antivirus Detections
-
-------------------------------------------------------------------------
-
-## MAS Latest Release
-
-Last Release - v2.5 (16-Nov-2023)  
-[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
-
-------------------------------------------------------------------------
-
 ## Download / How to use it?
 
 ### Method 1 - PowerShell
@@ -57,6 +34,29 @@ irm https://massgrave.dev/get | iex
 -   That's all.
 
 To run the scripts in unattended mode, check [here](command_line_switches.md)
+
+------------------------------------------------------------------------
+
+## Features
+
+-   **HWID (Digital License)** Method to Permanently Activate Windows
+-   **Ohook** Method to Permanently Activate Office
+-   **KMS38** Method to Activate Windows/Server Till the Year 2038
+-   **Online KMS** Method to Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
+-   Advanced Activation Troubleshooting
+-   $OEM$ Folders For Preactivation
+-   Change Windows Edition
+-   Check Windows/Office Activation Status
+-   Available in All In One and Separate Files Versions
+-   Fully Open Source and Based on Batch Scripts
+-   Fewer Antivirus Detections
+
+------------------------------------------------------------------------
+
+## MAS Latest Release
+
+Last Release - v2.5 (16-Nov-2023)  
+[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
 
