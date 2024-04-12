@@ -1,1 +1,2 @@
-/test /test.ps1 200
+/get /get.txt 200
+/ias /ias.txt 200
