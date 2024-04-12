@@ -90,6 +90,6 @@
 }
 
 table {
-  font-family: "Consolas", "Source Code Pro", monospace;
-  font-size: 14px
+  font-family: var(--ifm-font-family-monospace);
+  font-size: var(--ifm-code-font-size);
 }
