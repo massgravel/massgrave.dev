@@ -3,7 +3,7 @@
 All download links lead to genuine files only.
 
 ### Windows
-| | |
+| Products | Links |
 |-|-|
 | Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](https://msdl.gravesoft.dev/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                |
 | Windows 11                                | [Link](windows_11_links.md)                                                                                                                                                 |
@@ -18,7 +18,7 @@ All download links lead to genuine files only.
 | Windows Insider                           | [10/11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |
 
 ### Office
-| | |
+| Products | Links |
 |-|-|
 | Office C2R Installers (Retail) ❤️         | [Link](https://gravesoft.dev/download_windows_office/office_c2r_links) (Easy to install)                                                                                      |
 | Office C2R Custom Install (Retail / VL)   | [Link](https://gravesoft.dev/download_windows_office/office_c2r_custom) (More steps, allows customization)                                                                    |
