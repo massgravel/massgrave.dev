@@ -1,0 +1,95 @@
+:root {
+  --ifm-color-primary: #a43b8d;
+  --ifm-color-primary-dark: #94357f;
+  --ifm-color-primary-darker: #8b3278;
+  --ifm-color-primary-darkest: #732963;
+  --ifm-color-primary-light: #b4419b;
+  --ifm-color-primary-lighter: #bc45a2;
+  --ifm-color-primary-lightest: #c55dae;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e685d0;
+  --ifm-color-primary-dark: #e376ca;
+  --ifm-color-primary-darker: #e067c4;
+  --ifm-color-primary-darkest: #da49b9;
+  --ifm-color-primary-light: #e994d6;
+  --ifm-color-primary-lighter: #eca3dc;
+  --ifm-color-primary-lightest: #f2c1e7;
+}
+
+.navbar,
+.navbar-sidebar__brand {
+  background-image: url('/img/bg.png');
+  background-size: cover;
+  background-color: #000;
+  box-shadow: 0 0 10px #0006;
+}
+
+.navbar__logo img {
+  filter: drop-shadow(1px 1px 2px #0003);
+}
+
+.navbar__inner,
+.navbar__inner a,
+.navbar__inner a:hover,
+.navbar-sidebar__brand,
+.navbar-sidebar__brand a,
+.navbar-sidebar__brand a:hover {
+  color: #fff;
+}
+
+.navbar__inner .navbar__item {
+  transition: background var(--ifm-transition-fast);
+  border-radius: var(--ifm-breadcrumb-border-radius);
+}
+
+.navbar__inner .navbar__item:hover,
+.navbar__inner .clean-btn:hover,
+.navbar-sidebar__brand .clean-btn:hover {
+  background-color: #fff3;
+}
+
+.navbar-sidebar__close {
+  --ifm-color-emphasis-600: #fff;
+}
+
+.navbar__toggle.clean-btn:hover,
+.navbar-sidebar__close.clean-btn:hover {
+  background: none;
+}
+
+.navbar__inner .github-button,
+.navbar__inner .discord-button {
+  width: 32px;
+  height: 32px;
+  font-size: 0;
+}
+
+.navbar__inner .github-button *,
+.navbar__inner .discord-button * {
+  display: none;
+}
+
+.navbar__inner .github-button:before,
+.navbar__inner .discord-button:before {
+  content: '';
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+.navbar__inner .discord-button:before {
+  background: url('/img/discord.svg') no-repeat;
+  margin: 3px 0 0 -7px;
+}
+
+.navbar__inner .github-button:before {
+  background: url('/img/github.svg') no-repeat;
+  margin: 1px 0 0 -7px;
+}
+
+table {
+  font-family: "Consolas", "Source Code Pro", monospace;
+  font-size: 14px
+}
