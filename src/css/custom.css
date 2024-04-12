@@ -6,6 +6,7 @@
   --ifm-color-primary-light: #b4419b;
   --ifm-color-primary-lighter: #bc45a2;
   --ifm-color-primary-lightest: #c55dae;
+  --ifm-table-cell-padding: 0.5rem;
 }
 
 [data-theme='dark'] {
