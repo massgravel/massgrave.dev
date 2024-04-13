@@ -33,6 +33,7 @@
 
 ## Supported Products
 
+### Windows 10 / 11
 | Windows 10/11 Product Names                     | EditionID                | Generic Volume License Key    |
 |-------------------------------------------------|--------------------------|-------------------------------|
 | Education                                       | Education                | NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 |
@@ -65,6 +66,7 @@
 | SE                                              | CloudEdition             | 37D7F-N49CB-WQR8W-TBJ73-FM8RX |
 | SE N                                            | CloudEditionN            | 6XN7V-PCBDC-BDBRH-8DQY7-G6R44 |
 
+### Windows Server (LTSC)
 | Windows Server (LTSC)                | EditionID          | Generic Volume License Key    |
 |--------------------------------------|--------------------|-------------------------------|
 | Windows Server 2025 Standard         | ServerStandard     | DPNXD-67YY9-WWFJJ-RYH99-RM832 |
@@ -87,10 +89,12 @@
 | Windows Server 2016 Cloud Storage    | ServerCloudStorage | QN4C6-GBJD2-FB422-GHWJK-GJG2R |
 | Windows Server 2016 Azure Core       | ServerAzureCor     | VP34G-4NPPG-79JTQ-864T4-R3MQX |
 
+### Windows Server (Annual Channel)
 | Windows Server (Annual Channel)  | EditionID        | Generic Volume License Key    |
 |----------------------------------|------------------|-------------------------------|
 | Windows Server Datacenter (23H2) | ServerDatacenter | WX4NM-KYWYW-QJJR4-XV3QB-6VM33 |
 
+### Windows Server (Semi-Annual Channel)
 | Windows Server (Semi-Annual Channel) | EditionID            | Generic Volume License Key    |
 |--------------------------------------|----------------------|-------------------------------|
 | **20H2, 2004, 1909, 1903, and 1809** |                      |                               |
@@ -103,13 +107,15 @@
 | Windows Server Datacenter            | ServerDatacenterACor | 6Y6KB-N82V8-D8CQV-23MJW-BWTG6 |
 | Windows Server Standard              | ServerStandardACor   | DPCNP-XQFKJ-BJF7R-FRC8D-GF6G4 |
 
-**Notes:**
+:::info
 
--   X86-X64 and ARM64 architecture systems are supported.
+-   Systems in all architectures (x86, x64 and arm64) are supported.
 -   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 -   Initial release (19044.1288) of Iot LTSC 2021 doesn't support KMS license and it was added later in update 19044.2788.
--   ServerRdsh, Server Azure Datacenter editions do not [officially](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq) support activation on non-azure systems.
+-   ServerRdsh, Server Azure Datacenter editions [officially](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq) do not support activation on non-azure systems.
+
+:::
 
 ------------------------------------------------------------------------
 

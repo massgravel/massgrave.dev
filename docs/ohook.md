@@ -199,11 +199,13 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (O365)   | O365ProPlusRetail               | 2N382-D6PKK-QTX4D-2JJYK-M96P2 | Subscription1 |
 | v16.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
 
-**Notes:**
+:::info
 
 -   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
 -   Script doesn't convert any product to Volume or vice-versa. All products are activated with their own licence.
 -   Key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
+
+:::
 
 ------------------------------------------------------------------------
 
