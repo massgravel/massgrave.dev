@@ -1,8 +1,13 @@
 # Download Windows / Office
 
-All download links lead to genuine files only.
+:::info[Note]
 
-### Windows
+All download links available on our website lead to genuine files only.
+
+:::
+
+## Windows
+
 | Products                                  | Links                                                                                                                                                                         |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](https://msdl.gravesoft.dev/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                |
@@ -17,7 +22,8 @@ All download links lead to genuine files only.
 | Windows Server                            | [Link](windows_server_links.md)                                                                                                                                               |
 | Windows Insider                           | [10/11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |
 
-### Office
+## Office
+
 | Products                                | Links                                                                                                      |
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Office C2R Installers (Retail) ❤️       | [Link](https://gravesoft.dev/download_windows_office/office_c2r_links) (Easy to install)                   |
@@ -25,24 +31,29 @@ All download links lead to genuine files only.
 | Office MSI VL (Old versions)            | [Link](office_msi_links.md)                                                                                |
 | Office For **Mac**                      | [Link](office_for_mac.md)                                                                                  |
 
+<br/>
+
+:::tip
 
 You can contact us [here](https://discord.gg/tVFN4N84PP) if you need any other Windows / Office files.
+
+:::
 
 ------------------------------------------------------------------------
 
 ## Verify Authenticity Of Files
 
--   We can use the [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine or not, but we must first know the actual checksum of the file.
--   Microsoft publishes a checksum list for [Windows 11](https://www.microsoft.com/software-download/windows11) consumer edition. The checksum list for other products is not public and is available to paid subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/).
--   There are many places where we can find the checksums for Microsoft files and compare them with our files using tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA). Below is a list of sites containing checksums.
-    -  [files.rg-adguard](https://files.rg-adguard.net/) (most complete collection)
-    -  [MVS dump](https://awuctl.github.io/mvs/)
-    -  [genuine-iso-verifier](https://genuine-iso-verifier.weebly.com/)
-    -  [msdn.rg-adguard](https://msdn.rg-adguard.net/)
-    -  [sha1.rg-adguard](https://sha1.rg-adguard.net/)
+You can use the [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine. This can be done using tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA).
+
+Microsoft publishes a checksum list for consumer editions of [Windows 11](https://www.microsoft.com/software-download/windows11). The checksum lists for other Microsoft products aren't public, as these are only available to subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/). However, there are many places where you can find these checksums. Examples can be found below.
+ -  [files.rg-adguard](https://files.rg-adguard.net/search) (the most complete collection)
+ -  [MVS dump](https://awuctl.github.io/mvs/)
+ -  [genuine-iso-verifier](https://genuine-iso-verifier.weebly.com/)
+ -  [msdn.rg-adguard](https://msdn.rg-adguard.net/)
+ -  [sha1.rg-adguard](https://sha1.rg-adguard.net/)
 
 ------------------------------------------------------------------------
 
 ## Need help?
 
--   Check [here](contactus.md).
+Check [here](contactus.md).
