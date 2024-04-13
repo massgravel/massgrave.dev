@@ -15,7 +15,7 @@ All download links lead to genuine files only.
 
 ## Windows 11 Consumer 23H2
 
-Build - 22631.2861 (Dec-2023) - Official Link ❤️ - [Micorosft](https://www.microsoft.com/software-download) - [MSDL](https://msdl.gravesoft.dev/)  
+Build - 22631.2861 (Dec-2023) - Official Link ❤️ - [Microsoft](https://www.microsoft.com/software-download) - [MSDL](https://msdl.gravesoft.dev/)  
 Build - 22631.3296 (Mar-2024) - Below links are for MVS ISO's
 
 | Links                                                                                                                                                                                                                            |
