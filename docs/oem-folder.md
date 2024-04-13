@@ -1,13 +1,19 @@
 # $OEM$ Folders
 
-(Windows Pre-Activation)
-
--   To create a pre-activated Windows installation .iso, do the following:
+To create a pre-activated Windows installation .iso, do the following:
 -   Extract the `$OEM$` folder to the desktop using the MAS script.
 -   Copy the `$OEM$` folder to the `sources` folder in the Windows installation media (.iso or USB).
 -   The directory will appear like this: `\sources\$OEM$` in your altered .iso or on your bootable USB drive.
 -   Now use this .iso or bootable USB drive to install Windows, it will either already be activated (KMS38) as soon as it boots or will self-activate (HWID or Online KMS) at the first internet contact.
 -   You can check [here](intro.md) for activation method details and select the activation method as per your requirement.
+
+:::warning
+
+On Windows 8 and later, **running setupcomplete.cmd is disabled** if the default installed key for the edition is OEM Channel.  
+
+For example, preactivation won't work for Windows 10 IoT Enterprise LTSC because the default installed key is OEM. You can work around this issue by using Non-IoT Windows 10 Enterprise LTSC ISO, in which case the HWID method in preactivation will use IoT LTSC key to change the edition.
+
+:::
 
 ------------------------------------------------------------------------
 
@@ -19,14 +25,6 @@
 -   Select the option named `Edit image file`
 -   Follow the on-screen instructions and add the `$OEM$` folder to the `sources` folder so that the directory will appear like this: `\sources\$OEM$`
 -   Save the ISO, that's it.
-
-------------------------------------------------------------------------
-
-## Limitations
-
--   On Windows 8 and later, **running setupcomplete.cmd is disabled** if the default installed key for the edition is OEM Channel.  
-    For example - Preactivation won't work for Windows 10 Iot Enterprise LTSC because installed key is of the OEM channel.
--   The **solution** for this issue is to use (Non-Iot) Windows 10 Enterprise LTSC ISO, and the HWID method in preactivation will use Iot LTSC key to change the edition.
 
 ------------------------------------------------------------------------
 
