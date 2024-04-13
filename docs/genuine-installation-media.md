@@ -39,7 +39,7 @@ You can contact us [here](https://discord.gg/tVFN4N84PP) if you need any other W
 
 :::
 
-------------------------------------------------------------------------
+---
 
 ## Verify Authenticity Of Files
 
@@ -52,7 +52,15 @@ Microsoft publishes a checksum list for consumer editions of [Windows 11](https:
  -  [msdn.rg-adguard](https://msdn.rg-adguard.net/)
  -  [sha1.rg-adguard](https://sha1.rg-adguard.net/)
 
-------------------------------------------------------------------------
+---
+
+### Video Tutorial
+
+import ReactPlayer from 'react-player'
+
+<ReactPlayer controls width='100%' height='auto' url='/how_to_verify_files.mp4' />
+
+---
 
 ## Need help?
 
