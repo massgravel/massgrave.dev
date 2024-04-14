@@ -32,6 +32,7 @@ const sidebars = {
 	'news',
 	'changelog',
 	'unsupported_products_activation',
+	'our_non-piracy_site',
 	'credits',
 	'contactus',
   ],
