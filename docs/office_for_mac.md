@@ -1,130 +1,180 @@
 # Office For Mac
 
-All download links lead to genuine files only.
+All download links lead to Official Microsoft files only including the activator.
 
-## Notes
+## Office Activator
 
--   The latest Office installer files on Mac are the same for the Office 365 and Office 2021 retail/volume license users.
--   The latest installer files are available for free to download on the [Official site](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac), but old Volume versions of Office are available to paid [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) subscribers.
--   For that reason, we need to host these old files on a 3rd party website. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that the files are genuine. You can download the SHA-1 hashes list from [here](/files/Old_Office_For_Mac_SHA-1.zip) for VLSC files.
--   Microsoft provides Volume licenses through a serializer file to paid [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) Volume license subscribers. However, **anyone can activate Office** with this serializer file (the link is shared below).
--   A minimum of macOS Monterey is required to install versions 16.78 or later. Pick an older Office version on old macOS.
--   Office 2019 for Mac reached the end of support on October 10, 2023, and will no longer receive updates.
--   If you need links for any other Windows/office files, please contact us [here](https://discord.gg/gjJEfq7ux8).
--   **Troubleshoot-**  
-    -   If you are facing issues in activation then make sure only one version of Office is installed, [remove Office licenses](https://support.microsoft.com/office/b032c0f6-a431-4dad-83a9-6b727c03b193), and apply the activation file again.
-    -   If the issue is still not resolved then check the steps to completely remove Office [here](https://office-reset.com/) and [here](https://support.microsoft.com/office/ec3aa66e-6a76-451f-9d35-cba2e14e94c0).
+:::info[Activation Guide]
+
+- Run this tool https://office-reset.com/ to reset the Office licenses.
+- Now run the below listed activator pkg file and install, (**Don't open Office before installing pkg file**)
+  - For below listed office versions,
+    - Install 2021 pkg for macOS 10.14 and later.
+	- Install 2019 pkg for macOS 10.12 and 10.13.
+	- Install 2016 pkg for macOS 10.10 and 10.11
+	- Listed Office for macOS 10.9 and older don't require activation.
+- Now install Office for your macOS version if its not installed. (It's better to install Office after installing activator pkg file)
+- Your office should be activated now.
+- If you are still facing any issue, connect with us [here](troubleshoot.md).
+
+:::
+
+pkg files are extracted from the official iso files. These serializer files are only available to paid VLSC subscribers, however anyone can activate Office using it. 
+
+| Office Version    | Activator                                                                                                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office 2021 ❤️    | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      |
+| Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |
+| Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           |
+| Office 2016 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |
+| Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           |
 
 ------------------------------------------------------------------------
 
-## Latest Office 365 / 2021
+## Latest Office (macOS 12, 13, 14)
+Generation - 2021
 
-These links always download the latest files. The links are taken from the [official site](https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac). Alternatively, you can check links [here](https://macadmins.software/) as well.
+:::info
 
-| Application                  | Latest Installer Links                              |
-|---------------------------|---------------------------------------------|
+If you are installing only apps and not the full office suite, you need to install [Microsoft AutoUpdate (MAU)](https://go.microsoft.com/fwlink/?linkid=830196) to get Office updates.
+
+:::
+
+| Application                  | Link                                              |
+|:-----------------------------|:--------------------------------------------------|
 | Office suite (with Teams) ❤️ | https://go.microsoft.com/fwlink/p/?linkid=2009112 |
 | Office suite (without Teams) | https://go.microsoft.com/fwlink/p/?linkid=525133  |
 | Word                         | https://go.microsoft.com/fwlink/p/?linkid=525134  |
 | Excel                        | https://go.microsoft.com/fwlink/p/?linkid=525135  |
 | PowerPoint                   | https://go.microsoft.com/fwlink/p/?linkid=525136  |
 | Outlook                      | https://go.microsoft.com/fwlink/p/?linkid=525137  |
+| OneNote                      | https://go.microsoft.com/fwlink/p/?linkid=820886  |
 
 ------------------------------------------------------------------------
 
-## Office Activator
+## macOS Big Sur (macOS 11)
+Highest supported office version 16.77 (Generation - 2021/2019) (September 2023)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
 
-To activate, run the listed activation file after installing Office.
 
-| Office Version    | Activator Links                                                                                                                                     |
-|----------------|-----------------------------------------------------|
-| Office 2021 ❤️    | [Microsoft_Office_LTSC_2021_VL_Serializer.pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) (Extracted from below ISO) |
-| Office 2021       | [SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)              |
-| Office 2019 (New) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso)              |
-| Office 2019 (Old) | [SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)              |
-| Office 2016 (New) | [SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)       |
-| Office 2016 (Old) | [SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)              |
-
-------------------------------------------------------------------------
-
-## Office 2016
-
-| Links                                                                                                                                                                           |
-|------------------------------------------------------------------------|
-| [SW_DVD5_**Excel_Mac_2016_MultiLang**_-8_.dmg_MLF_X21-58277.iso](https://drive.massgrave.dev/SW_DVD5_Excel_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58277.iso)                     |
-| [SW_DVD5_**Office_Mac_Standard_2016_MultiLang**_-9_.dmg_MLF_X21-58282.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2016_MultiLang_-9_.dmg_MLF_X21-58282.iso) |
-| [SW_DVD5_**Outlook_Mac_2016_MAC_MultiLang**_-8_.dmg_MLF_X21-58279.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2016_MAC_MultiLang_-8_.dmg_MLF_X21-58279.iso)         |
-| [SW_DVD5_**PowerPoint_Mac_2016_MultiLang**_-8_.dmg_MLF_X21-58280.iso](https://drive.massgrave.dev/SW_DVD5_PowerPoint_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58280.iso)           |
-| [SW_DVD5_**Word_Mac_2016_MultiLang**_-8_.dmg_MLF_X21-58281.iso](https://drive.massgrave.dev/SW_DVD5_Word_Mac_2016_MultiLang_-8_.dmg_MLF_X21-58281.iso)                       |
+| Application                  | Link                                                                                                                                                       |
+|:-----------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite (with Teams)    | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_BusinessPro_Installer.pkg |
+| Office suite (without Teams) | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.77.23091003_Installer.pkg             |
+| Word                         | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.77.23091003_Updater.pkg                         |
+| Excel                        | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.77.23091003_Updater.pkg                        |
+| PowerPoint                   | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.77.23091003_Updater.pkg                   |
+| Outlook                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.77.23091003_Updater.pkg                      |
+| OneNote                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.77.23091003_Updater.pkg                      |
 
 ------------------------------------------------------------------------
 
-## Office 2011 SP4
+## macOS Catalina (10.15)
+Highest supported office version 16.66.1 (Generation - 2021/2019) (October 2022)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
 
-| Links                                                                                                                                                                                  |
-|------------------------------------------------------------------------|
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_ChnSimp**_-3_ISO_MLF_X21-39848.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_ChnTrad**_-3_ISO_MLF_X21-39852.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Danish**_-3_ISO_MLF_X21-39844.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso)       |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Dutch**_-3_ISO_MLF_X21-39850.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso)         |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_English**_-3_ISO_MLF_X21-39841.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Finnish**_-3_ISO_MLF_X21-39846.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_French**_-3_ISO_MLF_X21-39843.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso)       |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_German**_-3_ISO_MLF_X21-39853.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso)       |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Italian**_-3_ISO_MLF_X21-39849.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Japanese**_-3_ISO_MLF_X21-39842.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso)   |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Norwegian**_-3_ISO_MLF_X21-39845.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso) |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Polish**_-3_ISO_MLF_X21-39851.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso)       |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Russian**_-3_ISO_MLF_X21-39854.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Spanish**_-3_ISO_MLF_X21-39855.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso)     |
-| [SW_DVD5_**Office_Mac_Standard_2011w_SP4_Swedish**_-3_ISO_MLF_X21-39847.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso)     |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_ChnSimp**_-2_ISO_MLF_X19-67657.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_ChnSimp_-2_ISO_MLF_X19-67657.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_ChnTrad**_-2_ISO_MLF_X19-67661.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_ChnTrad_-2_ISO_MLF_X19-67661.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Danish**_-2_ISO_MLF_X19-67662.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Danish_-2_ISO_MLF_X19-67662.iso)               |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Dutch**_-2_ISO_MLF_X19-67660.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Dutch_-2_ISO_MLF_X19-67660.iso)                 |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_English**_-2_ISO_MLF_X19-67651.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_English_-2_ISO_MLF_X19-67651.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Finnish**_-2_ISO_MLF_X19-67663.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Finnish_-2_ISO_MLF_X19-67663.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_French**_-2_ISO_MLF_X19-67653.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_French_-2_ISO_MLF_X19-67653.iso)               |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_German**_-2_ISO_MLF_X19-67664.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_German_-2_ISO_MLF_X19-67664.iso)               |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Italian**_-2_ISO_MLF_X19-67658.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Italian_-2_ISO_MLF_X19-67658.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Japanese**_-2_ISO_MLF_X19-67652.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Japanese_-2_ISO_MLF_X19-67652.iso)           |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Norwegian**_-2_ISO_MLF_X19-67665.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Norwegian_-2_ISO_MLF_X19-67665.iso)         |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Polish**_-2_ISO_MLF_X19-67659.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Polish_-2_ISO_MLF_X19-67659.iso)               |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Russian**_-2_ISO_MLF_X19-67666.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Russian_-2_ISO_MLF_X19-67666.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Spanish**_-2_ISO_MLF_X19-67667.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Spanish_-2_ISO_MLF_X19-67667.iso)             |
-| [SW_DVD5_**Outlook_Mac_2011w_SP4_MAC_Swedish**_-2_ISO_MLF_X19-67668.iso](https://drive.massgrave.dev/SW_DVD5_Outlook_Mac_2011w_SP4_MAC_Swedish_-2_ISO_MLF_X19-67668.iso)             |
+| Application                  | Link                                                                                                                                               |
+|:-----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite (with Teams)    | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_BusinessPro_Installer.pkg |
+| Office suite (without Teams) | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22101101_Installer.pkg             |
+| Word                         | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.66.22101101_Updater.pkg                 |
+| Excel                        | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.66.22101101_Updater.pkg                |
+| PowerPoint                   | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.66.22101101_Updater.pkg           |
+| Outlook                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.66.22101101_Updater.pkg              |
+| OneNote                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.66.22101101_Updater.pkg              |
 
 ------------------------------------------------------------------------
 
-## Office 2008 SP2
+## macOS Mojave (10.14)
+Highest supported office version 16.54 (Generation - 2021/2019) (October 2021)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
 
-| Links                                                                                                                                                                                                    |
-|------------------------------------------------------------------------|
-| [SW_DVD5_**Entourage_Mac_2008_MAC_Danish_Finnish_Norwegian**_w__SP2_MLF_X15-90445.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Danish_Finnish_Norwegian_w__SP2_MLF_X15-90445.iso) |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_Dutch**_w__SP2_MLF_X15-90449.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Dutch_w__SP2_MLF_X15-90449.iso)                                       |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_English**_w__SP2_MLF_X15-90417.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_English_w__SP2_MLF_X15-90417.iso)                                   |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_French**_w__SP2_MLF_X15-90433.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_French_w__SP2_MLF_X15-90433.iso)                                     |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_German**_w__SP2_MLF_X15-90421.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_German_w__SP2_MLF_X15-90421.iso)                                     |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_Japanese**_w__SP2_MLF_X15-90441.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Japanese_w__SP2_MLF_X15-90441.iso)                                 |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_Spanish**_w__SP2_MLF_X15-90429.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Spanish_w__SP2_MLF_X15-90429.iso)                                   |
-| [SW_DVD5_**Entourage_Mac_2008_MAC_Swedish**_w__SP2_MLF_X15-90453.iso](https://drive.massgrave.dev/SW_DVD5_Entourage_Mac_2008_MAC_Swedish_w__SP2_MLF_X15-90453.iso)                                   |
-| [SW_DVD5_**Office_Mac_2008_DA_FI_NO**_EXTRA_X15-82818.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_DA_FI_NO_EXTRA_X15-82818.iso)                                                           |
-| [SW_DVD5_**Office_Mac_2008_DA_FI_NO**_w_SP2_MLF_X15-69811.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_DA_FI_NO_w_SP2_MLF_X15-69811.iso)                                                   |
-| [SW_DVD5_**Office_Mac_2008_Dutch**_EXTRA_X15-82821.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Dutch_EXTRA_X15-82821.iso)                                                                 |
-| [SW_DVD5_**Office_Mac_2008_Dutch**_w_SP2_MLF_X15-70499.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Dutch_w_SP2_MLF_X15-70499.iso)                                                         |
-| [SW_DVD5_**Office_Mac_2008_English**_-2_Extra_X16-17024.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_English_-2_Extra_X16-17024.iso)                                                       |
-| [SW_DVD5_**Office_Mac_2008_English**_-2_w_SP2_MLF_X16-17410.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_English_-2_w_SP2_MLF_X16-17410.iso)                                               |
-| [SW_DVD5_**Office_Mac_2008_French**_-2_Extra_X16-17015.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_French_-2_Extra_X16-17015.iso)                                                         |
-| [SW_DVD5_**Office_Mac_2008_French**_-2_w_SP2_MLF_X16-17405.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_French_-2_w_SP2_MLF_X16-17405.iso)                                                 |
-| [SW_DVD5_**Office_Mac_2008_German**_EXTRA_X15-82828.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_German_EXTRA_X15-82828.iso)                                                               |
-| [SW_DVD5_**Office_Mac_2008_German**_w_SP2_MLF_X15-74334.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_German_w_SP2_MLF_X15-74334.iso)                                                       |
-| [SW_DVD5_**Office_Mac_2008_Italian**_EXTRA_X15-82830.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Italian_EXTRA_X15-82830.iso)                                                             |
-| [SW_DVD5_**Office_Mac_2008_Italian**_w_SP2_MLF_X15-74338.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Italian_w_SP2_MLF_X15-74338.iso)                                                     |
-| [SW_DVD5_**Office_Mac_2008_Japanese**_EXTRA_X15-82834.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Japanese_EXTRA_X15-82834.iso)                                                           |
-| [SW_DVD5_**Office_Mac_2008_Japanese**_w_SP2_MLF_X15-75700.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Japanese_w_SP2_MLF_X15-75700.iso)                                                   |
-| [SW_DVD5_**Office_Mac_2008_Spanish**_-2_Extra_X16-17012.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Spanish_-2_Extra_X16-17012.iso)                                                       |
-| [SW_DVD5_**Office_Mac_2008_Spanish**_-2_w_SP2_MLF_X16-17408.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Spanish_-2_w_SP2_MLF_X16-17408.iso)                                               |
-| [SW_DVD5_**Office_Mac_2008_Swedish**_EXTRA_X15-82824.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Swedish_EXTRA_X15-82824.iso)                                                             |
-| [SW_DVD5_**Office_Mac_2008_Swedish**_w_SP2_MLF_X15-72486.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_2008_Swedish_w_SP2_MLF_X15-72486.iso)                                                     |
+| Application                  | Link                                                                                                                                               |
+|:-----------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite (with Teams)    | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_BusinessPro_Installer.pkg |
+| Office suite (without Teams) | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.54.21101001_Installer.pkg             |
+| Word                         | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.54.21101001_Updater.pkg                 |
+| Excel                        | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.54.21101001_Updater.pkg                |
+| PowerPoint                   | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.54.21101001_Updater.pkg           |
+| Outlook                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.54.21101001_Updater.pkg              |
+| OneNote                      | https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.54.21101001_Updater.pkg              |
+
+------------------------------------------------------------------------
+
+## macOS High Sierra (10.13)
+Highest supported office version 16.43.0 (Generation - 2019) (November 2020)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+| Application  | Link                                                                                                                                  |
+|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.43.20110804_Installer.pkg   |
+| Word         | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.43.20110804_Updater.pkg       |
+| Excel        | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.43.20110804_Updater.pkg      |
+| PowerPoint   | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.43.20110804_Updater.pkg |
+| Outlook      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.43.20110804_Updater.pkg    |
+| OneNote      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.43.20110804_Updater.pkg    |
+
+------------------------------------------------------------------------
+
+## macOS Sierra (10.12)
+Highest supported office version 16.30 (Generation - 2019) (October 2019)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+| Application  | Link                                                                                                                                  |
+|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.30.19101301_Installer.pkg   |
+| Word         | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.30.19101301_Updater.pkg       |
+| Excel        | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.30.19101301_Updater.pkg      |
+| PowerPoint   | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.30.19101301_Updater.pkg |
+| Outlook      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.30.19101301_Updater.pkg    |
+| OneNote      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.30.19101301_Updater.pkg    |
+
+------------------------------------------------------------------------
+
+## OS X El Capitan (10.11)
+
+## OS X Yosemite (10.10)
+
+Highest supported office version 16.16.27 (Generation - 2016) (October 2020)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+| Application  | Link                                                                                                                                  |
+|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.16.20101200_Installer.pkg   |
+| Word         | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20101200_Updater.pkg       |
+| Excel        | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20101200_Updater.pkg      |
+| PowerPoint   | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20101200_Updater.pkg |
+| Outlook      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20101200_Updater.pkg    |
+| OneNote      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20101200_Updater.pkg    |
+
+------------------------------------------------------------------------
+
+## OS X Mavericks (10.9)
+## OS X Mountain Lion (10.8)
+## OS X Lion (10.7)
+## Mac OS X Snow Leopard (10.6)
+## Mac OS X Leopard (10.5)
+
+Highest supported office version is Office 2011.  
+This Office installer does not require activation.  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+| Language  | Link                                                                                                                                                                             |
+|:----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ChnSimp   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso)     |
+| ChnTrad   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso)     |
+| Danish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso)       |
+| Dutch     | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso)         |
+| English   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso)     |
+| Finnish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso)     |
+| French    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso)       |
+| German    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso)       |
+| Italian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso)     |
+| Japanese  | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso)   |
+| Norwegian | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso) |
+| Polish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso)       |
+| Russian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso)     |
+| Spanish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso)     |
+| Swedish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso)     |
 
 ------------------------------------------------------------------------
