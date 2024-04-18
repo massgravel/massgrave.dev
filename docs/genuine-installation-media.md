@@ -6,32 +6,20 @@ All download links available on our website lead to genuine files only.
 
 :::
 
-## Windows
+| Windows                                                                                                                                                                                         | Office                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Windows 11 / 10 / 8.1 - [Microsoft](https://www.microsoft.com/software-download) - [MSDL](https://msdl.gravesoft.dev/) ❤️                                                                       | [Office C2R Installers](https://gravesoft.dev/download_windows_office/office_c2r_links) ❤️                 |
+| [Windows 11](windows_11_links.md)                                                                                                                                                               | [Office C2R Custom Install (Retail / VL)](https://gravesoft.dev/download_windows_office/office_c2r_custom) |
+| [Windows 10](windows_10_links.md)                                                                                                                                                               | [Office MSI VL (Old versions)](office_msi_links.md)                                                        |
+| [Windows 10 Enterprise **LTSC**](windows_arm_links.md)                                                                                                                                          | [Office For **Mac**](office_for_mac.md)                                                                    |
+| [Windows ARM64](windows_arm_links.md)                                                                                                                                                           |                                                                                                            |
+| [Windows 8.1](windows_8.1_links.md)                                                                                                                                                             |                                                                                                            |
+| [Windows 7](windows_7_links.md)                                                                                                                                                                 |                                                                                                            |
+| [Windows Vista](windows_vista_links.md)                                                                                                                                                         |                                                                                                            |
+| [Windows XP](windows_xp_links.md)                                                                                                                                                               |                                                                                                            |
+| [Windows Server](windows_server_links.md)                                                                                                                                                       |                                                                                                            |
+| Windows Insider [10 / 11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |                                                                                                            |
 
-| Products                                  | Links                                                                                                                                                                         |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Windows 11 / 10 / 8.1 (Official Links) ❤️ | [MSDL](https://msdl.gravesoft.dev/) - [Microsoft](https://www.microsoft.com/software-download)                                                                                |
-| Windows 11                                | [Link](windows_11_links.md)                                                                                                                                                   |
-| Windows 10                                | [Link](windows_10_links.md)                                                                                                                                                   |
-| Windows 10 Enterprise **LTSC**            | [Link](windows_ltsc_links.md)                                                                                                                                                 |
-| Windows ARM64                             | [Link](windows_arm_links.md)                                                                                                                                                  |
-| Windows 8.1                               | [Link](windows_8.1_links.md)                                                                                                                                                  |
-| Windows 7                                 | [Link](windows_7_links.md)                                                                                                                                                    |
-| Windows Vista                             | [Link](windows_vista_links.md)                                                                                                                                                |
-| Windows XP                                | [Link](windows_xp_links.md)                                                                                                                                                   |
-| Windows Server                            | [Link](windows_server_links.md)                                                                                                                                               |
-| Windows Insider                           | [10/11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) |
-
-## Office
-
-| Products                                | Links                                                                                                      |
-|-----------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Office C2R Installers (Retail) ❤️       | [Link](https://gravesoft.dev/download_windows_office/office_c2r_links) (Easy to install)                   |
-| Office C2R Custom Install (Retail / VL) | [Link](https://gravesoft.dev/download_windows_office/office_c2r_custom) (More steps, allows customization) |
-| Office MSI VL (Old versions)            | [Link](office_msi_links.md)                                                                                |
-| Office For **Mac**                      | [Link](office_for_mac.md)                                                                                  |
-
-<br/>
 
 :::tip
 
