@@ -55,7 +55,7 @@ To run the scripts in unattended mode, check [here](command_line_switches.md)
 
 ## MAS Latest Release
 
-Last Release - v2.6 (20-Nov-2023)  
+Last Release - v2.6 (20-Apr-2024)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
