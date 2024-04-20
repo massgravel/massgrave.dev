@@ -1,5 +1,8 @@
 # News
 
+### [20-Apr-24] Update: MAS 2.6 Added Support For Office 2024
+https://massgrave.dev/changelog#26
+
 ### [19-Apr-24] Add office 2024 preview serializer for macOS
 https://massgrave.dev/office_for_mac
 
