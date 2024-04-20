@@ -29,7 +29,7 @@
 TL;DR all kinds of Office products are supported on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
 
 | Office Version | Office Product                  | Generic Key                   | Key Type      |
-|-----------|-------------------|------------------------------|------------|
+|----------------|---------------------------------|-------------------------------|---------------|
 | v15.0 (2013)   | AccessRetail                    | B7RFY-7NXPK-Q4342-Y9X2H-3JX4X | Retail        |
 | v15.0 (2013)   | AccessVolume                    | 9MF9G-CN32B-HV7XT-9XJ8T-9KVF4 | MAK           |
 | v15.0 (2013)   | ExcelRetail                     | NT889-MBH4X-8MD4H-X8R2D-WQHF8 | Retail        |
@@ -193,6 +193,30 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2024)   | ProPlus2024Volume-Preview       | GNXWX-DF797-B2JT3-82W27-KHPXT | MAK-AE        |
 | v16.0 (2024)   | ProjectPro2024Volume-Preview    | X86XX-N3QMW-B4WGQ-QCB69-V26KW | MAK-AE        |
 | v16.0 (2024)   | VisioPro2024Volume-Preview      | DW99Y-H7NT6-6B29D-8JQ8F-R3QT7 | MAK-AE        |
+| v16.0 (2024)   | Access2024Retail                | P6NMW-JMTRC-R6MQ6-HH3F2-BTHKB | Retail        |
+| v16.0 (2024)   | Access2024Volume                | CXNJT-98HPP-92HX7-MX6GY-2PVFR | MAK-AE        |
+| v16.0 (2024)   | Excel2024Retail                 | 82CNJ-W82TW-BY23W-BVJ6W-W48GP | Retail        |
+| v16.0 (2024)   | Excel2024Volume                 | 7Y287-9N2KC-8MRR3-BKY82-2DQRV | MAK-AE        |
+| v16.0 (2024)   | Home2024Retail                  | N69X7-73KPT-899FD-P8HQ4-QGTP4 | Retail        |
+| v16.0 (2024)   | HomeBusiness2024Retail          | PRKQM-YNPQR-77QT6-328D7-BD223 | Retail        |
+| v16.0 (2024)   | Outlook2024Retail               | 2CFK4-N44KG-7XG89-CWDG6-P7P27 | Retail        |
+| v16.0 (2024)   | Outlook2024Volume               | NQPXP-WVB87-H3MMB-FYBW2-9QFPB | MAK-AE        |
+| v16.0 (2024)   | PowerPoint2024Retail            | CT2KT-GTNWH-9HFGW-J2PWJ-XW7KJ | Retail        |
+| v16.0 (2024)   | PowerPoint2024Volume            | RRXFN-JJ26R-RVWD2-V7WMP-27PWQ | MAK-AE        |
+| v16.0 (2024)   | ProjectPro2024Retail            | GNJ6P-Y4RBM-C32WW-2VJKJ-MTHKK | Retail        |
+| v16.0 (2024)   | ProjectPro2024Volume            | WNFMR-HK4R7-7FJVM-VQ3JC-76HF6 | MAK-AE1       |
+| v16.0 (2024)   | ProjectStd2024Retail            | C2PNM-2GQFC-CY3XR-WXCP4-GX3XM | Retail        |
+| v16.0 (2024)   | ProjectStd2024Volume            | F2VNW-MW8TT-K622Q-4D96H-PWJ8X | MAK-AE        |
+| v16.0 (2024)   | ProPlus2024Retail               | VWCNX-7FKBD-FHJYG-XBR4B-88KC6 | Retail        |
+| v16.0 (2024)   | ProPlus2024Volume               | 4YV2J-VNG7W-YGTP3-443TK-TF8CP | MAK-AE1       |
+| v16.0 (2024)   | SkypeforBusiness2024Volume      | XKRBW-KN2FF-G8CKY-HXVG6-FVY2V | MAK-AE        |
+| v16.0 (2024)   | Standard2024Volume              | GVG6N-6WCHH-K2MVP-RQ78V-3J7GJ | MAK-AE1       |
+| v16.0 (2024)   | VisioPro2024Retail              | HGRBX-N68QF-6DY8J-CGX4W-XW7KP | Retail        |
+| v16.0 (2024)   | VisioPro2024Volume              | GBNHB-B2G3Q-G42YB-3MFC2-7CJCX | MAK-AE        |
+| v16.0 (2024)   | VisioStd2024Retail              | VBXPJ-38NR3-C4DKF-C8RT7-RGHKQ | Retail        |
+| v16.0 (2024)   | VisioStd2024Volume              | YNFTY-63K7P-FKHXK-28YYT-D32XB | MAK-AE        |
+| v16.0 (2024)   | Word2024Retail                  | XN33R-RP676-GMY2F-T3MH7-GCVKR | Retail        |
+| v16.0 (2024)   | Word2024Volume                  | WD8CQ-6KNQM-8W2CX-2RT63-KK3TP | MAK-AE        |
 | v16.0 (O365)   | O365BusinessRetail              | 2P3C9-BQNJH-VCVPH-YDY6M-43JPQ | Subscription  |
 | v16.0 (O365)   | O365EduCloudRetail              | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
 | v16.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |

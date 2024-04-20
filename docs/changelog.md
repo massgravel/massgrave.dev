@@ -2,6 +2,18 @@
 
 ------------------------------------------------------------------------
 
+## 2.6
+
+**Added Support For Office 2024**
+
+------------------------------------------------------------------------
+
+#### Ohook:
+
+-   Added keys for Office 2024 products; some product licenses are still missing. Keys for them will be added later.
+
+------------------------------------------------------------------------
+
 ## 2.5
 
 **Added Support For New Editions**
