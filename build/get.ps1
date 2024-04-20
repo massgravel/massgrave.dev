@@ -4,9 +4,9 @@ $ErrorActionPreference = "Stop"
 # Enable TLSv1.2 for compatibility with older clients
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
-$DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/d59e2b0e6e7d97f7aa950bce7a00ee609a271fe8/MAS/All-In-One-Version/MAS_AIO-CRC32_60BA35A8.cmd'
-$DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/d59e2b0e6e7d97f7aa950bce7a00ee609a271fe8/MAS/All-In-One-Version/MAS_AIO-CRC32_60BA35A8.cmd'
-$DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/d59e2b0e6e7d97f7aa950bce7a00ee609a271fe8/MAS/All-In-One-Version/MAS_AIO-CRC32_60BA35A8.cmd'
+$DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/984b384d9e5facc222eecaa07b78def265395321/MAS/All-In-One-Version/MAS_AIO-CRC32_8B16F764.cmd'
+$DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/984b384d9e5facc222eecaa07b78def265395321/MAS/All-In-One-Version/MAS_AIO-CRC32_8B16F764.cmd'
+$DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/984b384d9e5facc222eecaa07b78def265395321/MAS/All-In-One-Version/MAS_AIO-CRC32_8B16F764.cmd'
 
 $URLs = @($DownloadURL1, $DownloadURL2)
 $RandomURL1 = Get-Random -InputObject $URLs
