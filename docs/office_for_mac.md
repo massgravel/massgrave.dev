@@ -16,14 +16,14 @@ All download links lead to Official Microsoft files only including the activator
 
 pkg files are extracted from the official iso files. These serializer files are only available to paid VLSC subscribers, however anyone can activate Office using it. 
 
-| Serializer            | Activator                                                                                                                                                                     | Applicable On         |
-|:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------|
-| Office 2024 (Preview) | [pkg](https://go.microsoft.com/fwlink/?linkid=2261988)                                                                                                                        | macOS 12, 13, 14 |
-| Office 2021 ❤️        | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | macOS 10.14 and later |
-| Office 2019 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) | macOS 10.12 and 10.13 |
-| Office 2016 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     | macOS 10.10 and 10.11 |
-| Office 2019 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           |                       |
-| Office 2016 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           |                       |
+| Serializer            | Activator                                                                                                                                                                     | Applicable On                                        |
+|:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
+| Office 2024 (Preview) | [pkg](https://go.microsoft.com/fwlink/?linkid=2261988)                                                                                                                        | Sonoma, Ventura, Monterey                            |
+| Office 2021 ❤️        | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2019 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) | High Sierra, Sierra                                  |
+| Office 2016 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     | El Capitan, Yosemite                                 |
+| Office 2019 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           |                                                      |
+| Office 2016 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           |                                                      |
 
 ------------------------------------------------------------------------
 
@@ -34,19 +34,13 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="macOS 12, 13, 14" label="macOS 12, 13, 14 ❤️" default>
+<TabItem value="macOS 12, 13, 14" label="Sonoma, Ventura, Monterey ❤️" default>
 
 macOS Sonoma (macOS 14)  
 macOS Ventura (macOS 13)  
 macOS Monterey (macOS 12)  
 
 Generation - 2021 / 2024
-
-:::info
-
-If you are installing only apps and not the full office suite, you need to install [Microsoft AutoUpdate (MAU)](https://go.microsoft.com/fwlink/?linkid=830196) to get Office updates.
-
-:::
 
 | Application                  | Link                                              |
 |:-----------------------------|:--------------------------------------------------|
@@ -60,7 +54,7 @@ If you are installing only apps and not the full office suite, you need to insta
 
 </TabItem>
 
-<TabItem value="macOS 11" label="macOS 11" default>
+<TabItem value="macOS 11" label="Big Sur" default>
 
 macOS Big Sur (macOS 11)  
 Highest supported office version 16.77 (Generation - 2021/2019) (September 2023)  
@@ -79,7 +73,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="macOS 10.15" label="macOS 10.15" default>
+<TabItem value="macOS 10.15" label="Catalina" default>
 
 macOS Catalina (10.15)  
 Highest supported office version 16.66.1 (Generation - 2021/2019) (October 2022)  
@@ -97,7 +91,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="macOS 10.14" label="macOS 10.14" default>
+<TabItem value="macOS 10.14" label="Mojave" default>
 
 macOS Mojave (10.14)  
 Highest supported office version 16.54 (Generation - 2021/2019) (October 2021)  
@@ -115,7 +109,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="macOS 10.13" label="macOS 10.13" default>
+<TabItem value="macOS 10.13" label="High Sierra" default>
 
 macOS High Sierra (10.13)  
 Highest supported office version 16.43.0 (Generation - 2019) (November 2020)  
@@ -132,7 +126,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="macOS 10.12" label="macOS 10.12" default>
+<TabItem value="macOS 10.12" label="Sierra" default>
 
 macOS Sierra (10.12)  
 Highest supported office version 16.30 (Generation - 2019) (October 2019)  
@@ -149,7 +143,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="10.11 & 10.10" label="macOS 10.11 & 10.10" default>
+<TabItem value="10.11 & 10.10" label="El Capitan, Yosemite" default>
 
 OS X El Capitan (10.11)  
 OS X Yosemite (10.10)  
@@ -168,7 +162,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 
-<TabItem value="10.5 to 10.9" label="macOS 10.5 to 10.9" default>
+<TabItem value="10.5 to 10.9" label="Mavericks, Mountain Lion, Lion, Snow Leopard, Leopard" default>
 
 OS X Mavericks (10.9)  
 OS X Mountain Lion (10.8)  
