@@ -15,7 +15,8 @@
 
 ## VPN
 
--   Install [Freedome](https://download.sp.f-secure.com/freedome/installer/2/Freedome.exe) VPN, connect, and try HWID activation.
+-	Download [Windscribe VPN](https://windscribe.com/download/) for Windows and install.
+-	It will require you to signup, you can do that without email ID. After that, login in the app, connect, and try HWID activation.
 -   If the VPN is not connecting, use another Internet connection such as your Mobile phone through USB Tethering or Wi-Fi Hotspot, and try HWID activation.
 -   If HWID activation is still not working then check [here](troubleshoot.md) for help.
 
