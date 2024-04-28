@@ -13,10 +13,27 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 11 Consumer 23H2
+## Download Links
 
-Build - 22631.2861 (Dec-2023) - Official Link ❤️ - [MSDL](https://msdl.gravesoft.dev/) - [Microsoft](https://www.microsoft.com/software-download)  
-Build - 22631.3447 (Apr-2024) - Below links are for MVS ISO's
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="Windows 11 Consumer 23H2 - Official Links" label="Windows 11 Consumer 23H2 - Official Links ❤️" default>
+
+MSDL https://msdl.gravesoft.dev/#2935 ❤ provides Official links straight from Microsoft.  
+You can also download the ISO from https://www.microsoft.com/en-in/software-download/windows11
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Windows 11 Consumer 23H2" label="Windows 11 Consumer 23H2" default>
+
+**Windows 11 Consumer 23H2**
+
+Build - 22631.3447 (Apr-2024)
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +78,11 @@ Build - 22631.3447 (Apr-2024) - Below links are for MVS ISO's
 
 ------------------------------------------------------------------------
 
-## Windows 11 Business 23H2
+</TabItem>
+
+<TabItem value="Windows 11 Business 23H2" label="Windows 11 Business 23H2" default>
+
+**Windows 11 Business 23H2**
 
 Build - 22631.3447 (Apr-2024)
 
@@ -108,8 +129,12 @@ Build - 22631.3447 (Apr-2024)
 
 ------------------------------------------------------------------------
 
-## Windows 11 IoT Enterprise 23H2
-#### (Not LTSC)
+</TabItem>
+
+<TabItem value="Windows 11 IoT Enterprise 23H2" label="Windows 11 IoT Enterprise 23H2" default>
+
+**Windows 11 IoT Enterprise 23H2**  
+**(Not LTSC)**  
 Build - 22631.2428 (31-Oct-2023) (This ISO file is not updated every month)
 
 | Language | Arch  | Link                                                                                                                                                                   |
@@ -119,14 +144,25 @@ Build - 22631.2428 (31-Oct-2023) (This ISO file is not updated every month)
 
 ------------------------------------------------------------------------
 
-## Windows 11 ARM64 23H2
+</TabItem>
+
+<TabItem value="Windows 11 ARM64 23H2" label="Windows 11 ARM64 23H2" default>
+
+**Windows 11 ARM64 23H2**
 
 Check [here](windows_arm_links.md).
 
 ------------------------------------------------------------------------
 
-## Old Versions
+</TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+**Old Versions**
 
 https://os.click/
 
 ------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>

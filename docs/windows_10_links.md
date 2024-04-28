@@ -13,10 +13,28 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 10 Consumer 22H2
+## Download Links
 
-Build - 19045.2965 - Official Link ❤️ - [MSDL](https://msdl.gravesoft.dev/)  
-Build - 19045.4291 - Check below links for Apr 2024 Updated genuine ISO's
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="Windows 10 Consumer 22H2 - Official Links" label="Windows 10 Consumer 22H2 - Official Links ❤️" default>
+
+MSDL https://msdl.gravesoft.dev/#2618 ❤ provides Official links straight from Microsoft.  
+
+Windows 10 download from https://www.microsoft.com/software-download isn't recommended because it uses an ESD file to generate ISO and that process sometimes may generate corrupt ISO which can not be verified with known checksums.
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Windows 10 Consumer 22H2" label="Windows 10 Consumer 22H2" default>
+
+**Windows 10 Consumer 22H2**
+
+Updated Apr 2024 (Build - 19045.4291)
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -99,7 +117,11 @@ Build - 19045.4291 - Check below links for Apr 2024 Updated genuine ISO's
 
 ------------------------------------------------------------------------
 
-## Windows 10 Business 22H2
+</TabItem>
+
+<TabItem value="Windows 10 Business 22H2" label="Windows 10 Business 22H2" default>
+
+**Windows 10 Business 22H2**
 
 Updated Apr 2024 (Build - 19045.4291)
 
@@ -184,8 +206,12 @@ Updated Apr 2024 (Build - 19045.4291)
 
 ------------------------------------------------------------------------
 
-## Windows 10 IoT Enterprise 22H2
-#### (Not LTSC)
+</TabItem>
+
+<TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
+
+**Windows 10 IoT Enterprise 22H2**  
+**(Not LTSC)**
 Updated Oct 2022 (Build - 19045.2006) (This ISO file is not updated every month)
 
 | Language | Arch  | Link                                                                                                                                                                   |
@@ -195,20 +221,35 @@ Updated Oct 2022 (Build - 19045.2006) (This ISO file is not updated every month)
 
 ------------------------------------------------------------------------
 
-## Windows 10 ARM64 22H2
+</TabItem>
+
+<TabItem value="Windows 10 ARM64 22H2" label="Windows 10 ARM64 22H2" default>
+
+**Windows 10 ARM64 22H2**  
 
 Check [here](windows_arm_links.md).
 
 ------------------------------------------------------------------------
 
-## Windows 10 Enterprise LTSC
+</TabItem>
+
+<TabItem value="Windows 10 Enterprise LTSC" label="Windows 10 Enterprise LTSC" default>
+
+**Windows 10 Enterprise LTSC**
 
 Check [here](windows_ltsc_links.md).
 
 ------------------------------------------------------------------------
 
-## Old Versions
+</TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+**Old Versions**
 
 https://os.click/
 
 ------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>
