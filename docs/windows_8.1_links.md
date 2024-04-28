@@ -8,100 +8,38 @@ All download links lead to genuine files only.
 -   For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 -   In the install process of Windows 8.1 (Core / Pro) ISO, setup will ask to enter the key, you can enter below generic keys for the desired edition.  
     `Windows 8.1 Core: 334NH-RXG76-64THK-C7CKG-D3VPT`  
+    `Windows 8.1 Core N: 6NPQ8-PK64X-W4WMM-MF84V-RGB89`  
+    `Windows 8.1 Core Single Language: Y9NXP-XT8MV-PT9TG-97CT3-9D6TC`  
     `Windows 8.1 Pro: XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB`  
-    Other listed ISO's won't ask to enter the key. You might wanna prefer Pro VL ISO for this reason.
+    `Windows 8.1 Pro N: JRBBN-4Q997-H4RM2-H3B7W-Q68KC`  
 -   Every edition of Windows 8.1 can be activated with online KMS option in MAS.
 -   Window 8.1 Embedded Enterprise edition doesn't come with preinstalled store apps.
 -   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 ------------------------------------------------------------------------
 
-## Win 8.1 Core / Pro
+## Download Links
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="Win 8.1 Core / Pro - Official Links" label="Win 8.1 Core / Pro - Official Links ❤️" default>
+
+**Win 8.1 Core / Pro**  
 (Build - 9600.17415)  
-Official Links - [Microsoft](https://www.microsoft.com/software-download) - [MSDL](https://msdl.gravesoft.dev/)  
-Below linked Core / Pro ISO's are identical but they are downloaded from MVS and hosted on 3rd party.
 
-| Language               | Arch | Link                                                                                                                                   |
-|:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                 | x64  | [ar_windows_8.1_with_update_x64_dvd_6051471.iso](https://drive.massgrave.dev/ar_windows_8.1_with_update_x64_dvd_6051471.iso)           |
-| Arabic                 | x86  | [ar_windows_8.1_with_update_x86_dvd_6051513.iso](https://drive.massgrave.dev/ar_windows_8.1_with_update_x86_dvd_6051513.iso)           |
-| Bulgarian              | x64  | [bg_windows_8.1_with_update_x64_dvd_6051472.iso](https://drive.massgrave.dev/bg_windows_8.1_with_update_x64_dvd_6051472.iso)           |
-| Bulgarian              | x86  | [bg_windows_8.1_with_update_x86_dvd_6051520.iso](https://drive.massgrave.dev/bg_windows_8.1_with_update_x86_dvd_6051520.iso)           |
-| Chinese-Simplified     | x64  | [cn_windows_8.1_with_update_x64_dvd_6051473.iso](https://drive.massgrave.dev/cn_windows_8.1_with_update_x64_dvd_6051473.iso)           |
-| Chinese-Simplified     | x86  | [cn_windows_8.1_with_update_x86_dvd_6051523.iso](https://drive.massgrave.dev/cn_windows_8.1_with_update_x86_dvd_6051523.iso)           |
-| Czech                  | x64  | [cs_windows_8.1_with_update_x64_dvd_6051477.iso](https://drive.massgrave.dev/cs_windows_8.1_with_update_x64_dvd_6051477.iso)           |
-| Czech                  | x86  | [cs_windows_8.1_with_update_x86_dvd_6051535.iso](https://drive.massgrave.dev/cs_windows_8.1_with_update_x86_dvd_6051535.iso)           |
-| Danish                 | x64  | [da_windows_8.1_with_update_x64_dvd_6051478.iso](https://drive.massgrave.dev/da_windows_8.1_with_update_x64_dvd_6051478.iso)           |
-| Danish                 | x86  | [da_windows_8.1_with_update_x86_dvd_6051541.iso](https://drive.massgrave.dev/da_windows_8.1_with_update_x86_dvd_6051541.iso)           |
-| German                 | x64  | [de_windows_8.1_with_update_x64_dvd_6051485.iso](https://drive.massgrave.dev/de_windows_8.1_with_update_x64_dvd_6051485.iso)           |
-| German                 | x86  | [de_windows_8.1_with_update_x86_dvd_6051588.iso](https://drive.massgrave.dev/de_windows_8.1_with_update_x86_dvd_6051588.iso)           |
-| Greek                  | x64  | [el_windows_8.1_with_update_x64_dvd_6051486.iso](https://drive.massgrave.dev/el_windows_8.1_with_update_x64_dvd_6051486.iso)           |
-| Greek                  | x86  | [el_windows_8.1_with_update_x86_dvd_6051592.iso](https://drive.massgrave.dev/el_windows_8.1_with_update_x86_dvd_6051592.iso)           |
-| English-United Kingdom | x64  | [en-gb_windows_8.1_with_update_x64_dvd_6051481.iso](https://drive.massgrave.dev/en-gb_windows_8.1_with_update_x64_dvd_6051481.iso)     |
-| English-United Kingdom | x86  | [en-gb_windows_8.1_with_update_x86_dvd_6051555.iso](https://drive.massgrave.dev/en-gb_windows_8.1_with_update_x86_dvd_6051555.iso)     |
-| English                | x64  | [en_windows_8.1_with_update_x64_dvd_6051480.iso](https://drive.massgrave.dev/en_windows_8.1_with_update_x64_dvd_6051480.iso)           |
-| English                | x86  | [en_windows_8.1_with_update_x86_dvd_6051550.iso](https://drive.massgrave.dev/en_windows_8.1_with_update_x86_dvd_6051550.iso)           |
-| Spanish                | x64  | [es_windows_8.1_with_update_x64_dvd_6051503.iso](https://drive.massgrave.dev/es_windows_8.1_with_update_x64_dvd_6051503.iso)           |
-| Spanish                | x86  | [es_windows_8.1_with_update_x86_dvd_6051666.iso](https://drive.massgrave.dev/es_windows_8.1_with_update_x86_dvd_6051666.iso)           |
-| Estonian               | x64  | [et_windows_8.1_with_update_x64_dvd_6051482.iso](https://drive.massgrave.dev/et_windows_8.1_with_update_x64_dvd_6051482.iso)           |
-| Estonian               | x86  | [et_windows_8.1_with_update_x86_dvd_6051565.iso](https://drive.massgrave.dev/et_windows_8.1_with_update_x86_dvd_6051565.iso)           |
-| Finnish                | x64  | [fi_windows_8.1_with_update_x64_dvd_6051483.iso](https://drive.massgrave.dev/fi_windows_8.1_with_update_x64_dvd_6051483.iso)           |
-| Finnish                | x86  | [fi_windows_8.1_with_update_x86_dvd_6051575.iso](https://drive.massgrave.dev/fi_windows_8.1_with_update_x86_dvd_6051575.iso)           |
-| French                 | x64  | [fr_windows_8.1_with_update_x64_dvd_6051484.iso](https://drive.massgrave.dev/fr_windows_8.1_with_update_x64_dvd_6051484.iso)           |
-| French                 | x86  | [fr_windows_8.1_with_update_x86_dvd_6051583.iso](https://drive.massgrave.dev/fr_windows_8.1_with_update_x86_dvd_6051583.iso)           |
-| Hebrew                 | x64  | [he_windows_8.1_with_update_x64_dvd_6051487.iso](https://drive.massgrave.dev/he_windows_8.1_with_update_x64_dvd_6051487.iso)           |
-| Hebrew                 | x86  | [he_windows_8.1_with_update_x86_dvd_6051597.iso](https://drive.massgrave.dev/he_windows_8.1_with_update_x86_dvd_6051597.iso)           |
-| Chinese-Hong Kong SAR  | x64  | [hk_windows_8.1_with_update_x64_dvd_6051474.iso](https://drive.massgrave.dev/hk_windows_8.1_with_update_x64_dvd_6051474.iso)           |
-| Chinese-Hong Kong SAR  | x86  | [hk_windows_8.1_with_update_x86_dvd_6051524.iso](https://drive.massgrave.dev/hk_windows_8.1_with_update_x86_dvd_6051524.iso)           |
-| Croatian               | x64  | [hr_windows_8.1_with_update_x64_dvd_6051476.iso](https://drive.massgrave.dev/hr_windows_8.1_with_update_x64_dvd_6051476.iso)           |
-| Croatian               | x86  | [hr_windows_8.1_with_update_x86_dvd_6051529.iso](https://drive.massgrave.dev/hr_windows_8.1_with_update_x86_dvd_6051529.iso)           |
-| Hungarian              | x64  | [hu_windows_8.1_with_update_x64_dvd_6051488.iso](https://drive.massgrave.dev/hu_windows_8.1_with_update_x64_dvd_6051488.iso)           |
-| Hungarian              | x86  | [hu_windows_8.1_with_update_x86_dvd_6051602.iso](https://drive.massgrave.dev/hu_windows_8.1_with_update_x86_dvd_6051602.iso)           |
-| Italian                | x64  | [it_windows_8.1_with_update_x64_dvd_6051489.iso](https://drive.massgrave.dev/it_windows_8.1_with_update_x64_dvd_6051489.iso)           |
-| Italian                | x86  | [it_windows_8.1_with_update_x86_dvd_6051607.iso](https://drive.massgrave.dev/it_windows_8.1_with_update_x86_dvd_6051607.iso)           |
-| Japanese               | x64  | [ja_windows_8.1_with_update_x64_dvd_6051490.iso](https://drive.massgrave.dev/ja_windows_8.1_with_update_x64_dvd_6051490.iso)           |
-| Japanese               | x86  | [ja_windows_8.1_with_update_x86_dvd_6051612.iso](https://drive.massgrave.dev/ja_windows_8.1_with_update_x86_dvd_6051612.iso)           |
-| Korean                 | x64  | [ko_windows_8.1_with_update_x64_dvd_6051491.iso](https://drive.massgrave.dev/ko_windows_8.1_with_update_x64_dvd_6051491.iso)           |
-| Korean                 | x86  | [ko_windows_8.1_with_update_x86_dvd_6051617.iso](https://drive.massgrave.dev/ko_windows_8.1_with_update_x86_dvd_6051617.iso)           |
-| Lithuanian             | x64  | [lt_windows_8.1_with_update_x64_dvd_6051493.iso](https://drive.massgrave.dev/lt_windows_8.1_with_update_x64_dvd_6051493.iso)           |
-| Lithuanian             | x86  | [lt_windows_8.1_with_update_x86_dvd_6051625.iso](https://drive.massgrave.dev/lt_windows_8.1_with_update_x86_dvd_6051625.iso)           |
-| Latvian                | x64  | [lv_windows_8.1_with_update_x64_dvd_6051492.iso](https://drive.massgrave.dev/lv_windows_8.1_with_update_x64_dvd_6051492.iso)           |
-| Latvian                | x86  | [lv_windows_8.1_with_update_x86_dvd_6051621.iso](https://drive.massgrave.dev/lv_windows_8.1_with_update_x86_dvd_6051621.iso)           |
-| Norwegian-Bokmal       | x64  | [nb_windows_8.1_with_update_x64_dvd_6051494.iso](https://drive.massgrave.dev/nb_windows_8.1_with_update_x64_dvd_6051494.iso)           |
-| Norwegian-Bokmal       | x86  | [nb_windows_8.1_with_update_x86_dvd_6051631.iso](https://drive.massgrave.dev/nb_windows_8.1_with_update_x86_dvd_6051631.iso)           |
-| Dutch                  | x64  | [nl_windows_8.1_with_update_x64_dvd_6051479.iso](https://drive.massgrave.dev/nl_windows_8.1_with_update_x64_dvd_6051479.iso)           |
-| Dutch                  | x86  | [nl_windows_8.1_with_update_x86_dvd_6051545.iso](https://drive.massgrave.dev/nl_windows_8.1_with_update_x86_dvd_6051545.iso)           |
-| Polish                 | x64  | [pl_windows_8.1_with_update_x64_dvd_6051495.iso](https://drive.massgrave.dev/pl_windows_8.1_with_update_x64_dvd_6051495.iso)           |
-| Polish                 | x86  | [pl_windows_8.1_with_update_x86_dvd_6051637.iso](https://drive.massgrave.dev/pl_windows_8.1_with_update_x86_dvd_6051637.iso)           |
-| Portuguese-Portugal    | x64  | [pp_windows_8.1_with_update_x64_dvd_6051497.iso](https://drive.massgrave.dev/pp_windows_8.1_with_update_x64_dvd_6051497.iso)           |
-| Portuguese-Portugal    | x86  | [pp_windows_8.1_with_update_x86_dvd_6051655.iso](https://drive.massgrave.dev/pp_windows_8.1_with_update_x86_dvd_6051655.iso)           |
-| Portuguese-Brazil      | x64  | [pt_windows_8.1_with_update_x64_dvd_6051496.iso](https://drive.massgrave.dev/pt_windows_8.1_with_update_x64_dvd_6051496.iso)           |
-| Portuguese-Brazil      | x86  | [pt_windows_8.1_with_update_x86_dvd_6051647.iso](https://drive.massgrave.dev/pt_windows_8.1_with_update_x86_dvd_6051647.iso)           |
-| Romanian               | x64  | [ro_windows_8.1_with_update_x64_dvd_6051498.iso](https://drive.massgrave.dev/ro_windows_8.1_with_update_x64_dvd_6051498.iso)           |
-| Romanian               | x86  | [ro_windows_8.1_with_update_x86_dvd_6051661.iso](https://drive.massgrave.dev/ro_windows_8.1_with_update_x86_dvd_6051661.iso)           |
-| Russian                | x64  | [ru_windows_8.1_with_update_x64_dvd_6051499.iso](https://drive.massgrave.dev/ru_windows_8.1_with_update_x64_dvd_6051499.iso)           |
-| Russian                | x86  | [ru_windows_8.1_with_update_x86_dvd_6051662.iso](https://drive.massgrave.dev/ru_windows_8.1_with_update_x86_dvd_6051662.iso)           |
-| Slovak                 | x64  | [sk_windows_8.1_with_update_x64_dvd_6051501.iso](https://drive.massgrave.dev/sk_windows_8.1_with_update_x64_dvd_6051501.iso)           |
-| Slovak                 | x86  | [sk_windows_8.1_with_update_x86_dvd_6051664.iso](https://drive.massgrave.dev/sk_windows_8.1_with_update_x86_dvd_6051664.iso)           |
-| Slovenian              | x64  | [sl_windows_8.1_with_update_x64_dvd_6051502.iso](https://drive.massgrave.dev/sl_windows_8.1_with_update_x64_dvd_6051502.iso)           |
-| Slovenian              | x86  | [sl_windows_8.1_with_update_x86_dvd_6051665.iso](https://drive.massgrave.dev/sl_windows_8.1_with_update_x86_dvd_6051665.iso)           |
-| Serbian-Latin          | x64  | [sr-latn_windows_8.1_with_update_x64_dvd_6051500.iso](https://drive.massgrave.dev/sr-latn_windows_8.1_with_update_x64_dvd_6051500.iso) |
-| Serbian-Latin          | x86  | [sr-latn_windows_8.1_with_update_x86_dvd_6051663.iso](https://drive.massgrave.dev/sr-latn_windows_8.1_with_update_x86_dvd_6051663.iso) |
-| Swedish                | x64  | [sv_windows_8.1_with_update_x64_dvd_6051504.iso](https://drive.massgrave.dev/sv_windows_8.1_with_update_x64_dvd_6051504.iso)           |
-| Swedish                | x86  | [sv_windows_8.1_with_update_x86_dvd_6051667.iso](https://drive.massgrave.dev/sv_windows_8.1_with_update_x86_dvd_6051667.iso)           |
-| Thai                   | x64  | [th_windows_8.1_with_update_x64_dvd_6051506.iso](https://drive.massgrave.dev/th_windows_8.1_with_update_x64_dvd_6051506.iso)           |
-| Thai                   | x86  | [th_windows_8.1_with_update_x86_dvd_6051668.iso](https://drive.massgrave.dev/th_windows_8.1_with_update_x86_dvd_6051668.iso)           |
-| Turkish                | x64  | [tr_windows_8.1_with_update_x64_dvd_6051507.iso](https://drive.massgrave.dev/tr_windows_8.1_with_update_x64_dvd_6051507.iso)           |
-| Turkish                | x86  | [tr_windows_8.1_with_update_x86_dvd_6051669.iso](https://drive.massgrave.dev/tr_windows_8.1_with_update_x86_dvd_6051669.iso)           |
-| Chinese-Taiwan         | x64  | [tw_windows_8.1_with_update_x64_dvd_6051475.iso](https://drive.massgrave.dev/tw_windows_8.1_with_update_x64_dvd_6051475.iso)           |
-| Chinese-Taiwan         | x86  | [tw_windows_8.1_with_update_x86_dvd_6051525.iso](https://drive.massgrave.dev/tw_windows_8.1_with_update_x86_dvd_6051525.iso)           |
-| Ukrainian              | x64  | [uk_windows_8.1_with_update_x64_dvd_6051508.iso](https://drive.massgrave.dev/uk_windows_8.1_with_update_x64_dvd_6051508.iso)           |
-| Ukrainian              | x86  | [uk_windows_8.1_with_update_x86_dvd_6051671.iso](https://drive.massgrave.dev/uk_windows_8.1_with_update_x86_dvd_6051671.iso)           |
+MSDL https://msdl.gravesoft.dev/#52 ❤ provides Official links straight from Microsoft.  
+You can also download the ISO from https://www.microsoft.com/en-in/software-download/windows8ISO
 
 ------------------------------------------------------------------------
 
-## Win 8.1 Pro VL
+</TabItem>
+
+<TabItem value="Win 8.1 Pro VL" label="Win 8.1 Pro VL" default>
+
+**Win 8.1 Pro VL**
 
 (Build - 9600.17415)
 
@@ -184,7 +122,11 @@ Below linked Core / Pro ISO's are identical but they are downloaded from MVS and
 
 ------------------------------------------------------------------------
 
-## Win 8.1 Enterprise
+</TabItem>
+
+<TabItem value="Win 8.1 Enterprise" label="Win 8.1 Enterprise" default>
+
+**Win 8.1 Enterprise**
 
 (Build - 9600.17415)
 
@@ -267,7 +209,11 @@ Below linked Core / Pro ISO's are identical but they are downloaded from MVS and
 
 ------------------------------------------------------------------------
 
-## Win 8.1 Embedded Enterprise
+</TabItem>
+
+<TabItem value="Win 8.1 Embedded Enterprise" label="Win 8.1 Embedded Enterprise" default>
+
+**Win 8.1 Embedded Enterprise**  
 
 (Build - 9600.17415)
 
@@ -349,3 +295,16 @@ Below linked Core / Pro ISO's are identical but they are downloaded from MVS and
 | Ukrainian              | x86  | [uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso](https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso)           |
 
 ------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+**Old Versions**
+
+https://os.click/
+
+------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>
