@@ -8,12 +8,28 @@ In this page, those product activation methods are mentioned which are not suppo
 
 ------------------------------------------------------------------------
 
+## HEVC Video Extensions
+
+-	It's a [paid Microsoft extension](https://apps.microsoft.com/detail/9nmzlz57r3t7) to play High Efficiency Video Coding (HEVC) videos in any video app on your Windows 10/11 device.
+-	Microsoft provides digitally signed installers to VLSC subscribers, you can download them below.
+
+| Arch  | Links                                                                                                                                            |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| x64   | [SW_DVD5_HEVC_Codec_64BIT_MultiLang_-11_MLF_X23-60420.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_64BIT_MultiLang_-11_MLF_X23-60420.ISO) |
+| x86   | [SW_DVD5_HEVC_Codec_32BIT_MultiLang_-11_MLF_X23-60419.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_32BIT_MultiLang_-11_MLF_X23-60419.ISO) |
+| ARM64 | [SW_DVD5_HEVC_Codec_MultiLang_-11_MLF_X23-60418.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_MultiLang_-11_MLF_X23-60418.ISO)             |
+
+Alternatively, you can download AppxBundle installer from https://store.rg-adguard.net/ search `9nmzlz57r3t7` in ProductId.
+
+------------------------------------------------------------------------
+
 ## Visual Studio
 
-VS can be activated only by a key.
+-	Download - https://visualstudio.microsoft.com/downloads/
+-	Activation keys:
 
-| Editions                        | Activation Key                  |
-|---------------------------------|---------------------------------|
+| Editions                        | Activation Key                |
+|---------------------------------|-------------------------------|
 | Visual Studio 2022 Professional | TD244-P4NB7-YQ6XK-Y8MMM-YWV2J |
 | Visual Studio 2022 Enterprise   | VHF9H-NXBBB-638P6-6JHCY-88JWH |
 | Visual Studio 2019 Professional | NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y |
@@ -21,22 +37,81 @@ VS can be activated only by a key.
 
 ------------------------------------------------------------------------
 
-## Windows 7
+## SQL Server
 
-MAS online KMS option supports Windows 7 Pro and Enterprise.
+-	Download - https://www.microsoft.com/evalcenter/evaluate-sql-server-2022
+-	Activation keys:
 
-To activate other Windows 7 editions in,  
-Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
-UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
-
-**Note:** These loader/slic activators sometimes may cause the system boot issue.
+| Editions                        | Activation Key                |
+|---------------------------------|-------------------------------|
+| SQL Server 2022 Enterprise      | J4V48-P8MM4-9N3J9-HD97X-DYMRM |
+| SQL Server 2022 Enterprise Core | 2Q48Q-PB48J-DRCVN-GB844-X2H4Q |
+| SQL Server 2022 Standard        | FG86G-CHH2T-CB7NJ-XT7D2-V8V4X |
+| SQL Server 2022 Web             | 2R97W-F4XNT-T6MYV-3TKB7-6X3JM |
+| SQL Server 2022 Developer       | 22222-00000-00000-00000-00000 |
+| SQL Server 2019 Enterprise      | HMWJ3-KY3J2-NMVD7-KG4JR-X2G8G |
+| SQL Server 2019 Strandard       | PMBDC-FXVM3-T777P-N4FY8-PKFF4 |
 
 ------------------------------------------------------------------------
 
-## Windows XP SP3
+## Microsoft Configuration Manager
 
--   Download Genuine Pro VL x86 - [Link](windows_xp_links.md)
--   Activation Key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
+Also known as ConfigMgr, Microsoft Endpoint Configuration Manager (MECM).  
+Formerly known as Systems Management Server (SMS), System Center Configuration Manager (SCCM). [More info](https://craigtwall.com/how-sccm-became-memcm-or-just-configmgr/) on name changes.  
+
+**Microsoft Configuration Manager (Current Branch – version 2303)**
+
+Download - https://www.microsoft.com/evalcenter/evaluate-microsoft-endpoint-configuration-manager  
+Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
+
+------------------------------------------------------------------------
+
+## System Center 2022
+
+Download - https://www.microsoft.com/evalcenter/evaluate-system-center-2022  
+Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
+
+------------------------------------------------------------------------
+
+## Windows 7
+
+-   Download Windows 7 - [Link](windows_7_links.md)
+-   **Activation**
+	-	MAS online KMS option supports Windows 7 Pro and Enterprise.
+	-	To activate other Windows 7 editions in,  
+		-	Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
+		-	UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
+
+**Note:** loader/slic activators sometimes may cause the system boot issue.
+
+------------------------------------------------------------------------
+
+## Windows Vista
+
+-   Download Windows Vista - [Link](windows_vista_links.md)
+-   **Activation**
+	-	MAS doesn't support Windows Vista.
+	-	Business and Enterprise Editions can be activated with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
+	-	To activate other Windows Vista editions in,  
+		-	Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
+		-	UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
+
+**Note:** loader/slic activators sometimes may cause the system boot issue.
+
+------------------------------------------------------------------------
+
+## Windows XP Pro VL
+
+-   Download Windows XP Pro VL - [Link](windows_xp_links.md)
+-	32-bit (x86) Windows XP Pro VL SP3 ISO Activation key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
+-	64-bit (x64) Windows XP Pro VL SP2 ISO Activation key - `VCFQD-V9FX9-46WVH-K3CD4-4J3JM`
+
+------------------------------------------------------------------------
+
+## Office 2007 Enterprise
+
+-   Download Office 2007 Enterprise - [Link](office_msi_links.md#office-2007-enterprise)
+-	Activation key - `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 
 ------------------------------------------------------------------------
 
