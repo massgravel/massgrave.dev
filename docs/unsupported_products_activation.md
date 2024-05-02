@@ -50,7 +50,7 @@ Alternatively, you can download AppxBundle installer from https://store.rg-adgua
 | SQL Server 2022 Web             | 2R97W-F4XNT-T6MYV-3TKB7-6X3JM |
 | SQL Server 2022 Developer       | 22222-00000-00000-00000-00000 |
 | SQL Server 2019 Enterprise      | HMWJ3-KY3J2-NMVD7-KG4JR-X2G8G |
-| SQL Server 2019 Strandard       | PMBDC-FXVM3-T777P-N4FY8-PKFF4 |
+| SQL Server 2019 Standard        | PMBDC-FXVM3-T777P-N4FY8-PKFF4 |
 
 ------------------------------------------------------------------------
 
@@ -105,6 +105,15 @@ Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 -   Download Windows XP Pro VL - [Link](windows_xp_links.md)
 -	32-bit (x86) Windows XP Pro VL SP3 ISO Activation key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 -	64-bit (x64) Windows XP Pro VL SP2 ISO Activation key - `VCFQD-V9FX9-46WVH-K3CD4-4J3JM`
+
+------------------------------------------------------------------------
+
+## Office 2010 VL on Windows XP / Vista
+
+-   Download Office 2010 VL - [Link](office_msi_links#office-2010-pro-plus)
+-	Activate with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
+
+**Note:** Online KMS option in MAS supports Office 2010 on Windows 7 and later versions.
 
 ------------------------------------------------------------------------
 
