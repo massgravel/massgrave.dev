@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="Windows 11 Consumer 23H2 - Official Links" label="Windows 11 Consumer 23H2 - Official Links ❤️" default>
 
-MSDL https://msdl.gravesoft.dev/#2935 ❤ provides Official links straight from Microsoft.  
+MSDL https://msdl.gravesoft.dev/#2935 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
 You can also download the ISO from https://www.microsoft.com/en-in/software-download/windows11
 
 ------------------------------------------------------------------------

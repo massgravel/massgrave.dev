@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="Windows 10 Consumer 22H2 - Official Links" label="Windows 10 Consumer 22H2 - Official Links ❤️" default>
 
-MSDL https://msdl.gravesoft.dev/#2618 ❤ provides Official links straight from Microsoft.  
+MSDL https://msdl.gravesoft.dev/#2618 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
 
 Windows 10 download from https://www.microsoft.com/software-download isn't recommended because it uses an ESD file to generate ISO and that process sometimes may generate corrupt ISO which can not be verified with known checksums.
 
