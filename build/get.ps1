@@ -4,7 +4,7 @@ $ErrorActionPreference = "Stop"
 # Enable TLSv1.2 for compatibility with older clients
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
-$CommonURLPart = '71e575e7b6aae844d6367cf27271863358a6bec4/MAS/All-In-One-Version/MAS_AIO-CRC32_E6A92062.cmd'
+$CommonURLPart = '9556ad2cbe87c222a28214cbce7d71b1470be764/MAS/All-In-One-Version/MAS_AIO-CRC32_A844AD2C.cmd'
 $DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/' + $CommonURLPart
 $DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/' + $CommonURLPart
 $DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/' + $CommonURLPart
