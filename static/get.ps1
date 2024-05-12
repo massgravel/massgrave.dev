@@ -1,10 +1,10 @@
-# Check massgrave.dev for the instructions
+# Check massgrave [dot] dev for the instructions
 
 $ErrorActionPreference = "Stop"
 # Enable TLSv1.2 for compatibility with older clients
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
-$CommonURLPart = '9556ad2cbe87c222a28214cbce7d71b1470be764/MAS/All-In-One-Version/MAS_AIO-CRC32_A844AD2C.cmd'
+$CommonURLPart = '36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
 $DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/' + $CommonURLPart
 $DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/' + $CommonURLPart
 $DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/' + $CommonURLPart
