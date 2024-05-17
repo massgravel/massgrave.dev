@@ -10,11 +10,8 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 ---
 
-## Download / How to use it?
-
-### Method 1 - PowerShell
-
-(Recommended)
+## Download / How to use it?  
+### Method 1 - PowerShell (Recommended)  
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy and paste the code below and press enter  
@@ -25,7 +22,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 Note - On older Windows builds you may need to run the below command before,  
 `[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
 
-### Method 2 - Traditional
+### Method 2 - Traditional  
 
 -   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 -   Right-click on the downloaded zip file and extract
