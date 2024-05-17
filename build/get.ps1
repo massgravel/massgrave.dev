@@ -1,28 +1,21 @@
-# Check massgrave [dot] dev for the instructions
+# Check massgrave [dot] dev for more details
 
 $ErrorActionPreference = "Stop"
-# Enable TLSv1.2 for compatibility with older clients
+# Enable TLSv1.2 for compatibility with older clients for current session
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
-$CommonURLPart = '36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
-$DownloadURL1 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/' + $CommonURLPart
-$DownloadURL2 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/' + $CommonURLPart
-$DownloadURL3 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/' + $CommonURLPart
+$DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
+$DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
 
 $URLs = @($DownloadURL1, $DownloadURL2)
 $RandomURL1 = Get-Random -InputObject $URLs
-$RandomURL2 = $URLs -notmatch $RandomURL1 | Get-Random
+$RandomURL2 = $URLs -ne $RandomURL1
 
 try {
     $response = Invoke-WebRequest -Uri $RandomURL1 -UseBasicParsing
 }
 catch {
-    try {
-        $response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
-    }
-    catch {
-        $response = Invoke-WebRequest -Uri $DownloadURL3 -UseBasicParsing
-    }
+	$response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
 }
 
 $rand = Get-Random -Maximum 99999999
