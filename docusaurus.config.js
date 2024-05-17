@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'massgravel', // Usually your GitHub org/user name.
-  projectName: 'mas-docs', // Usually your repo name.
+  projectName: 'massgrave.dev', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/massgravel/mas-docs/tree/main/',
+            'https://github.com/massgravel/massgrave.dev/tree/main/',
         },
         blog: false,
         theme: {
