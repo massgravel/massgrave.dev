@@ -27,7 +27,7 @@ It will be officially released in 2nd half of 2024, more [info](https://techcomm
 Insider build ISO for Windows 11 LTSC has been leaked but we recommend not installing it for general use because its authenticity can not be verified and the build is not stable.
 
 #### Where is the info related to Office 2024?
-Check [here](https://gravesoft.dev/download_windows_office/office_c2r_custom/#microsoft-office-2024-preview).
+Check [here](https://gravesoft.dev/office_c2r_custom/#microsoft-office-2024-preview).
 
 #### How to download the full version of Windows 10 LTSC 2021?
 Check the info [here](genuine-installation-media.md).
@@ -54,7 +54,7 @@ Yes.
 Yes.
 
 #### I'm in Russia and Office is not downloading.
-Check this [guide](https://gravesoft.dev/guides/bypass-russian-geoblock).
+Check this [guide](https://gravesoft.dev/bypass-russian-geoblock).
 
 #### Can I activate Office 365?
 Yes, use the Ohook activation option. However, you can't get server-side O365-specific features such as 1TB storage in OneDrive, though almost all other features and 5GB storage in a free OneDrive account would work fine.
