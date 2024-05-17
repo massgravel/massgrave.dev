@@ -94,3 +94,8 @@ table {
   font-family: var(--ifm-font-family-monospace);
   font-size: var(--ifm-code-font-size);
 }
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.2rem;
+}
+
