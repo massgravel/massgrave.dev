@@ -1,0 +1,11 @@
+/get /get.ps1 301
+/ias /ias.ps1 301
+/api/msdl/proxy https://msdl.gravesoft.dev/ 301
+/msdl https://msdl.gravesoft.dev/ 301
+/in-place_repair_upgrade https://gravesoft.dev/in-place_repair_upgrade 301
+/bypass-russian-geoblock https://gravesoft.dev/bypass-russian-geoblock 301
+/fix-wpa-registry https://gravesoft.dev/fix-wpa-registry 301
+/redirect-genuine-installation-media /genuine-installation-media 301
+/idm-activation-script https://github.com/WindowsAddict/IDM-Activation-Script 301
+/office_c2r_links https://gravesoft.dev/office_c2r_links 301
+/office_c2r_custom https://gravesoft.dev/office_c2r_custom 301
