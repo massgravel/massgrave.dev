@@ -1,8 +1,14 @@
-# Check massgrave [dot] dev for more details
+# Check massgrave.dev for more details
 
 $ErrorActionPreference = "Stop"
+
+write-host
+Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired on July 4, 2024."
+Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
+write-host
+
 # Enable TLSv1.2 for compatibility with older clients for current session
-[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
+[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
 
 $DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
 $DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/36f7291963f4264a9e5c9b8d82740ed5d625152a/MAS/All-In-One-Version/MAS_AIO-CRC32_C67E873E.cmd'
