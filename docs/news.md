@@ -1,5 +1,9 @@
 # News
 
+### [20-May-24] (irm https://massgrave.dev/get | iex) is retiring.  
+The command (irm https://massgrave.dev/get | iex) will be retired on July 4, 2024.  
+Use the new command (irm https://get.activated.win | iex) moving forward.  
+
 ### [28-Apr-24] Added some more products
 https://massgrave.dev/unsupported_products_activation  
 HEVC Video Extensions, SQL Server, Microsoft Configuration Manager, System Center 2022, Windows Vista, Office 2007 Enterprise  
