@@ -11,6 +11,33 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
+## Windows Server 2025 (Preview)
+
+Build - 26100.1
+
+| Language            | Arch | Link                                                                                                                                         |
+|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Czech               | x64  | [cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_preview_x64_dvd_8b1f5b49.iso) |
+| German              | x64  | [de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso](https://drive.massgrave.dev/de-de_windows_server_2025_preview_x64_dvd_1c3dfe1c.iso) |
+| English             | x64  | [en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso](https://drive.massgrave.dev/en-us_windows_server_2025_preview_x64_dvd_ce9eb1a5.iso) |
+| Spanish             | x64  | [es-es_windows_server_2025_preview_x64_dvd_b07cc858.iso](https://drive.massgrave.dev/es-es_windows_server_2025_preview_x64_dvd_b07cc858.iso) |
+| French              | x64  | [fr-fr_windows_server_2025_preview_x64_dvd_036e8a78.iso](https://drive.massgrave.dev/fr-fr_windows_server_2025_preview_x64_dvd_036e8a78.iso) |
+| Hungarian           | x64  | [hu-hu_windows_server_2025_preview_x64_dvd_2d5d77e5.iso](https://drive.massgrave.dev/hu-hu_windows_server_2025_preview_x64_dvd_2d5d77e5.iso) |
+| Italian             | x64  | [it-it_windows_server_2025_preview_x64_dvd_eaccac73.iso](https://drive.massgrave.dev/it-it_windows_server_2025_preview_x64_dvd_eaccac73.iso) |
+| Japanese            | x64  | [ja-jp_windows_server_2025_preview_x64_dvd_62f802be.iso](https://drive.massgrave.dev/ja-jp_windows_server_2025_preview_x64_dvd_62f802be.iso) |
+| Korean              | x64  | [ko-kr_windows_server_2025_preview_x64_dvd_e2c3e8f0.iso](https://drive.massgrave.dev/ko-kr_windows_server_2025_preview_x64_dvd_e2c3e8f0.iso) |
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_preview_x64_dvd_314b4ed1.iso](https://drive.massgrave.dev/nl-nl_windows_server_2025_preview_x64_dvd_314b4ed1.iso) |
+| Polish              | x64  | [pl-pl_windows_server_2025_preview_x64_dvd_be4b099e.iso](https://drive.massgrave.dev/pl-pl_windows_server_2025_preview_x64_dvd_be4b099e.iso) |
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_preview_x64_dvd_993c803a.iso](https://drive.massgrave.dev/pt-br_windows_server_2025_preview_x64_dvd_993c803a.iso) |
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_preview_x64_dvd_869aa534.iso](https://drive.massgrave.dev/pt-pt_windows_server_2025_preview_x64_dvd_869aa534.iso) |
+| Russian             | x64  | [ru-ru_windows_server_2025_preview_x64_dvd_5ada1817.iso](https://drive.massgrave.dev/ru-ru_windows_server_2025_preview_x64_dvd_5ada1817.iso) |
+| Swedish             | x64  | [sv-se_windows_server_2025_preview_x64_dvd_5fafd4f7.iso](https://drive.massgrave.dev/sv-se_windows_server_2025_preview_x64_dvd_5fafd4f7.iso) |
+| Turkish             | x64  | [tr-tr_windows_server_2025_preview_x64_dvd_3aab7fda.iso](https://drive.massgrave.dev/tr-tr_windows_server_2025_preview_x64_dvd_3aab7fda.iso) |
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_preview_x64_dvd_a12bb0bf.iso](https://drive.massgrave.dev/zh-cn_windows_server_2025_preview_x64_dvd_a12bb0bf.iso) |
+| Chinese-Taiwan      | x64  | [zh-tw_windows_server_2025_preview_x64_dvd_9b147dcd.iso](https://drive.massgrave.dev/zh-tw_windows_server_2025_preview_x64_dvd_9b147dcd.iso) |
+
+------------------------------------------------------------------------
+
 ## Windows Server 2022
 
 Updated May 2024 (Build - 20348.2461)
