@@ -166,3 +166,38 @@ https://os.click/
 
 </TabItem>
 </Tabs>
+
+### Windows 11 24H2 (Preview)
+
+<Tabs>
+<TabItem value="Windows 11 Consumer / Business" label="Windows 11 Consumer / Business 24H2 " default>
+
+**Windows 11 Consumer / Business 24H2**  
+Build - 26100.560
+
+https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Windows 11 IoT Enterprise 24H2" label="Windows 11 IoT Enterprise 24H2" default>
+
+**Windows 11 IoT Enterprise 24H2**  
+Build - 26100.1  
+These ISO's are released to OEMs on May 22, 2024. They contain below editions,  
+
+Windows 11 Enterprise  
+Windows 11 IoT Enterprise  
+Windows 11 IoT Enterprise Subscription  
+
+| Language | Arch  | Link                                                                                                                                                                     |
+|:---------|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | ARM64 | [26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso) |
+| English  | x64   | [26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso) |
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+</Tabs>
