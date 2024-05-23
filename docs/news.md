@@ -1,5 +1,8 @@
 # News
 
+### [23-May-24] Added: Windows Server 2025 (Preview)
+https://massgrave.dev/genuine-installation-media
+
 ### [22-May-24] Added: May updated ISO's for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
