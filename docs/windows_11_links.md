@@ -184,6 +184,7 @@ https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 <TabItem value="Windows 11 IoT Enterprise 24H2" label="Windows 11 IoT Enterprise 24H2" default>
 
 **Windows 11 IoT Enterprise 24H2**  
+**(Not LTSC)**  
 Build - 26100.1  
 These ISO's are released to OEMs on May 22, 2024. They contain below editions,  
 
