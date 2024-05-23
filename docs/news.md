@@ -1,5 +1,9 @@
 # News
 
+### [23-May-24] Added: Windows 11 IoT Enterprise 24H2
+Released to OEMs  
+https://massgrave.dev/genuine-installation-media
+
 ### [23-May-24] Added: Windows Server 2025 (Preview)
 https://massgrave.dev/genuine-installation-media
 
