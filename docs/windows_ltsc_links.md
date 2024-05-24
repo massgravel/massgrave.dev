@@ -27,6 +27,11 @@ Build - 26100.1
 Released to OEMs on 22 May 2024  
 IoT release is only available in English ISO's and non-IoT version is not released on MVS yet.
 
+These ISO's contain below editions.  
+Windows 11 Enterprise LTSC  
+Windows 11 IoT Enterprise LTSC  
+Windows 11 IoT Enterprise Subscription LTSC  
+
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | x64   | [26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso❤️](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso)   |
