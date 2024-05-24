@@ -26,6 +26,9 @@ MAS is fully [open-source](intro.md#mas-latest-release). You can open the batch 
 It will be officially released in 2nd half of 2024, more [info](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/windows-client-roadmap-update-april-2023/ba-p/3805227). Download links will be shared here.
 Insider build ISO for Windows 11 LTSC has been leaked but we recommend not installing it for general use because its authenticity can not be verified and the build is not stable.
 
+Update - 24-May-2024  
+Windows 11 IoT Enterprise LTSC 24H2 is released to OEMs. We got the links, and it's added [here](windows_ltsc_links.md).
+
 #### Where is the info related to Office 2024?
 Check [here](https://gravesoft.dev/office_c2r_custom/#microsoft-office-2024-preview).
 
