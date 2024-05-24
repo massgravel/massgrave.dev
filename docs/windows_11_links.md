@@ -201,4 +201,13 @@ Windows 11 IoT Enterprise Subscription
 
 </TabItem>
 
+<TabItem value="Windows 11 IoT Enterprise LTSC 24H2" label="Windows 11 IoT Enterprise LTSC 24H2" default>
+
+**Windows 11 IoT Enterprise LTSC 24H2**
+
+Check [here](windows_ltsc_links.md).
+
+------------------------------------------------------------------------
+
+</TabItem>
 </Tabs>
