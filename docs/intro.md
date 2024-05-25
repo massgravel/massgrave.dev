@@ -15,12 +15,22 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy and paste the code below and press enter  
-`irm https://get.activated.win | iex`  
+```
+irm https://get.activated.win | iex
+```
+or  
+```
+irm https://massgrave.dev/get | iex
+```
 -   You will see the activation options. Follow the on-screen instructions.
 -   That's all.
 
-Note - On older Windows builds you may need to run the below command before,  
+---
+
+- On older Windows builds you may need to run the below command before,  
 `[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
+- The Powershell method does not work on Windows 7. Use the Method 2 - Traditional instead.  
+- The URL get.activated.win may be blocked by some DNS services because it is a new domain.
 
 ### Method 2 - Traditional  
 
@@ -32,6 +42,13 @@ Note - On older Windows builds you may need to run the below command before,
 -   That's all.
 
 To run the scripts in unattended mode, check [here](command_line_switches.md)
+
+------------------------------------------------------------------------
+
+## MAS Latest Release
+
+Last Release - v2.6 (20-Apr-2024)  
+[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
 
@@ -48,13 +65,6 @@ To run the scripts in unattended mode, check [here](command_line_switches.md)
 -   Available in All In One and Separate Files Versions
 -   Fully Open Source and Based on Batch Scripts
 -   Fewer Antivirus Detections
-
-------------------------------------------------------------------------
-
-## MAS Latest Release
-
-Last Release - v2.6 (20-Apr-2024)  
-[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 
 ------------------------------------------------------------------------
 
