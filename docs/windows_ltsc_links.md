@@ -4,20 +4,68 @@ All download links lead to genuine files only.
 
 ## Notes
 
--   Windows 10 Enterprise LTSC (Long-Term Servicing Channel) releases are designed to provide longer update support (10 years) and it lacks most of the Store (UWP) apps.
--   Windows 10 GAC (General Availability Channel) (i.e. Home, Pro) will reach end of support on [October 14, 2025](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro). So, if your hardware doesn't support Windows 11 then you might wanna use Windows 10 IoT Enterprise LTSC 2021 since its supported until [Jan 13, 2032](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021).
--   Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-in/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated.
--   Microsoft provides full version of Windows LTSC on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee.
--   For these reasons, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   IoT Enterprise LTSC 2021 ISO is available in English language only. However you can install Non-IoT version in your language and install IoT key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` to switch the edition or just use HWID activation in MAS which will do that for you.
--   Difference between IoT and Non-IoT Windows Enterprise LTSC 2021:  
-    -   Licensing - Non-IoT version supports the KMS license but not the Digital license. IoT version supports the Digital license and after the update 19044.2788, it supports the KMS license as well.
-    -   Sandbox - Initial release (19044.1288) of IoT LTSC didn't have sandbox but non-IoT version had. Later updates enabled it in IoT as well, so there is no difference anymore.
-    -   Reserved storage feature - IoT doesn't have reserved storage feature and it's install takes less space in installation. (Feature is not much important for LTSC release)
-    -   Windows Update - IoT is supported till 2032 and Non-IoT is supported till 2027.
-        Conclusion, IoT LTSC is better.  
--   You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting corresponding edition key.
+-   Windows 10/11 Enterprise LTSC (Long-Term Servicing Channel) releases are designed to provide longer update support (10 years) and it lacks most of the Store (UWP) apps.
+-   Windows 10 GAC (General Availability Channel) (i.e. Home, Pro) will reach end of support on [October 14, 2025](https://learn.microsoft.com/lifecycle/products/windows-10-home-and-pro). So, if your hardware doesn't support Windows 11 then you might wanna use Windows 10 IoT Enterprise LTSC 2021 since its supported until [Jan 13, 2032](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) or Windows 11 24H2 IoT editions (LTSC/GAC both) because they [don't require](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) TPM / Secure boot / UEFI / 4GB RAM.
+-   Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days.
+-   Microsoft provides full version of Windows LTSC on [MVS](https://visualstudio.microsoft.com/subscriptions/), [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) and [OEM Portal](https://devicepartner.microsoft.com/) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 -   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::tip[Differences between IoT and Non-IoT Windows Enterprise LTSC]
+
+<Tabs>
+
+<TabItem value="Windows 11 LTSC 2024" label="Windows 11 LTSC 2024" default>
+
+| Features | Enterprise LTSC  | IoT Enterprise LTSC / IoT Enterprise Subscription LTSC |
+|:---------|:--------------------------------------|:---------------------|
+| **TPM / Secure boot / UEFI / 4GB RAM**  | All required   | [Not Required](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) 🎉 <br /> Also not required by [IoT Enterprise 24H2 (Non-LTSC)](windows_11_links.md#windows-11-24h2-preview)  |
+| **Automatic Device Encryption**  | Enabled   | Disabled   |
+| **Update Support**  | 5 Years   | 10 Years   |
+| **Reserved Storage Feature**  | Enabled   | Disabled   |
+| **Digital License (HWID)**  | Not supported   | Supported   |
+| **Windows Copilot**  | Enabled   | Disabled in product policy <br /> (*somehow it managed to install with 26100.712 updates)  |
+| **Uninstallable Edge**   | Yes   | No |
+| **2 Simultaneous RDP Sessions**   | No   | Yes |
+
+
+- IoT Enterprise LTSC ❤️ is a clear winner.
+- The only difference between IoT Enterprise LTSC and IoT Enterprise Subscription LTSC is that the subscription edition supports a subscription license.
+- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
+- IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in  another language and later install IoT LTSC key `CGK42-GYN6Y-VD22B-BX98W-J8JXD` to change the edition.
+</TabItem>
+
+
+<TabItem value="Windows 10 LTSC 2021" label="Windows 10 LTSC 2021" default>
+
+
+| Features | Enterprise LTSC  | IoT Enterprise LTSC |
+|:---------|:--------------------------------------|:---------------------|
+| **Update Support**  | [5 Years (till 2027)](https://learn.microsoft.com/lifecycle/products/windows-10-enterprise-ltsc-2021)  | [10 Years (till 2032)](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021)  |
+| **Reserved Storage Feature**  | Enabled   | Disabled   |
+| **Digital License (HWID)**  | Not supported   | Supported   |
+| **KMS License**  | Supported   | Support added after the update 19044.2788   |
+| **Uninstallable Edge**   | Yes   | No |
+| **$OEM$ Folder Support**   | Yes   | No [(More Info)](oem-folder.md) |
+
+
+- IoT Enterprise LTSC ❤️ is a winner.
+- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
+- IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in  another language and later install IoT LTSC key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` to change the edition.
+
+</TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+
+- There are ISOs available for IoT Enterprise LTSC/LTSB 2019, 2016, and 2015, but they only have the Non-IoT LTSC OEM key preinstalled. The installed key is the only difference. There is no real, different IoT edition available for these versions.
+
+</TabItem>
+</Tabs>
+
+:::
 
 ------------------------------------------------------------------------
 
@@ -29,7 +77,7 @@ IoT release is only available in English ISO's and non-IoT version is not releas
 
 These ISO's contain below editions.  
 Windows 11 Enterprise LTSC  
-Windows 11 IoT Enterprise LTSC  
+Windows 11 IoT Enterprise LTSC ❤️  
 Windows 11 IoT Enterprise Subscription LTSC  
 
 | Language | Arch  | Link                                                                                                                                                             |
@@ -235,7 +283,8 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 
 (Build - 14393)  
 It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
-This ISO file is taken from the Microsoft's OEM portal.
+This ISO file is taken from the Microsoft's OEM portal.  
+Rename the .IMG extension to .iso for the uninterrupted use.  
 
 | Language | Arch | Link                                                                                                                                                                                   |
 |:---------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -333,7 +382,9 @@ This ISO file is taken from the Microsoft's OEM portal.
 
 (Build - 10240)  
 It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
-This ISO file is taken from the Microsoft's OEM portal.
+This ISO file is taken from the Microsoft's OEM portal.  
+Rename the .IMG extension to .iso for the uninterrupted use.  
+Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.  
 
 | Language | Arch | Link                                                                                                                                                                                   |
 |:---------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
