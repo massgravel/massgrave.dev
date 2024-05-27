@@ -12,7 +12,18 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 11 23H2 Business
+## Download Links
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+### Windows 11
+
+<Tabs>
+
+<TabItem value="Windows 11 Business 23H2" label="Windows 11 Business 23H2" default>
+
+**Windows 11 Business 23H2**
 
 Build - 22631.3007
 
@@ -59,7 +70,46 @@ Build - 22631.3007
 
 ------------------------------------------------------------------------
 
-## Windows 10 22H2 Business
+</TabItem>
+<TabItem value="Windows 11 IoT Enterprise 23H2" label="Windows 11 IoT Enterprise 23H2" default>
+
+**Windows 11 IoT Enterprise 23H2**  
+**(Not LTSC)**  
+Build - 22631.2428  
+ARM64 version for IoT Enterprise ISO is only available in English language.  
+
+| Language | Arch  | Link                                                                                                                                                                   |
+|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_23h2_arm64_dvd_6cc52d75.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_23h2_arm64_dvd_6cc52d75.iso) |
+
+------------------------------------------------------------------------
+
+</TabItem>
+<TabItem value="Windows 11 IoT Enterprise LTSC 2024" label="Windows 11 IoT Enterprise LTSC 2024" default>
+
+**Windows 11 IoT Enterprise LTSC 2024**
+
+Build - 26100.1  
+Released to OEMs on 22 May 2024  
+ARM64 version for LTSC is only available in English language.  
+
+| Language | Arch  | Link                                                                                                                                                                                |
+|:---------|:------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English       | ARM64 | [26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso)   |
+
+------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>
+
+
+### Windows 10
+
+<Tabs>
+
+<TabItem value="Windows 10 Business 22H2" label="Windows 10 Business 22H2" default>
+
+**Windows 10 Business 22H2**
 
 Build - 19045.3930
 
@@ -106,9 +156,27 @@ Build - 19045.3930
 
 ------------------------------------------------------------------------
 
-## Win10 Iot Enterprise LTSC 2021
+</TabItem>
+<TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
 
-Build - 19044.1288
+**Windows 10 IoT Enterprise 22H2**  
+**(Not LTSC)**  
+Build - 19045.2006  
+ARM64 version for IoT Enterprise ISO is only available in English language.  
+
+| Language | Arch  | Link                                                                                                                                                                   |
+|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | ARM64 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
+
+------------------------------------------------------------------------
+
+</TabItem>
+<TabItem value="Windows 10 IoT Enterprise LTSC 2021" label="Windows 10 IoT Enterprise LTSC 2021" default>
+
+**Windows 10 IoT Enterprise LTSC 2021**
+
+Build - 19044.1288  
+ARM64 version for LTSC is only available in English language.  
 
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -116,22 +184,5 @@ Build - 19044.1288
 
 ------------------------------------------------------------------------
 
-## Windows 11 IoT Enterprise 23H2
-#### (Not LTSC)
-Build - 22631.2428
-
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_23h2_arm64_dvd_6cc52d75.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_23h2_arm64_dvd_6cc52d75.iso) |
-
-------------------------------------------------------------------------
-
-## Windows 10 IoT Enterprise 22H2
-#### (Not LTSC)
-Build - 19045.2006
-
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
-
-------------------------------------------------------------------------
+</TabItem>
+</Tabs>

@@ -25,9 +25,9 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="Win 8.1 Core / Pro - Official Links" label="Win 8.1 Core / Pro - Official Links ❤️" default>
+<TabItem value="Windows 8.1 Core / Pro - Official Links" label="Windows 8.1 Core / Pro - Official Links ❤️" default>
 
-**Win 8.1 Core / Pro**  
+**Windows 8.1 Core / Pro**  
 (Build - 9600.17415)  
 
 MSDL https://msdl.gravesoft.dev/#52 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
@@ -37,9 +37,9 @@ You can also download the ISO from https://www.microsoft.com/en-in/software-down
 
 </TabItem>
 
-<TabItem value="Win 8.1 Pro VL" label="Win 8.1 Pro VL" default>
+<TabItem value="Windows 8.1 Pro VL" label="Windows 8.1 Pro VL" default>
 
-**Win 8.1 Pro VL**
+**Windows 8.1 Pro VL**
 
 (Build - 9600.17415)
 
@@ -124,9 +124,9 @@ You can also download the ISO from https://www.microsoft.com/en-in/software-down
 
 </TabItem>
 
-<TabItem value="Win 8.1 Enterprise" label="Win 8.1 Enterprise" default>
+<TabItem value="Windows 8.1 Enterprise" label="Windows 8.1 Enterprise" default>
 
-**Win 8.1 Enterprise**
+**Windows 8.1 Enterprise**
 
 (Build - 9600.17415)
 
@@ -211,9 +211,9 @@ You can also download the ISO from https://www.microsoft.com/en-in/software-down
 
 </TabItem>
 
-<TabItem value="Win 8.1 Embedded Enterprise" label="Win 8.1 Embedded Enterprise" default>
+<TabItem value="Windows 8.1 Embedded Enterprise" label="Windows 8.1 Embedded Enterprise" default>
 
-**Win 8.1 Embedded Enterprise**  
+**Windows 8.1 Embedded Enterprise**  
 
 (Build - 9600.17415)
 
