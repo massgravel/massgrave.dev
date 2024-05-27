@@ -20,7 +20,16 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 7 Professional SP1
+## Download Links
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="Windows 7 Professional SP1" label="Windows 7 Professional SP1" default>
+
+**Windows 7 Professional SP1**
 
 (Build - 7601.17514)
 
@@ -101,7 +110,10 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 7 Enterprise SP1
+</TabItem>
+<TabItem value="Windows 7 Enterprise SP1" label="Windows 7 Enterprise SP1" default>
+
+**Windows 7 Enterprise SP1**
 
 (Build - 7601.17514)
 
@@ -182,7 +194,10 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows 7 Ultimate SP1
+</TabItem>
+<TabItem value="Windows 7 Ultimate SP1" label="Windows 7 Ultimate SP1" default>
+
+**Windows 7 Ultimate SP1**
 
 (Build - 7601.17514)
 
@@ -263,9 +278,13 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Embedded POSReady 7
+</TabItem>
+<TabItem value="Embedded POSReady 7" label="Embedded POSReady 7" default>
 
-(Build - 7601.17514)
+**Embedded POSReady 7**
+
+(Build - 7601.17514)  
+Eval is just in the file name, it can be activated without any issues.  
 
 | Language  | Arch | Link                                                                                                                                                   |
 |:----------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -275,3 +294,6 @@ All download links lead to genuine files only.
 | Lang Pack | x86  | [en_windows_embedded_posready_7_lang_pack_x86_dvd_698172.iso](https://drive.massgrave.dev/en_windows_embedded_posready_7_lang_pack_x86_dvd_698172.iso) |
 
 ------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>

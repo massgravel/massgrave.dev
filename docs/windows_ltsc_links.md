@@ -75,7 +75,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="Windows 11 LTSC 2024" label="Win 11 LTSC 2024" default>
+<TabItem value="Windows 11 LTSC 2024" label="Windows 11 LTSC 2024" default>
 
 
 **Windows 11 IoT Enterprise LTSC 2024**
@@ -98,7 +98,7 @@ Windows 11 IoT Enterprise Subscription LTSC
 ---
 
 </TabItem>
-<TabItem value="Windows 10 LTSC 2021" label="Win 10 LTSC 2021" default>
+<TabItem value="Windows 10 LTSC 2021" label="Windows 10 LTSC 2021" default>
 
 **Windows 10 IoT Enterprise LTSC 2021**
 
@@ -201,7 +201,7 @@ Windows 11 IoT Enterprise LTSC ❤️
 ---
 
 </TabItem>
-<TabItem value="Windows 10 LTSC 2019" label="Win 10 LTSC 2019" default>
+<TabItem value="Windows 10 LTSC 2019" label="Windows 10 LTSC 2019" default>
 
 **Windows 10 IoT Enterprise LTSC 2019**
 
@@ -301,7 +301,7 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 ---
 
 </TabItem>
-<TabItem value="Windows 10 LTSB 2016" label="Win 10 LTSB 2016" default>
+<TabItem value="Windows 10 LTSB 2016" label="Windows 10 LTSB 2016" default>
 
 **Windows 10 IoT Enterprise LTSB 2016**
 
@@ -403,7 +403,7 @@ Rename the .IMG extension to .iso.
 ---
 
 </TabItem>
-<TabItem value="Windows 10 LTSB 2015" label="Win 10 LTSB 2015" default>
+<TabItem value="Windows 10 LTSB 2015" label="Windows 10 LTSB 2015" default>
 
 **Windows 10 IoT Enterprise LTSB 2015**
 
