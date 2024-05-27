@@ -70,7 +70,15 @@ import TabItem from '@theme/TabItem';
 
 ---
 
-## Win11 IoT Enterprise LTSC 2024
+## Download Links
+
+
+<Tabs>
+
+<TabItem value="Windows 11 LTSC 2024" label="Win 11 LTSC 2024" default>
+
+
+**Windows 11 IoT Enterprise LTSC 2024**
 
 Build - 26100.1  
 Released to OEMs on 22 May 2024  
@@ -89,16 +97,25 @@ Windows 11 IoT Enterprise Subscription LTSC
 
 ---
 
-## Win10 IoT Enterprise LTSC 2021
+</TabItem>
+<TabItem value="Windows 10 LTSC 2021" label="Win 10 LTSC 2021" default>
+
+**Windows 10 IoT Enterprise LTSC 2021**
 
 (Build - 19044.1288)
+
+These ISO's contain below editions.    
+Windows 11 Enterprise LTSC  
+Windows 11 IoT Enterprise LTSC ❤️  
 
 | Language | Arch  | Link                                                                                                                                                             |
 | :------- | :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | English  | x64   | [en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso❤️](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   |
 | English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
 
-## Win10 Enterprise LTSC 2021
+---
+
+**Windows 10 Enterprise LTSC 2021**
 
 (Build - 19044.1288)
 
@@ -183,7 +200,10 @@ Windows 11 IoT Enterprise Subscription LTSC
 
 ---
 
-## Win10 IoT Enterprise LTSC 2019
+</TabItem>
+<TabItem value="Windows 10 LTSC 2019" label="Win 10 LTSC 2019" default>
+
+**Windows 10 IoT Enterprise LTSC 2019**
 
 (Build - 17763.107)  
 It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.
@@ -195,7 +215,7 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 
 ---
 
-## Win10 Enterprise LTSC 2019
+**Windows 10 Enterprise LTSC 2019**
 
 (Build - 17763.316)
 
@@ -280,12 +300,15 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 
 ---
 
-## Win10 IoT Enterprise LTSB 2016
+</TabItem>
+<TabItem value="Windows 10 LTSB 2016" label="Win 10 LTSB 2016" default>
+
+**Windows 10 IoT Enterprise LTSB 2016**
 
 (Build - 14393)  
 It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
 This ISO file is taken from the Microsoft's OEM portal.  
-Rename the .IMG extension to .iso for the uninterrupted use.
+Rename the .IMG extension to .iso.
 
 | Language | Arch | Link                                                                                                                                                                                   |
 | :------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -294,7 +317,7 @@ Rename the .IMG extension to .iso for the uninterrupted use.
 
 ---
 
-## Win10 Enterprise LTSB 2016
+**Windows 10 Enterprise LTSB 2016**
 
 (Build - 14393)
 
@@ -379,12 +402,15 @@ Rename the .IMG extension to .iso for the uninterrupted use.
 
 ---
 
-## Win10 IoT Enterprise LTSB 2015
+</TabItem>
+<TabItem value="Windows 10 LTSB 2015" label="Win 10 LTSB 2015" default>
+
+**Windows 10 IoT Enterprise LTSB 2015**
 
 (Build - 10240)  
 It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
 This ISO file is taken from the Microsoft's OEM portal.  
-Rename the .IMG extension to .iso for the uninterrupted use.  
+Rename the .IMG extension to .iso.  
 Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.
 
 | Language | Arch | Link                                                                                                                                                                                   |
@@ -394,7 +420,7 @@ Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.
 
 ---
 
-## Win10 Enterprise LTSB 2015
+**Windows 10 Enterprise LTSB 2015**
 
 (Build - 10240)
 
@@ -480,3 +506,6 @@ Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.
 | Ukrainian              | x86  | [uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso)           |
 
 ---
+
+</TabItem>
+</Tabs>
