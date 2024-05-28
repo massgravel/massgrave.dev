@@ -105,8 +105,8 @@ Windows 11 IoT Enterprise Subscription LTSC
 (Build - 19044.1288)
 
 These ISO's contain below editions.    
-Windows 11 Enterprise LTSC  
-Windows 11 IoT Enterprise LTSC ❤️  
+Windows 10 Enterprise LTSC  
+Windows 10 IoT Enterprise LTSC ❤️  
 
 | Language | Arch  | Link                                                                                                                                                             |
 | :------- | :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
