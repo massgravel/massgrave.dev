@@ -3,7 +3,7 @@
 $ErrorActionPreference = "Stop"
 
 write-host
-Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired on July 4, 2024."
+Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired on Aug 31, 2024."
 Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
 write-host
 
