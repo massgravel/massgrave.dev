@@ -31,6 +31,7 @@ All download links lead to genuine files only.
 | Hungarian             | x86  | [hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso](https://drive.massgrave.dev/hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso)           |
 | Italian               | x86  | [it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso](https://drive.massgrave.dev/it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso)           |
 | Japanese              | x86  | [ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso](https://drive.massgrave.dev/ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso)         |
+| Korean                | x86  | [ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.iso](https://drive.massgrave.dev/ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.iso)       |
 | Dutch                 | x86  | [nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso](https://drive.massgrave.dev/nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso)           |
 | Norwegian             | x86  | [no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso](https://drive.massgrave.dev/no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso)           |
 | Polish                | x86  | [pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso](https://drive.massgrave.dev/pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso)           |
