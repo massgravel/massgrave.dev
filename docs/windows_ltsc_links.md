@@ -27,8 +27,7 @@ import TabItem from '@theme/TabItem';
 | **Update Support**                     | 5 Years         | 10 Years                                                                                                                                                                                                                                                          |
 | **Reserved Storage Feature**           | Enabled         | Disabled                                                                                                                                                                                                                                                          |
 | **Digital License (HWID)**             | Not supported   | Supported                                                                                                                                                                                                                                                         |
-| **Windows Copilot**                    | Enabled         | Disabled in product policy <br /> (\*somehow it managed to install with 26100.712 updates)                                                                                                                                                                        |
-| **Uninstallable Edge**                 | Yes             | No                                                                                                                                                                                                                                                                |
+| **Uninstallable Edge outside of EEA**  | Yes             | No                                                                                                                                                                                                                                                                |
 | **2 Simultaneous RDP Sessions**        | No              | Yes                                                                                                                                                                                                                                                               |
 
 
@@ -81,7 +80,7 @@ import TabItem from '@theme/TabItem';
 **Windows 11 IoT Enterprise LTSC 2024**
 
 Build - 26100.1  
-Released to OEMs on 22 May 2024  
+Released to OEMs on 22 May 2024 (Not officially released for general use yet).  
 IoT release is only available in English ISO's and non-IoT version is not released on MVS yet.
 
 These ISO's contain below editions.  
