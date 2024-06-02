@@ -33,9 +33,9 @@
 
 ## Uses In Powershell One Liner
 
-`& ([ScriptBlock]::Create((irm https://mass grave.dev/get))) /para`
+`& ([ScriptBlock]::Create((irm https://get.acti vated.win))) /para`
 
-**Notes** - Remove the space between `mass grave`
+**Notes** - Remove the space between `acti vated`
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /KMS-Office /KMS-ActAndRenewalTask`
 -   This Powershell one-liner will work on Windows 8.1 and later versions only.
