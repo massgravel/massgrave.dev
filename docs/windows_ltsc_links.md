@@ -80,7 +80,7 @@ import TabItem from '@theme/TabItem';
 **Windows 11 IoT Enterprise LTSC 2024**
 
 Build - 26100.1  
-Released to OEMs on 22 May 2024 (Not officially released for general use yet).  
+Released to OEMs on 22 May 2024 (Preview, not officially released for general use yet).  
 IoT release is only available in English ISO's and non-IoT version is not released on MVS yet.
 
 These ISO's contain below editions.  
@@ -92,7 +92,6 @@ Windows 11 IoT Enterprise Subscription LTSC
 | :------------ | :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | English       | x64   | [26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso❤️](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso) |
 | English       | ARM64 | [26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso)   |
-| Language Pack | x64   | [26100.1.240331-1435.ge_release_amd64fre_CLIENT_LOF_PACKAGES_OEM.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_amd64fre_CLIENT_LOF_PACKAGES_OEM.iso)         |
 
 ---
 
