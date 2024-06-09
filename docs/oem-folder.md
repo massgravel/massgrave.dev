@@ -9,11 +9,10 @@ To create a pre-activated Windows installation .iso, do the following:
 
 :::warning
 
-On Windows 8 and later, **running setupcomplete.cmd is disabled** if only OEM Channel is available for the installed edition.
-
-For example, preactivation won't work for Windows 10 IoT Enterprise LTSC because only OEM channel is available in RTM ISO. You can work around this issue by using Non-IoT Windows 10 Enterprise LTSC ISO, in which case the HWID method in preactivation will use IoT LTSC key to change the edition.  
-
-Note that in Windows 11 IoT Enterprise LTSC, it works by default because it has Retail and Volume license channels as well.
+-   On Windows 8 and later, [**running setupcomplete.cmd is disabled**](https://learn.microsoft.com/windows-hardware/manufacture/desktop/add-a-custom-script-to-windows-setup?view=windows-11#windows-setup-scripts) if the default installed key for the edition is from the OEM channel, except for Enterprise editions and Windows Server operating systems.
+-	However, in Windows 10, IoT Enterprise editions were not included in the Enterprise category list during the installation process. As a result, Enterprise with an OEM key can handle setupcomplete.cmd, but IoT Enterprise (LTSC) cannot. This was fixed in later Windows 11 versions.
+-   In Windows 10 IoT Enterprise (LTSC), you can resolve this issue by using the Non-IoT Windows 10 Enterprise LTSC ISO. In this case, the HWID method in preactivation will install the IoT LTSC key to change the edition and enable HWID activation.  
+-   In Windows 11 IoT Enterprise (LTSC), it works fine as expected by default.
 
 :::
 
