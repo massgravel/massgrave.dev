@@ -69,10 +69,10 @@
 ### Windows Server (LTSC)
 | Windows Server (LTSC)                | EditionID          | Generic Volume License Key    |
 |--------------------------------------|--------------------|-------------------------------|
-| Windows Server 2025 Standard         | ServerStandard     | DPNXD-67YY9-WWFJJ-RYH99-RM832 |
-| Windows Server 2025 Datacenter       | ServerDatacenter   | CNFDQ-2BW8H-9V4WM-TKCPD-MD2QF |
-| Windows Server 2025 Azure Core       | ServerAzureCor     | QN7G3-4RM92-MT6QR-PR966-FVYV7 |
-| Windows Server 2025 Azure Datacenter | ServerTurbine      | NQ8HH-FTDTM-6VGY7-TQ3DV-XFBV2 |
+| Windows Server 2025 Standard         | ServerStandard     | TVRH6-WHNXV-R9WG3-9XRFY-MY832 |
+| Windows Server 2025 Datacenter       | ServerDatacenter   | D764K-2NDRG-47T6Q-P8T8W-YP6DF |
+| Windows Server 2025 Azure Core       | ServerAzureCor     | FCNV3-279Q9-BQB46-FTKXX-9HPRH |
+| Windows Server 2025 Azure Datacenter | ServerTurbine      | XGN3F-F394H-FD2MY-PP6FD-8MCRC |
 | Windows Server 2022 Datacenter       | ServerDatacenter   | WX4NM-KYWYW-QJJR4-XV3QB-6VM33 |
 | Windows Server 2022 Standard         | ServerStandard     | VDYBN-27WPP-V4HQT-9VMD4-VMK7H |
 | Windows Server 2022 Azure Core       | ServerAzureCor     | 6N379-GGTMK-23C6M-XVVTC-CKFRQ |
