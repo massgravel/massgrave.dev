@@ -1,5 +1,8 @@
 # News
 
+### [16-June-24] Office 2024 online installers are added
+https://massgrave.dev/genuine-installation-media
+
 ### [24-May-24] Added: Windows 11 IoT Enterprise LTSC 24H2
 Released to OEMs  
 https://massgrave.dev/genuine-installation-media
