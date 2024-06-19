@@ -175,7 +175,6 @@ https://os.click/
 <TabItem value="Windows 11 Consumer / Business" label="Windows 11 Consumer / Business 24H2 " default>
 
 **Windows 11 Consumer / Business 24H2**  
-Build - 26100.560
 
 https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 
