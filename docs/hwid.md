@@ -116,7 +116,7 @@ We can perform the manual activation process in 2 ways.
 -   Open Windows PowerShell as administrator, and enter the following commands in the sequence in which they are given.
 -   Enter the Key (Replace `<key>` with the key from the above list) with the following command:  
 `slmgr /ipk <key>`  
--   Download Universal tickets from [here](/files/Tickets.zip) and extract the downloaded file.
+-   Download Universal tickets from [here](https://app.box.com/s/326odzt3lhkv77m15b17k6dzx6j24cvw) and extract the downloaded file.
 -   Now enter below code in PowerShell:  
 `(Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions).OSProductPfn`  
 -   This command will you show you some text like `Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe`

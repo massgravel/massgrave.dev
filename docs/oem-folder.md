@@ -21,7 +21,7 @@ To create a pre-activated Windows installation .iso, do the following:
 ## Edit ISO File
 
 -   As stated above, you can copy the `$OEM$` folder to your bootable USB so you don't have to edit the ISO file. However, if you need to, then follow the steps below.
--   Download [AnyBurn Free Portable](https://www.anyburn.com/anyburn.zip) and extract this zip file
+-   Download [AnyBurn Free Portable](https://www.anyburn.com/download.php) and extract this zip file
 -   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`
 -   Select the option named `Edit image file`
 -   Follow the on-screen instructions and add the `$OEM$` folder to the `sources` folder so that the directory will appear like this: `\sources\$OEM$`
@@ -32,7 +32,7 @@ To create a pre-activated Windows installation .iso, do the following:
 ## KMS38 - Server Cor/Acor
 
 -   Windows Server Cor/Acor (No GUI) editions don't have the `clipup.exe` file.
--   To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](/files/ClipUp.zip).  
+-   To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     This file has digital signatures that can be verified. You can also get this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).

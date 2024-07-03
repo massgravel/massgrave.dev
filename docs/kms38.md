@@ -130,7 +130,7 @@
 ## KMS38 - Server Cor/Acor
 
 -   Windows Server Cor/Acor (No GUI) editions don't have the `clipup.exe` file.
--   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](/files/ClipUp.zip).  
+-   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     This file has digital signatures that can be verified. You can also get this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).
@@ -143,7 +143,7 @@
 
 -   KMS38 Activation is vulnerable to unintended replacement by a 180-Day KMS Activator.
 -   From MAS 1.7, the script will enable KMS38 protection by default.
--   If you are going to use [KMS_VL_ALL](https://github.com/abbodi1406/KMS_VL_ALL_AIO) by abbodi1406 or [MAS](intro.md) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
+-   If you are going to use KMS_VL_ALL by abbodi1406 or [MAS](intro.md) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
 -   Below is the explanation for how the script protect KMS38.
 -   In the KMS activation method, Windows first checks the KMS IP registered as a specific KMS, and if that is not defined, then it checks the Global KMS IP. Another fact is that if Localhost (IP range 127.0.0.0/8) is defined as the KMS IP in Windows 8 and later OS, then Windows will not accept it as a valid KMS IP. This script simply utilizes the above facts to protect the KMS38 activation from being overwritten by any alternative 'normal' 180-Day KMS Activation, and at the same time, that KMS activator can be used for Office activation.
 -   Script steps-  
@@ -170,7 +170,7 @@ We can perform the manual activation process in 2 ways.
 -   Open Windows PowerShell as administrator, and enter the following commands in the sequence in which they are given.
 -   Enter the key (Replace `<key>` with the key from the above list) with the following command:  
 `slmgr /ipk <key>`
--   Download the Universal ticket from [here](/files/Tickets.zip) and extract the downloaded file.
+-   Download the Universal ticket from [here](https://app.box.com/s/326odzt3lhkv77m15b17k6dzx6j24cvw) and extract the downloaded file.
 -   Find a file named `KMS.xml` in the extracted folder.
 -   Copy that ticket file and paste it in the following folder:  
     `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
@@ -283,7 +283,7 @@ C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGen
 -   To make the exact ticket used in MAS KMS38 script, fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.  
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 -   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have the `clipup.exe` file.  
-    To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](/files/ClipUp.zip).  
+    To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     This file has digital signatures that can be verified. You can also get this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).  
