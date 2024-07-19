@@ -3,6 +3,7 @@
 ### [19-July-24] Update: HWID activation is not working due to server issue
 https://azure.status.microsoft/status  
 https://x.com/massgravel/status/1814087318577308157  
+Update- It was fixed after a few hours.  
 
 ### [17-July-24] Added: July updated ISO's for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
