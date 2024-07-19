@@ -4,8 +4,20 @@
 -   If script is showing any instruction in **Blue color**, try to follow that.
 -   **Reach out to us** on [Discord](https://discord.gg/tVFN4N84PP) (signup not required) or [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) with an error screenshot.
 
+:::info
+
+HWID activation is not working at this moment due to outage at Microsoft Azure.  
+https://azure.status.microsoft/status
+
+:::
+
+
 import DiscordBadge from '@site/src/components/DiscordBadge';
 
 <DiscordBadge />
+
+
+
+
 
 ------------------------------------------------------------------------
