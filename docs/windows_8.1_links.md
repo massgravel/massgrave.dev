@@ -31,7 +31,6 @@ import TabItem from '@theme/TabItem';
 (Build - 9600.17415)  
 
 MSDL https://msdl.gravesoft.dev/#52 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
-You can also download the ISO from https://www.microsoft.com/en-in/software-download/windows8ISO
 
 ------------------------------------------------------------------------
 
