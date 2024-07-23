@@ -24,7 +24,7 @@ catch {
 	$response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
 }
 
-$rand = Get-Random -Maximum 99999999
+$rand = [Guid]::NewGuid().Guid
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
 $FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:TEMP\MAS_$rand.cmd" }
 
@@ -33,7 +33,9 @@ $prefix = "@::: $rand `r`n"
 $content = $prefix + $response
 Set-Content -Path $FilePath -Value $content
 
-Start-Process $FilePath $ScriptArgs -Wait
+# Set ComSpec variable for current session in case its corrupt in the system
+$env:ComSpec = "$env:SystemRoot\system32\cmd.exe"
+Start-Process cmd.exe "/c """"$FilePath"" $ScriptArgs""" -Wait
 
 $FilePaths = @("$env:TEMP\MAS*.cmd", "$env:SystemRoot\Temp\MAS*.cmd")
 foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
