@@ -33,7 +33,7 @@ You can contact us [here](https://discord.gg/tVFN4N84PP) if you need any other W
 
 You can use the [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine. This can be done using tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA).
 
-Microsoft publishes a checksum list for consumer editions of [Windows 11](https://www.microsoft.com/software-download/windows11). The checksum lists for other Microsoft products aren't public, as these are only available to subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/). However, there are many places where you can find these checksums. Examples can be found below.
+Microsoft publishes checksum lists for consumer editions of [Windows 10](https://www.microsoft.com/software-download/windows10) and [Windows 11](https://www.microsoft.com/software-download/windows11). The checksum lists for other Microsoft products aren't public, as these are only available to subscribers of [MVS](https://visualstudio.microsoft.com/subscriptions/). However, there are many places where you can find these checksums. Examples can be found below.
  -  [files.rg-adguard](https://files.rg-adguard.net/search) (the most complete collection)
  -  [MVS dump](https://awuctl.github.io/mvs/)
  -  [genuine-iso-verifier](https://genuine-iso-verifier.weebly.com/)
