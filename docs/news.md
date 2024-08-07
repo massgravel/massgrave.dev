@@ -1,5 +1,9 @@
 # News
 
+### [7-Aug-24] Server ISOs update
+Added last updated ISO's for Server 2016/2019  
+Added VL ISO's for Server 2008 R2/2012 R2  
+
 ### [19-July-24] Update: HWID activation is not working due to server issue
 https://azure.status.microsoft/status  
 https://x.com/massgravel/status/1814087318577308157  
