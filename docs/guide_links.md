@@ -10,6 +10,7 @@ If you are facing any error, the script should tell you which guide you need to 
 -   [Licensing Servers Issue](licensing-servers-issue.md)
 -   [Issues Due To Gaming Spoofers](issues_due_to_gaming_spoofers.md)
 -   [Change Edition Issues](change_edition_issues.md)
+-   [Fix Powershell](https://gravesoft.dev/fix_powershell)
 -   [In-place Repair Upgrade](https://gravesoft.dev/in-place_repair_upgrade)
 
 ---
