@@ -1,5 +1,8 @@
 # News
 
+### [14-Aug-24] Add a page for evaluation editions
+https://massgrave.dev/evaluation_editions
+
 ### [7-Aug-24] Server ISOs update
 Added last updated ISO's for Server 2016/2019  
 Added VL ISO's for Server 2008 R2/2012 R2  
