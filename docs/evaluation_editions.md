@@ -5,6 +5,12 @@ Windows evaluation editions are trial versions of Windows operating systems prov
 https://www.microsoft.com/evalcenter  
 Microsoft provides Windows 10/11 Enterprise and Server in evaluation version.
 
+:::warning
+
+Evaluation editions can not be activated beyond the evaluation period. Avoid using them, download the [full version](genuine-installation-media.md) instead.
+
+:::
+
 ---
 
 ## Difference between the full and evaluation
@@ -89,7 +95,7 @@ https://gravesoft.dev/fix-wpa-registry
 
 ---
 
-## Don't
+## Avoid license swapping
 
 Some people suggest installing license files of the full version of Windows Enterprise to activate the evaluation installation.  
 This is not a good idea for many reasons,  

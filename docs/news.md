@@ -1,6 +1,6 @@
 # News
 
-### [14-Aug-24] Add a page for evaluation editions
+### [14-Aug-24] Added a page for evaluation editions
 https://massgrave.dev/evaluation_editions
 
 ### [7-Aug-24] Server ISOs update
