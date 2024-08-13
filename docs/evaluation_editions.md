@@ -11,7 +11,7 @@ Microsoft provides Windows 10/11 Enterprise and Server in evaluation version.
 
 Both versions are almost the same feature-wise. The main difference lies in the **activation**.
 
-- The evaluation version of Windows typically comes with a 90-day trial period.
+- The evaluation version of Windows typically comes with a 90-day (180-day for Server) trial period.
 - Evaluation Editions cannot be activated outside of the evaluation period. 
 - After the trial period, the system will start showing notifications and may shut down periodically.
 - To be clear, you can not activate it with your genuine key, digital license, KMS, etc.
@@ -34,15 +34,14 @@ import TabItem from '@theme/TabItem';
 LTSC means long-term servicing channel. Microsoft provides longer update support for them.
 
 - Download Windows 10/11 Enterprise LTSC ISO from [here](windows_ltsc_links.md) in the same Windows language, and architecture.
-- When ISO is downloaded, open the command prompt as admin and enter,  
-  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f`  
-- **Just right after that (don't delay)**, right-click on the ISO file, Open With > Windows Explorer
+- Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
-- Go into that DVD drive and run setup.exe, just continue until you reach the final confirmation screen.
+- Now open the command prompt as admin and enter,  
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f` 
+- Go into that DVD drive and run setup.exe, continue until you reach the final confirmation screen.
 - Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 It will upgrade your eval Windows version to the full version.
-
 </TabItem>
 
 <TabItem value="eval_gac" label="Windows 10/11 Enterprise Evaluation (GAC)" default>
@@ -50,10 +49,10 @@ It will upgrade your eval Windows version to the full version.
 GAC means general availability channel, aka normal version.
 
 - Download genuine Windows 10/11 ISO from [MSDL](https://msdl.gravesoft.dev/) in the same Windows language, and architecture.
-- When ISO is downloaded, open the command prompt as admin and enter,  
-  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f`  
-- **Just right after that (don't delay)**, right-click on the ISO file, Open With > Windows Explorer
+- Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
+- Now open the command prompt as admin and enter,  
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f` 
 - Go into that DVD drive and run setup.exe, enter this key if the setup is asking for it `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 - Continue until you reach the final confirmation screen.
 - Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
@@ -95,11 +94,9 @@ https://gravesoft.dev/fix-wpa-registry
 Some people suggest installing license files of the full version of Windows Enterprise to activate the evaluation installation.  
 This is not a good idea for many reasons,  
 
-- If you apply this method then the below commands will show errors
-```
-dism /online /english /Get-CurrentEdition
-dism /online /english /Get-TargetEditions
-```
+- If you apply this method then the below commands will show errors  
+  `dism /online /english /Get-CurrentEdition`  
+  `dism /online /english /Get-TargetEditions`
 - Windows update can't update license files, Microsoft applies policy fixes through Windows updates. For example, 19044.1288 RTM release of IoT enterprise LTSC didn't support sandbox, but with later updates it started supporting it. KMS activation support was enabled with later updates as well. They update license files quite often, it's better to have updated windows and license files.
 - Furthermore, installed edition packages would be missing, which can have undocumented side effects.
 
@@ -109,7 +106,7 @@ It's better to either upgrade to the full version or extend the activation perio
 
 :::tip
 
--   You can [connect with us](troubleshoot.md) for help if you need.
+You can [connect with us](troubleshoot.md) for help if you need.
 
 :::
 
