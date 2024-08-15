@@ -24,6 +24,20 @@ catch {
     $response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
 }
 
+# Verify script integrity
+$releaseHash = 'D666A4C7810B9D3FE9749F2D4E15C5A65D4AC0D7F0B14A144D6631CE61CC5DF3'
+$stream = New-Object IO.MemoryStream
+$writer = New-Object IO.StreamWriter $stream
+$writer.Write($response)
+$writer.Flush()
+$stream.Position = 0
+$hash = [BitConverter]::ToString([Security.Cryptography.SHA256]::Create().ComputeHash($stream)) -replace '-'
+if ($hash -ne $releaseHash) {
+    Write-Warning "Hash ($hash) mismatch, aborting!`nReport this issue at https://massgrave.dev/troubleshoot"
+    $response = $null
+    return
+}
+
 $rand = [Guid]::NewGuid().Guid
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
 $FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:TEMP\MAS_$rand.cmd" }
