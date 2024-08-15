@@ -8,20 +8,20 @@ Write-Host -ForegroundColor Green "Use the new command (irm https://get.activate
 write-host
 
 # Enable TLSv1.2 for compatibility with older clients for current session
-[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 $DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/35e044ddc85eed60b27b37c48371bd19cdc678b7/MAS/All-In-One-Version/MAS_AIO-CRC32_8C3AA7E0.cmd'
 $DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/35e044ddc85eed60b27b37c48371bd19cdc678b7/MAS/All-In-One-Version/MAS_AIO-CRC32_8C3AA7E0.cmd'
 
 $URLs = @($DownloadURL1, $DownloadURL2)
 $RandomURL1 = Get-Random -InputObject $URLs
-$RandomURL2 = $URLs -ne $RandomURL1
+$RandomURL2 = ($URLs -ne $RandomURL1)[0]
 
 try {
     $response = Invoke-WebRequest -Uri $RandomURL1 -UseBasicParsing
 }
 catch {
-	$response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
+    $response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
 }
 
 $rand = [Guid]::NewGuid().Guid
