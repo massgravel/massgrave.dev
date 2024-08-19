@@ -51,7 +51,7 @@ Generation - 2021 / 2024
 | PowerPoint                   | https://go.microsoft.com/fwlink/p/?linkid=525136  |
 | Outlook                      | https://go.microsoft.com/fwlink/p/?linkid=525137  |
 | OneNote                      | https://go.microsoft.com/fwlink/p/?linkid=820886  |
-
+| OneDrive (useless)           | https://go.microsoft.com/fwlink/?linkid=823060    |
 </TabItem>
 
 <TabItem value="macOS 11" label="Big Sur" default>
