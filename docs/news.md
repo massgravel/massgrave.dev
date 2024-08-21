@@ -1,5 +1,8 @@
 # News
 
+### [21-Aug-24] Added: August updated ISO's for Windows 10/11/Server 2022 
+https://massgrave.dev/genuine-installation-media
+
 ### [14-Aug-24] Added a page for evaluation editions
 https://massgrave.dev/evaluation_editions
 
