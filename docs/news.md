@@ -1,5 +1,8 @@
 # News
 
+### [30-Aug-24] Extend expiry date of massgrave.dev/get to 31/12/2024
+Because it looks like some ISPs are flagging new URLs for up to 5-6 months
+
 ### [21-Aug-24] Added: August updated ISO's for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
