@@ -13,7 +13,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 ## Download / How to use it?  
 ### Method 1 - PowerShell (Recommended)  
 
--   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
+-   Open Powershell (Not CMD). To do that, right-click on the start menu and select PowerShell or Terminal.
 -   Copy and paste the code below and press enter  
 ```
 irm https://get.activated.win | iex
@@ -22,8 +22,8 @@ or (deprecated, will be retired on Aug 31 2024, use above instead)
 ```
 irm https://massgrave.dev/get | iex
 ```
--   You will see the activation options. Follow the on-screen instructions.
--   That's all.
+-   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+-   That's all
 
 ---
 
