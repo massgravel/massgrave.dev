@@ -18,7 +18,7 @@ A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activatio
 ```
 irm https://get.activated.win | iex
 ```
-or (deprecated, will be retired on Aug 31 2024, use above instead)  
+or (deprecated, will be retired on Dec 31 2024, use above instead)  
 ```
 irm https://massgrave.dev/get | iex
 ```
