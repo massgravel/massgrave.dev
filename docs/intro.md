@@ -70,12 +70,12 @@ Last Release - v2.6 (20-Apr-2024)
 
 ## Activations Summary
 
-| Activation Type | Supported Product    | Activation Period                    |
-|:----------------|:---------------------|:-------------------------------------|
-| HWID            | Windows 10-11        | Permanent                            |
-| Ohook           | Office               | Permanent                            |
-| KMS38           | Windows 10-11-Server | Till the Year 2038                   |
-| Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task |
+| Activation Type | Supported Product    | Activation Period                    | Is Internet Needed? |
+|:----------------|:---------------------|:-------------------------------------|:--------------------|
+| HWID            | Windows 10-11        | Permanent                            | Yes                 |
+| Ohook           | Office               | Permanent                            | No                  |
+| KMS38           | Windows 10-11-Server | Till the Year 2038                   | No                  |
+| Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task | Yes                 |
 
 For more details, use the respective activation details in Docs.  
 To activate unsupported products such as **Office on Mac**, check [here](unsupported_products_activation.md).
