@@ -45,12 +45,12 @@ irm https://massgrave.dev/get | iex
 </TabItem>
 <TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
 
--   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
--   Right-click on the downloaded zip file and extract
--   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO.cmd`
--   You will see the activation options, follow the on-screen instructions.
--   That's all.
+1.   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts) or [Codeberg](https://codeberg.org/massgravel/Microsoft-Activation-Scripts)
+2.   Right-click on the downloaded zip file and extract
+3.   In the extracted folder, find the folder named `All-In-One-Version`
+4.   Run the file named `MAS_AIO.cmd`
+5.   You will see the activation options, follow the on-screen instructions.
+6.   That's all.
 
 </TabItem>
 </Tabs>
@@ -69,7 +69,7 @@ irm https://massgrave.dev/get | iex
 
 ## MAS Latest Release
 
-Last Release - v2.7 (5-Sep-2024)  
+Last Release - v2.7 (6-Sep-2024)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts) / [Codeberg](https://codeberg.org/massgravel/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
