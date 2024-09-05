@@ -39,7 +39,7 @@
 -   This Powershell one-liner will work on Windows 8.1 and later versions only.
 -   Make sure to use the below command beforehand to enable TLs1.2 on older Windows versions.  
 `[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`
--   To change the edition through the command line, check [here](change_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
+-   To change the edition through the command line, check [here](change_windows_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
 
 ------------------------------------------------------------------------
 
