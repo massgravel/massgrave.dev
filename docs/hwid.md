@@ -83,10 +83,11 @@ Now a question, can Microsoft block the new requests or revoke already establish
 :::info
 
 -   Systems in all architectures (x86, x64 and arm64) are supported.
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) cannot be activated.
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md).
 -   IoTEnterpriseS (LTSC) 2021 key will be used to activate the unsupported EnterpriseS (LTSC) 2021 edition.
+-   IoTEnterpriseS (LTSC) 2024 key will be used to activate the unsupported EnterpriseS (LTSC) 2024 edition.
 -   Windows Server does not support HWID activation.
--   ServerRdsh edition [officially](https://learn.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq) does not support activation on non-azure systems.
+-   Enterprise multi-session (ServerRdsh) edition can be activated with only a key NJCF7-PW8QT-3324D-688JX-2YV66, but it does not support real digital license activation.
 
 :::
 

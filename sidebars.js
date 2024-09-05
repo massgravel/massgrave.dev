@@ -26,7 +26,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Docs',
-      items: ['hwid','kms38','ohook','online_kms','command_line_switches','check_activation_status','oem-folder','change_edition'],
+      items: ['hwid','kms38','ohook','online_kms','command_line_switches','check_activation_status','oem-folder','change_windows_edition','change_office_edition'],
     },
 	'guide_links',
 	'news',

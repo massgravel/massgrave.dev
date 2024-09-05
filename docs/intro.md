@@ -6,49 +6,71 @@ sidebar_label: Intro
 
 # Microsoft Activation Scripts (MAS)
 
-A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ---
 
 ## Download / How to use it?  
-### Method 1 - PowerShell (Recommended)  
 
--   Open Powershell (Not CMD). To do that, right-click on the start menu and select PowerShell or Terminal.
--   Copy and paste the code below and press enter  
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="Method 1" label="Method 1 - PowerShell (Windows 8 and later) ❤️" default>
+
+1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
+2.   Copy and paste the code below and press enter  
 ```
 irm https://get.activated.win | iex
 ```
-or (deprecated, will be retired on Dec 31 2024, use above instead)  
+
+<details>
+  <summary>More options</summary>
+
+- Alternatively, you can use the following (It will be retired Dec 31, 2024)
 ```
 irm https://massgrave.dev/get | iex
 ```
--   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
--   That's all
+- On older Windows builds (17134 and before) you will need to run the below command before following the above steps,  
+```
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+```
+- The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
 
----
+</details>
 
-- On older Windows builds you may need to run the below command before,  
-`[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12`  
-- The Powershell method does not work on Windows 7. Use the Method 2 - Traditional instead.  
-- The URL get.activated.win may be blocked by some DNS services because it is a new domain.
+3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+4.   That's all
 
-### Method 2 - Traditional  
+</TabItem>
+<TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
 
 -   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
 -   Right-click on the downloaded zip file and extract
 -   In the extracted folder, find the folder named `All-In-One-Version`
--   Run the file named `MAS_AIO-CRC32_XXXXXXXX.cmd`
+-   Run the file named `MAS_AIO.cmd`
 -   You will see the activation options, follow the on-screen instructions.
 -   That's all.
 
-To run the scripts in unattended mode, check [here](command_line_switches.md)
+</TabItem>
+</Tabs>
+
+---
+
+:::note
+
+- The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
+- Always double-check the URL before executing the command and verify the source if manually downloading files.
+- Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
+
+:::
 
 ------------------------------------------------------------------------
 
 ## MAS Latest Release
 
-Last Release - v2.6 (20-Apr-2024)  
-[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts)
+Last Release - v2.7 (5-Sep-2024)  
+[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts) / [Codeberg](https://codeberg.org/massgravel/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
 
@@ -61,6 +83,7 @@ Last Release - v2.6 (20-Apr-2024)
 -   Advanced Activation Troubleshooting
 -   $OEM$ Folders For Preactivation
 -   Change Windows Edition
+-   Change Office Edition
 -   Check Windows/Office Activation Status
 -   Available in All In One and Separate Files Versions
 -   Fully Open Source and Based on Batch Scripts
@@ -91,6 +114,14 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ![](/img/MAS_Ohook.png)
 
 ![](/img/MAS_Troubleshoot.png)
+
+![](/img/MAS_change_windows_edition.png)
+
+![](/img/MAS_change_office_edition_1.png)
+
+![](/img/MAS_change_office_edition_2.png)
+
+![](/img/MAS_change_office_edition_3.png)
 
 ------------------------------------------------------------------------
 

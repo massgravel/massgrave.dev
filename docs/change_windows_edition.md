@@ -4,8 +4,8 @@
 -   It can change the Windows 7-8-8.1-10-11 and their Server equivalent editions.
 -   The script incorporates 4 methods for edition changing:
     -   May's DISM Api Method - Used in Windows 10/11 Core to Non-Core edition change
-    -   [slmgr /ipk Method](https://learn.microsoft.com/en-us/windows/deployment/upgrade/windows-edition-upgrades#upgrade-using-a-command-line-tool) - Used in Windows 10/11 where edition license files are already there
-    -   [DISM Method](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options) - Used in Server 2016 and later server versions
+    -   [slmgr /ipk Method](https://learn.microsoft.com/windows/deployment/upgrade/windows-edition-upgrades#upgrade-using-a-command-line-tool) - Used in Windows 10/11 where edition license files are already there
+    -   [DISM Method](https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options) - Used in Server 2016 and later server versions
     -   [CBS Upgrade Method](https://github.com/asdcorp/Set-WindowsCbsEdition) - Used in Windows versions before 10
 -   Available editions that can be changed to are shown in the script based on all these 4 options.
 -   The script is future-proof, which means that it won't need an update upon the release of new Windows / Server editions and can get the required product key from the system itself.
@@ -33,7 +33,7 @@ If you want to manually change the edition instead of using the script, please f
 
 ### Windows Server 2016 and Later
 
--   Follow the official Microsoft guide [here](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options), you can get the required keys from [here](kms38.md#supported-products).
+-   Follow the official Microsoft guide [here](https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options), you can get the required keys from [here](kms38.md#supported-products).
 
 ------------------------------------------------------------------------
 
