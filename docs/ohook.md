@@ -255,15 +255,15 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 ## Custom sppc.dll Info
 
--   Custom sppc.dll source code (Ohook 0.3) is available [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip).
+-   Custom sppc.dll source code (Ohook 0.5) is available [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip).
 -   SHA-256 checksums:  
 ```         
-e6ac83560c19ec7eb868c50ea97ea0ed5632a397a9f43c17e24e6de4a694d118 *sppc32.dll
-c6df24deef2e83813dee9c81ddd9793a3d60c117a4e8e231b82e32b3192927e7 *sppc64.dll
+09865ea5993215965e8f27a74b8a41d15fd0f60f5f404cb7a8b3c7757acdab02 *sppc32.dll
+393a1fa26deb3663854e41f2b687c188a9eacd87b23f17ea09422c4715cb5a9f *sppc64.dll
 ```
 -   In MAS AIO version, these 2 files are encoded in base64 to make MAS AIO version. In AIO script, [instructions](https://stackoverflow.com/a/35335273) are mentioned on how to decode files from Base64 format.  
 **How to create identical sppc.dll files from scratch?**  
--   Download ohook 0.3 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.3.zip)
+-   Download ohook 0.5 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip)
 -   Extract this zip file to a folder named `C:\ohook`
 -   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z)
 -   Extract both archives with 7-zip in C drive, so that path would look like this,  

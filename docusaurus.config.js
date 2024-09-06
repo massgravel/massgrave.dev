@@ -48,7 +48,21 @@ const config = {
           editUrl:
             'https://github.com/massgravel/massgrave.dev/tree/main/',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/massgravel/massgrave.dev/tree/main/',
+          // Useful options to enforce blogging best practices
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -98,12 +112,12 @@ const config = {
             position: 'left',
             label: 'Credits',
           },
+		  {to: '/blog', label: 'Blog', position: 'right'},
           {
             to: '/contactus',
             position: 'right',
             label: 'Contact Us',
           },
-          /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
             href: 'https://discord.gg/tVFN4N84PP',
             className: 'discord-button',

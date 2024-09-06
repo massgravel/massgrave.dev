@@ -2,6 +2,94 @@
 
 ------------------------------------------------------------------------
 
+## 2.7
+
+**A new change Office edition script, rewritten Online KMS script and lots of improvements**
+
+#### All:
+
+- Removed dependancy on [WMIC](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/wmi-command-line-wmic-utility-deprecation-next-steps/ba-p/4039242) and [VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301).
+- Added the check for [Windows subscription](https://learn.microsoft.com/windows/deployment/windows-subscription-activation?pivots=windows-11), activation will be performed based on base edition, [example](https://i.imgur.com/6LTkK2o.png). Thanks to asdcorp and @abbodi1406.
+- Added the code to disable CMD QuickEdit using Powershell instead of temporary regedit (to avoid accidental pause when the user clicks inside the script window). Thanks to @abbodi1406.
+- Added the code to launch from conhost.exe using Powershell to avoid the Terminal app. Thanks to @abbodi1406.
+- Added more environment variables in the script at the start to resolve issues in case they are messed up in the user's system.
+- Added debug mode option in separate files version to create a log file with details.
+- Added better check in Powershell execution without crashing the script in case any antivirus is blocking it.
+- Added better SPP check at the start to find issues where the script just hangs without any output, now it will show an error after waiting a certain time.
+- Changed messages related to eval edition activation.
+- Reduced the number of services to check health to a bare minimum.
+- Added SPP trigger reevaluation command at the end of the activation, it helps in updating SPP tasks.
+- Added the command to delete SuppressRulesEngine registry keys by default in every run if found, this causes issues in spp tasks to refresh.
+- Added the extra checks for malware and showed info accordingly.
+- Added better error handling of SPP 2.0 folder creation.
+- Added better check to find [permission issues](https://learn.microsoft.com/office/troubleshoot/activation/license-issue-when-start-office-application) in SPP.
+- Added the command to check SvcRestartTask Status to find potential activation issues.
+- Updated the WPA registry check code to skip unrelated keys, and to make it work on Windows 7 as well.
+- Added the code to show the option to open the Troubleshoot page if errors are found.
+- Many other small changes to better handle errors.
+
+#### HWID / KMS38
+
+- Removed the extra checks for Windows update services and replaced them with a more accurate check in S-1-5-19 IdentityCRL registry to find connection errors.  
+  Now Update service error will only be shown when it's very likely to be a cause for the activation failure.
+
+#### KMS38
+
+- Update Windows Server 2025 keys to use from products.ini
+
+#### Ohook
+
+- Added the code to add SharedComputerLicensing registry to avoid [licensing issues](https://learn.microsoft.com/office/troubleshoot/office-suite-issues/click-to-run-office-on-terminal-server) in the case of Windows Server with Retail C2R office.
+- Script will now skip installing the key for already activated products.
+- Added the info for the Office version and the update channel.
+- Script will fix ProductReleaseIds In Registry if incorrect found, it affects features.
+- Script will check the running Office apps and will ask to close them before proceeding.
+- Added more detailed info in case Ohook installation fails.
+- Added more accurate detection of MSI Office products.
+- Script will now deeply find remnants of Office [vNext](https://learn.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)/[shared](https://learn.microsoft.com/en-us/deployoffice/overview-shared-computer-activation)/[device](https://learn.microsoft.com/deployoffice/device-based-licensing)/[OEM](https://support.microsoft.com/office/office-repeatedly-prompts-you-to-activate-on-a-new-pc-a9a6b05f-f6ce-4d1f-8d49-eb5007b64ba1) license block, and will clean them.
+- Script will now add a Resiliency key to avoid the licensing banner in all of the user accounts including those that are not logged in, also registry will be added to all new future user accounts.
+- Script is updated to use [Ohook 0.5 (non+ version)](https://github.com/asdcorp/ohook), nothing is changed functionality-wise, you don't need to update your already installed Ohook.
+
+#### Online KMS
+
+- Rewrote the whole thing from scratch. Thanks to @abbodi1406 for the help.  
+Difference from the previous version:
+- Added the option to set the KMS server/port.
+- Added support for Office 2024.
+- Script will show the option to activate Office (All) and Office (Project/Visio) and the script won't skip the already activated Office products.
+- Toggle option is added to install the Renewal task along with the activation, by default it's set to install the renewal task along with activation.
+- Script will create a run-once task if the Internet is not found, which will run on system login if the Internet is found later.
+- Toggle option is added to not change edition if needed for Windows/Office.
+- Added more info on the screen regarding the process.
+
+#### Change Office Edition
+
+- This is a [new option](change_office_edition.md) added in the script.
+- It offers the option to change the installed C2R Office edition to any other with minimum Internet consumption. Thanks to @ave9858 for the suggestion.
+- It also offers the option to change the Office update channel. Thanks to @abbodi1406.
+
+#### Change Windows Edition
+
+- This script will now create log files on the desktop in case if edition change fails.
+- Several bugs fixed.
+
+#### Check Activation Status
+
+- Previous scripts are now replaced with [CAS](https://gravesoft.dev/cas) by @abbodi1406.
+
+#### Troubleshoot
+
+- Added the code to fix activation errors caused by [KB971033](https://support.microsoft.com/help/4487266) in Windows 7.
+- Removed the unnecessary code to find errors because they are already in activation scripts.
+
+#### Misc
+
+- MASSGRAVE blog page is now [available](/blog).
+- Offical support email ID is changed to `mas.help@outlook.com` due to some issues from receiving emails from China on Protonmail.
+- A new mirror repo is opened on [Codeberg](https://codeberg.org/massgravel/Microsoft-Activation-Scripts).
+
+------------------------------------------------------------------------
+
 ## 2.6
 
 **Added Support For Office 2024**
