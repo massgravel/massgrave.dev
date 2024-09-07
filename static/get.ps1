@@ -10,22 +10,27 @@ write-host
 # Enable TLSv1.2 for compatibility with older clients for current session
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
-$DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/35e044ddc85eed60b27b37c48371bd19cdc678b7/MAS/All-In-One-Version/MAS_AIO-CRC32_8C3AA7E0.cmd'
-$DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/35e044ddc85eed60b27b37c48371bd19cdc678b7/MAS/All-In-One-Version/MAS_AIO-CRC32_8C3AA7E0.cmd'
+$DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+$DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+$DownloadURL3 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
 
-$URLs = @($DownloadURL1, $DownloadURL2)
-$RandomURL1 = Get-Random -InputObject $URLs
-$RandomURL2 = ($URLs -ne $RandomURL1)[0]
+$URLs = @($DownloadURL1, $DownloadURL2, $DownloadURL3)
+$ShuffledURLs = $URLs | Sort-Object { Get-Random }
 
 try {
-    $response = Invoke-WebRequest -Uri $RandomURL1 -UseBasicParsing
+    $response = Invoke-WebRequest -Uri $ShuffledURLs[0] -UseBasicParsing
 }
 catch {
-    $response = Invoke-WebRequest -Uri $RandomURL2 -UseBasicParsing
+    try {
+        $response = Invoke-WebRequest -Uri $ShuffledURLs[1] -UseBasicParsing
+    }
+    catch {
+        $response = Invoke-WebRequest -Uri $ShuffledURLs[2] -UseBasicParsing
+    }
 }
 
 # Verify script integrity
-$releaseHash = 'D666A4C7810B9D3FE9749F2D4E15C5A65D4AC0D7F0B14A144D6631CE61CC5DF3'
+$releaseHash = 'E84076DA0AF0DEE161FAFEBA9739362B9C422AC3456C6054045DA6519A669BC4'
 $stream = New-Object IO.MemoryStream
 $writer = New-Object IO.StreamWriter $stream
 $writer.Write($response)
