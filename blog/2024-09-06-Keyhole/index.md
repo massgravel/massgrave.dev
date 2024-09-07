@@ -15,13 +15,13 @@ Edited by May, Lyssa, & SpCreatePackaedLicense
 
 ## Introduction
 
-In our ongoing work to bypass Windows licensing checks, we occasionally stumble upon bugs that, rather than sharing details about publicly, we choose to keep under wraps. This decision allows us to preserve potential future activation methods by avoiding bug fixes being made by Microsoft, while also giving us valuable tools for testing or developing new methods. 
+In our ongoing work to bypass Windows licensing checks, we occasionally stumble upon bugs that we choose to keep secret. This decision allows us to preserve potential future activation methods by avoiding bug fixes, while also giving us valuable tools for testing or developing new methods. 
 
-One such discovery, which we’ve dubbed "Keyhole", turned out to be a highly effective DRM bypass. It gave users the ability to license any Microsoft Store app or any modern Windows edition with ease.
+One such discovery, which we've name "Keyhole", turned out to be a highly effective DRM bypass. It gave users the ability to license any Microsoft Store app or any modern Windows edition with ease.
 
 <!-- truncate -->
 
-Following the disclosure of [CVE-2024-38184](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38184) by [Cisco TALOS](https://talosintelligence.com), we have decided to share our findings on Keyhole, which we independently uncovered around the same time it's existence became known to Microsoft.
+Following the disclosure of [CVE-2024-38184](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38184) by [Cisco TALOS](https://talosintelligence.com), we have decided to share our findings on Keyhole, which we independently uncovered around the same time it was reported to Microsoft.
 
 ## CLiP
 
@@ -54,7 +54,9 @@ So far, one binary failed to receive any mention: `clipup.exe`. This is because 
 
 ![ecc key](./assets/keyhole/ecc_key.png)
 
-Yes, literally. A valid ECDSA key to sign XML licenses is stored in unobfuscated form, allowing anyone to very easily sign or resign XML licenses. This allows us to bypass ClipSvc's gatekeeping and effectively send any license blocks we want straight to ClipSp. With this, we entirely bypass the usermode level of the chain-of-trust, and now all that's left is to try and trick ClipSp.
+Yes, literally. A valid ECDSA key to sign XML licenses is stored in unobfuscated form, allowing anyone to very easily sign or resign XML licenses. This key is normally meant to sign temporary licenses sent to the Microsoft store to get digital licenses, but ClipSvc will happily accept it for app licenses as well. 
+
+This allows us to bypass ClipSvc's gatekeeping and effectively send any license blocks we want straight to ClipSp. With this, we entirely bypass the usermode level of the chain-of-trust, and now all that's left is to try and trick ClipSp.
 
 ## Unpacking ClipSp
 
@@ -138,6 +140,10 @@ For some reason beyond us, they reported it as a "privilege escalation", even th
 
 What did they get out of this? We have no idea, and seemingly it looks like they didn't get anything in return, aside from a minor credit in the [August 2024 update release notes](https://msrc.microsoft.com/update-guide/releaseNote/2024-Aug). So, to Philippe Laulheret who reported this bug, I hope you feel good about ruining our fun for a 4-months-late pat on the back.
 
+As for the fix itself, it's rather straightforward. As shown below, the current license block parser code immediately exits after encountering a signature block. This prevents it from processing blocks after the signature, completely patching Keyhole. 
+
+![keyhole fix](./assets/keyhole/keyhole_fix.png)
+
 ## Giving Season
 
 After mourning the loss of our beloved exploit, we decided that it would only be fair to publicize our own discoveries on CLiP. So, we've released the code to [generate Keyhole licenses](https://github.com/massgravel/keyhole) and our [collection of CLiP binaries](https://archive.org/details/clipwinrt) with symbols for easier analysis. We invite you to go forth and discover more funny things in CLiP! (and [report them to us](https://massgrave.dev/contactus) instead of MS)
@@ -163,8 +169,9 @@ So, to those with a console that's been [collaterally damaged](https://github.co
 The research covered in this blogpost was made possible by the following people/groups:
 
  - May - Initial discovery, testing, reverse engineering
- - SpCreatePackaedLicense, asdcorp - Further testing, reverse engineering
- - WitherOrNot - Tool development, testing, reverse engineering
+ - asdcorp - Testing, reverse engineering
+ - SpCreatePackaedLicense - Testing, reverse engineering, bugfix analysis
+ - WitherOrNot - Tool development, testing, reverse engineering, bugfix analysis
  - emoose, LukeFZ - License Block format documentation
  - KiFilterFiberContext - ClipSp unpacking
  - Phillippe Laulheret, Cisco TALOS - Inspiring this publication
