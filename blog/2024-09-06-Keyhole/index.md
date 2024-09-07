@@ -179,4 +179,4 @@ The research covered in this blogpost was made possible by the following people/
  - emoose, LukeFZ - License Block format documentation
  - KiFilterFiberContext - ClipSp unpacking
  - Phillippe Laulheret, Cisco TALOS - Inspiring this publication, clearing up misconceptions
- - Rairii - Fact checking
+ - Rairii - Additional info
