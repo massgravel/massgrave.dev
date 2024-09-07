@@ -17,7 +17,7 @@ Edited by May, Lyssa, & SpCreatePackaedLicense
 
 In our ongoing work to bypass Windows licensing checks, we occasionally stumble upon bugs that we choose to keep secret. This decision allows us to preserve potential future activation methods by avoiding bug fixes, while also giving us valuable tools for testing or developing new methods. 
 
-One such discovery, which we've name "Keyhole", turned out to be a highly effective DRM bypass. It gave users the ability to license any Microsoft Store app or any modern Windows edition with ease.
+One such discovery, which we've named "Keyhole", turned out to be a highly effective DRM bypass. It gave users the ability to license any Microsoft Store app or any modern Windows edition with ease.
 
 <!-- truncate -->
 
@@ -42,7 +42,7 @@ The signed license block is then extracted from the `SPLicenseBlock` tag and sen
 
 :::note
 
-The CLiP license store mentioned earlier is protected so that you can't view it by default but changing the permissions to allow yourself access is very easy.
+The CLiP license store mentioned earlier is protected so that you can't view it by default, but changing the permissions to allow yourself access is very easy.
 
 :::
 
