@@ -5,6 +5,7 @@ authors: [witherornot, may]
 tags:
   - Windows
   - Activation
+image: /img/blog_card.png
 ---
 
 # Keyhole
@@ -39,8 +40,11 @@ Whenever a CLiP-licensed app is installed, a signed XML file containing the lice
 
 The signed license block is then extracted from the `SPLicenseBlock` tag and sent to `clipsp.sys` for verification. After verification, the license block is deposited in the CLiP license store at `HKLM\SYSTEM\CurrentControlSet\Control\{7746D80F-97E0-4E26-9543-26B41FC22F79}`. From there, `clipsp.sys` can then re-validate the license in the future if an app requests it using the CLiP API.
 
-> [!NOTE]
-> The CLiP license store mentioned earlier is protected so that you can't view it by default but changing the permissions to allow yourself access is very easy.
+:::note
+
+The CLiP license store mentioned earlier is protected so that you can't view it by default but changing the permissions to allow yourself access is very easy.
+
+:::
 
 As designed, this system forms a rather strong chain-of-trust that transmits only signed data from usermode applications all the way to the kernel, making it seemingly difficult to tamper with. As we will see soon, however, this is not at all the case.
 
