@@ -136,9 +136,7 @@ Having found this bug, we were quite happy that CLiP was now effectively dead. T
 
 ![keyhole discovery](./assets/keyhole/kh_discovery.png)
 
-For some reason beyond us, they reported it as a "privilege escalation", even though editing CLiP licenses does little to grant an attacker more access to a system. As we view it, this was just an excuse for TALOS to report this DRM bug along with [other more serious bugs in ClipSp](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1988).
-
-What did they get out of this? We have no idea, and seemingly it looks like they didn't get anything in return, aside from a minor credit in the [August 2024 update release notes](https://msrc.microsoft.com/update-guide/releaseNote/2024-Aug). So, to Philippe Laulheret who reported this bug, I hope you feel good about ruining our fun for a 4-months-late pat on the back.
+This raises a question though: why was a DRM bug reported as a security vulnerability? At first, CLiP licenses don't seem to have anything to do with exploitation, which caused us to think the bug had been reported for no reason other than to fix Microsoft's DRM. However, Keyhole can be used as an entry point for [more serious bugs in ClipSp](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1988), which prompted TALOS to make it part of their disclosure.
 
 As for the fix itself, it's rather straightforward. As shown below, the current license block parser code immediately exits after encountering a signature block. This prevents it from processing blocks after the signature, completely patching Keyhole. 
 
@@ -174,4 +172,4 @@ The research covered in this blogpost was made possible by the following people/
  - WitherOrNot - Tool development, testing, reverse engineering, bugfix analysis
  - emoose, LukeFZ - License Block format documentation
  - KiFilterFiberContext - ClipSp unpacking
- - Phillippe Laulheret, Cisco TALOS - Inspiring this publication
+ - Phillippe Laulheret, Cisco TALOS - Inspiring this publication, clearing up misconceptions
