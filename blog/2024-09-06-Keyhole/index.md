@@ -66,7 +66,7 @@ Similar to how Warbird works [in user-mode programs](https://github.com/WitherOr
 
 ![feistel wrapper](./assets/keyhole/encrypt_decrypt.png)
 
-So, if we can manually run these decryption functions, we could access all of the hidden code. Luckily, this is quite simple to do based on a method [by KiFilterFiberContext](https://github.com/KiFilterFiberContext/warbird-hook), and with it, we are now able to finally find some bugs.
+So, if we can manually run these decryption functions, we could access all of the hidden code. Luckily, this is quite simple to do based on a method [by KiFilterFiberContext](https://github.com/KiFilterFiberContext/windows-software-policy), and with it, we are now able to finally find some bugs.
 
 ## License Blocks
 
@@ -158,7 +158,13 @@ Well, this looks oddly familiar...
 
 ![keyhole bug in source code](./assets/keyhole/src_bug.png)
 
-And there's the same bug that's in CLiP, but in Xbox code. In fact, we weren't too surprised to find this, as we found that almost all of CLiP, from the XML format of the licenses to the TLV-based license blocks, is copy-pasted straight from the Xbox One's DRM system.
+And there's the same bug that's in CLiP, but in Xbox code. In fact, we weren't too surprised to find this, as we found that almost all of CLiP, from the XML format of the licenses to the TLV-based license blocks, is mostly copy-pasted straight from the Xbox One's DRM system.
+
+:::note
+
+While the Xbox SP contains the same parsing bug as in ClipSp, it parses data blocks and signature-related blocks separately. As a result, Keyhole will not work on the Xbox.
+
+:::
 
 So, to those with a console that's been [collaterally damaged](https://github.com/exploits-forsale/collateral-damage), I wonder what happens if you mess with those funny-looking XML files in `S:\clip` ;)
 
