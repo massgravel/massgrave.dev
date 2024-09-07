@@ -1,5 +1,8 @@
 # News
 
+### [6-Sep-24] MAS 2.7 update is released, [changelog](changelog.md)  
+Also, the MASSGRAVE blog is now live
+
 ### [30-Aug-24] Extend expiry date of massgrave.dev/get to 31/12/2024
 Because it looks like some ISPs are flagging new URLs for up to 5-6 months
 
