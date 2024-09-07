@@ -36,7 +36,7 @@ CLiP is comprised of a few different main binaries within Windows:
 
 ![clip diagram](./assets/keyhole/clip_diagram.png)
 
-Whenever a CLiP-licensed app is installed, a signed XML file containing the license information is sent to `clipsvc.dll`; once the XML signature is verified, the XML data is stored in ClipSVC's "physical store" at `%PROGRAMDATA%\Microsoft\Windows\ClipSVC\tokens.dat`. 
+Whenever a CLiP-licensed app is installed, a signed XML file containing the license information is sent to `clipsvc.dll`; once the XML signature is verified, the XML data is stored in ClipSVC's "token store" at `%PROGRAMDATA%\Microsoft\Windows\ClipSVC\tokens.dat`. 
 
 The signed license block is then extracted from the `SPLicenseBlock` tag and sent to `clipsp.sys` for verification. After verification, the license block is deposited in the CLiP license store at `HKLM\SYSTEM\CurrentControlSet\Control\{7746D80F-97E0-4E26-9543-26B41FC22F79}`. From there, `clipsp.sys` can then re-validate the license in the future if an app requests it using the CLiP API.
 
