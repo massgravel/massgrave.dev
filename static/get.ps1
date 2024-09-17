@@ -10,9 +10,9 @@ write-host
 # Enable TLSv1.2 for compatibility with older clients for current session
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
-$DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
-$DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
-$DownloadURL3 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/b1b5299c4725d97349b18b59061647198f7cc59b/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+$DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+$DownloadURL2 = 'https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/raw/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+$DownloadURL3 = 'https://codeberg.org/massgravel/Microsoft-Activation-Scripts/raw/commit/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
 
 $URLs = @($DownloadURL1, $DownloadURL2, $DownloadURL3)
 $ShuffledURLs = $URLs | Sort-Object { Get-Random }
@@ -30,7 +30,7 @@ catch {
 }
 
 # Verify script integrity
-$releaseHash = 'E84076DA0AF0DEE161FAFEBA9739362B9C422AC3456C6054045DA6519A669BC4'
+$releaseHash = '39961D29B07D59D54A709AA7B152269ADC6349752660A0C66D627B09DF18B9B6'
 $stream = New-Object IO.MemoryStream
 $writer = New-Object IO.StreamWriter $stream
 $writer.Write($response)
