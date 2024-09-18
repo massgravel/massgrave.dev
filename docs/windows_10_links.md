@@ -19,18 +19,19 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 <Tabs>
+<TabItem value="Windows 10 Consumer 22H2" label="Windows 10 Consumer 22H2 ❤" default>
 
-<TabItem value="Windows 10 Consumer 22H2 - Official Links" label="Windows 10 Consumer 22H2 - Official Links ❤️" default>
+<details>
+  <summary>Info on Official links</summary>
 
-MSDL https://msdl.gravesoft.dev/#2618 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.
+Microsoft provides Official public links for Windows 10 22H2 (Build 19045.2965) and that build is old and has an issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf).  
+That is why we recommend getting the latest Windows 10 ISO file from the table below, those ISOs are taken from the Official MVS site.
 
+However, if you want direct Official links only then check
+MSDL https://msdl.gravesoft.dev/#2618 It provides Official links straight from Microsoft and works even if Microsoft is blocking the download to Russian/VPN users.
 Windows 10 download from https://www.microsoft.com/software-download isn't recommended because it uses an ESD file to generate ISO and that process sometimes may generate corrupt ISO which can not be verified with known checksums.
 
----
-
-</TabItem>
-
-<TabItem value="Windows 10 Consumer 22H2" label="Windows 10 Consumer 22H2" default>
+</details>
 
 **Windows 10 Consumer 22H2**
 
