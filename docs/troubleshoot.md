@@ -2,7 +2,7 @@
 
 :::tip
 
-# Follow the blue line in the script.
+# Follow all the blue lines in the script.
 
 :::
 
