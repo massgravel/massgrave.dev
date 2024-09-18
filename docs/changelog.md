@@ -9,7 +9,7 @@
 #### All:
 
 - Removed dependancy on [WMIC](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/wmi-command-line-wmic-utility-deprecation-next-steps/ba-p/4039242) and [VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301).
-- Added the check for [Windows subscription](https://learn.microsoft.com/windows/deployment/windows-subscription-activation?pivots=windows-11), activation will be performed based on base edition, [example](https://i.imgur.com/6LTkK2o.png). Thanks to asdcorp and @abbodi1406.
+- Added the check for [Windows subscription](https://learn.microsoft.com/windows/deployment/windows-subscription-activation?pivots=windows-11), activation will be performed based on base edition, [example](https://i.ibb.co/7Cs0j7Y/6LTkK2o.png). Thanks to @asdcorp and @abbodi1406.
 - Added the code to disable CMD QuickEdit using Powershell instead of temporary regedit (to avoid accidental pause when the user clicks inside the script window). Thanks to @abbodi1406.
 - Added the code to launch from conhost.exe using Powershell to avoid the Terminal app. Thanks to @abbodi1406.
 - Added more environment variables in the script at the start to resolve issues in case they are messed up in the user's system.
