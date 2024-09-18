@@ -1,5 +1,8 @@
 # News
 
+### [18-Sep-24] Added: September updated ISO's for Windows 10/11/Server 2022  
+https://massgrave.dev/genuine-installation-media
+
 ### [6-Sep-24] MAS 2.7 update is released, [changelog](changelog.md)  
 Also, the MASSGRAVE blog is now live
 
