@@ -6,10 +6,11 @@ All download links lead to Official Microsoft files only including the activator
 
 :::info[Activation Guide]
 
-- Run this tool https://office-reset.com/ to reset the Office licenses. (Skip this if you never opened Office apps on your macOS)
+- Run this [Official Microsoft tool](https://go.microsoft.com/fwlink/?linkid=849815) to reset the Office licenses. (Skip this if you never opened Office apps on your macOS)
 - Now run the below listed activator pkg file and install. (**Don't open Office before installing pkg file**)
 - Now install Office for your macOS version if its not installed.
 - Your office should be activated now.
+- If you are still facing any issues with activation, run this [Unlicene tool](https://github.com/pbowden-msft/Unlicense) to clean the licenses and then reapply the activator pkg file.
 - If you are still facing any issue, connect with us [here](troubleshoot.md).
 
 :::
@@ -18,8 +19,8 @@ pkg files are extracted from the official iso files. These serializer files are 
 
 | Serializer            | Activator                                                                                                                                                                     | Applicable On                                        |
 |:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
-| Office 2024 (Preview) | [pkg](https://go.microsoft.com/fwlink/?linkid=2261988)                                                                                                                        | Sonoma, Ventura, Monterey                            |
-| Office 2021 ❤️        | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2024 ❤️          | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)         | Sonoma, Ventura, Monterey                            |
+| Office 2021         | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
 | Office 2019 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                  |
 | Office 2016 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                 |
 | Office 2019 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                      |
@@ -44,7 +45,7 @@ Generation - 2021 / 2024
 
 | Application                  | Link                                              |
 |:-----------------------------|:--------------------------------------------------|
-| Office suite (with Teams) ❤️ | https://go.microsoft.com/fwlink/p/?linkid=2009112 |
+| Office suite (with Teams)    | https://go.microsoft.com/fwlink/p/?linkid=2009112 |
 | Office suite (without Teams) | https://go.microsoft.com/fwlink/p/?linkid=525133  |
 | Word                         | https://go.microsoft.com/fwlink/p/?linkid=525134  |
 | Excel                        | https://go.microsoft.com/fwlink/p/?linkid=525135  |
