@@ -1,32 +1,6 @@
 # Office For Mac
 
-All download links lead to Official Microsoft files only including the activator.
-
-## Office Activator
-
-:::info[Activation Guide]
-
-- Run this [Official Microsoft tool](https://go.microsoft.com/fwlink/?linkid=849815) to reset the Office licenses. (Skip this if you never opened Office apps on your macOS)
-- Now run the below listed activator pkg file and install. (**Don't open Office before installing pkg file**)
-- Now install Office for your macOS version if its not installed.
-- Your office should be activated now.
-- If you are still facing any issues with activation, run this [Unlicene tool](https://github.com/pbowden-msft/Unlicense) to clean the licenses and then reapply the activator pkg file.
-- If you are still facing any issue, connect with us [here](troubleshoot.md).
-
-:::
-
-pkg files are extracted from the official iso files. These serializer files are only available to paid VLSC subscribers, however anyone can activate Office using it. 
-
-| Serializer            | Activator                                                                                                                                                                     | Applicable On                                        |
-|:----------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
-| Office 2024 ❤️          | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)         | Sonoma, Ventura, Monterey                            |
-| Office 2021         | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
-| Office 2019 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                  |
-| Office 2016 (Old)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                 |
-| Office 2019 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                      |
-| Office 2016 (New)     | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                      |
-
-------------------------------------------------------------------------
+All the listed Office installer and activator download links lead to Official Microsoft files only.
 
 ## Office Installer
 
@@ -35,8 +9,9 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="macOS 12, 13, 14" label="Sonoma, Ventura, Monterey ❤️" default>
+<TabItem value="macOS 12, 13, 14, 15" label="Sequoia, Sonoma, Ventura, Monterey" default>
 
+macOS Sequoia (macOS 15)  
 macOS Sonoma (macOS 14)  
 macOS Ventura (macOS 13)  
 macOS Monterey (macOS 12)  
@@ -195,3 +170,41 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 </TabItem>
 </Tabs>
+
+**Other Resources**  
+https://learn.microsoft.com/officeupdates/update-history-office-for-mac  
+https://macadmins.software/
+
+---
+
+## Office Activation
+
+- Install Office for your macOS version from the above table if not installed.
+- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) - [(Mirror)](https://web.archive.org/web/20240511013636/https://office-reset.com/) and clean the licenses.
+- Now run the below-listed activator pkg file and install. (**Don't open Office apps before installing activator pkg file**)
+- Your office should be activated now.
+
+---
+
+The below activator (serializer) pkg files are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
+
+| Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
+|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
+| Office 2024 ❤️    | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura, Monterey                            |
+| Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
+| Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
+| Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
+| Office 2016 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                               |
+
+:::tip
+
+- If activation is not working then,
+  - Uninstall all the Office apps
+  - Clean everything using [Office-Reset tool](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) - [(Mirror)](https://web.archive.org/web/20240511013636/https://office-reset.com/)
+  - Now redo the Office installation and activation as explained above.
+  - If you are still facing any issues, connect with us [here](troubleshoot.md).
+
+:::
+
+------------------------------------------------------------------------
