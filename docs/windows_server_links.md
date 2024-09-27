@@ -11,9 +11,23 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Windows Server 2025 (Preview)
+## Windows Server 2025
 
-Build - 26100.1
+Build - 26100.1742 (Final, GA)  
+The below ISO's are taken from the Official OEM portal.  
+This final release is not available on MVS yet, hence not available in all languages.  
+
+| Language            | Arch | Link                                                                                                                                         |
+|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| Czech  | x64  | [X23-81956_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_cs-cz.iso](https://drive.massgrave.dev/X23-81956_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_cs-cz.iso) |
+| German | x64  | [X23-81960_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_de-de.iso](https://drive.massgrave.dev/X23-81960_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_de-de.iso) |
+| English  | x64  | [X23-81958_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_en-us.iso](https://drive.massgrave.dev/X23-81958_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_en-us.iso) |
+| French  | x64  | [X23-81959_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_fr-fr.iso](https://drive.massgrave.dev/X23-81959_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_fr-fr.iso) |
+| Dutch-Netherlands  | x64  | [X23-81957_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_nl-nl.iso](https://drive.massgrave.dev/X23-81957_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_nl-nl.iso) |
+| Chinese-Simplified  | x64  | [X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso](https://drive.massgrave.dev/X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso) |
+| Chinese-Taiwan  | x64  | [X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso](https://drive.massgrave.dev/X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso) |
+
+Build - 26100.1 (Preview)
 
 | Language            | Arch | Link                                                                                                                                         |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------|

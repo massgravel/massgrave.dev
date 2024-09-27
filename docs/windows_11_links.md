@@ -169,14 +169,25 @@ https://os.click/
 </TabItem>
 </Tabs>
 
-### Windows 11 24H2 (Preview)
+### Windows 11 24H2
 
 <Tabs>
 <TabItem value="Windows 11 Consumer / Business" label="Windows 11 Consumer / Business 24H2 " default>
 
 **Windows 11 Consumer / Business 24H2**  
 
-https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
+**Preview:**  
+https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso  
+
+**Final:**  
+Build - 26100.1742  
+The below ISO's are taken from the Official OEM portal.  
+This final release is not available on MSDL/MVS yet, hence not available in all languages.  
+
+| Language | Arch  | Link                                                                                                                                                                     |
+|:---------|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | x64   | [X23-81971_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_en-us.iso](https://drive.massgrave.dev/X23-81971_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_en-us.iso) |
+| English  | ARM64 | [X23-81973_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_en-us.iso](https://drive.massgrave.dev/X23-81973_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_en-us.iso) |
 
 ------------------------------------------------------------------------
 
@@ -186,8 +197,8 @@ https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso
 
 **Windows 11 IoT Enterprise 24H2**  
 **(Not LTSC)**  
-Build - 26100.1  
-These ISO's are released to OEMs on May 22, 2024. They contain below editions,  
+Build - 26100.1742 (Final, GA)  
+These ISO's contain below editions,  
 
 Windows 11 Enterprise  
 Windows 11 IoT Enterprise  
@@ -195,8 +206,8 @@ Windows 11 IoT Enterprise Subscription
 
 | Language | Arch  | Link                                                                                                                                                                     |
 |:---------|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso) |
-| English  | x64   | [26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso](https://drive.massgrave.dev/26100.1.240331-1435.ge_release_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso) |
+| English  | x64   | [X23-81952_26100.1742.240906-0331.ge_release_svc_refresh_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso](https://drive.massgrave.dev/X23-81952_26100.1742.240906-0331.ge_release_svc_refresh_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso) |
+| English  | ARM64 | [X23-81976_26100.1742.240906-0331.ge_release_svc_refresh_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/X23-81976_26100.1742.240906-0331.ge_release_svc_refresh_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso) |
 
 ------------------------------------------------------------------------
 
