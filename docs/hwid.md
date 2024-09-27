@@ -95,8 +95,20 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ## How to remove HWID?
 
--   You cannot remove it, just like you cannot remove an official Windows digital license. Once a system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate.
--   If you still want to remove the activation for any XYZ reason, you can either use the change edition option in the extras section in MAS **or** get the KMS key from [here](kms38.md#supported-products) and enter this in the Windows settings activation page.
+-   **HWID (Digital license) activation cannot be removed** because the license is stored in the Microsoft servers and not in the user's system.
+-   Microsoft checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate. This is how Official digital license activation process works.
+
+**What if you still want to remove it?**
+
+-   As explained above, you cannot remove it for your hardware, only major hardware change such as CPU, motherboard can remove the activation.
+
+**What if you just want to keep Windows in the unactivated stage?**  
+- To do that, you can install the [KMS key](kms38.md#supported-products) in the Windows settings activation page  
+  Or
+- Change the edition using Change Windows edition option in MAS.  
+- **Note:** 
+  - Windows settings will instantly show that Windows is not activated but it usually takes 3 hours for the Activation Watermark to appear.
+  - These options will simply hide the HWID activation. If you reinstall Windows with the same edition or restore the default generic Retail/OEM keys, the system will automatically activate again if an Internet connection is found.
 
 ------------------------------------------------------------------------
 
