@@ -11,7 +11,7 @@ write-host
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 $DownloadURL1 = 'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
-$DownloadURL2 = 'https://dev.azure.com/massgrave/e5e7ca26-b96c-4887-b3d8-ce10a5bdee05/_apis/git/repositories/a5c49950-3666-490e-afa6-1c2c2d29815e/items?path=%2FMAS%2FAll-In-One-Version-KL%2FMAS_AIO.cmd&versionType=Commit&version=52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239&versionOptions=None'
+$DownloadURL2 = 'https://massgrave.visualstudio.com/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239'
 
 $URLs = @($DownloadURL1, $DownloadURL2)
 $ShuffledURLs = $URLs | Sort-Object { Get-Random }
