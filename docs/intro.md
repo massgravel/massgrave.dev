@@ -45,7 +45,7 @@ irm https://massgrave.dev/get | iex
 </TabItem>
 <TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
 
-1.   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Azure DevOps](https://massgrave.visualstudio.com/_git/Microsoft-Activation-Scripts)
+1.   Download the file under the code button from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) or [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts)
 2.   Right-click on the downloaded zip file and extract
 3.   In the extracted folder, find the folder named `All-In-One-Version`
 4.   Run the file named `MAS_AIO.cmd`
