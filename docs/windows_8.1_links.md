@@ -4,7 +4,7 @@ All download links lead to genuine files only.
 
 ## Notes
 
--   Microsoft provides public download links for Windows 8.1 (Core / Pro). Other editions such as Enterprise are only available on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) and for them, you need to pay a high subscription fee.
+-   Microsoft provides public download links for Windows 8.1 (Core / Pro). Other editions such as Enterprise are only available on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) and for them, you need to pay a high subscription fee.
 -   For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 -   In the install process of Windows 8.1 (Core / Pro) ISO, setup will ask to enter the key, you can enter below generic keys for the desired edition.  
     `Windows 8.1 Core: 334NH-RXG76-64THK-C7CKG-D3VPT`  

@@ -4,7 +4,7 @@ All download links lead to genuine files only.
 
 ## Notes
 
--   Microsoft provides full version of Windows Vista on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) but for them, you need to pay a high subscription fee.
+-   Microsoft provides full version of Windows Vista on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee.
 -   For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 -   Below listed ISO have these editions available to choose from when installing Windows.  
     Windows Vista Business  

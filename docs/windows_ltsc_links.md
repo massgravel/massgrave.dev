@@ -7,7 +7,7 @@ All download links lead to genuine files only.
 - Windows 10/11 Enterprise LTSC (Long-Term Servicing Channel) releases are designed to provide longer update support (10 years) and it lacks most of the Store (UWP) apps.
 - Windows 10 GAC (General Availability Channel) (i.e. Home, Pro) will reach end of support on [October 14, 2025](https://learn.microsoft.com/lifecycle/products/windows-10-home-and-pro). So, if your hardware doesn't support Windows 11 then you might wanna use Windows 10 IoT Enterprise LTSC 2021 since its supported until [Jan 13, 2032](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) or Windows 11 24H2 IoT editions (LTSC/GAC both) because they [don't require](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) TPM / Secure boot / UEFI / 4GB RAM.
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days.
-- Microsoft provides full version of Windows LTSC on [MVS](https://visualstudio.microsoft.com/subscriptions/), [VLSC](https://www.microsoft.com/licensing/ServiceCenter/default.aspx) and [OEM Portal](https://devicepartner.microsoft.com/) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
+- Microsoft provides full version of Windows LTSC on [MVS](https://visualstudio.microsoft.com/subscriptions/), [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) and [OEM Portal](https://devicepartner.microsoft.com/) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 - If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
 
 import Tabs from '@theme/Tabs';
@@ -31,7 +31,7 @@ import TabItem from '@theme/TabItem';
 | **2 Simultaneous RDP Sessions**        | No              | Yes                                                                                                                                                                                                                                                               |
 
 
-- IoT Enterprise LTSC ❤️ is a clear winner.
+- IoT Enterprise LTSC is a winner.
 - The only difference between IoT Enterprise LTSC and IoT Enterprise Subscription LTSC is that the subscription edition supports a subscription license.
 - You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
 - IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in another language and later install IoT LTSC key `CGK42-GYN6Y-VD22B-BX98W-J8JXD` to change the edition.
@@ -50,7 +50,7 @@ import TabItem from '@theme/TabItem';
 | **$OEM$ Folder Support**     | Yes                                                                                                   | No [(More Info)](oem-folder.md)                                                                            |
 
 
-- IoT Enterprise LTSC ❤️ is a winner.
+- IoT Enterprise LTSC is a winner.
 - You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
 - IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in another language and later install IoT LTSC key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` to change the edition.
 
@@ -79,9 +79,7 @@ import TabItem from '@theme/TabItem';
 
 **Windows 11 IoT Enterprise LTSC 2024**
 
-Build - 26100.1742 (Final, GA)  
-IoT release is only available in English ISO's and non-IoT version is not released on MVS yet.  
-The below ISO's are taken from the Official OEM portal.  
+Build - 26100.1742
 
 These ISO's contain below editions.  
 Windows 11 Enterprise LTSC  
@@ -90,8 +88,54 @@ Windows 11 IoT Enterprise Subscription LTSC
 
 | Language      | Arch  | Link                                                                                                                                                                           |
 | :------------ | :---- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| English       | x64   | [X23-81951_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso❤️](https://drive.massgrave.dev/X23-81951_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso) |
-| English       | ARM64 | [X23-81950_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/X23-81950_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso)   |
+| English       | x64 | [en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso) |
+
+---
+
+**Windows 11 Enterprise LTSC 2024**
+
+Build - 26100.1742
+
+| Language               | Arch | Link                                                                                                                                                                                                                 |
+|:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arabic                 | x64  | [ar-sa_windows_11_enterprise_ltsc_2024_x64_dvd_8012f159.iso](https://drive.massgrave.dev/ar-sa_windows_11_enterprise_ltsc_2024_x64_dvd_8012f159.iso) |
+| Bulgarian              | x64  | [bg-bg_windows_11_enterprise_ltsc_2024_x64_dvd_2778f4e8.iso](https://drive.massgrave.dev/bg-bg_windows_11_enterprise_ltsc_2024_x64_dvd_2778f4e8.iso) |
+| Czech                  | x64  | [cs-cz_windows_11_enterprise_ltsc_2024_x64_dvd_d4ef05f2.iso](https://drive.massgrave.dev/cs-cz_windows_11_enterprise_ltsc_2024_x64_dvd_d4ef05f2.iso) |
+| Danish                 | x64  | [da-dk_windows_11_enterprise_ltsc_2024_x64_dvd_c231c267.iso](https://drive.massgrave.dev/da-dk_windows_11_enterprise_ltsc_2024_x64_dvd_c231c267.iso) |
+| German                 | x64  | [de-de_windows_11_enterprise_ltsc_2024_x64_dvd_4f136f69.iso](https://drive.massgrave.dev/de-de_windows_11_enterprise_ltsc_2024_x64_dvd_4f136f69.iso) |
+| Greek                  | x64  | [el-gr_windows_11_enterprise_ltsc_2024_x64_dvd_54eaabb2.iso](https://drive.massgrave.dev/el-gr_windows_11_enterprise_ltsc_2024_x64_dvd_54eaabb2.iso) |
+| English-United Kingdom | x64  | [en-gb_windows_11_enterprise_ltsc_2024_x64_dvd_e2137661.iso](https://drive.massgrave.dev/en-gb_windows_11_enterprise_ltsc_2024_x64_dvd_e2137661.iso) |
+| English                | x64  | [en-us_windows_11_enterprise_ltsc_2024_x64_dvd_965cfb00.iso](https://drive.massgrave.dev/en-us_windows_11_enterprise_ltsc_2024_x64_dvd_965cfb00.iso) |
+| Spanish                | x64  | [es-es_windows_11_enterprise_ltsc_2024_x64_dvd_77392d61.iso](https://drive.massgrave.dev/es-es_windows_11_enterprise_ltsc_2024_x64_dvd_77392d61.iso) |
+| Spanish-Mexico         | x64  | [es-mx_windows_11_enterprise_ltsc_2024_x64_dvd_3310c094.iso](https://drive.massgrave.dev/es-mx_windows_11_enterprise_ltsc_2024_x64_dvd_3310c094.iso) |
+| Estonian               | x64  | [et-ee_windows_11_enterprise_ltsc_2024_x64_dvd_2dbd4bfe.iso](https://drive.massgrave.dev/et-ee_windows_11_enterprise_ltsc_2024_x64_dvd_2dbd4bfe.iso) |
+| Finnish                | x64  | [fi-fi_windows_11_enterprise_ltsc_2024_x64_dvd_998f5df6.iso](https://drive.massgrave.dev/fi-fi_windows_11_enterprise_ltsc_2024_x64_dvd_998f5df6.iso) |
+| French-Canada          | x64  | [fr-ca_windows_11_enterprise_ltsc_2024_x64_dvd_78732953.iso](https://drive.massgrave.dev/fr-ca_windows_11_enterprise_ltsc_2024_x64_dvd_78732953.iso) |
+| French                 | x64  | [fr-fr_windows_11_enterprise_ltsc_2024_x64_dvd_d66e386e.iso](https://drive.massgrave.dev/fr-fr_windows_11_enterprise_ltsc_2024_x64_dvd_d66e386e.iso) |
+| Hebrew                 | x64  | [he-il_windows_11_enterprise_ltsc_2024_x64_dvd_fae050ec.iso](https://drive.massgrave.dev/he-il_windows_11_enterprise_ltsc_2024_x64_dvd_fae050ec.iso) |
+| Croatian               | x64  | [hr-hr_windows_11_enterprise_ltsc_2024_x64_dvd_e3594411.iso](https://drive.massgrave.dev/hr-hr_windows_11_enterprise_ltsc_2024_x64_dvd_e3594411.iso) |
+| Hungarian              | x64  | [hu-hu_windows_11_enterprise_ltsc_2024_x64_dvd_8fea6034.iso](https://drive.massgrave.dev/hu-hu_windows_11_enterprise_ltsc_2024_x64_dvd_8fea6034.iso) |
+| Italian                | x64  | [it-it_windows_11_enterprise_ltsc_2024_x64_dvd_1e8cabb6.iso](https://drive.massgrave.dev/it-it_windows_11_enterprise_ltsc_2024_x64_dvd_1e8cabb6.iso) |
+| Japanese               | x64  | [ja-jp_windows_11_enterprise_ltsc_2024_x64_dvd_e59ad418.iso](https://drive.massgrave.dev/ja-jp_windows_11_enterprise_ltsc_2024_x64_dvd_e59ad418.iso) |
+| Korean                 | x64  | [ko-kr_windows_11_enterprise_ltsc_2024_x64_dvd_b6b6eb18.iso](https://drive.massgrave.dev/ko-kr_windows_11_enterprise_ltsc_2024_x64_dvd_b6b6eb18.iso) |
+| Lithuanian             | x64  | [lt-lt_windows_11_enterprise_ltsc_2024_x64_dvd_145479e9.iso](https://drive.massgrave.dev/lt-lt_windows_11_enterprise_ltsc_2024_x64_dvd_145479e9.iso) |
+| Latvian                | x64  | [lv-lv_windows_11_enterprise_ltsc_2024_x64_dvd_e0ebc53d.iso](https://drive.massgrave.dev/lv-lv_windows_11_enterprise_ltsc_2024_x64_dvd_e0ebc53d.iso) |
+| Norwegian-Bokmal       | x64  | [nb-no_windows_11_enterprise_ltsc_2024_x64_dvd_d41eeb48.iso](https://drive.massgrave.dev/nb-no_windows_11_enterprise_ltsc_2024_x64_dvd_d41eeb48.iso) |
+| Dutch-Netherlands      | x64  | [nl-nl_windows_11_enterprise_ltsc_2024_x64_dvd_e3063aab.iso](https://drive.massgrave.dev/nl-nl_windows_11_enterprise_ltsc_2024_x64_dvd_e3063aab.iso) |
+| Polish                 | x64  | [pl-pl_windows_11_enterprise_ltsc_2024_x64_dvd_e00807a1.iso](https://drive.massgrave.dev/pl-pl_windows_11_enterprise_ltsc_2024_x64_dvd_e00807a1.iso) |
+| Portuguese-Brazil      | x64  | [pt-br_windows_11_enterprise_ltsc_2024_x64_dvd_2bb6b75b.iso](https://drive.massgrave.dev/pt-br_windows_11_enterprise_ltsc_2024_x64_dvd_2bb6b75b.iso) |
+| Portuguese-Portugal    | x64  | [pt-pt_windows_11_enterprise_ltsc_2024_x64_dvd_2f34bd6b.iso](https://drive.massgrave.dev/pt-pt_windows_11_enterprise_ltsc_2024_x64_dvd_2f34bd6b.iso) |
+| Romanian               | x64  | [ro-ro_windows_11_enterprise_ltsc_2024_x64_dvd_2eadb4df.iso](https://drive.massgrave.dev/ro-ro_windows_11_enterprise_ltsc_2024_x64_dvd_2eadb4df.iso) |
+| Russian                | x64  | [ru-ru_windows_11_enterprise_ltsc_2024_x64_dvd_f9af5773.iso](https://drive.massgrave.dev/ru-ru_windows_11_enterprise_ltsc_2024_x64_dvd_f9af5773.iso) |
+| Slovak                 | x64  | [sk-sk_windows_11_enterprise_ltsc_2024_x64_dvd_03b916e7.iso](https://drive.massgrave.dev/sk-sk_windows_11_enterprise_ltsc_2024_x64_dvd_03b916e7.iso) |
+| Slovenian              | x64  | [sl-si_windows_11_enterprise_ltsc_2024_x64_dvd_310b3a76.iso](https://drive.massgrave.dev/sl-si_windows_11_enterprise_ltsc_2024_x64_dvd_310b3a76.iso) |
+| Serbian-Latin          | x64  | [sr-latn-rs_windows_11_enterprise_ltsc_2024_x64_dvd_3dfa5da5.iso](https://drive.massgrave.dev/sr-latn-rs_windows_11_enterprise_ltsc_2024_x64_dvd_3dfa5da5.iso) |
+| Swedish                | x64  | [sv-se_windows_11_enterprise_ltsc_2024_x64_dvd_191cf991.iso](https://drive.massgrave.dev/sv-se_windows_11_enterprise_ltsc_2024_x64_dvd_191cf991.iso) |
+| Thai                   | x64  | [th-th_windows_11_enterprise_ltsc_2024_x64_dvd_47ce2c8a.iso](https://drive.massgrave.dev/th-th_windows_11_enterprise_ltsc_2024_x64_dvd_47ce2c8a.iso) |
+| Turkish                | x64  | [tr-tr_windows_11_enterprise_ltsc_2024_x64_dvd_27bdab81.iso](https://drive.massgrave.dev/tr-tr_windows_11_enterprise_ltsc_2024_x64_dvd_27bdab81.iso) |
+| Ukranian               | x64  | [uk-ua_windows_11_enterprise_ltsc_2024_x64_dvd_b3f00872.iso](https://drive.massgrave.dev/uk-ua_windows_11_enterprise_ltsc_2024_x64_dvd_b3f00872.iso) |
+| Chinese-Simplified     | x64  | [zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso](https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso) |
+| Chinese-Taiwan         | x64  | [zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso](https://drive.massgrave.dev/zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso) |
 
 ---
 
@@ -109,7 +153,6 @@ Windows 10 IoT Enterprise LTSC ❤️
 | Language | Arch  | Link                                                                                                                                                             |
 | :------- | :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | English  | x64   | [en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso❤️](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   |
-| English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
 
 ---
 
@@ -502,6 +545,14 @@ Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.
 | Chinese-Taiwan         | x86  | [tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso](https://drive.massgrave.dev/tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso)           |
 | Ukrainian              | x64  | [uk_windows_10_enterprise_2015_ltsb_x64_dvd_6850925.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2015_ltsb_x64_dvd_6850925.iso)           |
 | Ukrainian              | x86  | [uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso)           |
+
+</TabItem>
+
+<TabItem value="Windows LTSC ARM64" label="Windows LTSC ARM64" default>
+
+**Windows 10/11 IoT Enterprise LTSC ARM64**
+
+Check [here](windows_arm_links.md).
 
 ---
 
