@@ -6,14 +6,17 @@
 
 ------------------------------------------------------------------------
 
-## Reasons
+To discourage the use of pirated Office, the Office team began implementing checks in Office C2R in February 2021 to display a banner prompting users to buy genuine Office. Since most piracy tutorials on YouTube used retail Office installers and then manually installed volume licenses and activated them with m-s-guides KMS server, the Office team started to show them banners to buy genuine licenses. Along the way, they added some more checks and mistakenly started showing it to Volume Office 2024 genuine users as well (MS forgot to update the checks). Below you can find more details on it.
+
+## When does the banner appear?
 
 -   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of a KMS server name in the registry. If the KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly"
 -   If 32-bit Office is installed on 64-bit Windows, Office checks the KMS server existence in the corresponding WOW6432Node registry key as well.
 -   Apart from this, they also detect if a registered KMS server is on their blacklist or not. As far as I know, the below 3 addresses are blacklisted.  
     `km-s8.MSG-uides.com` `km-s9.MSG-uides.com` `0.0.0.0` (Remove hyphen)  
     The first two are public KMS servers and the last one is not a real IP.
--   Please note that these checks are not performed by Office if the proper installation of the Volume version of Office is done with Perpetual2019 / 2021 VL channel.
+-   These above checks are not performed by Office if the proper installation of the Volume version of Office is done with the PerpetualVL2019 / PerpetualVL2021 channel.  
+    However, with the release of the Office PerpetualVL2024 channel, they haven't updated the checks yet, and as a result, if any of the above conditions are met then Office will show a banner, even to the genuine customers.
 
 ------------------------------------------------------------------------
 
@@ -55,7 +58,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPla
 
 ### 3- Install VL Office
 
-As mentioned in the Reasons section, these checks are performed only if Retail Office is installed and was later converted to VL. The office doesn't perform any kind of related checks if the proper installation of the VL office is done.
+As mentioned in the Reasons section, these checks are performed only if Retail Office is installed and was later converted to VL. The office doesn't perform any kind of related checks if the proper installation of the VL office is done. (Not applicable to PerpetualVL2024)
 
 Please see the guide [here](https://gravesoft.dev/office_c2r_custom) for VL Office installation.
 
@@ -63,27 +66,9 @@ Please see the guide [here](https://gravesoft.dev/office_c2r_custom) for VL Offi
 
 ### 4- Change Update Channel
 
--   If we change the Insider or Current update channel **to** Monthly Enterprise or Semi-Annual channel then such non-genuine banners won't appear by default.
--   Before doing this, make sure your Office update channel is either Insider or Current.
--   Make sure the internet is connected.
--   Open command prompt as admin, enter the below commands and press enter:  
+If we change the Insider or Current update channel **to** Monthly Enterprise or Semi-Annual channel then such non-genuine banners won't appear by default.
 
-```         
-reg add HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v CDNBaseUrl /t REG_SZ /d "http://officecdn.microsoft.com/pr/55336B82-A18D-4DD6-B5F6-9E5095C314A6" /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v UpdateUrl /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Configuration /v UpdateToVersion /f
-
-reg delete HKLM\SOFTWARE\Microsoft\Office\ClickToRun\Updates /v UpdateToVersion /f
-
-reg delete HKLM\SOFTWARE\Policies\Microsoft\Office\16.0\Common\OfficeUpdate\ /f
-
-"%CommonProgramFiles%\microsoft shared\ClickToRun\OfficeC2RClient.exe" /update user
-```
-
--   It will change the update channel to `Production::MEC | MonthlyEnterprise`
--   Make sure that Office starts updating with the last command.
+You can find this option in [MAS](intro.md) under Change Office edition option.
 
 ------------------------------------------------------------------------
 
