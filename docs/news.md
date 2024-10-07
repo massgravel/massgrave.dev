@@ -1,5 +1,8 @@
 # News
 
+### [2-Oct-24] Added MVS links for Win11 24H2 and LTSC 2024  
+https://massgrave.dev/genuine-installation-media
+
 ### [18-Sep-24] Added: September updated ISO's for Windows 10/11/Server 2022  
 https://massgrave.dev/genuine-installation-media
 
