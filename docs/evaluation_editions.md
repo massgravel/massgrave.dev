@@ -93,6 +93,12 @@ You can repeat this process 2 times (a total of 270 days of activation).
 WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` hold the records of the trial period. By clearing this registry we can simply reset the activation (trial) period at any given time. You can follow below guide to do this.  
 https://gravesoft.dev/fix-wpa-registry
 
+:::note
+
+The eval activation for Windows 10 Enterprise LTSC 2021 is currently not working.
+
+:::
+
 ---
 
 ## Avoid license swapping
