@@ -1,5 +1,9 @@
 # News
 
+### [16-Oct-24] Added October updated ISO's  
+Windows 10 22H2 / Windows 11 23H2 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media
+
 ### [2-Oct-24] Added MVS links for Win11 24H2 and LTSC 2024  
 https://massgrave.dev/genuine-installation-media
 
