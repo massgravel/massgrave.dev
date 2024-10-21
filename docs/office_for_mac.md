@@ -180,7 +180,7 @@ https://macadmins.software/
 ## Office Activation
 
 - Install Office for your macOS version from the above table if not installed.
-- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) - [(Mirror)](https://web.archive.org/web/20240511013636/https://office-reset.com/) and clean the licenses.
+- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) and clean the licenses.
 - Now run the below-listed activator pkg file and install. (**Don't open Office apps before installing activator pkg file**)
 - Your office should be activated now.
 
@@ -201,7 +201,7 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 - If activation is not working then,
   - Uninstall all the Office apps
-  - Clean everything using [Office-Reset tool](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) - [(Mirror)](https://web.archive.org/web/20240511013636/https://office-reset.com/)
+  - Clean everything using [Office-Reset tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw)
   - Now redo the Office installation and activation as explained above.
   - If you are still facing any issues, connect with us [here](troubleshoot.md).
 
