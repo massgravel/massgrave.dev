@@ -62,14 +62,9 @@ In this page, those product activation methods are mentioned which are not suppo
 ## HEVC Video Extensions
 
 -	It's a [paid Microsoft extension](https://apps.microsoft.com/detail/9nmzlz57r3t7) to play High Efficiency Video Coding (HEVC) videos in any video app on your Windows 10/11 device.
--	Microsoft provides digitally signed installers to VLSC subscribers, you can download them below.
+-	Microsoft provides digitally signed installers to M365 Admin Center subscribers, you can download them below.
 
-| Arch  | Links                                                                                                                                            |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| x64   | [SW_DVD5_HEVC_Codec_64BIT_MultiLang_-11_MLF_X23-60420.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_64BIT_MultiLang_-11_MLF_X23-60420.ISO) |
-| x86   | [SW_DVD5_HEVC_Codec_32BIT_MultiLang_-11_MLF_X23-60419.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_32BIT_MultiLang_-11_MLF_X23-60419.ISO) |
-| ARM64 | [SW_DVD5_HEVC_Codec_MultiLang_-11_MLF_X23-60418.ISO](https://drive.massgrave.dev/SW_DVD5_HEVC_Codec_MultiLang_-11_MLF_X23-60418.ISO)             |
-
+Download link: https://app.box.com/s/rozwl3zsx6o90xw2568by61fhp3z3icw  
 Alternatively, you can download AppxBundle installer from https://store.rg-adguard.net/ search `9nmzlz57r3t7` in ProductId.
 
 ------------------------------------------------------------------------
