@@ -9,12 +9,11 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="macOS 12, 13, 14, 15" label="Sequoia, Sonoma, Ventura, Monterey" default>
+<TabItem value="macOS 13, 14, 15" label="Sequoia, Sonoma, Ventura" default>
 
 macOS Sequoia (macOS 15)  
 macOS Sonoma (macOS 14)  
 macOS Ventura (macOS 13)  
-macOS Monterey (macOS 12)  
 
 Generation - 2021 / 2024
 
@@ -27,6 +26,25 @@ Generation - 2021 / 2024
 | PowerPoint                   | https://go.microsoft.com/fwlink/p/?linkid=525136  |
 | Outlook                      | https://go.microsoft.com/fwlink/p/?linkid=525137  |
 | OneNote                      | https://go.microsoft.com/fwlink/p/?linkid=820886  |
+
+</TabItem>
+
+<TabItem value="macOS 12" label="Monterey" default>
+
+macOS Monterey (macOS 12)  
+Highest supported office version 16.88 (Generation - 2021) (August 2024)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+
+| Application                  | Link                                                                                                                                                    |
+|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite (with Teams)    | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_BusinessPro_Installer.pkg |
+| Office suite (without Teams) | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.88.24081116_Installer.pkg             |
+| Word                         | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.88.24081116_Updater.pkg                         |
+| Excel                        | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.88.24081116_Updater.pkg                        |
+| PowerPoint                   | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.88.24081116_Updater.pkg                   |
+| Outlook                      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.88.24081116_Updater.pkg                      |
+| OneNote                      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.88.24081116_Updater.pkg                      |
 
 </TabItem>
 
@@ -190,7 +208,7 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 | Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
-| Office 2024 ❤️    | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura, Monterey                            |
+| Office 2024       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura                                      |
 | Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
 | Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
 | Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
