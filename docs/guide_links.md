@@ -4,6 +4,7 @@ If you are facing any error, the script should tell you which guide you need to 
 
 ---
 
+-   [Windows 10 Updates After End-Of-Life](windows10_eol.md)
 -   [Office License Is Not Genuine](office-license-is-not-genuine.md)
 -   [Bypass Russian Geoblock](https://gravesoft.dev/bypass-russian-geoblock)
 -   [Fix WPA Registry](https://gravesoft.dev/fix-wpa-registry)
