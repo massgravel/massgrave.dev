@@ -13,6 +13,10 @@ All download links lead to genuine files only.
 
 ---
 
+[**Windows 10 Updates After End-Of-Life**](windows10_eol.md)
+
+---
+
 ## Download Links
 
 import Tabs from '@theme/Tabs';

@@ -1,5 +1,8 @@
 # News
 
+### [1-Nov-24] Guide: Windows 10 Updates After End-Of-Life  
+https://massgrave.dev/windows10_eol
+
 ### [16-Oct-24] Added October updated ISO's  
 Windows 10 22H2 / Windows 11 23H2 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media
