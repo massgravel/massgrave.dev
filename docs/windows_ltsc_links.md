@@ -13,7 +13,32 @@ All download links lead to genuine files only.
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
-:::tip[Differences between IoT and Non-IoT Windows Enterprise LTSC]
+<details>
+  <summary>Microsoft store app installation on LTSC</summary>
+
+Applicable on Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
+
+**Microsoft Store**
+
+LTSC editions do not come with store apps pre-installed. To install them, follow the steps below.
+
+- Make sure the Internet is connected.
+- Open Powershell as admin and enter,  
+`wsreset -i`  
+- Wait for a notification to appear that the store app is installed, it may take a few minutes.
+
+On Windows 10 2021 LTSC, you might encounter an error indicating that cliprenew.exe cannot be found. This error can be safely ignored.
+
+**App Installer**
+
+This app is very useful; it includes WinGet, enabling easy installation of .appx packages. After installing the Store app, install the App installer from this URL.
+
+https://apps.microsoft.com/detail/9nblggh4nns1
+
+</details>
+
+<details>
+  <summary>Differences between IoT and Non-IoT Windows Enterprise LTSC</summary>
 
 <Tabs>
 
@@ -65,7 +90,7 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 
-:::
+</details>
 
 ---
 

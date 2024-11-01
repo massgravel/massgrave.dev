@@ -30,25 +30,28 @@ https://gravesoft.dev/clean_install_windows
 
 - Download Windows 10 Enterprise LTSC ISO from [here](windows_ltsc_links.md) in the **same Windows language and architecture**.  
   - To check the installed Windows architecture, open Powershell as admin and enter,  
-`Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`
-
-    x64 means 64 Bit, x86 means 32 Bit
-
+`Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
+    x64 means 64 Bit, x86 means 32 Bit  
   - To check the installed Windows Language, open Powershell as admin and enter,  
 `dism /english /online /get-intl | find /i "Default system UI language"`
-
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open the command prompt as admin and enter,  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
-- Go into that DVD drive and run setup.exe, continue until you reach the final confirmation screen.
+- Now **quickly** go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't take time at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 That's all.
 
 </details>
 
-Note: IoT Enterprise LTSC edition ISO's are available in English language only. But don't worry, you can install Non-IoT Enterprise LTSC in another language and later install IoT Enterprise LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` to change the edition.
+<details>
+  <summary>Notes</summary>
+
+- IoT Enterprise LTSC edition ISO's are available in English language only. But don't worry, you can install Non-IoT Enterprise LTSC in another language and later install IoT Enterprise LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` to change the edition.
+- LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md).
+
+</details>
 
 ---
 
@@ -69,18 +72,58 @@ There is good news.
 In 2024, Microsoft released Windows 11 IoT Enterprise 24H2 (GAC) / IoT Enterprise LTSC 2024 (LTSC) which has [relaxed hardware requirements](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements).
 You can officially install these Windows 11 editions without meeting the usual hardware requirements, such as TPM, Secure Boot, and UEFI, while still receiving continued support in the future. 
 
+**ISO Download Links:-**  
 **Windows 11 IoT Enterprise 24H2 (GAC)**  
 https://massgrave.dev/windows_11_links
 
 **Windows 11 IoT Enterprise LTSC 2024 (LTSC)**  
 https://massgrave.dev/windows_ltsc_links
 
-These IoT editions are available in the English language only. 
-If you want this official support for IoT editions in other languages and don't want to use language packs, you can install any Windows 11 24H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO file with [Rufus](https://gravesoft.dev/clean_install_windows) and once the installation is done, you can use the change edition option in MAS to switch the edition to Iot Enterprise and enjoy official support on unsupported hardware.
+<details>
+  <summary>Clean installation guide</summary>
 
-:::note
+- Guide: https://gravesoft.dev/clean_install_windows
+- These IoT editions are available in the English language only. If you want this official support for IoT editions in other languages and don't want to use language packs, you can install any Windows 11 24H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO file with [Rufus](https://gravesoft.dev/clean_install_windows) and once the installation is done, you can use the change edition option in MAS to switch the edition to IoT Enterprise and enjoy official support on unsupported hardware.
+
+</details>
+
+<details>
+  <summary>Upgrade Windows 10 Home, Pro, etc editions to Windows 11 IoT Enterprise (GAC/LTSC) 2024 while keeping files and apps</summary>
+
+- Download the required ISO from the above link in the **same Windows language and architecture**.
+- The IoT edition is available in English language only, but don't worry. If you want it in another language, download any Windows 11 24H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO in your language. (ISO in the same language is important)
+  - To check the installed Windows architecture, open Powershell as admin and enter,  
+`Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
+    x64 means 64 Bit, x86 means 32 Bit  
+  - To check the installed Windows Language, open Powershell as admin and enter,  
+`dism /english /online /get-intl | find /i "Default system UI language"`
+- Right-click on the downloaded ISO file, Open With > Windows Explorer
+- A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
+- Now open the command prompt as admin and enter,  
+  **For GAC**  
+`reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`  
+  **For LTSC**  
+`reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
+- Now **quickly** go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't take time at this step, otherwise it won't show an option to keep files and apps)
+- Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
+
+That's all.
+
+</details>
+
+<details>
+  <summary>Notes</summary>
 
 - Many tools can let you install Windows 11 if the hardware is not supported and monthly updates would work fine. However yearly feature updates will fail to install if hardware requirements are not met.
 - This is why IoT (24H2/2024) editions are mentioned so that you can get official support on future feature upgrades.
+- LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md).
+
+</details>
+
+---
+
+:::tip
+
+-   If you need any help regarding this, you can [connect with us](troubleshoot.md).
 
 :::
