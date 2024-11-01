@@ -55,7 +55,7 @@ foreach ($path in $paths) {
 
 $rand = [Guid]::NewGuid().Guid
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
-$FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:TEMP\MAS_$rand.cmd" }
+$FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:USERPROFILE\AppData\Local\Temp\MAS_$rand.cmd" }
 
 $ScriptArgs = "$args "
 $prefix = "@::: $rand `r`n"
@@ -66,5 +66,5 @@ Set-Content -Path $FilePath -Value $content
 $env:ComSpec = "$env:SystemRoot\system32\cmd.exe"
 Start-Process cmd.exe "/c """"$FilePath"" $ScriptArgs""" -Wait
 
-$FilePaths = @("$env:TEMP\MAS*.cmd", "$env:SystemRoot\Temp\MAS*.cmd")
+$FilePaths = @("$env:SystemRoot\Temp\MAS*.cmd", "$env:USERPROFILE\AppData\Local\Temp\MAS*.cmd")
 foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
