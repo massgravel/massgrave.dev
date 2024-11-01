@@ -117,6 +117,7 @@ That's all.
 - Many tools can let you install Windows 11 if the hardware is not supported and monthly updates would work fine. However yearly feature updates will fail to install if hardware requirements are not met.
 - This is why IoT (24H2/2024) editions are mentioned so that you can get official support on future feature upgrades.
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md).
+- Windows 11 24H2 / 2024 requires CPUs that support SSE4.2 and POPCNT instructions.
 
 </details>
 
