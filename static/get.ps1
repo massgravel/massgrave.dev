@@ -3,7 +3,7 @@
 $ErrorActionPreference = "Stop"
 
 write-host
-Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired on Dec 31, 2024."
+Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired in the future."
 Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
 write-host
 
@@ -11,9 +11,9 @@ write-host
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
 $URLs = @(
-    'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd',
-    'https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239',
-    'https://git.activated.win/massgrave/Microsoft-Activation-Scripts/raw/commit/52d4c52dba8e29a3c1fb295c8946dbe6cf2f0239/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+    'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/ab90514b0a4afd9fd711d2d79c6688d8296671b9/MAS/All-In-One-Version-KL/MAS_AIO.cmd',
+    'https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=ab90514b0a4afd9fd711d2d79c6688d8296671b9',
+    'https://git.activated.win/massgrave/Microsoft-Activation-Scripts/raw/commit/ab90514b0a4afd9fd711d2d79c6688d8296671b9/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
 )
 
 foreach ($URL in $URLs | Sort-Object { Get-Random }) {
@@ -32,7 +32,7 @@ if ($null -eq $response) {
 }
 
 # Verify script integrity
-$releaseHash = '39961D29B07D59D54A709AA7B152269ADC6349752660A0C66D627B09DF18B9B6'
+$releaseHash = 'C3C86F94CEA620D1FA940D8AD3805BF256B90E855FFA523152E0DD663B1C4CA9'
 $stream = New-Object IO.MemoryStream
 $writer = New-Object IO.StreamWriter $stream
 $writer.Write($response)
