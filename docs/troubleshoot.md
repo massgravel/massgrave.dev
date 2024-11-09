@@ -1,8 +1,8 @@
 # Troubleshoot
 
-:::tip
+:::danger[Tip]
 
-# Follow all the blue lines in the script.
+# Read and follow the blue lines in the script.
 
 :::
 

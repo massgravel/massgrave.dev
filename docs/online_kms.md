@@ -5,7 +5,7 @@
 -   How to use it? Please find the instructions [here](intro.md#download--how-to-use-it).
 -   KMS activates Windows / Office for 180 Days. For Windows Core / ProWMC editions it is 30 / 45 Days.
 -   This script can activate both Retail and Volume Windows installation.
--   This script can activate C2R Retail and VL Office, but not 2010 / 2013 MSI Retail Office and UWP Office.
+-   This script can activate C2R Retail and VL Office, UWP Office, but not 2010 / 2013 MSI Retail Office.
 -   This script skips the activation if Windows is permanently / KMS38 activated.
 -   As mentioned, KMS activates only for a limited period and it's not permanent, read below on how to achieve lifetime activation.
 
@@ -328,12 +328,12 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 | Excel2024Volume              | F4DYN-89BP2-WQTWJ-GR8YC-CKGJG                    |
 | Outlook2024Volume            | D2F8D-N3Q3B-J28PV-X27HD-RJWB9                    |
 | PowerPoint2024Volume         | CW94N-K6GJH-9CTXY-MG2VC-FYCWP                    |
-| ProjectPro2024Volume         | NBBBB-BBBBB-BBBBB-BBBH4-GX3R4 <br /> (Generated) |
+| ProjectPro2024Volume         | FQQ23-N4YCY-73HQ3-FM9WC-76HF4  |
 | ProjectStd2024Volume         | PD3TT-NTHQQ-VC7CY-MFXK3-G87F8                    |
-| ProPlus2024Volume            | NBBBB-BBBBB-BBBBB-BBBJD-VXRPM <br /> (Generated) |
+| ProPlus2024Volume            | XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB  |
 | SkypeforBusiness2024Volume   | 4NKHF-9HBQF-Q3B6C-7YV34-F64P3                    |
 | Standard2024Volume           | V28N4-JG22K-W66P8-VTMGK-H6HGR                    |
-| VisioPro2024Volume           | NBBBB-BBBBB-BBBBB-BBBCW-6MX6T <br /> (Generated) |
+| VisioPro2024Volume           | B7TN8-FJ8V3-7QYCP-HQPMV-YY89G  |
 | VisioStd2024Volume           | JMMVY-XFNQC-KK4HK-9H7R3-WQQTV                    |
 | Word2024Volume               | MQ84N-7VYDM-FXV7C-6K7CC-VFW9J                    |
 
@@ -353,7 +353,7 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 
 ## Unsupported Products
 
--   Office MSI Retail 2010/2013, Office 2010 C2R Retail, Office UWP
+-   Office MSI Retail 2010/2013, Office 2010 C2R Retail
 -   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md).
 -   Server Azure Datacenter (ServerTurbine) edition does not support activation on non-azure systems.
 -   KMS activation on Windows 7 has a limitation related to OEM Activation 2.0 and Windows marker. For more info, see [here](https://support.microsoft.com/en-us/help/942962) and [here](https://technet.microsoft.com/en-us/library/ff793426(v=ws.10).aspx#activation-of-windows-oem-computers).

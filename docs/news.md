@@ -1,5 +1,8 @@
 # News
 
+### [9-Nov-24] MAS 2.8 update is released  
+[changelog](changelog.md)
+
 ### [1-Nov-24] Guide: Windows 10 Updates After End-Of-Life  
 https://massgrave.dev/windows10_eol
 
@@ -13,7 +16,8 @@ https://massgrave.dev/genuine-installation-media
 ### [18-Sep-24] Added: September updated ISO's for Windows 10/11/Server 2022  
 https://massgrave.dev/genuine-installation-media
 
-### [6-Sep-24] MAS 2.7 update is released, [changelog](changelog.md)  
+### [6-Sep-24] MAS 2.7 update is released  
+[changelog](changelog.md)    
 Also, the MASSGRAVE blog is now live
 
 ### [30-Aug-24] Extend expiry date of massgrave.dev/get to 31/12/2024

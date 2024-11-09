@@ -23,24 +23,19 @@ import TabItem from '@theme/TabItem';
 ```
 irm https://get.activated.win | iex
 ```
+3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+4.   That's all
 
 <details>
   <summary>More options</summary>
 
-- Alternatively, you can use the following (It will be retired Dec 31, 2024)
+- Alternatively, you can use the following (It will be deprecated in the future.)  
 ```
 irm https://massgrave.dev/get | iex
-```
-- On older Windows builds (17134 and before) you will need to run the below command before following the above steps,  
-```
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 ```
 - The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
 
 </details>
-
-3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
-4.   That's all
 
 </TabItem>
 <TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
@@ -69,7 +64,7 @@ irm https://massgrave.dev/get | iex
 
 ## MAS Latest Release
 
-Last Release - v2.7 (6-Sep-2024)  
+Last Release - v2.8 (9-Nov-2024)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------

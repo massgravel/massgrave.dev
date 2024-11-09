@@ -2,6 +2,21 @@
 
 ------------------------------------------------------------------------
 
+## 2.8
+
+**UWP Office support and bug fixes**
+
+- Added support for UWP Office activation in Online KMS
+- Added an option to Add/Remove apps in change Office edition script
+- Replaced generated GVLK with official GVLK for Office 2024 ProPlus, ProjectPro, and VisioPro
+- Fixed an issue where the script would crash on Windows 10 ARM64 (because only x86 Powershell is available)
+- Fixed an issue in fetching useraccounts SID list
+- Fixed an issue where the excluded apps option wouldn't work in change Office edition script if the Office build is old. Thanks to @abbodi1406
+- Fixed an issue where change Windows edition script wouldn't show the correct list if Windows is activated with a subscription license
+- Various other minor fixes and improvements
+
+------------------------------------------------------------------------
+
 ## 2.7
 
 **A new change Office edition script, rewritten Online KMS script and lots of improvements**
