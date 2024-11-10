@@ -28,7 +28,9 @@
 
 TL;DR all kinds of Office products are supported on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
 
-| Office Version | Office Product                  | Generic Key                   | Key Type      |
+### Office 2013 (15.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
 |----------------|---------------------------------|-------------------------------|---------------|
 | v15.0 (2013)   | AccessRetail                    | B7RFY-7NXPK-Q4342-Y9X2H-3JX4X | Retail        |
 | v15.0 (2013)   | AccessVolume                    | 9MF9G-CN32B-HV7XT-9XJ8T-9KVF4 | MAK           |
@@ -75,10 +77,30 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v15.0 (2013)   | VisioStdVolume                  | RX63Y-4NFK2-XTYC8-C6B3W-YPXPJ | MAK           |
 | v15.0 (2013)   | WordRetail                      | NB77V-RPFQ6-PMMKQ-T87DV-M4D84 | Retail        |
 | v15.0 (2013)   | WordVolume                      | RPHPB-Y7NC4-3VYFM-DW7VD-G8YJ8 | MAK           |
-| v15.0 (O365)   | O365BusinessRetail              | 2P3C9-BQNJH-VCVPH-YDY6M-43JPQ | Subscription  |
+
+### Office 365 (15.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
+| v15.0 (O365)   | O365BusinessRetail              | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T | SubTest       |
 | v15.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
-| v15.0 (O365)   | O365ProPlusRetail               | 2N382-D6PKK-QTX4D-2JJYK-M96P2 | Subscription1 |
+| v15.0 (O365)   | O365ProPlusRetail               | H8DN8-Y2YP3-CR9JT-DHDR9-C7GP3 | Subscription2 |
 | v15.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
+
+### Office 365 (16.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
+| v16.0 (O365)   | O365BusinessRetail              | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T | SubTest       |
+| v16.0 (O365)   | O365EduCloudRetail              | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
+| v16.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
+| v16.0 (O365)   | O365ProPlusRetail               | H8DN8-Y2YP3-CR9JT-DHDR9-C7GP3 | Subscription2 |
+| v16.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
+
+### Office 2016 (16.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
 | v16.0 (2016)   | AccessRetail                    | WHK4N-YQGHB-XWXCC-G3HYC-6JF94 | Retail        |
 | v16.0 (2016)   | AccessRuntimeRetail             | RNB7V-P48F4-3FYY6-2P3R3-63BQV | PrepidBypass  |
 | v16.0 (2016)   | AccessVolume                    | JJ2Y4-N8KM3-Y8KY3-Y22FR-R3KVK | MAK           |
@@ -125,6 +147,11 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2016)   | VisioStdXVolume                 | B2HTN-JPH8C-J6Y6V-HCHKB-43MGT | MAKC2R        |
 | v16.0 (2016)   | WordRetail                      | P8K82-NQ7GG-JKY8T-6VHVY-88GGD | Retail        |
 | v16.0 (2016)   | WordVolume                      | YHMWC-YN6V9-WJPXD-3WQKP-TMVCV | MAK           |
+
+### Office 2019 (16.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
 | v16.0 (2019)   | Access2019Retail                | WRYJ6-G3NP7-7VH94-8X7KP-JB7HC | Retail        |
 | v16.0 (2019)   | Access2019Volume                | 6FWHX-NKYXK-BW34Q-7XC9F-Q9PX7 | MAK-AE        |
 | v16.0 (2019)   | AccessRuntime2019Retail         | FGQNJ-JWJCG-7Q8MG-RMRGJ-9TQVF | PrepidBypass  |
@@ -157,6 +184,11 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2019)   | VisioStd2019Volume              | BGNHX-QTPRJ-F9C9G-R8QQG-8T27F | MAK-AE        |
 | v16.0 (2019)   | Word2019Retail                  | JXR8H-NJ3MK-X66W8-78CWD-QRVR2 | Retail        |
 | v16.0 (2019)   | Word2019Volume                  | 9F36R-PNVHH-3DXGQ-7CD2H-R9D3V | MAK-AE        |
+
+### Office 2021 (16.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
 | v16.0 (2021)   | Access2021Retail                | P286B-N3XYP-36QRQ-29CMP-RVX9M | Retail        |
 | v16.0 (2021)   | Access2021Volume                | JBH3N-P97FP-FRTJD-MGK2C-VFWG6 | MAK-AE        |
 | v16.0 (2021)   | Excel2021Retail                 | V6QFB-7N7G9-PF7W9-M8FQM-MY8G9 | Retail        |
@@ -190,9 +222,11 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2021)   | VisioStd2021Volume              | BW43B-4PNFP-V637F-23TR2-J47TX | MAK-AE        |
 | v16.0 (2021)   | Word2021Retail                  | VNCC4-CJQVK-BKX34-77Y8H-CYXMR | Retail        |
 | v16.0 (2021)   | Word2021Volume                  | BJG97-NW3GM-8QQQ7-FH76G-686XM | MAK-AE        |
-| v16.0 (2024)   | ProPlus2024Volume-Preview       | GNXWX-DF797-B2JT3-82W27-KHPXT | MAK-AE        |
-| v16.0 (2024)   | ProjectPro2024Volume-Preview    | X86XX-N3QMW-B4WGQ-QCB69-V26KW | MAK-AE        |
-| v16.0 (2024)   | VisioPro2024Volume-Preview      | DW99Y-H7NT6-6B29D-8JQ8F-R3QT7 | MAK-AE        |
+
+### Office 2024 (16.0)
+
+| Office Version | Office Product                  | Generated Generic Key         | Key Type      |
+|----------------|---------------------------------|-------------------------------|---------------|
 | v16.0 (2024)   | Access2024Retail                | P6NMW-JMTRC-R6MQ6-HH3F2-BTHKB | Retail        |
 | v16.0 (2024)   | Access2024Volume                | CXNJT-98HPP-92HX7-MX6GY-2PVFR | MAK-AE        |
 | v16.0 (2024)   | Excel2024Retail                 | 82CNJ-W82TW-BY23W-BVJ6W-W48GP | Retail        |
@@ -217,11 +251,7 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | v16.0 (2024)   | VisioStd2024Volume              | YNFTY-63K7P-FKHXK-28YYT-D32XB | MAK-AE        |
 | v16.0 (2024)   | Word2024Retail                  | XN33R-RP676-GMY2F-T3MH7-GCVKR | Retail        |
 | v16.0 (2024)   | Word2024Volume                  | WD8CQ-6KNQM-8W2CX-2RT63-KK3TP | MAK-AE        |
-| v16.0 (O365)   | O365BusinessRetail              | 2P3C9-BQNJH-VCVPH-YDY6M-43JPQ | Subscription  |
-| v16.0 (O365)   | O365EduCloudRetail              | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
-| v16.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
-| v16.0 (O365)   | O365ProPlusRetail               | 2N382-D6PKK-QTX4D-2JJYK-M96P2 | Subscription1 |
-| v16.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
+
 
 :::info
 
