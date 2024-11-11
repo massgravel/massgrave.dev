@@ -103,11 +103,6 @@ const config = {
             label: 'Download Windows / Office',
           },
           {
-            to: '/hwid',
-            position: 'left',
-            label: 'Docs',
-          },
-          {
             to: '/news',
             position: 'left',
             label: 'News',
@@ -117,6 +112,33 @@ const config = {
             position: 'left',
             label: 'Credits',
           },
+          {
+            type: 'dropdown',
+            label: 'More',
+            position: 'left',
+            items: [
+              {
+                label: 'Docs',
+                to: '/hwid',
+              },
+              {
+                label: 'Guides',
+                to: '/guide_links',
+              },
+              {
+                label: 'MAS Changelog',
+                to: '/changelog',
+              },
+              {
+                label: 'Unsupported Products Activation',
+                to: '/unsupported_products_activation',
+              },
+              {
+                label: 'Our Non-Piracy Site',
+                to: '/our_non-piracy_site',
+              },
+            ],
+          },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
             to: '/contactus',
@@ -124,7 +146,7 @@ const config = {
             label: 'Contact Us',
           },
           {
-            href: 'https://discord.gg/tVFN4N84PP',
+            href: 'https://discord.gg/j2yFsV5ZVC',
             className: 'discord-button',
             position: 'right',
             label: 'Discord',

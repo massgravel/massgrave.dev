@@ -99,3 +99,25 @@ table {
   --ifm-h1-font-size: 2.2rem;
 }
 
+/* Dropdown menu container */
+.navbar__item.dropdown:hover .dropdown__menu {
+  background-color: #94357f; /* Background color for the dropdown menu */
+}
+
+/* Dropdown menu items */
+.dropdown__menu .dropdown__link {
+  color: #ffffff; /* Text color for dropdown items */
+  padding: 8px 12px; /* Add padding for better click area */
+}
+
+/* Hover effect for dropdown menu items */
+.dropdown__menu .dropdown__link:hover {
+  background-color: #732963; /* Background color on hover */
+  color: #ffffff; /* Text color on hover */
+}
+
+/* Specific style for disabled items, if needed */
+.dropdown__menu .dropdown__link--disabled {
+  color: #ffffffa0; /* Lighter text color for disabled items */
+}
+
