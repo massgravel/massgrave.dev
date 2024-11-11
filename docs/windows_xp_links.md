@@ -10,7 +10,7 @@ All download links lead to genuine files only.
 -   x86 VL ISO's can be activated with the key `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 -   x64 VL ISO's can be activated with the key `VCFQD-V9FX9-46WVH-K3CD4-4J3JM`
 -   Microsoft provides download links for Windows XP on [MVS](https://visualstudio.microsoft.com/subscriptions/) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

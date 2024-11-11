@@ -8,7 +8,7 @@ All download links lead to genuine files only.
 - Windows 10 GAC (General Availability Channel) (i.e. Home, Pro) will reach end of support on [October 14, 2025](https://learn.microsoft.com/lifecycle/products/windows-10-home-and-pro). So, if your hardware doesn't support Windows 11 then you might wanna use Windows 10 IoT Enterprise LTSC 2021 since its supported until [Jan 13, 2032](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) or Windows 11 24H2 IoT editions (LTSC/GAC both) because they [don't require](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) TPM / Secure boot / UEFI / 4GB RAM.
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days.
 - Microsoft provides full version of Windows LTSC on [MVS](https://visualstudio.microsoft.com/subscriptions/), [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) and [OEM Portal](https://devicepartner.microsoft.com/) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
-- If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
+- If you need links for any other Windows/office file, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

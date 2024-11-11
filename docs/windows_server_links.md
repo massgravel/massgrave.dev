@@ -7,7 +7,7 @@ All download links lead to genuine files only.
 -   Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-in/evalcenter) for Windows Server releases, but as the name states, those ISO's are for evaluation purposes and editions needs to be changed to Non-eval versions before they can be activated.
 -   Microsoft provides full version of Windows Server on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee.
 -   For these reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/tVFN4N84PP).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

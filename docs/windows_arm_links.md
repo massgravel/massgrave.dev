@@ -8,7 +8,7 @@ All download links lead to genuine files only.
 -   Microsoft does not provide free public download links for Windows ARM64 architecture ISO's. They provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
 -   On VLSC, they release business ISO's (No Home level editions) and on MVS, they release IoT versions for ARM64.
 -   Alternatively, you can create ARM64 ISO from [UUPdump](https://uupdump.net/) or [ESD](https://worproject.com/esd) file.
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

@@ -20,7 +20,7 @@ Use the Ohook option in MAS.
 Check [here](troubleshoot.md).
 
 #### Is MAS safe? How can I know if there is any malware?
-MAS is fully [open-source](intro.md#mas-latest-release). It has over 96K stars on GitHub and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something. You can even perform the activation manually, check the Docs section for instructions.
+MAS is fully [open-source](intro.md#mas-latest-release). It has over 100K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts. You can even perform the activation manually, check the Docs section for instructions.
 
 #### How to download the full version of Windows 10/11 Enterprise LTSC?
 Check the info [here](genuine-installation-media.md).
@@ -48,9 +48,6 @@ Check this [guide](https://gravesoft.dev/bypass-russian-geoblock).
 
 #### Can I activate Office 365?
 Yes, use the Ohook activation option. However, you can't get server-side O365-specific features such as 1TB storage in OneDrive, though almost all other features and 5GB storage in a free OneDrive account would work fine.
-
-#### Why Office is showing the "Update License" button in the file menu?
-It is appearing even for customers who have a genuine subscription license and there is nothing to worry about. More [info](https://support.microsoft.com/office/update-license-button-29025197-58d9-4b17-acc1-99a45dabf330).
 
 #### Can I get the Copilot feature in Office with MAS activation?
 No. [Copilot](https://www.microsoft.com/microsoft-365/microsoft-copilot) is an additional plan that can be added to existing subscriptions of Microsoft 365.

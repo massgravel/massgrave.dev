@@ -22,7 +22,7 @@ All download links available on our website lead to genuine files only.
 
 :::tip
 
-You can contact us [here](https://discord.gg/tVFN4N84PP) if you need any other Windows / Office files.
+You can contact us [here](https://discord.gg/NpuNEUS2Sh) if you need any other Windows / Office files.
 
 :::
 

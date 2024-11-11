@@ -14,7 +14,7 @@ All download links lead to genuine files only.
     `Windows 8.1 Pro N: JRBBN-4Q997-H4RM2-H3B7W-Q68KC`  
 -   Every edition of Windows 8.1 can be activated with online KMS option in MAS.
 -   Windows 8.1 Embedded Enterprise edition doesn't come with preinstalled store apps.
--   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

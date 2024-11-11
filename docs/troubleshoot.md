@@ -6,8 +6,11 @@
 
 :::
 
--   **Make sure** you are using the [latest MAS version](intro.md#download--how-to-use-it).
--   **Reach out to us** on [Discord](https://discord.gg/tVFN4N84PP) (signup not required) or [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) with an error screenshot.
+If the issue remains even after following the blue lines in the script output,  
+Reach out to us with an error screenshot on any of the below links;  
+- [Discord](https://discord.gg/j2yFsV5ZVC) ❤️ (signup not required)  
+- [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues)  
+- Email: `mas.help@outlook.com`  
 
 import DiscordBadge from '@site/src/components/DiscordBadge';
 

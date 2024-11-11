@@ -17,7 +17,7 @@ All download links lead to genuine files only.
     Where N editions are available only in English language ISO's and Starter edition is available only in x86 version ISO.  
 -   Business and Enterprise Editions can be activated with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) - [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)  
     Other editions can be activated with Windows Loader by Daz [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) - [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

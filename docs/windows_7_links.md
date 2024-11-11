@@ -16,7 +16,7 @@ All download links lead to genuine files only.
 -   Pro and Ultimate ISO's also contains other editions such as, Starter, Home Basic, Home Premium, Pro, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the ISO.
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
 -   Windows Embedded POSReady 7 ISO is available in English language only. You need to use language pack for other languages. It can be activated with online KMS option in MAS.
--   If you need links for any other Windows/office file, please contact [here](https://discord.gg/gjJEfq7ux8).
+-   If you need links for any other Windows/office file, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 
