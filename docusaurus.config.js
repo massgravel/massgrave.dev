@@ -103,11 +103,6 @@ const config = {
             label: 'Download Windows / Office',
           },
           {
-            to: '/news',
-            position: 'left',
-            label: 'News',
-          },
-          {
             to: '/credits',
             position: 'left',
             label: 'Credits',
@@ -126,12 +121,16 @@ const config = {
                 to: '/guide_links',
               },
               {
-                label: 'MAS Changelog',
-                to: '/changelog',
-              },
-              {
                 label: 'Unsupported Products Activation',
                 to: '/unsupported_products_activation',
+              },
+              {
+                to: '/news',
+                label: 'News',
+              },
+              {
+                label: 'MAS Changelog',
+                to: '/changelog',
               },
               {
                 label: 'Our Non-Piracy Site',
