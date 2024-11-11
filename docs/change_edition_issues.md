@@ -17,11 +17,8 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 
 ## Other Errors
 
--   In Windows settings, go to the Windows Update page, run the check for updates button, and ensure that Windows is fully updated.
--   In the MAS script, go to Troubleshoot and run these options in the below order,
-    -   DISM Restore
-    -   SFC Scan
--   Restart the system and try to change the edition again.
--   If it's still not resolved, please connect with us [here](troubleshoot.md).
+-   Restart the system and then try to change the edition again.
+-   If it's still not resolved then follow the below guide.  
+https://gravesoft.dev/in-place_repair_upgrade
 
 ---
