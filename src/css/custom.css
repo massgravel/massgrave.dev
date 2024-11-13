@@ -42,13 +42,21 @@
 
 .navbar__inner .navbar__item {
   transition: background var(--ifm-transition-fast);
-  border-radius: var(--ifm-breadcrumb-border-radius);
+  border-radius: var(--ifm-global-radius);
+  margin: 0 .1rem;
+  padding: var(--ifm-navbar-item-padding-vertical) calc(var(--ifm-navbar-item-padding-horizontal) - .1rem);
 }
 
 .navbar__inner .navbar__item:hover,
 .navbar__inner .clean-btn:hover,
-.navbar-sidebar__brand .clean-btn:hover {
+.navbar-sidebar__brand .clean-btn:hover,
+.navbar__inner .dropdown__link:hover {
   background-color: #fff3;
+}
+
+.navbar__inner .navbar__item.navbar__link--active,
+.navbar__inner .dropdown__link.dropdown__link--active {
+  background-color: #fff2;
 }
 
 .navbar-sidebar__close {
@@ -60,11 +68,20 @@
   background: none;
 }
 
+.navbar__inner .dropdown__menu {
+  background: #0c040ecc;
+  border: 1px solid #fff3;
+  backdrop-filter: blur(1rem);
+}
+
 .navbar__inner .github-button,
 .navbar__inner .discord-button {
   width: 32px;
   height: 32px;
   font-size: 0;
+  margin: 0;
+  border-radius: var(--ifm-breadcrumb-border-radius);
+  padding: var(--ifm-navbar-item-padding-vertical) var(--ifm-navbar-item-padding-horizontal);
 }
 
 .navbar__inner .github-button *,
@@ -98,21 +115,3 @@ table {
 .markdown h1:first-child {
   --ifm-h1-font-size: 2.2rem;
 }
-
-/* Dropdown menu container */
-.navbar__item.dropdown:hover .dropdown__menu {
-  background-color: #252534;
-}
-
-/* Dropdown menu items */
-.dropdown__menu .dropdown__link {
-  color: #ffffff;
-  padding: 8px 12px;
-}
-
-/* Hover effect for dropdown menu items */
-.dropdown__menu .dropdown__link:hover {
-  background-color: #41304a; /* Slightly lighter color for hover */
-  color: #ffffff;
-}
-
