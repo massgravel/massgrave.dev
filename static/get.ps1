@@ -1,15 +1,26 @@
 # Check massgrave.dev for more details
 
-$ErrorActionPreference = "Stop"
-
 write-host
 Write-Host "The current command (irm https://massgrave.dev/get | iex) will be retired in the future."
 Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
 write-host
 
-# Enable TLSv1.2 for compatibility with older clients for current session
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+function CheckFile {
+    if (-not (Test-Path -Path $FilePath)) {
+        Check3rdAV
+        Write-Warning "Failed to create MAS file in temp folder, aborting!`n`nHelp - https://massgrave.dev/troubleshoot"
+        throw
+    }
+}
 
+function Check3rdAV {
+    $avList = Get-CimInstance -Namespace root\SecurityCenter2 -Class AntiVirusProduct | Where-Object { $_.displayName -notlike '*windows*' } | Select-Object -ExpandProperty displayName
+    if ($avList) {
+        Write-Warning "Installed 3rd party Antivirus might be blocking the script: $($avList -join ', ')"
+    }
+}
+
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $URLs = @(
     'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/f1ddb83df092478741344fc55351a65cf6eeafd8/MAS/All-In-One-Version-KL/MAS_AIO.cmd',
     'https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=f1ddb83df092478741344fc55351a65cf6eeafd8',
@@ -17,16 +28,11 @@ $URLs = @(
 )
 
 foreach ($URL in $URLs | Sort-Object { Get-Random }) {
-    try {
-        $response = Invoke-WebRequest -Uri $URL -UseBasicParsing
-        break
-    }
-    catch {
-        # Do nothing
-    }
+    try { $response = Invoke-WebRequest -Uri $URL -UseBasicParsing; break } catch {}
 }
 
-if ($null -eq $response) {
+if (-not $response) {
+    Check3rdAV
     Write-Warning "Failed to retrieve MAS from any of the available repositories, aborting!`n`nHelp - https://massgrave.dev/troubleshoot"
     return
 }
@@ -56,15 +62,12 @@ foreach ($path in $paths) {
 $rand = [Guid]::NewGuid().Guid
 $isAdmin = [bool]([Security.Principal.WindowsIdentity]::GetCurrent().Groups -match 'S-1-5-32-544')
 $FilePath = if ($isAdmin) { "$env:SystemRoot\Temp\MAS_$rand.cmd" } else { "$env:USERPROFILE\AppData\Local\Temp\MAS_$rand.cmd" }
+Set-Content -Path $FilePath -Value "@::: $rand `r`n$response"
 
-$ScriptArgs = "$args "
-$prefix = "@::: $rand `r`n"
-$content = $prefix + $response
-Set-Content -Path $FilePath -Value $content
-
-# Set ComSpec variable for current session in case its corrupt in the system
+CheckFile
 $env:ComSpec = "$env:SystemRoot\system32\cmd.exe"
-Start-Process cmd.exe "/c """"$FilePath"" $ScriptArgs""" -Wait
+Start-Process -FilePath $env:ComSpec -ArgumentList "/c """"$FilePath"" $args""" -Wait
 
+CheckFile
 $FilePaths = @("$env:SystemRoot\Temp\MAS*.cmd", "$env:USERPROFILE\AppData\Local\Temp\MAS*.cmd")
 foreach ($FilePath in $FilePaths) { Get-Item $FilePath | Remove-Item }
