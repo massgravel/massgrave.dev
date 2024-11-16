@@ -5,9 +5,8 @@ All download links lead to genuine files only.
 ## Notes
 
 -   You need ARM64 processor (CPU) to install Windows ARM64 architecture OS.
--   Microsoft does not provide free public download links for Windows ARM64 architecture ISO's. They provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   On VLSC, they release business ISO's (No Home level editions) and on MVS, they release IoT versions for ARM64.
--   Alternatively, you can create ARM64 ISO from [UUPdump](https://uupdump.net/) or [ESD](https://worproject.com/esd) file.
+-   Windows 11 24H2 ARM64 Consumer ISO's are available for [free to download](https://www.microsoft.com/software-download/windows11arm64), while Business ISOs are not available for free. Microsoft provides them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
+-   Alternatively, you can create ARM64 ISO from the [ESD](https://worproject.com/esd) file.
 -   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
@@ -27,46 +26,8 @@ import TabItem from '@theme/TabItem';
 
 Build - 26100.1742
 
-| Language               | Arch | Link                                                                                                                                                                                                                 |
-|:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                 | ARM64 | [ar-sa_windows_11_consumer_editions_version_24h2_arm64_dvd_331e352e.iso](https://drive.massgrave.dev/ar-sa_windows_11_consumer_editions_version_24h2_arm64_dvd_331e352e.iso) |
-| Bulgarian              | ARM64 | [bg-bg_windows_11_consumer_editions_version_24h2_arm64_dvd_ad0f4159.iso](https://drive.massgrave.dev/bg-bg_windows_11_consumer_editions_version_24h2_arm64_dvd_ad0f4159.iso) |
-| Czech                  | ARM64 | [cs-cz_windows_11_consumer_editions_version_24h2_arm64_dvd_09e9a65d.iso](https://drive.massgrave.dev/cs-cz_windows_11_consumer_editions_version_24h2_arm64_dvd_09e9a65d.iso) |
-| Danish                 | ARM64 | [da-dk_windows_11_consumer_editions_version_24h2_arm64_dvd_cfc9f7d2.iso](https://drive.massgrave.dev/da-dk_windows_11_consumer_editions_version_24h2_arm64_dvd_cfc9f7d2.iso) |
-| German                 | ARM64 | [de-de_windows_11_consumer_editions_version_24h2_arm64_dvd_77817e34.iso](https://drive.massgrave.dev/de-de_windows_11_consumer_editions_version_24h2_arm64_dvd_77817e34.iso) |
-| Greek                  | ARM64 | [el-gr_windows_11_consumer_editions_version_24h2_arm64_dvd_7ff49fe0.iso](https://drive.massgrave.dev/el-gr_windows_11_consumer_editions_version_24h2_arm64_dvd_7ff49fe0.iso) |
-| English-United Kingdom | ARM64 | [en-gb_windows_11_consumer_editions_version_24h2_arm64_dvd_2fb276c5.iso](https://drive.massgrave.dev/en-gb_windows_11_consumer_editions_version_24h2_arm64_dvd_2fb276c5.iso) |
-| English                | ARM64 | [en-us_windows_11_consumer_editions_version_24h2_arm64_dvd_4cc70bf6.iso](https://drive.massgrave.dev/en-us_windows_11_consumer_editions_version_24h2_arm64_dvd_4cc70bf6.iso) |
-| Spanish                | ARM64 | [es-es_windows_11_consumer_editions_version_24h2_arm64_dvd_b0586d9e.iso](https://drive.massgrave.dev/es-es_windows_11_consumer_editions_version_24h2_arm64_dvd_b0586d9e.iso) |
-| Spanish-Mexico         | ARM64 | [es-mx_windows_11_consumer_editions_version_24h2_arm64_dvd_29df5eac.iso](https://drive.massgrave.dev/es-mx_windows_11_consumer_editions_version_24h2_arm64_dvd_29df5eac.iso) |
-| Estonian               | ARM64 | [et-ee_windows_11_consumer_editions_version_24h2_arm64_dvd_0895b4c2.iso](https://drive.massgrave.dev/et-ee_windows_11_consumer_editions_version_24h2_arm64_dvd_0895b4c2.iso) |
-| Finnish                | ARM64 | [fi-fi_windows_11_consumer_editions_version_24h2_arm64_dvd_030941fb.iso](https://drive.massgrave.dev/fi-fi_windows_11_consumer_editions_version_24h2_arm64_dvd_030941fb.iso) |
-| French-Canada          | ARM64 | [fr-ca_windows_11_consumer_editions_version_24h2_arm64_dvd_08e2b30e.iso](https://drive.massgrave.dev/fr-ca_windows_11_consumer_editions_version_24h2_arm64_dvd_08e2b30e.iso) |
-| French                 | ARM64 | [fr-fr_windows_11_consumer_editions_version_24h2_arm64_dvd_f7d51069.iso](https://drive.massgrave.dev/fr-fr_windows_11_consumer_editions_version_24h2_arm64_dvd_f7d51069.iso) |
-| Hebrew                 | ARM64 | [he-il_windows_11_consumer_editions_version_24h2_arm64_dvd_24838d6b.iso](https://drive.massgrave.dev/he-il_windows_11_consumer_editions_version_24h2_arm64_dvd_24838d6b.iso) |
-| Croatian               | ARM64 | [hr-hr_windows_11_consumer_editions_version_24h2_arm64_dvd_260e2f8a.iso](https://drive.massgrave.dev/hr-hr_windows_11_consumer_editions_version_24h2_arm64_dvd_260e2f8a.iso) |
-| Hungarian              | ARM64 | [hu-hu_windows_11_consumer_editions_version_24h2_arm64_dvd_981626d6.iso](https://drive.massgrave.dev/hu-hu_windows_11_consumer_editions_version_24h2_arm64_dvd_981626d6.iso) |
-| Italian                | ARM64 | [it-it_windows_11_consumer_editions_version_24h2_arm64_dvd_30f0547d.iso](https://drive.massgrave.dev/it-it_windows_11_consumer_editions_version_24h2_arm64_dvd_30f0547d.iso) |
-| Japanese               | ARM64 | [ja-jp_windows_11_consumer_editions_version_24h2_arm64_dvd_f5fc9b3e.iso](https://drive.massgrave.dev/ja-jp_windows_11_consumer_editions_version_24h2_arm64_dvd_f5fc9b3e.iso) |
-| Korean                 | ARM64 | [ko-kr_windows_11_consumer_editions_version_24h2_arm64_dvd_5dddc52e.iso](https://drive.massgrave.dev/ko-kr_windows_11_consumer_editions_version_24h2_arm64_dvd_5dddc52e.iso) |
-| Lithuanian             | ARM64 | [lt-lt_windows_11_consumer_editions_version_24h2_arm64_dvd_e83cfe4c.iso](https://drive.massgrave.dev/lt-lt_windows_11_consumer_editions_version_24h2_arm64_dvd_e83cfe4c.iso) |
-| Latvian                | ARM64 | [lv-lv_windows_11_consumer_editions_version_24h2_arm64_dvd_0028b5e8.iso](https://drive.massgrave.dev/lv-lv_windows_11_consumer_editions_version_24h2_arm64_dvd_0028b5e8.iso) |
-| Norwegian-Bokmal       | ARM64 | [nb-no_windows_11_consumer_editions_version_24h2_arm64_dvd_1df6aff1.iso](https://drive.massgrave.dev/nb-no_windows_11_consumer_editions_version_24h2_arm64_dvd_1df6aff1.iso) |
-| Dutch-Netherlands      | ARM64 | [nl-nl_windows_11_consumer_editions_version_24h2_arm64_dvd_2a794237.iso](https://drive.massgrave.dev/nl-nl_windows_11_consumer_editions_version_24h2_arm64_dvd_2a794237.iso) |
-| Polish                 | ARM64 | [pl-pl_windows_11_consumer_editions_version_24h2_arm64_dvd_80af0fd7.iso](https://drive.massgrave.dev/pl-pl_windows_11_consumer_editions_version_24h2_arm64_dvd_80af0fd7.iso) |
-| Portuguese-Brazil      | ARM64 | [pt-br_windows_11_consumer_editions_version_24h2_arm64_dvd_0648fb13.iso](https://drive.massgrave.dev/pt-br_windows_11_consumer_editions_version_24h2_arm64_dvd_0648fb13.iso) |
-| Portuguese-Portugal    | ARM64 | [pt-pt_windows_11_consumer_editions_version_24h2_arm64_dvd_223f3f3a.iso](https://drive.massgrave.dev/pt-pt_windows_11_consumer_editions_version_24h2_arm64_dvd_223f3f3a.iso) |
-| Romanian               | ARM64 | [ro-ro_windows_11_consumer_editions_version_24h2_arm64_dvd_78f3a92a.iso](https://drive.massgrave.dev/ro-ro_windows_11_consumer_editions_version_24h2_arm64_dvd_78f3a92a.iso) |
-| Russian                | ARM64 | [ru-ru_windows_11_consumer_editions_version_24h2_arm64_dvd_8e4d44aa.iso](https://drive.massgrave.dev/ru-ru_windows_11_consumer_editions_version_24h2_arm64_dvd_8e4d44aa.iso) |
-| Slovak                 | ARM64 | [sk-sk_windows_11_consumer_editions_version_24h2_arm64_dvd_c8c147d6.iso](https://drive.massgrave.dev/sk-sk_windows_11_consumer_editions_version_24h2_arm64_dvd_c8c147d6.iso) |
-| Slovenian              | ARM64 | [sl-si_windows_11_consumer_editions_version_24h2_arm64_dvd_f4e5671d.iso](https://drive.massgrave.dev/sl-si_windows_11_consumer_editions_version_24h2_arm64_dvd_f4e5671d.iso) |
-| Serbian-Latin          | ARM64 | [sr-latn-rs_windows_11_consumer_editions_version_24h2_arm64_dvd_489179df.iso](https://drive.massgrave.dev/sr-latn-rs_windows_11_consumer_editions_version_24h2_arm64_dvd_489179df.iso) |
-| Swedish                | ARM64 | [sv-se_windows_11_consumer_editions_version_24h2_arm64_dvd_fa42c0cc.iso](https://drive.massgrave.dev/sv-se_windows_11_consumer_editions_version_24h2_arm64_dvd_fa42c0cc.iso) |
-| Thai                   | ARM64 | [th-th_windows_11_consumer_editions_version_24h2_arm64_dvd_abb88faa.iso](https://drive.massgrave.dev/th-th_windows_11_consumer_editions_version_24h2_arm64_dvd_abb88faa.iso) |
-| Turkish                | ARM64 | [tr-tr_windows_11_consumer_editions_version_24h2_arm64_dvd_ea2494b5.iso](https://drive.massgrave.dev/tr-tr_windows_11_consumer_editions_version_24h2_arm64_dvd_ea2494b5.iso) |
-| Ukranian               | ARM64 | [uk-ua_windows_11_consumer_editions_version_24h2_arm64_dvd_70fa6caf.iso](https://drive.massgrave.dev/uk-ua_windows_11_consumer_editions_version_24h2_arm64_dvd_70fa6caf.iso) |
-| Chinese-Simplified     | ARM64 | [zh-cn_windows_11_consumer_editions_version_24h2_arm64_dvd_4b5c8070.iso](https://drive.massgrave.dev/zh-cn_windows_11_consumer_editions_version_24h2_arm64_dvd_4b5c8070.iso) |
-| Chinese-Taiwan         | ARM64 | [zh-tw_windows_11_consumer_editions_version_24h2_arm64_dvd_fa6b02d0.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_24h2_arm64_dvd_fa6b02d0.iso) |
+MSDL https://msdl.gravesoft.dev/#3131 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
+You can also download the ISO from https://www.microsoft.com/software-download/windows11arm64
 
 ------------------------------------------------------------------------
 
