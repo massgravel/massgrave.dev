@@ -105,16 +105,23 @@ Alternatively, you can download AppxBundle installer from https://store.rg-adgua
 Also known as ConfigMgr, Microsoft Endpoint Configuration Manager (MECM).  
 Formerly known as Systems Management Server (SMS), System Center Configuration Manager (SCCM). [More info](https://craigtwall.com/how-sccm-became-memcm-or-just-configmgr/) on name changes.  
 
-**Microsoft Configuration Manager (Current Branch – version 2303)**
+**Microsoft Configuration Manager (Current Branch)**
 
 Download - https://www.microsoft.com/evalcenter/evaluate-microsoft-endpoint-configuration-manager  
 Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
 
+## System Center 2025
+
+Download - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2025    
+Activation Key - Not available
+
+------------------------------------------------------------------------
+
 ## System Center 2022
 
-Download - https://www.microsoft.com/evalcenter/evaluate-system-center-2022  
+Download - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2022  
 Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
