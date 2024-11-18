@@ -10,7 +10,7 @@ function CheckFile {
         Check3rdAV
         Write-Host "Failed to create MAS file in temp folder, aborting!"
         Write-Host "Help - https://massgrave.dev/troubleshoot" -ForegroundColor White -BackgroundColor Blue
-        try { throw } catch {}
+        throw
     }
 }
 
