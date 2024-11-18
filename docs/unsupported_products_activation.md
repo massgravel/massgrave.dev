@@ -1,6 +1,12 @@
 # Unsupported Products Activation
 
-In this page, those product activation methods are mentioned which are not supported by MAS.
+:::info
+
+- On this page, only those product activation methods are mentioned that are **not supported by [MAS](intro.md) script**.
+- If you are unsure, run [MAS](intro.md) script activation options first.
+- You can connect with us [here](contactus.md) if you need help.
+
+:::
 
 ## MS Office For Mac
 
@@ -12,7 +18,7 @@ In this page, those product activation methods are mentioned which are not suppo
 
 -   Download Windows 7 - [Link](windows_7_links.md)
 -   **Activation**
-	-	MAS online KMS option supports Windows 7 Pro and Enterprise.
+	-	**[MAS online KMS](intro.md) option supports Windows 7 Pro and Enterprise.**
 	-	To activate other Windows 7 editions in,  
 		-	Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
 		-	UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
@@ -56,6 +62,28 @@ In this page, those product activation methods are mentioned which are not suppo
 
 -   Download Office 2007 Enterprise - [Link](office_msi_links.md#office-2007-enterprise)
 -	Activation key - `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
+
+------------------------------------------------------------------------
+
+## Remote Desktop Services / Client Access Licenses (RDS CALs)
+
+**Installation**  
+https://learn.microsoft.com/windows-server/remote/remote-desktop-services/rds-activate-license-server
+
+**Activation**  
+There is no validation during the activation of RDS licenses.
+
+-  Open "Remote Desktop Licensing Manager"
+-  Right-click the server and click "Activate Server"
+-  Select the connection method of choice and click next (default is fine)
+-  Fill the first company information with garbage and click next
+-  Leave the next page blank and click next
+-  The wizard should complete and say "The license server has been successfully activated"
+-  Keep "Start Install Licenses Wizard" checked and click next until it asks you to select a "License program"
+-  Change the License Program to "Service Provider License Agreement" in the dropdown and click next
+-  Set the agreement number to `1234567` and click next
+-  Fill out the next page with your chosen values and click next
+-  The license wizard should report "The requested licenses have been successfully installed"
 
 ------------------------------------------------------------------------
 
@@ -112,18 +140,19 @@ Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
 
-## System Center 2025
+## System Center
 
-Download - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2025    
-Activation Key - Not available
+- Download  
+  - System Center 2025 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2025    
+  - System Center 2022 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2022  
+  - System Center 2019 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2019  
 
-------------------------------------------------------------------------
-
-## System Center 2022
-
-Download - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2022  
-Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
+- Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
+
+:::tip
 
 -   If you need help with some other Microsoft products, reach out to us [here](contactus.md).
+
+:::
