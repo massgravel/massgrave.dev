@@ -8,15 +8,17 @@ write-host
 function CheckFile {
     if (-not (Test-Path -Path $FilePath)) {
         Check3rdAV
-        Write-Warning "Failed to create MAS file in temp folder, aborting!`n`nHelp - https://massgrave.dev/troubleshoot"
-        throw
+        Write-Host "Failed to create MAS file in temp folder, aborting!"
+        Write-Host "Help - https://massgrave.dev/troubleshoot" -ForegroundColor White -BackgroundColor Blue
+        try { throw } catch {}
     }
 }
 
 function Check3rdAV {
     $avList = Get-CimInstance -Namespace root\SecurityCenter2 -Class AntiVirusProduct | Where-Object { $_.displayName -notlike '*windows*' } | Select-Object -ExpandProperty displayName
     if ($avList) {
-        Write-Warning "Installed 3rd party Antivirus might be blocking the script: $($avList -join ', ')"
+        Write-Host '3rd party Antivirus might be blocking the script - ' -ForegroundColor White -BackgroundColor Blue -NoNewline
+        Write-Host " $($avList -join ', ')" -ForegroundColor DarkRed -BackgroundColor White
     }
 }
 
@@ -33,7 +35,8 @@ foreach ($URL in $URLs | Sort-Object { Get-Random }) {
 
 if (-not $response) {
     Check3rdAV
-    Write-Warning "Failed to retrieve MAS from any of the available repositories, aborting!`n`nHelp - https://massgrave.dev/troubleshoot"
+    Write-Host "Failed to retrieve MAS from any of the available repositories, aborting!"
+    Write-Host "Help - https://massgrave.dev/troubleshoot" -ForegroundColor White -BackgroundColor Blue
     return
 }
 
