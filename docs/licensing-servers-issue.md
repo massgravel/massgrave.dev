@@ -1,7 +1,7 @@
 # Licensing Servers Issue
 
--   In some cases, **HWID activation** may fail because the system couldn't connect to HWID licensing servers.
--   The activation script will inform you about this if that is the case. We suggest following the below guide only when the script tells you to do so.
+In some cases, **HWID activation** may fail because the system couldn't connect to HWID licensing servers. The activation script will inform you about this if that is the case.
+We suggest following the below guide only when the script tells you to do so.
 
 ------------------------------------------------------------------------
 
@@ -13,11 +13,23 @@
 
 ------------------------------------------------------------------------
 
-## VPN
+## Firewall / Proxy Reset
 
--	Download [Windscribe VPN](https://windscribe.com/download/) for Windows and install.
--	It will require you to signup, you can do that without email ID. After that, login in the app, connect, and try HWID activation.
--   If the VPN is not connecting, use another Internet connection such as your Mobile phone through USB Tethering or Wi-Fi Hotspot, and try HWID activation.
--   If HWID activation is still not working then check [here](troubleshoot.md) for help.
+- Open Powershell as admin and enter below commands,
+
+```
+netsh int ip reset
+netsh winsock reset
+netsh advfirewall reset
+netsh winhttp reset proxy
+bitsadmin /util /setieproxy localsystem NO_PROXY RESET
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name ProxyEnable -Type DWord -Value 0
+Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name ProxyServer -Type String -Value ""
+ipconfig /flushdns
+```
+
+-   Restart your system and try HWID Activation.
 
 ------------------------------------------------------------------------
+
+-   If HWID activation is still not working then check [here](troubleshoot.md) for help.
