@@ -198,7 +198,6 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 | Professional      | FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4 |
 | ProfessionalN     | MRPKT-YTG23-K7D7T-X2JMM-QY7MG |
 | Embedded_POSReady | YBYF6-BHCR3-JPKRB-CDW7B-F9BK4 |
-| Embedded_Standard | XGY72-BRBBT-FF8MH-2GG8H-W7KCW |
 | Embedded_ThinPC   | 73KQT-CD9G6-K7TQG-66MRP-CQ22C |
 | ProfessionalE     | W82YF-2Q76Y-63HXB-FGJG9-GF7QX |
 | EnterpriseE       | C29WB-22CC8-VJ326-GHFJW-H9DH4 |
