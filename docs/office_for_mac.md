@@ -170,21 +170,21 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 | Language  | Link                                                                                                                                                                             |
 |:----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ChnSimp   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso)     |
-| ChnTrad   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso)     |
-| Danish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso)       |
-| Dutch     | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso)         |
-| English   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso)     |
-| Finnish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso)     |
-| French    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso)       |
-| German    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso)       |
-| Italian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso)     |
-| Japanese  | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso)   |
-| Norwegian | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso) |
-| Polish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso)       |
-| Russian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso)     |
-| Spanish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso)     |
-| Swedish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso](https://drive.activated.win/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso)     |
+| ChnSimp   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso)     |
+| ChnTrad   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso)     |
+| Danish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso)       |
+| Dutch     | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso)         |
+| English   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso)     |
+| Finnish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso)     |
+| French    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso)       |
+| German    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso)       |
+| Italian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso)     |
+| Japanese  | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso)   |
+| Norwegian | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso) |
+| Polish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso)       |
+| Russian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso)     |
+| Spanish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso)     |
+| Swedish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso)     |
 
 </TabItem>
 </Tabs>
@@ -208,12 +208,12 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 | Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
-| Office 2024       | [pkg](https://drive.activated.win/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura                                      |
-| Office 2021       | [pkg](https://drive.activated.win/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
-| Office 2019 (Old) | [pkg](https://drive.activated.win/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
-| Office 2016 (Old) | [pkg](https://drive.activated.win/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
-| Office 2019 (New) | [pkg](https://drive.activated.win/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
-| Office 2016 (New) | [pkg](https://drive.activated.win/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.activated.win/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                               |
+| Office 2024       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura                                      |
+| Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
+| Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
+| Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
+| Office 2016 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                               |
 
 :::tip
 
