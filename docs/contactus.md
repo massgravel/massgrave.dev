@@ -4,6 +4,7 @@ Please feel free to share feedback regarding bug reports, documentation errors, 
 
 -   [Discord](https://discord.gg/j2yFsV5ZVC) ❤️ (signup not required) - Discussion
 -   [Reddit](https://www.reddit.com/r/MAS_Activator/)
+-   [Bluesky](https://bsky.app/profile/massgrave.dev)
 -   [Twitter](https://twitter.com/massgravel)
 -   [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 -   Email: mas.help@outlook.com
