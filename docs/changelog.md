@@ -2,6 +2,17 @@
 
 ------------------------------------------------------------------------
 
+## 2.9
+
+**Bug fixes**
+
+- Fixed an issue in changing eval server edition when key is not installed.
+- Added troubleshooting info in case required services are corrupt.
+- Updated 365 Office editions key to bypass login prompt in ohook.
+- Added better info in case Windows update is not working when HWID activation fails.
+
+------------------------------------------------------------------------
+
 ## 2.8
 
 **UWP Office support and bug fixes**

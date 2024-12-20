@@ -1,5 +1,12 @@
 # News
 
+### [20-Dec-24] MAS 2.9 update is released  
+[changelog](changelog.md)
+
+### [19-Nov-24] Added November updated ISO's  
+Windows 10 22H2 / Windows 11 24H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media
+
 ### [9-Nov-24] MAS 2.8 update is released  
 [changelog](changelog.md)
 

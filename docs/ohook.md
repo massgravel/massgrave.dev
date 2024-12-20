@@ -83,9 +83,9 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 | Office Version | Office Product                  | Generated Generic Key         | Key Type      |
 |----------------|---------------------------------|-------------------------------|---------------|
 | v15.0 (O365)   | O365BusinessRetail              | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T | SubTest       |
-| v15.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
+| v15.0 (O365)   | O365HomePremRetail              | 3NMDC-G7C3W-68RGP-CB4MH-4CXCH | SubTest1      |
 | v15.0 (O365)   | O365ProPlusRetail               | H8DN8-Y2YP3-CR9JT-DHDR9-C7GP3 | Subscription2 |
-| v15.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
+| v15.0 (O365)   | O365SmallBusPremRetail          | 2QCNB-RMDKJ-GC8PB-7QGQV-7QTQJ | Subscription2 |
 
 ### Office 365 (16.0)
 
@@ -93,9 +93,9 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 |----------------|---------------------------------|-------------------------------|---------------|
 | v16.0 (O365)   | O365BusinessRetail              | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T | SubTest       |
 | v16.0 (O365)   | O365EduCloudRetail              | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
-| v16.0 (O365)   | O365HomePremRetail              | J2W28-TN9C8-26PWV-F7J4G-72XCB | Subscription1 |
+| v16.0 (O365)   | O365HomePremRetail              | 3NMDC-G7C3W-68RGP-CB4MH-4CXCH | SubTest1      |
 | v16.0 (O365)   | O365ProPlusRetail               | H8DN8-Y2YP3-CR9JT-DHDR9-C7GP3 | Subscription2 |
-| v16.0 (O365)   | O365SmallBusPremRetail          | HN8JP-87TQJ-PBF3P-Y66KC-W2K9V | Subscription1 |
+| v16.0 (O365)   | O365SmallBusPremRetail          | 2QCNB-RMDKJ-GC8PB-7QGQV-7QTQJ | Subscription2 |
 
 ### Office 2016 (16.0)
 
