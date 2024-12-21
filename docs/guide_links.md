@@ -10,6 +10,7 @@ If you are facing any error, the script should tell you which guide you need to 
 -   [Fix WPA Registry](https://gravesoft.dev/fix-wpa-registry)
 -   [Licensing Servers Issue](licensing-servers-issue.md)
 -   [Issues Due To Gaming Spoofers](issues_due_to_gaming_spoofers.md)
+-   [Fix Windows Services](fix_service.md)
 -   [Change Edition Issues](change_edition_issues.md)
 -   [Windows Evaluation Editions](evaluation_editions.md)
 -   [Fix Powershell](https://gravesoft.dev/fix_powershell)
