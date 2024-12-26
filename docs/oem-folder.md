@@ -41,6 +41,19 @@ To create a pre-activated Windows installation .iso, do the following:
 
 ------------------------------------------------------------------------
 
+##  Preinstall Office
+
+-	Follow this [guide](https://gravesoft.dev/office_c2r_custom) and download the Office files.
+- 	Copy the downloaded `Office` folder and `setup.exe` files located beside the Configuration.xml file, and paste them into the $OEM$ folder, beside the `setupcomplete.cmd` file.
+-	Open the `setupcomplete.cmd` file with notepad and add the below lines after `fltmc >nul || exit /b` line.
+	```
+	cd /d "%~dp0"
+	setup.exe /configure Configuration.xml
+	```
+- 	Save the $OEM$ folder into the ISO as per above instructions, that's it.
+
+------------------------------------------------------------------------
+
 ## HWID
 
 -   When using HWID activation, no files are stored on the system, and Windows 10-11 will be activated when connected to the internet for the first time.
