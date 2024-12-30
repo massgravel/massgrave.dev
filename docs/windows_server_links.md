@@ -38,31 +38,27 @@ Note: You need to rename extension to .iso after file is downloaded.
 | Chinese-Simplified  | x64  | [X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso_c0a03233-3c87-4c90-9fac-9cbf668255c1?t=fdfcc05d-ef3b-45a4-8f87-cd492f6d10de&P1=102817441905&P2=601&P3=2&P4=phtRoTOxQBx%2bH5nhSijWBQw9deo3wwkODOj9HbwaH1%2fC%2bYTg5C7FrUUduOXIC9TzweFPlCY0YlpXM1ZD%2fj3dYrYwBbRnCeeDOvzHTjIMoZvtjfKHH%2bfI3IdPFJBa6gv5sL69QQFUUmaWqRHCTT81p6IYcNwuwOUrNW9u3BVttXiQNIAX9XrrYbWAHHmfkLW3wR2YdstEsFxF8sIQ4w1V6Znm3B7NO7Rv%2fjk3nyhQ9zzMjZFjdIlkZg4NbAhYE12EZr9pHHR0AHQeW2%2fN%2fVhGjoaYWYjHMTtfNV48EJbeQoQKrrfdLTQ%2fHk6%2bGUxO5D8xCPfkr0vpr7oBo2uICepJ3w%3d%3d)                   |
 | Chinese-Taiwan      | x64  | [X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso_731ec99c-0ae2-483c-afed-710e3a0750b3?t=c3b71371-8723-4813-a386-bc318bceeb76&P1=102817441907&P2=601&P3=2&P4=KuAEtUuMYLfQx87GAmqpib39D%2btSY5MZeQGwPC05VTmqP%2fsfU7dXKrzBMpuHixmU91%2f1lO%2flfwhkPa9xnm24%2fDP4GyTrKqe3XP44IvPDS%2b4zfL%2fy%2fJhFxnlY8xnXOp%2f8aCQxgJcREil%2f8AlGPnX0%2fe3H12UIqMg84a97IESvHBBarYIvtHl3itix8vlEqC%2fq60EVzQh2jSgr9zBejd2homnuYbgMpgv1LZkN7NDG6zL1%2f8hvnENJ%2bkpK9OZmXNC7e49yJigT%2ffBnnPtTqlDv7qzVEAplS1vc522GMjqJdf4%2bueXjcsZohDHHzparCp5Nxy4kTStUDRL3LqPT5LEcKw%3d%3d)       |
 
-------------------------------------------------------------------------
-
-Build - 26100.2314 (Nov 2024)    
-The below files are taken from MVS and hosted on massgrave site.
-
-| Language            | Arch | Link                                                                                                                                                           |
-|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| German              | x64  | [de-de_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/de-de_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| English             | x64  | [en-us_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/en-us_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Spanish             | x64  | [es-es_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/es-es_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| French              | x64  | [fr-fr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/fr-fr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/hu-hu_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Italian             | x64  | [it-it_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/it-it_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/ja-jp_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/ko-kr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/nl-nl_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/pl-pl_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/pt-br_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/pt-pt_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/ru-ru_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/sv-se_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/tr-tr_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/zh-cn_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
-| Chinese-Taiwan      | x64  | [zh-tw_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso](https://drive.massgrave.dev/zh-tw_windows_server_2025_updated_nov_2024_x64_dvd_ccbcec44.iso) |
+Above OEM files have same checksums as the below MVS files. Only name is changed.  
+```
+cs-cz_windows_server_2025_x64_dvd_4f54e1b0.iso
+de-de_windows_server_2025_x64_dvd_5282a882.iso
+en-us_windows_server_2025_x64_dvd_b7ec10f3.iso
+es-es_windows_server_2025_x64_dvd_c15f0ce2.iso
+fr-fr_windows_server_2025_x64_dvd_bd6be507.iso
+hu-hu_windows_server_2025_x64_dvd_e13eb8bf.iso
+it-it_windows_server_2025_x64_dvd_98437899.iso
+ja-jp_windows_server_2025_x64_dvd_7a2e979b.iso
+ko-kr_windows_server_2025_x64_dvd_85109737.iso
+nl-nl_windows_server_2025_x64_dvd_5c3218f3.iso
+pl-pl_windows_server_2025_x64_dvd_aa368cf8.iso
+pt-br_windows_server_2025_x64_dvd_66107129.iso
+pt-pt_windows_server_2025_x64_dvd_62bb3c31.iso
+ru-ru_windows_server_2025_x64_dvd_2dfe1679.iso
+sv-se_windows_server_2025_x64_dvd_512bf117.iso
+tr-tr_windows_server_2025_x64_dvd_a03fe256.iso
+zh-cn_windows_server_2025_x64_dvd_1d93dd12.iso
+zh-tw_windows_server_2025_x64_dvd_6d2c01e3.iso
+```
 
 ------------------------------------------------------------------------
 
