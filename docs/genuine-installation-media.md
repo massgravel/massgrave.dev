@@ -6,7 +6,7 @@ All download links available on our website lead to genuine files only.
 
 :::
 
-**Download Windows**  
+## Download Windows
 -  [Windows 11](windows_11_links.md)                                                                                                                                                              
 -  [Windows 10](windows_10_links.md)                                                                                                                                                              
 -  [Windows 10 / 11 Enterprise **LTSC**](windows_ltsc_links.md)                                                                                                                                   
@@ -18,17 +18,38 @@ All download links available on our website lead to genuine files only.
 -  [Windows Server](windows_server_links.md)                                                                                                                                                      
 -  Windows Insider [10 / 11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver)
 
-**Download Office**  
+## Download Office
 -  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️  
 -  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom)
 -  [Office MSI VL (Old versions)](office_msi_links.md)                 
 -  [Office For **Mac**](office_for_mac.md)                             
 
-:::tip
+---
 
-You can contact us [here](https://discord.gg/NpuNEUS2Sh) if you need any other Windows / Office files.
+## FAQ
 
-:::
+#### Guides
+- [How to perform a clean installation of Windows?](https://gravesoft.dev/clean_install_windows)
+- [How to upgrade while keeping your files and apps?](https://gravesoft.dev/in-place_repair_upgrade)
+- [How to officially install Windows 11 on unsupported hardware without issues in future feature updates?](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
+- [Why is the edition list not appearing during the installation, and why is it automatically installing the Home edition?](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)
+
+#### Why are we hosting files on our server when we can download them from Microsoft?
+Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
+
+#### How to ensure that these files are genuine?
+You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine by verifying the checksum available on the official Microsoft website.
+
+#### There are both consumer and business ISOs listed here. What is the difference between them?
+For Windows 10/11 General Availability Channel (GAC) releases (i.e., Home and Pro), Microsoft produces two types of ISO files: Consumer and Business. 
+
+The Consumer ISO includes all editions such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO contains all editions except for the Home-level editions, and these ISO files come with a KMS key pre-installed (not activated) by default.
+
+#### Why are the official monthly ISOs no longer updated on the site?
+It takes too much effort and resources when users can and should simply run Windows updates (cumulative) themselves. We have decided to maintain the same build number as the consumer ISOs publicly provided by Microsoft unless there are issues with them. For example, we provide updated ISOs for Windows 10 to resolve the issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf) when using Microsoft’s official public ISO.
+
+#### How can I obtain an official Microsoft ISO that is not available here?
+You can request the file [here](https://discord.gg/NpuNEUS2Sh).
 
 ---
 
@@ -78,7 +99,7 @@ Microsoft doesn't allow you to download ISO file directly if browser's useragent
 
 ---
 
-### Video Tutorial
+#### Video Tutorial
 
 import ReactPlayer from 'react-player'
 

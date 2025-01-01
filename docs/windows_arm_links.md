@@ -1,13 +1,7 @@
 # Windows ARM64 Download
 
-All download links lead to genuine files only.
-
-## Notes
-
+- [FAQ](genuine-installation-media.md#faq)
 -   You need ARM64 processor (CPU) to install Windows ARM64 architecture OS.
--   Windows 11 24H2 ARM64 Consumer ISO's are available for [free to download](https://www.microsoft.com/software-download/windows11arm64), while Business ISOs are not available for free. Microsoft provides them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   Alternatively, you can create ARM64 ISO from the [ESD](https://worproject.com/esd) file.
--   If you need links for any other Windows/office file which is not listed below, please contact [here](https://discord.gg/NpuNEUS2Sh).
 
 ------------------------------------------------------------------------
 

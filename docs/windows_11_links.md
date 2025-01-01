@@ -1,15 +1,6 @@
 # Windows 11 Download
 
-All download links lead to genuine files only.
-
-## Notes
-
--   For Windows 10/11 GAC (General Availability Channel) releases (I.e. Home, Pro), Microsoft makes 2 kinds of ISO's, Consumer and Business.
--   Consumer ISO's are available for [free to download](https://www.microsoft.com/software-download) and ISO contains almost all the editions such as Home/Pro/Education except Enterprise. On the other hand, Business ISO contains all the editions except Home level editions and these ISO's have KMS key installed by default.
--   If you want to deploy Enterprise edition from the scratch, you need to use Business ISO's.
--   Business ISO's aren't available to download for free. Microsoft provide them on [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page) but for them, you need to pay a high subscription fee. For this reason, we need to host files on 3rd party. You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine.
--   MVS provides monthly updated ISO's for Windows 10/11 and Microsoft's free download [site](https://www.microsoft.com/software-download) often provides ISO's with a couple months old build. It's fine to use that ISO since Windows update will update it anyway, but if you want to download latest genuine ISO's then you can use below links.
--   If you need links for any other Windows/office file, please contact [here](https://discord.gg/NpuNEUS2Sh).
+- [FAQ](genuine-installation-media.md#faq)
 
 ------------------------------------------------------------------------
 
