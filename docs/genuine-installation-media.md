@@ -16,7 +16,7 @@ All download links available on our website lead to genuine files only.
 -  [Windows Vista](windows_vista_links.md)                                                                                                                                                        
 -  [Windows XP](windows_xp_links.md)                                                                                                                                                              
 -  [Windows Server](windows_server_links.md)                                                                                                                                                      
--  Windows Insider [10 / 11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver)
+-  Windows Insider [10-11](https://www.microsoft.com/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/software-download/windowsinsiderpreviewserver) / [(Registration)](https://www.microsoft.com/windowsinsider/getting-started)
 
 ## Download Office
 -  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️  
