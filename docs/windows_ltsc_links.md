@@ -29,6 +29,11 @@ This app is very useful; it includes WinGet, enabling easy installation of .appx
 
 https://apps.microsoft.com/detail/9nblggh4nns1
 
+**It didn't work. What should I do next?**
+
+You can install them using the package provided by abbodi1406.  
+https://github.com/stdin82/htfx/releases/tag/v0.0.24
+
 </details>
 
 <details>
