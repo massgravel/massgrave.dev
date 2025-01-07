@@ -1,5 +1,7 @@
 # Windows Server Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 
 ------------------------------------------------------------------------

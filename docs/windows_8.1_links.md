@@ -1,5 +1,7 @@
 # Windows 8.1 Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 -   In the install process of Windows 8.1 (Core / Pro) ISO, setup will ask to enter the key, you can enter below generic keys for the desired edition.  
     `Windows 8.1 Core: 334NH-RXG76-64THK-C7CKG-D3VPT`  

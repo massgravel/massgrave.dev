@@ -1,5 +1,7 @@
 # Windows Vista Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 -   Below listed ISO have these editions available to choose from when installing Windows.  
     Windows Vista Business  

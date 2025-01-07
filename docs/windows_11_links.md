@@ -1,5 +1,7 @@
 # Windows 11 Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 
 ------------------------------------------------------------------------
@@ -115,7 +117,12 @@ Check [here](windows_ltsc_links.md).
 
 **Old Versions**
 
-https://os.click/
+1) https://os.click/  
+OR  
+2) Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+   - Put the ESD file beside `decrypt.cmd` and run that script.
+   - It will create the ISO file.
+   - This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
 
 ------------------------------------------------------------------------
 

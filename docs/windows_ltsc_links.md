@@ -1,10 +1,6 @@
 # Windows LTSC Download
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-## Notes
-
+All download links lead to genuine files only.
 - [FAQ](genuine-installation-media.md#faq)
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 
@@ -82,6 +78,9 @@ https://github.com/stdin82/htfx/releases/tag/v0.0.24
 
 </details>
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 <details>
   <summary>Differences between IoT and Non-IoT Windows Enterprise LTSC</summary>
 
@@ -130,7 +129,7 @@ https://github.com/stdin82/htfx/releases/tag/v0.0.24
 <TabItem value="Old Versions" label="Old Versions" default>
 
 
-- There are ISOs available for IoT Enterprise LTSC/LTSB 2019, 2016, and 2015, but they only have the Non-IoT LTSC OEM key preinstalled. The installed key is the only difference. There is no real, different IoT edition available for these versions.
+- There are ISOs available for IoT Enterprise LTSC/LTSB 2019, 2016, and 2015, but they only have the Non-IoT LTSC OEM key (generic, not-activated) preinstalled. The installed key is the only difference. There is no real, different IoT edition available for these versions.
 
 </TabItem>
 </Tabs>
@@ -153,7 +152,7 @@ Build - 26100.1742
 
 These ISO's contain below editions.  
 Windows 11 Enterprise LTSC  
-Windows 11 IoT Enterprise LTSC ❤️  
+Windows 11 IoT Enterprise LTSC    
 Windows 11 IoT Enterprise Subscription LTSC
 
 | Language      | Arch  | Link                                                                                                                                                                           |
@@ -218,11 +217,11 @@ Build - 26100.1742
 
 These ISO's contain below editions.    
 Windows 10 Enterprise LTSC  
-Windows 10 IoT Enterprise LTSC ❤️  
+Windows 10 IoT Enterprise LTSC   
 
 | Language | Arch  | Link                                                                                                                                                             |
 | :------- | :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| English  | x64   | [en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso❤️](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   |
+| English  | x64   | [en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso)   |
 
 ---
 
@@ -317,7 +316,7 @@ Windows 10 IoT Enterprise LTSC ❤️
 **Windows 10 IoT Enterprise LTSC 2019**
 
 (Build - 17763.107)  
-It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.
+It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key (generic, not-activated) installed.
 
 | Language | Arch | Link                                                                                                                                                   |
 | :------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -417,7 +416,7 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 **Windows 10 IoT Enterprise LTSB 2016**
 
 (Build - 14393)  
-It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
+It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key (generic, not-activated) installed.  
 This ISO file is taken from the Microsoft's OEM portal.  
 Rename the .IMG extension to .iso.
 
@@ -519,7 +518,7 @@ Rename the .IMG extension to .iso.
 **Windows 10 IoT Enterprise LTSB 2015**
 
 (Build - 10240)  
-It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key installed.  
+It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OEM key (generic, not-activated) installed.  
 This ISO file is taken from the Microsoft's OEM portal.  
 Rename the .IMG extension to .iso.  
 Enter `FWN7H-PF93Q-4GGP8-M8RF3-MDWWW` key while installing Windows.

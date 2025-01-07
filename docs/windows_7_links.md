@@ -1,5 +1,7 @@
 # Windows 7 Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 -   Which Windows 7 edition should you choose?  
     Most important thing we need to consider is the supported activation method.

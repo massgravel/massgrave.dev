@@ -1,5 +1,7 @@
 # Windows ARM64 Download
 
+All download links lead to genuine files only.
+
 - [FAQ](genuine-installation-media.md#faq)
 -   You need ARM64 processor (CPU) to install Windows ARM64 architecture OS.
 
@@ -14,14 +16,13 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="Windows 11 Consumer 24H2" label="Windows 11 Consumer 24H2" default>
+<TabItem value="Windows 11 Consumer 24H2" label="Windows 11 Consumer 24H2 ❤" default>
 
 **Windows 11 Consumer 24H2**
 
 Build - 26100.1742
 
-MSDL https://msdl.gravesoft.dev/#3131 ❤ provides Official links straight from Microsoft, works even if Microsoft is blocking the download to Russian/VPN users.  
-You can also download the ISO from https://www.microsoft.com/software-download/windows11arm64
+**Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3131) / [Microsoft](https://www.microsoft.com/software-download/windows11arm64)
 
 ------------------------------------------------------------------------
 
@@ -116,6 +117,19 @@ ARM64 version for LTSC is available only in English language.
 ------------------------------------------------------------------------
 
 </TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+**Old Versions**
+
+- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- Put the ESD file beside `decrypt.cmd` and run that script.
+- It will create the ISO file.
+- This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
+
+------------------------------------------------------------------------
+
+</TabItem>
 </Tabs>
 
 ### Windows 10
@@ -196,6 +210,19 @@ ARM64 version for LTSC is available only in English language.
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Old Versions" label="Old Versions" default>
+
+**Old Versions**
+
+- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- Put the ESD file beside `decrypt.cmd` and run that script.
+- It will create the ISO file.
+- This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
 
 ------------------------------------------------------------------------
 
