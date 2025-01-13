@@ -16,6 +16,7 @@
 - Follow these steps only if the script crashes after that.
 - Download and extract this Null service registry zip [file](https://app.box.com/s/eczou3mvn6atronnd3nad2sqtb66h0lw).
 - Run the file, restart the system (using the restart button), and try the activation script again.
+- If the issue persists, check if you are using `Comodo Antivirus` or any type of `sandboxing` security software. If so, temporarily disable it and run the script again.
 - If the issue persists, contact us [here](troubleshoot.md).
 
 ---
