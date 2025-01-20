@@ -191,7 +191,6 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 
 **Other Resources**  
 https://learn.microsoft.com/officeupdates/update-history-office-for-mac  
-https://macadmins.software/
 
 ---
 
