@@ -7,7 +7,7 @@ Microsoft provides Windows 10/11 Enterprise and Server in evaluation version.
 
 :::warning
 
-Evaluation editions can not be activated beyond the evaluation period. Avoid using them, download the [full version](genuine-installation-media.md) instead.
+Evaluation editions can not be activated beyond the evaluation period. Avoid using them, download the [full versions](genuine-installation-media.md) instead.
 
 :::
 
