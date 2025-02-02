@@ -77,6 +77,10 @@ Set-Content -Path $FilePath -Value "@::: $rand `r`n$response"
 CheckFile $FilePath
 
 $env:ComSpec = "$env:SystemRoot\system32\cmd.exe"
+$chkcmd = & $env:ComSpec /c "echo CMD is working"
+if ($chkcmd -notcontains "CMD is working") {
+    Write-Warning "cmd.exe is not working.`nReport this issue at https://massgrave.dev/troubleshoot"
+}
 Start-Process -FilePath $env:ComSpec -ArgumentList "/c """"$FilePath"" $args""" -Wait
 CheckFile $FilePath
 
