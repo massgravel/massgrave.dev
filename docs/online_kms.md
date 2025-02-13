@@ -353,7 +353,7 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 ## Unsupported Products
 
 -   Office MSI Retail 2010/2013, Office 2010 C2R Retail
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md).
+-   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md) beyond the evaluation period. You can use TSforge option in MAS to reset the activation any given time.
 -   Server Azure Datacenter (ServerTurbine) edition does not support activation on non-azure systems.
 -   KMS activation on Windows 7 has a limitation related to OEM Activation 2.0 and Windows marker. For more info, see [here](https://support.microsoft.com/en-us/help/942962) and [here](https://technet.microsoft.com/en-us/library/ff793426(v=ws.10).aspx#activation-of-windows-oem-computers).
 -   Windows editions that do not support KMS activation by design:  

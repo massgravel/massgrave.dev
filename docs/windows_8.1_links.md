@@ -9,7 +9,7 @@ All download links lead to genuine files only.
     `Windows 8.1 Core Single Language: Y9NXP-XT8MV-PT9TG-97CT3-9D6TC`  
     `Windows 8.1 Pro: XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB`  
     `Windows 8.1 Pro N: JRBBN-4Q997-H4RM2-H3B7W-Q68KC`  
--   Every edition of Windows 8.1 can be activated with online KMS option in MAS.
+-   **Windows 8.1 can be permanently activated with TSforge option in MAS.**
 -   Windows 8.1 Embedded Enterprise edition doesn't come with preinstalled store apps.
 
 ------------------------------------------------------------------------

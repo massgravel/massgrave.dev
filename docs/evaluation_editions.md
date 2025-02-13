@@ -20,7 +20,7 @@ Both versions are almost the same feature-wise. The main difference lies in the 
 - The evaluation version of Windows typically comes with a 90-day (180-day for Server) trial period.
 - Evaluation Editions cannot be activated outside of the evaluation period. 
 - After the trial period, the system will start showing notifications and may shut down periodically.
-- To be clear, you can not activate it with your genuine key, digital license, KMS, etc.
+- To be clear, you can not permanently activate it with your genuine key, digital license, KMS, etc.
 
 ---
 
@@ -45,7 +45,7 @@ LTSC means long-term servicing channel. Microsoft provides longer update support
 - Now open the command prompt as admin and enter,  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f` 
 - Go into that DVD drive and run setup.exe, continue until you reach the final confirmation screen.
-- Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
+- Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 It will upgrade your eval Windows version to the full version.
 </TabItem>
@@ -61,7 +61,7 @@ GAC means general availability channel, aka normal version.
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f` 
 - Go into that DVD drive and run setup.exe, enter this key if the setup is asking for it `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 - Continue until you reach the final confirmation screen.
-- Make sure it says "**Keep all files and apps**" on the final screen. Then you can continue the process and wait until it is done.
+- Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 It will upgrade your eval Windows version to the full version.
 </TabItem>
@@ -90,12 +90,16 @@ You can repeat this process 2 times (a total of 270 days of activation).
 
 ### Reset the activation at any given time
 
+#### Method -1
+You can use TSforge option in MAS to reset the activation (trial) period at any given time.
+
+#### Method -2
 WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` hold the records of the trial period. By clearing this registry we can simply reset the activation (trial) period at any given time. You can follow below guide to do this.  
 https://gravesoft.dev/fix-wpa-registry
 
 :::note
 
-The eval activation for Windows 10 Enterprise LTSC 2021 is currently not working.
+The eval activation for Windows 10 Enterprise LTSC 2021 is not working because of the incorrect key used by Microsoft. However, TSforge option in MAS can fix this and reset the activation (trial) period.
 
 :::
 

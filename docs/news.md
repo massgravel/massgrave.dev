@@ -1,5 +1,8 @@
 # News
 
+### [14-Feb-25] MAS 3.0 update is released  
+A new method "TSforge" is added, for details check [changelog](changelog.md)    
+
 ### [20-Dec-24] MAS 2.9 update is released  
 [changelog](changelog.md)
 

@@ -6,7 +6,7 @@ sidebar_label: Intro
 
 # Microsoft Activation Scripts (MAS)
 
-Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ---
 
@@ -23,19 +23,12 @@ import TabItem from '@theme/TabItem';
 ```
 irm https://get.activated.win | iex
 ```
-3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
-4.   That's all
-
-<details>
-  <summary>More options</summary>
-
-- Alternatively, you can use the following (It will be deprecated in the future.)  
+Alternatively, you can use the following (It will be deprecated in the future.)  
 ```
 irm https://massgrave.dev/get | iex
 ```
-- The URL `get.activated.win` might be blocked by some DNS services because it is a new domain.
-
-</details>
+3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+4.   That's all
 
 </TabItem>
 <TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
@@ -55,6 +48,14 @@ or
 
 ---
 
+### Not working ❓
+
+- If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
+- If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
+- If you have any issues, please feel free to reach out to us [here](troubleshoot.md).
+
+---
+
 :::note
 
 - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
@@ -67,7 +68,7 @@ or
 
 ## MAS Latest Release
 
-Last Release - v2.9 (20-Dec-2024)  
+Last Release - v3.0 (14-Feb-2025)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
@@ -76,8 +77,9 @@ Last Release - v2.9 (20-Dec-2024)
 
 -   **HWID (Digital License)** Method to Permanently Activate Windows
 -   **Ohook** Method to Permanently Activate Office
--   **KMS38** Method to Activate Windows/Server Till the Year 2038
--   **Online KMS** Method to Activate Windows/Server/Office For 180 Days (Lifetime With Renewal Task)
+-   **TSforge** Method to Permanently Activate Windows/ESU/Office
+-   **KMS38** Method to Activate Windows Till the Year 2038
+-   **Online KMS** Method to Activate Windows/Office For 180 Days (Lifetime With Renewal Task)
 -   Advanced Activation Troubleshooting
 -   $OEM$ Folders For Preactivation
 -   Change Windows Edition
@@ -91,14 +93,15 @@ Last Release - v2.9 (20-Dec-2024)
 
 ## Activations Summary
 
-| Activation Type | Supported Product    | Activation Period                    | Is Internet Needed? |
-|:----------------|:---------------------|:-------------------------------------|:--------------------|
-| HWID            | Windows 10-11        | Permanent                            | Yes                 |
-| Ohook           | Office               | Permanent                            | No                  |
-| KMS38           | Windows 10-11-Server | Till the Year 2038                   | No                  |
-| Online KMS      | Windows / Office     | 180 Days. Lifetime With Renewal Task | Yes                 |
+| Activation Type | Supported Product      | Activation Period                    | Is Internet Needed? |
+|:----------------|:-----------------------|:-------------------------------------|:--------------------|
+| HWID            | Windows 10-11          | Permanent                            | Yes                 |
+| Ohook           | Office                 | Permanent                            | No                  |
+| TSforge         | Windows / ESU / Office | Permanent                            | No                  |
+| KMS38           | Windows 10-11-Server   | Till the Year 2038                   | No                  |
+| Online KMS      | Windows / Office       | 180 Days. Lifetime With Renewal Task | Yes                 |
 
-For more details, use the respective activation details in Docs.  
+For more details, use the respective activation details in Docs and [comparison chart](chart.md).  
 To activate unsupported products such as **Office on Mac**, check [here](unsupported_products_activation.md).
 
 ------------------------------------------------------------------------
@@ -110,6 +113,8 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ![](/img/MAS_HWID.png)
 
 ![](/img/MAS_Ohook.png)
+
+![](/img/MAS_TSforge.png)
 
 ![](/img/MAS_Troubleshoot.png)
 

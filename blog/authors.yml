@@ -17,3 +17,30 @@ may:
   socials:
     github: ave9858
 
+lyssa:
+  name: Lyssa
+  title: Researcher @ MASSGRAVE
+  url: https://github.com/thecatontheceiling
+  image_url: https://avatars.githubusercontent.com/u/75037904
+  page: true
+  socials:
+    github: thecatontheceiling
+
+abbodi1406:
+  name: abbodi1406
+  title: Researcher @ MASSGRAVE
+  url: https://github.com/abbodi1406
+  image_url: https://avatars.githubusercontent.com/u/33669284
+  page: true
+  socials:
+    github: abbodi1406
+
+asdcorp:
+  name: asdcorp
+  title: Research group @ MASSGRAVE
+  url: https://github.com/asdcorp
+  image_url: https://avatars.githubusercontent.com/u/93846094
+  page: true
+  socials:
+    github: asdcorp
+

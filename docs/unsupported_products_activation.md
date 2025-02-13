@@ -14,19 +14,6 @@
 
 ------------------------------------------------------------------------
 
-## Windows 7
-
--   Download Windows 7 - [Link](windows_7_links.md)
--   **Activation**
-	-	**[MAS online KMS](intro.md) option supports Windows 7 Pro and Enterprise.**
-	-	To activate other Windows 7 editions in,  
-		-	Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
-		-	UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
-
-**Note:** loader/slic activators sometimes may cause the system boot issue.
-
-------------------------------------------------------------------------
-
 ## Windows Vista
 
 -   Download Windows Vista - [Link](windows_vista_links.md)

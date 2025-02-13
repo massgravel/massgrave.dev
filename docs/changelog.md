@@ -2,6 +2,35 @@
 
 ------------------------------------------------------------------------
 
+## 3.0
+
+**The Forge Awakens**
+
+#### TSforge:
+
+- A new activation method named TSforge is added to MAS.
+  - For details about the method, see our [documentation](https://massgrave.dev/tsforge) and our [blogpost](https://massgrave.dev/blog).
+  - [Thanks](https://massgrave.dev/credits) to @WitherOrNot @asdcorp @abbodi1406 and @thecatontheceiling from the MASSGRAVE R&D team for TSforge.
+
+#### HWID
+
+- Fixed an issue in checking the licensing server status.
+
+#### Ohook / Online KMS
+
+- Some obscure Office products are added.
+- Scripts will skip the check for permanently activated Office products.
+
+#### Check Activation Status
+
+- Updated CAS by @abbodi1406 is added.
+
+#### All
+
+- Various other minor fixes and improvements.
+
+------------------------------------------------------------------------
+
 ## 2.9
 
 **Bug fixes**

@@ -3,6 +3,7 @@
 All download links lead to genuine files only.
 
 - [FAQ](genuine-installation-media.md#faq)
+-   **Windows Server 2008 R2 and later can be permanently activated with TSforge option in MAS.**
 
 ------------------------------------------------------------------------
 

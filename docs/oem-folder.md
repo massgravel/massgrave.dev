@@ -66,6 +66,12 @@ To create a pre-activated Windows installation .iso, do the following:
 
 ------------------------------------------------------------------------
 
+## TSforge
+
+-   When using TSforge activation, no files are stored on the system, and Windows / ESU / Office (preinstalled) becomes activated immediately without Internet.
+
+------------------------------------------------------------------------
+
 ## KMS38
 
 -   When using KMS38 activation, no files are stored on the system, and Windows 10-11-Server becomes activated immediately without Internet.
@@ -84,26 +90,14 @@ To create a pre-activated Windows installation .iso, do the following:
 
 ------------------------------------------------------------------------
 
-## HWID + Online KMS
+## HWID + Ohook + TSforge
 
--   In this method, Windows 10-11 will be activated with HWID, and **Office** (Preinstalled) will be activated using Online KMS.
-
-------------------------------------------------------------------------
-
-## KMS38 + Ohook
-
--   In this method, Windows 10-11-Server will be activated with KMS38, and **Office** (Preinstalled) will be activated using Ohook.
+-   In this method, Windows 10-11 will be activated with HWID, and **Office** (Preinstalled) will be activated using Ohook and Windows ESU will be activated with TSforge.
 
 ------------------------------------------------------------------------
 
-## KMS38 + Online KMS
+## TSforge + Online KMS
 
--   In this method, Windows 10-11-Server will be activated with KMS38, and **Office** (Preinstalled) will be activated using Online KMS.
-
-------------------------------------------------------------------------
-
-## Online KMS + Ohook
-
--   In this method, Windows-Server will be activated with Online KMS, and **Office** (Preinstalled) will be activated using Ohook.
+-   In this method, Windows will be activated with TSforge, and **Office** (Preinstalled) will be activated using Online KMS. This combination is best for Windows 7 because Office on Windows 7 isn't supported by TSforge.
 
 ------------------------------------------------------------------------

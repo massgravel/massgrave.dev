@@ -3,15 +3,10 @@
 All download links lead to genuine files only.
 
 - [FAQ](genuine-installation-media.md#faq)
--   Which Windows 7 edition should you choose?  
-    Most important thing we need to consider is the supported activation method.
-    -   KMS activation (available in MAS) is safe and can be used in both MBR/GPT systems, however in some cases, Windows activation may be not be supported due to [invalid Windows marker](https://learn.microsoft.com/en-us/previous-versions/tn-archive/ff793426(v=technet.10)?redirectedfrom=MSDN#activation-of-windows-oem-computers) in BIOS.  
-    -   [Loader activation](unsupported_products_activation.md#windows-7) is not as safe as KMS and there are chances that system may face boot issues or may not activate and for GPT and MBR systems you will need to use different activators. However it provides permanent activation whereas in KMS you need to install Renewal task for lifetime activation.  
-    -   Pro edition supports KMS and Loader both, Enterprise supports only KMS and Ultimate edition supports only Loader activation.  
-    -   Personally I prefer using Windows 7 Pro with KMS activation and if I need Loader activation, I can easily use that as well without having to change my edition or ISO.  
+-   **You can permanently activate Windows 7 with TSforge option in MAS.**
 -   Pro and Ultimate ISO's also contains other editions such as, Starter, Home Basic, Home Premium, Pro, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the ISO.
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or [BypassESU](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606/).
--   Windows Embedded POSReady 7 ISO is available in English language only. You need to use language pack for other languages. It can be activated with online KMS option in MAS.
+-   Windows Embedded POSReady 7 ISO is available in English language only. You need to use language pack for other languages.
 
 ------------------------------------------------------------------------
 
