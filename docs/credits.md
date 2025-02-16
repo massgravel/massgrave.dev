@@ -30,7 +30,7 @@ The MAS project wouldn't be possible without the kind help and use of other hono
 | Entity                                                                      | Contribution                                                       |
 |-----------------------------------------------------------------------------|--------------------------------------------------------------------|
 | [Enthousiast](https://forums.mydigitallife.net/members/enthousiast.104688/) | ISO uploads                                                        |
-| [BetaWiki](https://betawiki.net/)                                           | Supplying and documenting beta builds used for reverse engineering |
+| [BetaWiki](https://betawiki.net/)                                           | Documenting beta builds used for reverse engineering |
 | [MDL Forums](https://forums.mydigitallife.net/forums/51/)                   | Helpful resources                                                  |
 
 And thanks to the MAS users for their interest, feedback, and assistance. ❤️
