@@ -254,6 +254,6 @@ Even with the amount of damage we were able to do to SPP with a debugger and a h
 
 #### Special Thanks
 
-- BetaWiki - Supplying and documenting leaked beta builds used for reverse engineering
+- BetaWiki - Documenting leaked beta builds used for reverse engineering
 - Rairii - Assistance with initial reverse engineering efforts
 - Microsoft - A fun challenge
