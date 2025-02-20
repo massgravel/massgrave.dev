@@ -45,6 +45,9 @@ For Windows 10/11 General Availability Channel (GAC) releases (i.e., Home and Pr
 
 The Consumer ISO includes all editions such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO contains all editions except for the Home-level editions, and these ISO files come with a KMS key pre-installed (not activated) by default.
 
+#### Why are the official monthly ISOs no longer updated on the site?
+It takes too much effort and resources when users can and should simply run Windows updates (cumulative) themselves. We have decided to maintain the same build number as the consumer ISOs publicly provided by Microsoft unless there are issues with them. For example, we provide updated ISOs for Windows 10 to resolve the issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf) when using Microsoft’s official public ISO.
+
 #### How can I obtain an official Microsoft ISO that is not available here?
 You can request the file [here](https://discord.gg/NpuNEUS2Sh).
 
