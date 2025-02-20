@@ -76,8 +76,8 @@ This activation method can activate any of the following products if a phone lic
 - **Windows Addons**
   - **Commercial Extended Security Updates (ESU)**
     - **Windows 7** (Enterprise, Professional, Ultimate and their E/N variants)
-    - **Windows 7 Embedded POSReady7** (Embedded)
-    - **Windows 7 Embedded Standard** (Embedded)
+    - **Windows Embedded POSReady 7** (Embedded)
+    - **Windows Embedded Standard 7** (Embedded)
     - **Windows Server 2008 R2** (ServerDatacenter, ServerStandard, ServerEnterprise and their V/Core/VCore variants)
     - **Windows Server 2012** (ServerDatacenter, ServerStandard and their Core variants)
 	- **Windows 8.1** (Enterprise, Professional, EmbeddedIndustry and their E/N variants)
