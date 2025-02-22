@@ -268,7 +268,7 @@ All links given below are official links hosted by Microsoft.
 
 ## How to remove TSforge?
 
--   This activation method doesn't modify any Windows components and doesn't install any new file. Instead, it appends data to one of data files used by Software Protection Platform.
+-   This activation method doesn't modify any Windows components and doesn't install any new files. Instead, it appends data to one of data files used by Software Protection Platform.
 -   If you want to reset the activation status,
     - In MAS script, goto Troubleshoot and apply Fix Licensing option.
     - Done
