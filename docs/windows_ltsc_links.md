@@ -2,7 +2,7 @@
 
 All download links lead to genuine files only.
 - [FAQ](genuine-installation-media.md#faq)
-- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
+- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can't be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 
 <details>
   <summary>What is LTSC, and is it the right choice for you?</summary>
@@ -150,7 +150,7 @@ import TabItem from '@theme/TabItem';
 
 Build - 26100.1742
 
-These ISO's contain below editions.  
+These ISOs contain below editions.  
 Windows 11 Enterprise LTSC  
 Windows 11 IoT Enterprise LTSC    
 Windows 11 IoT Enterprise Subscription LTSC
