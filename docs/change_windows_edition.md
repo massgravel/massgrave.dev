@@ -1,6 +1,6 @@
 # Change Windows Edition
 
--   You can find this option in the MAS extras section.
+-   You can find this option in MAS (**7** on the main menu).
 -   It can change the editions of Windows 7, 8, 8.1, 10, 11 and their Server equivalent editions.
 -   The script incorporates 4 methods for edition changing:
     -   May's DISM API Method - Used for changing Windows 10/11 Core (Home) to non-Core.
@@ -26,7 +26,7 @@ If you want to manually change the edition instead of using the script, you can 
     `dism /online /english /Get-TargetEditions`
 -   Get the keys for the desired edition from [here](hwid.md#supported-products)
 -   If you are upgrading from Core to non-Core, you will need to disable the Internet before performing the upgrade.
--   Now, to use the product key you matched with your edition, run this command: `changepk.exe /ProductKey <product key>` 
+-   Now, enter this command: `changepk.exe /ProductKey <product key>` 
     Replace `<product key>` with the actual key.
 -   When upgrading from Core to non-Core, an error may be shown. Ignore it and restart the system anyway. (Use [the script](change_windows_edition.md) if it's still not working)
 -   Activate the new edition using [MAS](intro.md).

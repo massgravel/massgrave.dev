@@ -46,22 +46,21 @@ F2E724C1-748F-4B47-8FB8-8E0D210E9208  -  Perpetual2019 VL     -  Production::LTS
 C02D8FE6-5242-4DA8-972F-82EE55E00671  -  Microsoft2024 VL     -   Microsoft::LTSC2024
 ```
 
-The script has the above list in the database and offers to choose only the officially supported change path. 
+The script has the above list of all officially-supported paths for changing update channels, so you can't do anything unsupported that will break Office.  
 
-- Learn more about Office update channels here https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels  
-- You can fetch the latest Office build numbers here https://github.com/ItzLevvie/Office16/blob/master/defconfig  
-- The official method to change the update channel is taken from these URLs  
-https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813    
+- [Learn more about Office update channels here](https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels)  
+- [You can fetch the latest Office build numbers here](https://github.com/ItzLevvie/Office16/blob/master/defconfig)  
+- [The official method to change the update channel is from here](https://learn.microsoft.com/en-us/microsoft-365-apps/updates/change-update-channels)    
 
 ### VL (LTSC) channel limitations
 
 (Applies to 2019, 2021 and 2024 VL)
 
-Officially, the update channel can not be changed to/from the VL (LTSC) channel to/from any other channel.  
+The VL (LTSC) channel and any other channel are separate. You cannot switch from the VL (LTSC) channel to any other channel and vice versa.  
 
 For example, if the Office installer or update channel is VL (LTSC), only VL (LTSC) options will appear in the script.  
 
-If your update channel is *not* from the VL (LTSC) channel, the script will not offer you the option to change the channel to LTSC.
+If your update channel is *not* from the VL (LTSC) channel, the script will not offer you the option to change the channel to VL (LTSC).
 
 ### Windows 7/8/8.1 limitations
 
