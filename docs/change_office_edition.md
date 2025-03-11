@@ -1,6 +1,10 @@
 # Change Office Edition
 
-This option is available in the MAS script. You can use this for Office C2R (Ver 16.0.9029.2167 and later) to change, add and remove editions along with an option to change the Office update channel.
+This option can be used to add, remove or modify editions or change the update channel of Office Click To Run (C2R).
+
+:::note
+Office C2R version `16.0.9029.2167` or later is required for this option.
+:::
 
 ## How does it work?
 
