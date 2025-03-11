@@ -3,24 +3,31 @@
 This option can be used to add, remove or modify editions or change the update channel of Office Click To Run (C2R).
 
 :::tip
+
 Office C2R version `16.0.9029.2167` or later is required for this option.
+
 :::
 
 ## How does it work?
 
-Office C2R (Click To Run) installation files are unified, meaning that whether you install a single app like Word 2021 or a full package like ProPlus2021, 
-both will download almost the same size of files.  
-
 `C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe`
 
-This program allows us to add and remove Office editions, and since installation files are unified and they are already installed, and it uses delta updates,
-it can add new editions and apps to the Office with very minimum Internet consumption.
+This program allows us to add and remove Office editions. It can do this efficiently (with minimal data usage) for two reasons.
+
+### Unified installers
+
+Office C2R installers are unified, meaning that all the apps come as a bundle. Whether you install a single app like Word 2021 or a full package like ProPlus2021, 
+the installers contain the same apps.  
+
+### Delta updates
+
+Office C2R installers employ [delta updates](https://en.m.wikipedia.org/wiki/Delta_update), a type of update that only downloads the new code from the update, instead of the entire file again.
 
 ---
 
 ## Change Office update channel
 
-The same script also offers an option to change the Office update channel. 
+This option also allows for changing the Office update channel. 
 
 ```
 5440FD1F-7ECB-4221-8110-145EFAA6372F  -  Insider Fast [Beta]  -    Insiders::DevMain
@@ -39,23 +46,30 @@ F2E724C1-748F-4B47-8FB8-8E0D210E9208  -  Perpetual2019 VL     -  Production::LTS
 C02D8FE6-5242-4DA8-972F-82EE55E00671  -  Microsoft2024 VL     -   Microsoft::LTSC2024
 ```
 
+The script has the above list in the database and offers to choose only the officially supported change path. 
+
 - Learn more about Office update channels here https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels  
 - You can fetch the latest Office build numbers here https://github.com/ItzLevvie/Office16/blob/master/defconfig  
 - The official method to change the update channel is taken from these URLs  
 https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813    
-- The script has the above list in the database and offers to choose only the Officially supported change path. 
 
 ### VL (LTSC) channel limitations
-(Applicable to 2019/21/24 VL)
+
+(Applies to 2019, 2021 and 2024 VL)
 
 Officially, the update channel can not be changed to/from the VL (LTSC) channel to/from any other channel.  
-So if the Office installation file or installed channel is from the VL (LTSC) channel, then only that channel will appear in the script  
-also if your update channel is not from the LTSC channel, then the script won't Offer you the option to change the channel to LTSC.
+
+For example, if the Office installer or update channel is VL (LTSC), only VL (LTSC) options will appear in the script.  
+
+If your update channel is *not* from the VL (LTSC) channel, the script will not offer you the option to change the channel to LTSC.
 
 ### Windows 7/8/8.1 limitations
 
-Office C2R is officially not supported on Windows [7](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-7-support) / [8](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-8-support) / [8.1](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-81-support) anymore.  
-The last available build is fixed on certain builds and won't get any updates. VL (LTSC) channels are not supported on these Windows versions so they won't appear in the script.
+Office C2R is not supported on Windows [7](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-7-support), [8](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-8-support) or [8.1](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-81-support) anymore.  
+
+The last available build is forever on that build and will not receive updates.  
+
+VL (LTSC) channels are not supported on these Windows versions, so they aren't shown in the options.  
 
 ---
 
