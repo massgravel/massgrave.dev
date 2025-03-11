@@ -10,7 +10,7 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 -   The solution is to disable it. To do that, open the command prompt as administrator and enter  
     `DISM /Online /English /Disable-Feature /FeatureName:"NetFx3"`
 -   Once it's done, run the edition change.
--   Afterwards, you can re-enable .NET 3.5 by entering this command into your admin command prompt window.
+-   Afterwards, you can re-enable .NET 3.5 by entering this command into your admin command prompt window.    
     `DISM /Online /English /Enable-Feature /FeatureName:"NetFx3"`
 
 ---
