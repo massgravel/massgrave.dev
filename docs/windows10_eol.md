@@ -2,18 +2,19 @@
 
 This document explains how users can receive official updates after the retirement date of Windows 10 on October 14, 2025.  
 
-For many people, the most obvious solution would be to just upgrade to Windows 11, but they can not because the hardware is not supported for Windows 11. Some users might also not like Windows 11
+For many users, the obvious solution is to upgrade to Windows 11, but some can't due to Windows 11's hardware requirements.  
+Some users may also dislike Windows 11
 and would like to stay on Windows 10 as long as they can.
 
-Here are several solutions for you to choose from; feel free to select the one you prefer the most.
+Here are several solutions to choose from to receive updates past October 14th, 2025.
 
 ---
 
-## Windows 10 ESU updates
+## Windows 10 ESU
 
-Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) where users can buy the ESU subscription to receive Windows updates. These updates will begin to roll out in November 2025. 
+Microsoft sells [Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates), a subscription to receive Windows updates past the expiration date. These updates will begin to roll out in November 2025. 
 
-**You can use TSforge option in MAS to activate 3 Years ESU (Oct 2025 to Oct 2028).**
+**You can use the [TSforge](tsforge.md) option in MAS to activate 3 years of ESU.** You will receive updates from Oct 2025 to Oct 2028. This requires Pro edition or higher, see [here](faq.md#how-to-change-the-windows-edition-from-home-to-pro).
 
 ---
 
