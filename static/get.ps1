@@ -5,10 +5,11 @@ Write-Host "The current command (irm https://massgrave.dev/get | iex) will be re
 Write-Host -ForegroundColor Green "Use the new command (irm https://get.activated.win | iex) moving forward."
 write-host
 
+$troubleshoot = 'https://massgrave.dev/troubleshoot'
 if ($ExecutionContext.SessionState.LanguageMode.value__ -ne 0) {
     $ExecutionContext.SessionState.LanguageMode
     Write-Host "Windows PowerShell is not running in Full Language Mode."
-    Write-Host "Help - https://massgrave.dev/fix_powershell" -ForegroundColor White -BackgroundColor Blue
+    Write-Host "Help - $troubleshoot" -ForegroundColor White -BackgroundColor Blue
     return
 }
 
@@ -25,7 +26,7 @@ function CheckFile {
     if (-not (Test-Path $FilePath)) { 
         Check3rdAV
         Write-Host "Failed to create MAS file in temp folder, aborting!"
-        Write-Host "Help - https://massgrave.dev/troubleshoot" -ForegroundColor White -BackgroundColor Blue
+        Write-Host "Help - $troubleshoot" -ForegroundColor White -BackgroundColor Blue
         throw 
     } 
 }
@@ -44,7 +45,7 @@ foreach ($URL in $URLs | Sort-Object { Get-Random }) {
 if (-not $response) {
     Check3rdAV
     Write-Host "Failed to retrieve MAS from any of the available repositories, aborting!"
-    Write-Host "Help - https://massgrave.dev/troubleshoot" -ForegroundColor White -BackgroundColor Blue
+    Write-Host "Help - $troubleshoot" -ForegroundColor White -BackgroundColor Blue
     return
 }
 
@@ -57,7 +58,7 @@ $writer.Flush()
 $stream.Position = 0
 $hash = [BitConverter]::ToString([Security.Cryptography.SHA256]::Create().ComputeHash($stream)) -replace '-'
 if ($hash -ne $releaseHash) {
-    Write-Warning "Hash ($hash) mismatch, aborting!`nReport this issue at https://massgrave.dev/troubleshoot"
+    Write-Warning "Hash ($hash) mismatch, aborting!`nReport this issue at $troubleshoot"
     $response = $null
     return
 }
@@ -79,9 +80,9 @@ CheckFile $FilePath
 $env:ComSpec = "$env:SystemRoot\system32\cmd.exe"
 $chkcmd = & $env:ComSpec /c "echo CMD is working"
 if ($chkcmd -notcontains "CMD is working") {
-    Write-Warning "cmd.exe is not working.`nReport this issue at https://massgrave.dev/troubleshoot"
+    Write-Warning "cmd.exe is not working.`nReport this issue at $troubleshoot"
 }
-Start-Process -FilePath $env:ComSpec -ArgumentList "/c """"$FilePath"" $args""" -Wait
+saps -FilePath $env:ComSpec -ArgumentList "/c """"$FilePath"" $args""" -Wait
 CheckFile $FilePath
 
 $FilePaths = @("$env:SystemRoot\Temp\MAS*.cmd", "$env:USERPROFILE\AppData\Local\Temp\MAS*.cmd")
