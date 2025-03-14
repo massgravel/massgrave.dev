@@ -12,9 +12,9 @@ This page is for people who do not want to use the script for any reason and wou
 -   Copy the corresponding product key from the table below and paste it into the product key field.
 -   After waiting for a few seconds, Windows should be activated.
 
-| Edition                               | Key                           | Ticket Link    |
-|---------------------------------------|-------------------------------|     
-| Education                             | YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY |  
+| Edition                               | Key                           | Ticket Link |
+|---------------------------------------|-------------------------------|-------------|
+| Education                             | YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY |
 | Education N                           | 84NGF-MHBT6-FXBX8-QWJK7-DRR8H |  
 | Enterprise                            | XGVPP-NMH47-7TTHJ-W3FW7-8HV2C |  
 | Enterprise N                          | 3V6Q6-NQXCX-V8YXR-9QCYV-QPFCT |  
