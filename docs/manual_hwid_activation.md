@@ -4,7 +4,6 @@ This page is for people who do not want to use the script for any reason and wou
 
 ## Manually Activate Windows
 -   Make sure you have a working internet connection.
--   Open Windows PowerShell as Administrator.
 -   Determine your Windows Edition. You can find this by searching for "About your PC" in the start menu.
 -   Download the appropriate ticket file from the table below; the ticket file must match your Windows edition.
 -   Copy the downloaded ticket file and paste it into the following folder:  
