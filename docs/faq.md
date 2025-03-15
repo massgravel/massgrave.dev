@@ -20,7 +20,7 @@ Use the Ohook option in MAS.
 Check [here](troubleshoot.md).
 
 #### Is MAS safe? How can I know if there is any malware?
-MAS is fully [open-source](intro.md#mas-latest-release). It has over 100K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts. You can even perform the activation manually, check the Docs section for instructions.
+MAS is fully [open-source](intro.md#mas-latest-release). It has over 125K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts. You can even perform the activation manually, check the Docs section for instructions.
 
 #### How to download the full version of Windows 10/11 Enterprise LTSC?
 Check the info [here](genuine-installation-media.md).
@@ -35,7 +35,7 @@ No.
 Run HWID activation to activate Pro. Each edition requires separate activation.
 
 #### How to remove HWID, Ohook, KMS38, and Online KMS activation?
-[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
+[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 #### Can I link my Microsoft account safely with MAS activation methods?
 Yes.
