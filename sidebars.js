@@ -28,6 +28,11 @@ const sidebars = {
       label: 'Docs',
       items: ['hwid','ohook','tsforge','kms38','online_kms','chart','command_line_switches','check_activation_status','oem-folder','change_windows_edition','change_office_edition'],
     },
+    {
+      type: 'category',
+      label: 'Manual Activation',
+      items: ['manual_hwid_activation', 'manual_kms38_activation']
+    },
 	'guide_links',
 	'news',
 	'changelog',

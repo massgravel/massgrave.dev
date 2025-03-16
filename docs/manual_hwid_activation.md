@@ -1,8 +1,9 @@
-# Manual Windows Activation (HWID)
+# HWID
 
 This page is for people who do not want to use the script for any reason and would rather perform the HWID activation process themselves. If you'd like to use a tool for this, please check [here](intro.md#download--how-to-use-it).
 
 ## Manually Activate Windows
+To manually activate Windows, follow these steps:
 -   Make sure you have a working internet connection.
 -   Determine your Windows Edition. You can find this by searching for "About your PC" in the start menu.
 -   Download the appropriate ticket file from the table below; the ticket file must match your Windows edition.
