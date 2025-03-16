@@ -17,6 +17,5 @@ If you are facing any error, the script should tell you which guide you need to 
 -   [In-place Repair Upgrade](https://gravesoft.dev/in-place_repair_upgrade)
 -   [Remove Malware](https://gravesoft.dev/remove_malware)
 -   [Clean Install Windows](https://gravesoft.dev/clean_install_windows)
--   [Manual Windows Activation (HWID)](manual_hwid_activation.md)
 
 ---
