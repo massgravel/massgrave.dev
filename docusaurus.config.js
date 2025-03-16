@@ -117,6 +117,10 @@ const config = {
                 to: '/hwid',
               },
               {
+                label: 'Manual Activation',
+                to: '/manual_hwid_activation'
+              },
+              {
                 label: 'Guides',
                 to: '/guide_links',
               },
