@@ -321,21 +321,7 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 ## Manual Activation
 
-This is for those who wants to perform manual activation. If you want a tool to do this for you then check [here](intro.md).
-
--   These steps are listed for Office 16.0 (2016, 2019, 2021, O365) C2R x64 bit on Windows x64 bit version.
--   Download ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases/download/0.5/ohook_0.5.zip) or create sppc.dll files from scratch as per the above instructions.
--   Extract this zip file to a folder named `C:\ohook`
--   Open command prompt as admin and enter below command to create a symlink of the system sppc.dll in the Office C2R System directory as sppcs.dll,  
-    `mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"`
--   Now enter below command to copy the hook library as sppc.dll to the Office C2R system directory,  
-    `cd /d C:\ohook`  
-    `copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"`
--   Some O365 editions check the license status and show the banner "There was a problem checking this device's license status". To stop this, enter below command,  
-    `reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2040-01-01T00:00:00Z" /f`
--   Enter the key, (Replace `<key>` with the key from the above list) with the following command,  
-    `slmgr /ipk <key>`
--   Done.
+-   Check [here](manual_ohook_activation.md)
 
 ------------------------------------------------------------------------
 

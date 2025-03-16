@@ -181,40 +181,22 @@
 
 ## Manual Activation
 
-This is for those who want to perform manual activation. If you want a tool to do this for you, then check [here](intro.md#download--how-to-use-it).  
-We can perform the manual activation process in 2 ways.
-
-### 1- From Ready-Made Ticket
-
--   Open Windows PowerShell as administrator, and enter the following commands in the sequence in which they are given.
--   Enter the key (Replace `<key>` with the key from the above list) with the following command:  
-`slmgr /ipk <key>`
--   Download the Universal ticket from [here](https://app.box.com/s/326odzt3lhkv77m15b17k6dzx6j24cvw) and extract the downloaded file.
--   Find a file named `KMS.xml` in the extracted folder.
--   Copy that ticket file and paste it in the following folder:  
-    `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
--   Now run the below command in PowerShell to apply the ticket:  
-`clipup -v -o`
--   Check the Activation Status with the following command:  
-`slmgr /xpr`
--   Done.
+-   Check [here](manual_kms38_activation.md)
 
 ------------------------------------------------------------------------
 
-### 2- From Scratch
+## Manual Ticket Generation
 
-In this process, we will perform activation from scratch. This is based on the Universal ticket method. Here, we will create identical tickets that are used in the MAS HWID script and activate the system with them.
+This guide is for manually creating the same kind of tickets that are used in the MAS script.
 
--   Download the file from the official MS link and extract the .cab file.  
+-   Download the .cab file from the following official Microsoft link:  
     https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab
--   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` (Size: 330 KB) and rename it as `gatherosstate.exe`
--   Make a folder named `Files` in C drive, `C:\Files` and copy the `gatherosstate.exe` file in that folder.
--   Open Windows PowerShell as administrator and enter the following commands in the sequence in which they are given.
--   Enter the key (Replace `<key>` with the key from the above list) with the following command:  
-`slmgr /ipk <key>`
--   Copy the below code all at once and enter in PowerShell to modify the `gatherosstate.exe` file.  
-    This code to modify the file is based on [GamersOsState](https://github.com/asdcorp/GamersOsState).  
-```         
+-   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` (Size: 330 KB) and rename it to `gatherosstate.exe`.
+-   Make a folder named `Files` in the root of the C: drive (`C:\Files`) and copy the `gatherosstate.exe` file to that folder.
+-   Make sure you have a working internet connection.
+-   Open Windows PowerShell as Administrator and enter the following commands.
+-   Copy the entire block of code below and enter it in PowerShell to patch the `gatherosstate.exe` file. The patches are based on [GamersOsState](https://github.com/asdcorp/GamersOsState).  
+```
 $bytes  = [System.IO.File]::ReadAllBytes("C:\Files\gatherosstate.exe")
 $bytes[320] = 0xf8
 $bytes[321] = 0xfb
@@ -284,29 +266,18 @@ $bytes[34376] = 0xeb
 $bytes[34377] = 0x63
 [System.IO.File]::WriteAllBytes("C:\Files\gatherosstatemodified.exe", $bytes)
 ```
-
--   Now right click on the file `gatherosstatemodified.exe`, go to properties and set the compatibility mode to Windows XP SP3.
--   Now we need to generate the ticket, to do that, enter the below command:  
+-   Right click on the newly created file, `gatherosstatemodified.exe`, click the "Properties" option and set the Compatibility mode to Windows XP SP3.
+-   To generate the ticket using our modified `gatherosstate.exe`, run these commands:  
 ```         
 C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGenuineState=1
 ```
-
--   A GenuineTicket.xml file should be created in the folder `C:\Files\`. Now, let's apply it:  
-`clipup -v -o -altto C:\Files\`
--   Check Activation Status with the following command:  
-`slmgr /xpr`
--   Done.
+-   A GenuineTicket.xml file should be created in the `C:\Files\` folder.
 
 **Notes:**
 
--   To make the exact ticket used in MAS KMS38 script, fix the time with the below PowerShell command and then initiate the ticket generation process as per the steps mentioned above.  
+-   There are two types of tickets: Lockbox and Downlevel. If the system is already activated, then the created ticket will be a Lockbox ticket. If not, it will be a Downlevel ticket.
+-   To make the exact ticket used by the MAS script for HWID activation, make sure the system is already activated and change the time using the PowerShell command below. Then, start the ticket generation process according to the steps above.\
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
--   In the case of Windows Server Cor/Acor (No GUI) editions, the system doesn't have the `clipup.exe` file.  
-    To KMS38 activate it, you need to download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
-    `File: ClipUp.exe`  
-    `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
-    This file has digital signatures that can be verified. You can also get this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).  
-    Put the `ClipUp.exe` in the `C:\Windows\System32` folder and then initiate the above-mentioned activation process. Once the activation is complete, you can remove the file.
 
 ------------------------------------------------------------------------
 
