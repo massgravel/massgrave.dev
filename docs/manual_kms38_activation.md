@@ -16,7 +16,6 @@ To manually activate Windows, follow these steps:
 -   Copy the downloaded ticket file to the root of the C: drive.
 -   Migrate the ticket to a license and activate Windows by running the commands:    
     `clipup -v -o -altto C:\`  
-    `slmgr /ato`
 -   After waiting for a few seconds, Windows should be activated.
 
 **Notes:**
