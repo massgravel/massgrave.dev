@@ -31,7 +31,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Manual Activation',
-      items: ['manual_hwid_activation', 'manual_kms38_activation']
+      items: ['manual_hwid_activation', 'manual_ohook_activation', 'manual_kms38_activation']
     },
 	'guide_links',
 	'news',

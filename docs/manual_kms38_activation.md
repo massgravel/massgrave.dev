@@ -5,7 +5,7 @@ This page is intended for users who do not want to use the script for any reason
 ## Manually Activate Windows
 To manually activate Windows, follow these steps:
 -   Open Windows Powershell as administrator and enter the below commands.
--   Install the generic key which matches your Windows edition:   
+-   Install the generic key which matches your Windows edition and version:   
     `slmgr /ipk <key>`  
     *(Refer to the table below for the appropriate key.)*
 -   Download the [KMS38 ticket file](https://github.com/massgravel/hwid-kms38-tickets/releases/download/2.0/KMS38.xml).
