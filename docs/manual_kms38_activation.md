@@ -19,7 +19,7 @@ To manually activate Windows, follow these steps:
 -   After waiting for a few seconds, Windows should be activated.
 
 **Notes:**
--   For Windows Server Cor/Acor editions, the system does not have the `clipup.exe` file..  
+-   For Windows Server Cor/Acor editions, the system does not have the `clipup.exe` file.  
     To activate it using KMS38, download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
