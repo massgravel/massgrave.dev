@@ -217,7 +217,7 @@ C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=4651452171313143042643
 **Notes:**
 
 -   There are two types of tickets: Lockbox and Downlevel. If the system is already activated, then the created ticket will be a Lockbox ticket. If not, it will be a Downlevel ticket.
--   To make the exact ticket used by the MAS script for KMS38 activation, make sure the system is already activated and change the time with the below PowerShell command. Then, start the ticket generation process according to the steps above.\
+-   To make the exact ticket used by the MAS script for HWID activation, make sure the system is already activated and change the time with the below PowerShell command. Then, start the ticket generation process according to the steps above.\
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 
