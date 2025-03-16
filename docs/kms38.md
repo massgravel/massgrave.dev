@@ -276,7 +276,7 @@ C:\Files\gatherosstatemodified.exe /c GVLKExp=2038-01-19T03:14:07Z`;DownlevelGen
 **Notes:**
 
 -   There are two types of tickets: Lockbox and Downlevel. If the system is already activated, then the created ticket will be a Lockbox ticket. If not, it will be a Downlevel ticket.
--   To make the exact ticket used by the MAS script for HWID activation, make sure the system is already activated and change the time with the below PowerShell command. Then, start the ticket generation process according to the steps above.\
+-   To make the exact ticket used by the MAS script for HWID activation, make sure the system is already activated and change the time using the PowerShell command below. Then, start the ticket generation process according to the steps above.\
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 ------------------------------------------------------------------------
