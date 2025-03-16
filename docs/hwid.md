@@ -124,6 +124,10 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ------------------------------------------------------------------------
 
+## Manual Ticket Generation
+
+-   
+
 ## Setup Preactivate
 
 -   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.

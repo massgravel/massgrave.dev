@@ -13,6 +13,8 @@ To manually activate Windows, follow these steps:
 -   Download the appropriate ticket file from the table below; the ticket file must match your Windows edition.
 -   Copy the downloaded ticket file and paste it into the following folder:  
     `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
+    If you can't find the `ProgramData` folder, that is because it is hidden by default.
+    An alternative way to access it is to copy the full path into the Windows Explorer address bar at the top and press enter.
 -   Open the Windows Activation settings and click the "Change product key" button.
 -   Copy the corresponding product key from the table below and paste it into the product key field.
 -   After waiting for a few seconds, Windows should be activated.
