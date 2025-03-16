@@ -17,6 +17,8 @@ To manually activate Windows, follow these steps:
 -   Copy the corresponding product key from the table below and paste it into the product key field.
 -   After waiting for a few seconds, Windows should be activated.
 
+### Windows 10/11
+
 | Edition                               | Key                           | Ticket                                                                                                        |
 |---------------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Education                             | YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY | [Link](https://github.com/massgravel/hwid-kms38-tickets/releases/download/2.0/Education.xml)                             |
