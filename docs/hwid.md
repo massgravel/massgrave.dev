@@ -126,7 +126,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ## Manual Ticket Generation
 
-This guide is for manually creating the tickets that are used in the MAS script.
+This guide is for manually creating the same kind of tickets that are used in the MAS script.
 
 -   Download the .cab file from the following official Microsoft link:  
     https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab
@@ -212,15 +212,12 @@ $value = (Get-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\ProductOptions
 
 C:\Files\gatherosstatemodified.exe /c Pfn=$value`;PKeyIID=465145217131314304264339481117862266242033457260311819664735280
 ```
--   A GenuineTicket.xml file should be created in the `C:\Files\` folder. To apply the ticket file and activate Windows, run the following commands:  
-`clipup -v -o -altto C:\Files\`
-`slmgr /ato`
--   After waiting for a few seconds, Windows should be activated.
+-   A GenuineTicket.xml file should be created in the `C:\Files\` folder.
 
 **Notes:**
 
 -   There are two types of tickets: Lockbox and Downlevel. If the system is already activated, then the created ticket will be a Lockbox ticket. If not, it will be a Downlevel ticket.
--   To make the exact ticket used in the MAS HWID script, make sure the system is already activated and change the time with the below PowerShell command. Then, start the ticket generation process according to the steps above.\
+-   To make the exact ticket used by the MAS script for KMS38 activation, make sure the system is already activated and change the time with the below PowerShell command. Then, start the ticket generation process according to the steps above.\
     `Set-TimeZone -Id "UTC"; $date=[datetime]"2022/10/11 12:00";while($true){set-date $date; start-sleep -milliseconds 10}`
 
 
