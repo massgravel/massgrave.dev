@@ -11,7 +11,7 @@ To manually activate Windows, follow these steps:
 -   Make sure you have a working internet connection.
 -   Determine your Windows Edition. You can find this by searching for "About your PC" in the start menu.
 -   Download the appropriate ticket file from the table below; the ticket file must match your Windows edition.
--   Copy the downloaded ticket file and paste it into the following folder:  
+-   Copy the downloaded ticket file to the folder:  
     `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
     If you can't find the `ProgramData` folder, that is because it is hidden by default.
     An alternative way to access it is to copy the full path into the Windows Explorer address bar at the top and press enter.

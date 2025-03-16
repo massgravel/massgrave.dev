@@ -13,10 +13,9 @@ To manually activate Windows, follow these steps:
     `slmgr /ipk <key>`  
     *(Refer to the table below for the appropriate key.)*
 -   Download the [KMS38 ticket file](https://github.com/massgravel/hwid-kms38-tickets/releases/download/2.0/KMS38.xml).
--   Copy the downloaded ticket file to the folder:  
-    `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`
+-   Copy the downloaded ticket file to the root of the C: drive.
 -   Migrate the ticket to a license and activate Windows by running the commands:    
-    `clipup -v -o`  
+    `clipup -v -o -altto C:\`  
     `slmgr /ato`
 -   After waiting for a few seconds, Windows should be activated.
 
