@@ -35,6 +35,16 @@ ipconfig /flushdns
 ```
 
 -   Restart your system and try HWID Activation.
+-   If it's showing the same Internet error then follow the below option.
+
+------------------------------------------------------------------------
+
+## VPN / Another Internet Connection
+
+- Install Cloudflare WARP VPN - https://1.1.1.1/  
+  Connect the VPN and try HWID activation.
+
+- If it's not working, try a different internet connection or use your phone's internet through USB tethering.
 
 ------------------------------------------------------------------------
 
