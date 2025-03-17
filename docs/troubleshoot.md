@@ -2,7 +2,15 @@
 
 :::danger[Tip]
 
-# Read and follow the blue lines in the script.
+## Read and follow the blue lines in the script.
+
+---
+
+### 阅读并遵循脚本中的蓝色线路。
+
+### Читайте и следуйте синим линиям в сценарии.
+
+### Leia e siga as linhas azuis no roteiro.
 
 :::
 
