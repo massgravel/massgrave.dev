@@ -10,16 +10,16 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 
 ---
 
-## Download / How to use it?  
+### How to Activate Windows / Office?
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+#### Method 1 - PowerShell (Windows 8 and later) ❤️
 
-<Tabs>
-<TabItem value="Method 1" label="Method 1 - PowerShell (Windows 8 and later) ❤️" default>
+:::info
 
-1.   Open PowerShell (Not CMD). To do that, right-click on the Windows start menu and select PowerShell or Terminal.
-2.   Copy and paste the code below and press enter  
+1.   **Open PowerShell**  
+	To do that, press the Windows key + X, then select PowerShell or Terminal.
+
+2.   **Copy and paste the code below, then press enter.**  
 ```
 irm https://get.activated.win | iex
 ```
@@ -27,12 +27,20 @@ Alternatively, you can use the following (It will be deprecated in the future.)
 ```
 irm https://massgrave.dev/get | iex
 ```
-3.   You will see the activation options. Choose [1] HWID for Windows activation. Choose [2] Ohook for Office activation.
+
+3.   You will see the activation options.  
+	 Press [1] HWID for Windows activation.  
+     Press [2] Ohook for Office activation.
+
 4.   That's all
 
-</TabItem>
-<TabItem value="Method 2" label="Method 2 - Traditional (Windows 7 and later)" default>
+:::
 
+#### Method 2 - Traditional (Windows 7 and later)
+
+<details>
+  <summary>Click here to view</summary>
+  
 1.   Download the file using the links provided below.  
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
 or  
@@ -43,8 +51,7 @@ or
 5.   You will see the activation options, follow the on-screen instructions.
 6.   That's all.
 
-</TabItem>
-</Tabs>
+</details>
 
 ---
 
