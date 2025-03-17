@@ -29,10 +29,11 @@ All download links available on our website lead to genuine files only.
 ## FAQ
 
 #### Guides
-- [How to perform a clean installation of Windows?](https://gravesoft.dev/clean_install_windows)
-- [How to upgrade while keeping your files and apps?](https://gravesoft.dev/in-place_repair_upgrade)
-- [How to officially install Windows 11 on unsupported hardware without issues in future feature updates?](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
-- [Why is the edition list not appearing during the installation, and why is it automatically installing the Home edition?](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)
+- [Clean Install Windows](https://gravesoft.dev/clean_install_windows)
+- [In-place Repair Upgrade (Keeping files and apps)](https://gravesoft.dev/in-place_repair_upgrade)
+- [Windows 11 on Unsupported Hardware](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
+- [Edition List During Windows Installation](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)
+- [Windows 10 Updates After End-Of-Life](windows10_eol.md)
 
 #### Why are we hosting files on our server when we can download them from Microsoft?
 Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
