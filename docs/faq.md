@@ -34,7 +34,7 @@ No.
 #### I changed my Windows edition from Home to Pro and now Windows is deactivated.
 Run HWID activation to activate Pro. Each edition requires separate activation.
 
-#### How to remove HWID, Ohook, KMS38, and Online KMS activation?
+#### How to remove HWID, Ohook, TSforge, KMS38, and Online KMS activation?
 [HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 #### Can I link my Microsoft account safely with MAS activation methods?
@@ -65,7 +65,7 @@ Yes.
 Read activation details in the Docs section.
 
 #### Does MAS work for Windows 7/8.1?
-The online KMS option works for Windows 7 Pro & Enterprise (Not Ultimate). All Windows 8/8.1 editions are supported by the Online KMS option.
+Yes, TSforge and online KMS options work on Windows 7/8.1.
 
 #### Where can I donate?
 MAS project doesn't accept donations and it's free.  
