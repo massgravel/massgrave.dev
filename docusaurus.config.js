@@ -140,6 +140,10 @@ const config = {
                 label: 'Our Non-Piracy Site',
                 to: '/our_non-piracy_site',
               },
+              {
+                label: 'Contribute',
+                to: '/contribute',
+              },
             ],
           },
           { to: '/blog', label: 'Blog', position: 'right' },

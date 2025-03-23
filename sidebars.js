@@ -34,10 +34,11 @@ const sidebars = {
       items: ['manual_hwid_activation', 'manual_ohook_activation', 'manual_kms38_activation']
     },
 	'guide_links',
+	'unsupported_products_activation',
 	'news',
 	'changelog',
-	'unsupported_products_activation',
 	'our_non-piracy_site',
+	'contribute',
 	'credits',
 	'contactus',
   ],
