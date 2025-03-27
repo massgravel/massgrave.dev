@@ -98,12 +98,14 @@ import TabItem from '@theme/TabItem';
 | **Digital License (HWID)**             | Not supported   | Supported                                                                                                                                                                                                                                                         |
 | **Uninstallable Edge outside of EEA**  | Yes             | No                                                                                                                                                                                                                                                                |
 | **2 Simultaneous RDP Sessions**        | No              | Yes                                                                                                                                                                                                                                                               |
+| **Language packs & features**        | Yes              | No                                                                                                                                                                                                                                                               |
 
 
-- IoT Enterprise LTSC is a winner.
-- The only difference between IoT Enterprise LTSC and IoT Enterprise Subscription LTSC is that the subscription edition supports a subscription license.
-- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
-- IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in another language and later install IoT LTSC key `CGK42-GYN6Y-VD22B-BX98W-J8JXD` in activation page in Windows settings to change the edition.
+- The only difference between **IoT Enterprise LTSC** and **IoT Enterprise Subscription LTSC** is that the subscription edition supports a subscription license.
+- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) by simply inserting the corresponding edition key (`CGK42-GYN6Y-VD22B-BX98W-J8JXD` and `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` respectively).
+- TPM / Secure boot / UEFI / RAM / Device Encryption / Reserved Storage are behaviors of the official installer, and won't be altered by changing the edition on a live system. They can be bypassed using a 3rd-party installer or advanced dism-based manual install, Reserved Storage can be turned on/off on a live system.
+- IoT LTSC edition ISO's are available in English language only. Language packs (display language) and features (IME, TTS, etc.) are also unavailable for download on IoT LTSC editions.
+  - You can fulfill your requirements on language features with Non-IoT LTSC (by installing it or [changing the edition to it](change_windows_edition.md)) and later change the edition to IoT LTSC.
 </TabItem>
 
 <TabItem value="Windows 10 LTSC 2021" label="Windows 10 LTSC 2021" default>
@@ -117,11 +119,12 @@ import TabItem from '@theme/TabItem';
 | **KMS License**              | Supported                                                                                             | Support added after the update 19044.2788                                                                  |
 | **Uninstallable Edge**       | Yes                                                                                                   | No                                                                                                         |
 | **$OEM$ Folder Support**     | Yes                                                                                                   | No [(More Info)](oem-folder.md)                                                                            |
+| **Language packs & features**        | Yes              | No                                                                                                                                                                                                                                                               |
 
-
-- IoT Enterprise LTSC is a winner.
-- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key.
-- IoT LTSC edition ISO's are available in English language only. You can install Non-IoT LTSC in another language and later install IoT LTSC key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` in activation page in Windows settings to change the edition.
+- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) by simply inserting the corresponding edition key (`QPM6N-7J2WJ-P88HH-P3YRH-YY74H` and `M7XTQ-FN8P6-TTKYV-9D4CC-J462D` respectively).
+- Reserved Storage is a behavior of the official installer, and won't be altered by changing the edition. It can be turned on/off on live system.
+- IoT LTSC edition ISO's are available in English language only. Language packs (display language) and features (IME, TTS, etc.) are also unavailable for download on IoT LTSC editions.
+  - You can fulfill your requirements on language features with Non-IoT LTSC (by installing it or [changing the edition to it](change_windows_edition.md)) and later change the edition to IoT LTSC.
 
 </TabItem>
 
