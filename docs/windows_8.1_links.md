@@ -26,7 +26,7 @@ import TabItem from '@theme/TabItem';
 **Windows 8.1 Core / Pro**  
 (Build - 9600.17415)  
 
-MSDL https://msdl.gravesoft.dev/#52 provides Official links straight from Microsoft.
+MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Microsoft.
 
 ------------------------------------------------------------------------
 
