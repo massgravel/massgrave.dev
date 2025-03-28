@@ -8,7 +8,7 @@
     -   [DISM Method](https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options) - Used in Server 2016 and later server versions
     -   [CBS Upgrade Method](https://github.com/asdcorp/Set-WindowsCbsEdition) - Used in Windows versions before 10
 -   The script will show editions available via any of the four methods.
--   The script is future-proof, which means that it won't need an update upon the release of a new editions because it can get the required product key from the system itself.
+-   The script is future-proof, which means that it won't need an update upon the release of new editions because it can get the required product key from the system itself.
 -   The script blocks changing to CountrySpecific, ServerRdsh, and to/from CloudEdition editions since it's not officially supported and the user may face issues.
 -   The script cannot change
     -   Non-Core editions to Core editions (For example, Pro > Home isn't available)
