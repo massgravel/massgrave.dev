@@ -100,7 +100,7 @@ From all of this work, we learned the following things:
  - The trusted store's data is held in encrypted files
  - This data is somehow linked with seemingly encrypted registry keys under `HKLM\SYSTEM\WPA`
 
-Unfortunately, we didn't know much more than this for quite a long time. My work on deobfuscating both [older](https://github.com/UMSKT/peacestone) and [newer](https://github.com/WitherOrNot/warbird-docs) versions of sppsvc helped us in confirming some of our theories, but without an understanding of `spsys.sys`, they didn't contribute much. In the meantime, SpCreatePackaedLicense built an automated version of the CID trick, using a custom kernel driver to patch sppsvc without adjusting its [protected process](https://www.alex-ionescu.com/why-protected-processes-are-a-bad-idea/) status, which helped greatly with testing CID trick. 
+Unfortunately, we didn't know much more than this for quite a long time. My work on deobfuscating both [older](https://github.com/UMSKT/peacestone) and [newer](https://github.com/WitherOrNot/warbird-docs) versions of sppsvc helped us in confirming some of our theories, but without an understanding of `spsys.sys`, they didn't contribute much. In the meantime, we built an automated version of the CID trick, using a custom kernel driver to patch sppsvc without adjusting its [protected process](https://www.alex-ionescu.com/why-protected-processes-are-a-bad-idea/) status, which helped greatly with testing CID trick. 
 
 ![image](./assets/tsf/miieow1.png)
 
@@ -249,7 +249,6 @@ Even with the amount of damage we were able to do to SPP with a debugger and a h
 
 #### Other Contributions
 
-- SpCreatePackaedLicense - Tool development, testing
 - May - Code formatting, build setup
 
 #### Special Thanks

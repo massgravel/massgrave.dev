@@ -11,7 +11,7 @@ image: /img/blog_card.png
 # Keyhole
 
 By WitherOrNot  
-Edited by May, Lyssa, & SpCreatePackaedLicense
+Edited by May, Lyssa 
 
 ## Introduction
 
@@ -174,7 +174,6 @@ The research covered in this blogpost was made possible by the following people/
 
  - May - Initial discovery, testing, reverse engineering
  - asdcorp - Testing, reverse engineering
- - SpCreatePackaedLicense - Testing, reverse engineering, bugfix analysis
  - WitherOrNot - Tool development, testing, reverse engineering, bugfix analysis
  - emoose, LukeFZ - License Block format documentation
  - KiFilterFiberContext - ClipSp unpacking

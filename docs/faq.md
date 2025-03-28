@@ -20,7 +20,11 @@ Use the Ohook option in MAS.
 Check [here](troubleshoot.md).
 
 #### Is MAS safe? How can I know if there is any malware?
-MAS is fully [open-source](intro.md#mas-latest-release). It has over 125K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts. You can even perform the activation manually, check the Docs section for instructions.
+MAS is fully [open-source](intro.md#mas-latest-release). It has over 125K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts.  
+You can even perform the activation manually, check [this page](manual_hwid_activation.md) for instructions.
+
+#### How to remove HWID, Ohook, TSforge, KMS38, and Online KMS activation?
+[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 #### How to download the full version of Windows 10/11 Enterprise LTSC?
 Check the info [here](genuine-installation-media.md).
@@ -33,9 +37,6 @@ No.
 
 #### I changed my Windows edition from Home to Pro and now Windows is deactivated.
 Run HWID activation to activate Pro. Each edition requires separate activation.
-
-#### How to remove HWID, Ohook, TSforge, KMS38, and Online KMS activation?
-[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 #### Can I link my Microsoft account safely with MAS activation methods?
 Yes.
@@ -67,9 +68,11 @@ Read activation details in the Docs section.
 #### Does MAS work for Windows 7/8.1?
 Yes, TSforge and online KMS options work on Windows 7/8.1.
 
-#### Where can I donate?
-MAS project doesn't accept donations and it's free.  
+#### How can I donate or contribute to the project?
+The MASSGRAVE project doesn't accept donations and it's free.  
 It's because it's a community project and involves many contributors, splitting donations is not practical, and also because profiting from piracy is not good.
+
+However, if you would like to contribute in non-financial ways, please visit [this page](contribute.md) for more information.
 
 ---
 
