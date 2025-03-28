@@ -122,10 +122,10 @@ ARM64 version for LTSC is available only in English language.
 
 **Old Versions**
 
-- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- Download the [official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
 - Put the ESD file beside `decrypt.cmd` and run that script.
 - It will create the ISO file.
-- This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
+- This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.
 
 ------------------------------------------------------------------------
 
@@ -219,10 +219,10 @@ ARM64 version for LTSC is available only in English language.
 
 **Old Versions**
 
-- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- Download an [official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
 - Put the ESD file beside `decrypt.cmd` and run that script.
 - It will create the ISO file.
-- This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
+- This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.
 
 ------------------------------------------------------------------------
 
