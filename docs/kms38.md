@@ -129,7 +129,7 @@
 :::info
 
 -   Systems in all architectures (x86, x64 and arm64) are supported.
--   Any Evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md) beyond the evaluation period. You can use TSforge option in MAS to reset the activation any given time.
+-   Any evaluation version of Windows (i.e. 'EVAL' LTSB/C) [cannot be activated](evaluation_editions.md) beyond the evaluation period. You can use the TSforge option in MAS to reset the activation at any time.
 -   KMS38 only supports Windows/server version 14393 (1607) and newer versions.
 -   Initial release (19044.1288) of Iot LTSC 2021 doesn't support KMS license and it was added later in update 19044.2788.
 -   Server Azure Datacenter (ServerTurbine) edition does not support activation on non-azure systems.

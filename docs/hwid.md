@@ -7,11 +7,11 @@
 -   This activation method does not store or modify any files in your system.
 -   This activation method gives you permanent Windows activation for your system hardware.
 -   All activations can be linked to a Microsoft account without any issues.
--   Once the system is activated, this activation cannot be removed because the license is stored in the Microsoft servers and not in the user's system. MS checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate. This is how official digital license works.
+-   Once the system is activated, this activation cannot be removed because the license is stored on Microsoft's servers, not on the user's system. Microsoft checks the hardware ID (HWID), and if a license is found in their database, the system will automatically activate. This is how all digital licenses work.
 -   Any significant changes to the hardware (such as a motherboard) may deactivate the system. It is possible to reactivate a system that was deactivated because of significant hardware changes, IF your activation, was linked to an online Microsoft account.
--   For activation to succeed, internet connectivity must be enabled. If you are trying to activate without these conditions being met, then the system will auto-activate later when the conditions are met.
+-   For activation to succeed, Internet connectivity must be enabled. If you are trying to activate without these conditions being met, then the system will auto-activate later when the conditions are met.
 -   The following is required for Windows to reactivate itself after Windows reinstall:
-    -   The internet is required. (Only at the time of activation)
+    -   Internet connectivity is required. (Only at the time of activation)
     -   The system will auto-activate only if Retail (Consumer) media was used for installing Windows.
     -   The system will NOT auto-activate if VL (Business) media was used for the installation. In this case, the user will have to insert the generic Retail/OEM key corresponding to the Windows edition currently running to activate if the user doesn't want to use the script again. (Those keys can be found below on this page)
 
@@ -132,7 +132,7 @@ This guide is for manually creating the same kind of tickets that are used in th
     https://download.microsoft.com/download/9/A/E/9AE69DD5-BA93-44E0-864E-180F5E700AB4/adk/Installers/14f4df8a2a7fc82a4f415cf6a341415d.cab
 -   Find the file named `filf8377e82b29deadca67bc4858ed3fba9` (Size: 330 KB) and rename it to `gatherosstate.exe`.
 -   Make a folder named `Files` in the root of the C: drive (`C:\Files`) and copy the `gatherosstate.exe` file to that folder.
--   Make sure you have a working internet connection.
+-   Make sure you have a working Internet connection.
 -   Open Windows PowerShell as Administrator and enter the following commands.
 -   Copy the entire block of code below and enter it in PowerShell to patch the `gatherosstate.exe` file. The patches are based on [GamersOsState](https://github.com/asdcorp/GamersOsState).  
 ```

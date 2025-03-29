@@ -9,7 +9,7 @@ To create a pre-activated Windows installation ISO, do the following:
 
 :::warning
 
--   On Windows 8 and later, [**running setupcomplete.cmd is disabled**](https://learn.microsoft.com/windows-hardware/manufacture/desktop/add-a-custom-script-to-windows-setup?view=windows-11#windows-setup-scripts) if the default installed key for the edition is from the OEM channel, except for Enterprise editions and Windows Server operating systems.
+-   On Windows 8 and later, [**running setupcomplete.cmd is disabled**](https://learn.microsoft.com/windows-hardware/manufacture/desktop/add-a-custom-script-to-windows-setup?view=windows-11#windows-setup-scripts) if the default installed key for the edition is from the OEM channel, except for Enterprise editions and Windows Server.
 -	However, in Windows 10, IoT Enterprise editions were not included in the Enterprise category list during the installation process. As a result, Enterprise with an OEM key can handle setupcomplete.cmd, but IoT Enterprise (LTSC) cannot. This was fixed in later Windows 11 versions.
 -   In Windows 10 IoT Enterprise (LTSC), you can resolve this issue by using the Non-IoT Windows 10 Enterprise LTSC ISO. In this case, the HWID method in preactivation will install the IoT LTSC key to change the edition and enable HWID activation.  
 -   In Windows 11 IoT Enterprise (LTSC), it works fine as expected by default.
@@ -21,10 +21,10 @@ To create a pre-activated Windows installation ISO, do the following:
 ## Edit ISO File
 
 -   As stated above, you can copy the `$OEM$` folder to your bootable USB so you don't have to edit the ISO file. However, if you need to, then follow the steps below.
--   Download [AnyBurn Free Portable](https://www.anyburn.com/download.php) and extract this zip file
--   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`
--   Select the option named `Edit image file`
--   Follow the on-screen instructions and add the `$OEM$` folder to the `sources` folder so that the directory will appear like this: `\sources\$OEM$`
+-   Download [AnyBurn Free Portable](https://www.anyburn.com/download.php) and extract the zip file.
+-   Run the file named `AnyBurn(64-bit)\AnyBurn.exe`.
+-   Select the option named `Edit image file`.
+-   Follow the on-screen instructions and add the `$OEM$` folder to the `sources` folder so that the directory will appear like this: `\sources\$OEM$`.
 -   Save the ISO, that's it.
 
 ------------------------------------------------------------------------
