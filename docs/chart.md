@@ -5,10 +5,9 @@ Below is a comparison of activation methods offered by Microsoft Activation Scri
 Basics
 ------
 | | HWID | Ohook | KMS38 | Online KMS | TSforge (ZeroCID) |
-| --- | :---: | :---: | :---: | :---: | :---: |
-| Does not require internet connection | ❌ | ✅ | ✅ | ❌ | ✅ |
+| --- | :---: | :---: | :---: | :---: | :---: || Works offline | ❌ | ✅ | ✅ | ❌ | ✅ |
 | Activation is permanent | ✅ | ✅ | ✅[^1] | ✅[^2] | ✅ |
-| Does not leave any files in the system to keep the activation status | ✅ | ❌ | ✅ | ❌ | ✅ |
+| Does not leave any files in the system to maintain activation status | ✅ | ❌ | ✅ | ❌ | ✅ |
 
 Persistence
 -----------
