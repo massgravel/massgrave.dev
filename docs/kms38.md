@@ -16,7 +16,7 @@
 -   In the Windows major upgrade process, the system uses `gatherosstate.exe` to carry over the remaining KMS activation period. It does this by creating a ticket that can be used offline.
 -   The trick is that we can fool the `gatherosstate.exe` about the remaining KMS activation period and manually put the desired period maximum up to January 19, 2038, 03:14:07 UTC.
 -   Why is it limited to the year 2038?  
-    It's related to the [Y2K38 problem](https://en.wikipedia.org/wiki/Year_2038_problem) as this date (19 January 2038 03:14:07 UTC) is the maximum date we can give to `gatherosstate.exe` without it looping back to the year 1970.
+    This is due to the [Y2K38 problem](https://en.wikipedia.org/wiki/Year_2038_problem). This date (19 January 2038, 03:14:07 UTC) is the maximum value that can fit into a signed 32 bit integer.
 -   How can we convince the gatherosstate.exe?  
     There are two methods for it.  
     **1-** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file beside gatherosstate.exe:  
