@@ -10,7 +10,7 @@ All download links lead to genuine files only.
 ## Windows Server 2025
 
 Build - 26100.1742  
-The below ISO's links are taken from the Official OEM portal.  
+The below ISO links are taken from the Official OEM portal.  
 Note: You need to rename extension to .iso after file is downloaded.  
 
 | Language            | Arch | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

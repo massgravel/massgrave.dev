@@ -82,7 +82,7 @@ Build - 26100.1742
 **Windows 11 IoT Enterprise 24H2**  
 **(Not LTSC)**  
 Build - 26100.1742  
-These ISO's contain below editions,  
+These ISOs contain below editions,  
 
 Windows 11 Enterprise  
 Windows 11 IoT Enterprise  
@@ -102,7 +102,7 @@ ARM64 version for IoT Enterprise ISO is available only in English language.
 **Windows 11 IoT Enterprise LTSC 2024**
 
 Build - 26100.1742  
-These ISO's contain below editions.  
+These ISOs contain below editions.  
 
 Windows 11 Enterprise LTSC  
 Windows 11 IoT Enterprise LTSC   

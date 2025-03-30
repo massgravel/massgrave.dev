@@ -23,7 +23,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 ```
 irm https://get.activated.win | iex
 ```
-Alternatively, you can use the following (It will be deprecated in the future.)  
+Alternatively, you can use the following (this will be deprecated in the future):  
 ```
 irm https://massgrave.dev/get | iex
 ```
@@ -41,14 +41,14 @@ irm https://massgrave.dev/get | iex
 <details>
   <summary>Click here to view</summary>
   
-1.   Download the file using the links provided below.  
+1.   Download the file using one of the links below:  
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
 or  
 `https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
-2.   Right-click on the downloaded zip file and extract
-3.   In the extracted folder, find the folder named `All-In-One-Version`
-4.   Run the file named `MAS_AIO.cmd`
-5.   You will see the activation options, follow the on-screen instructions.
+2.   Right-click on the downloaded zip file and extract it.
+3.   In the extracted folder, find the folder named `All-In-One-Version`.
+4.   Run the file named `MAS_AIO.cmd`.
+5.   You will see the activation options. Follow the on-screen instructions.
 6.   That's all.
 
 </details>
@@ -57,17 +57,17 @@ or
 
 ### Not working ❓
 
-- If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
-- If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
-- If you have any issues, please feel free to reach out to us [here](troubleshoot.md).
+- If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** above.
+- If MAS launches but displays errors, check for troubleshooting steps highlighted in blue and follow them.
+- If issues persist, feel free to reach out to us [here](troubleshoot.md).
 
 ---
 
 :::note
 
 - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
-- Always double-check the URL before executing the command and verify the source if manually downloading files.
-- Be cautious, as some spread malware disguised as MAS by using different URLs in the IRM command.
+- Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
+- Be cautious, as some spread malware disguised as MAS by changing the URL in the IRM command.
 
 :::
 
