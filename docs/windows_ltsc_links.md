@@ -2,7 +2,7 @@
 
 All download links lead to genuine files only.
 - [FAQ](genuine-installation-media.md#faq)
-- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISO's are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
+- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 
 <details>
   <summary>What is LTSC, and is it the right choice for you?</summary>
@@ -155,7 +155,7 @@ You might want to check [Windows 10 EOL guide](windows10_eol.md).
 <details>
   <summary>How to clean install Windows 11 IoT Enterprise LTSC **2024** in Non-English language?</summary>
 
-IoT LTSC edition ISO's are available in English language only. However, you can follow the below steps to clean install it.
+IoT LTSC edition ISOs are available in English language only. However, you can follow the below steps to clean install it.
 
 - Download the non-IoT LTSC 2024 ISO in the desired language from the section below.
 - Follow [PID.txt method](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
@@ -167,7 +167,7 @@ Alternatively, You can install Non-IoT LTSC in another language and later instal
 <details>
   <summary>How to clean install Windows 10 IoT Enterprise LTSC **2021** in Non-English language?</summary>
 
-IoT LTSC edition ISO's are available in English language only.
+IoT LTSC edition ISOs are available in English language only.
 
 When installing Windows 11 IoT Enterprise LTSC 2024 from scratch, one advantage is its relaxed hardware requirements. However, there isn't much benefit to doing the same with the 2021 IoT version, since you can easily change the Windows edition later. Additionally, the PID.txt method for installing the virtual edition from scratch is only applicable to Windows 11 24H2 and later versions. While there are other methods to install from scratch, they are more complex, and the results do not justify the effort.
 
@@ -193,7 +193,7 @@ Our recommendation is as follows:
 
 Build - 26100.1742
 
-These ISO's contain below editions.  
+These ISOs contain below editions.  
 Windows 11 Enterprise LTSC  
 Windows 11 IoT Enterprise LTSC    
 Windows 11 IoT Enterprise Subscription LTSC
@@ -258,7 +258,7 @@ Build - 26100.1742
 
 (Build - 19044.1288)
 
-These ISO's contain below editions.    
+These ISOs contain below editions.    
 Windows 10 Enterprise LTSC  
 Windows 10 IoT Enterprise LTSC   
 

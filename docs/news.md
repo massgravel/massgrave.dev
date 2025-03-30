@@ -1,12 +1,12 @@
 # News
 
 ### [14-Feb-25] MAS 3.0 update is released  
-A new method "TSforge" is added, for details check [changelog](changelog.md)    
+A new method "TSforge" is added, for details check the [changelog](changelog.md)
 
 ### [20-Dec-24] MAS 2.9 update is released  
 [changelog](changelog.md)
 
-### [19-Nov-24] Added November updated ISO's  
+### [19-Nov-24] Added November updated ISOs  
 Windows 10 22H2 / Windows 11 24H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media
 
@@ -16,14 +16,14 @@ https://massgrave.dev/genuine-installation-media
 ### [1-Nov-24] Guide: Windows 10 Updates After End-Of-Life  
 https://massgrave.dev/windows10_eol
 
-### [16-Oct-24] Added October updated ISO's  
+### [16-Oct-24] Added October updated ISOs  
 Windows 10 22H2 / Windows 11 23H2 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media
 
 ### [2-Oct-24] Added MVS links for Win11 24H2 and LTSC 2024  
 https://massgrave.dev/genuine-installation-media
 
-### [18-Sep-24] Added: September updated ISO's for Windows 10/11/Server 2022  
+### [18-Sep-24] Added: September updated ISOs for Windows 10/11/Server 2022  
 https://massgrave.dev/genuine-installation-media
 
 ### [6-Sep-24] MAS 2.7 update is released  
@@ -33,25 +33,25 @@ Also, the MASSGRAVE blog is now live
 ### [30-Aug-24] Extend expiry date of massgrave.dev/get to 31/12/2024
 Because it looks like some ISPs are flagging new URLs for up to 5-6 months
 
-### [21-Aug-24] Added: August updated ISO's for Windows 10/11/Server 2022 
+### [21-Aug-24] Added: August updated ISOs for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
 ### [14-Aug-24] Added a page for evaluation editions
 https://massgrave.dev/evaluation_editions
 
 ### [7-Aug-24] Server ISOs update
-Added last updated ISO's for Server 2016/2019  
-Added VL ISO's for Server 2008 R2/2012 R2  
+Added last updated ISOs for Server 2016/2019  
+Added VL ISOs for Server 2008 R2/2012 R2  
 
 ### [19-July-24] Update: HWID activation is not working due to server issue
 https://azure.status.microsoft/status  
 https://x.com/massgravel/status/1814087318577308157  
 Update- It was fixed after a few hours.  
 
-### [17-July-24] Added: July updated ISO's for Windows 10/11/Server 2022 
+### [17-July-24] Added: July updated ISOs for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
-### [20-June-24] Added: June updated ISO's for Windows 10/11/Server 2022 
+### [20-June-24] Added: June updated ISOs for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
 ### [16-June-24] Office 2024 online installers are added
@@ -68,7 +68,7 @@ https://massgrave.dev/genuine-installation-media
 ### [23-May-24] Added: Windows Server 2025 (Preview)
 https://massgrave.dev/genuine-installation-media
 
-### [22-May-24] Added: May updated ISO's for Windows 10/11/Server 2022 
+### [22-May-24] Added: May updated ISOs for Windows 10/11/Server 2022 
 https://massgrave.dev/genuine-installation-media
 
 ### [20-May-24] `irm https://massgrave.dev/get | iex` is retiring
@@ -85,7 +85,7 @@ https://massgrave.dev/changelog#26
 ### [19-Apr-24] Added office 2024 preview serializer for macOS
 https://massgrave.dev/office_for_mac
 
-### [17-Apr-24] Added Apr updated ISO's and IoT LTSB 15/16 ISO's
+### [17-Apr-24] Added April updated ISOs and IoT LTSB 15/16 ISOs
 https://massgrave.dev/genuine-installation-media
 
 ### [16-Apr-24] Added office links for older macOS versions

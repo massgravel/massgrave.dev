@@ -4,7 +4,7 @@ All download links lead to genuine files only.
 
 - [FAQ](genuine-installation-media.md#faq)
 -   **You can permanently activate Windows 7 with TSforge option in MAS.**
--   Pro and Ultimate ISO's also contains other editions such as, Starter, Home Basic, Home Premium, Pro, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the ISO.
+-   Pro and Ultimate ISOs also contain other editions such as, Starter, Home Basic, Home Premium, Pro, Ultimate but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the ISO.
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or activate ESU with TSforge option in MAS.
 -   Windows Embedded POSReady 7 ISO is available in English language only. You need to use language pack for other languages.
 
