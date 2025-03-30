@@ -38,20 +38,20 @@ C02D8FE6-5242-4DA8-972F-82EE55E00671  -  Microsoft2024 VL     -   Microsoft::LTS
 - Learn more about Office update channels here https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels  
 - You can fetch the latest Office build numbers here https://github.com/ItzLevvie/Office16/blob/master/defconfig  
 - The official method to change the update channel is taken from these URLs  
-https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813    
-- The script has the above list in the database and offers to choose only the Officially supported change path. 
+https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813
+- The script has the above list in the database and offers only officially supported upgrades.
 
 ### VL (LTSC) channel limitations
 (Applicable to 2019/21/24 VL)
 
 Officially, the update channel can not be changed to/from the VL (LTSC) channel to/from any other channel.  
 So if the Office installation file or installed channel is from the VL (LTSC) channel, then only that channel will appear in the script  
-also if your update channel is not from the LTSC channel, then the script won't Offer you the option to change the channel to LTSC.
+also if your update channel is not from the LTSC channel, then the script won't offer you the option to change the channel to LTSC.
 
 ### Windows 7/8/8.1 limitations
 
 Office C2R is officially not supported on Windows [7](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-7-support) / [8](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-8-support) / [8.1](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-81-support) anymore.  
-The last available build is fixed on certain builds and won't get any updates. VL (LTSC) channels are not supported on these Windows versions so they won't appear in the script.
+The last available build is fixed and won't get any updates. VL (LTSC) channels are not supported on these Windows versions so they won't appear in the script.
 
 ---
 

@@ -3,7 +3,7 @@
 All download links lead to genuine files only.
 
 - [FAQ](genuine-installation-media.md#faq)
--   You need ARM64 processor (CPU) to install Windows ARM64 architecture OS.
+- You need an ARM64 processor (CPU) to install Windows ARM64 architecture OS.
 
 ------------------------------------------------------------------------
 
