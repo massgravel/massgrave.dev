@@ -5,7 +5,7 @@ title: FAQ
 # Frequently Asked Questions
 
 #### How to use it?
-Check the info [here](intro.md#download--how-to-use-it).
+Check the info [here](intro.md#how-to-activate-windows--office).
 
 #### How to activate Windows permanently?
 Use the HWID option in MAS.

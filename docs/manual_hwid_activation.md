@@ -1,6 +1,6 @@
 # HWID
 
-This page is for people who do not want to use the script for any reason and would rather perform the HWID activation process themselves. If you'd like to use a tool for this, please check [here](intro.md#download--how-to-use-it).
+This page is for people who do not want to use the script for any reason and would rather perform the HWID activation process themselves. If you'd like to use a tool for this, please check [here](intro.md#how-to-activate-windows--office).
 
 :::info
 HWID activation is only supported on Windows 10/11.

@@ -2,7 +2,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](intro.md#download--how-to-use-it).
+-   How to use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
 -   This activation method can activate all kinds of Office versions on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
 -   This activation method works offline and activates Office permanently.
 -   This activation method can survive Office repairs, Office updates, and even Windows major feature upgrades. You do not need to reactivate in these cases.
