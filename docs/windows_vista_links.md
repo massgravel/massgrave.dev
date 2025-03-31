@@ -59,8 +59,8 @@ All download links lead to genuine files only.
 | Italian               | x86  | [it_windows_vista_with_sp2_x86_dvd_x15-36300.iso](https://drive.massgrave.dev/it_windows_vista_with_sp2_x86_dvd_x15-36300.iso)                   |
 | Japanese              | x64  | [ja_windows_vista_sp2_x64_dvd_342298.iso](https://drive.massgrave.dev/ja_windows_vista_sp2_x64_dvd_342298.iso)                                   |
 | Japanese              | x86  | [ja_windows_vista_sp2_x86_dvd_342296.iso](https://drive.massgrave.dev/ja_windows_vista_sp2_x86_dvd_342296.iso)                                   |
-| Korean                | x64  | [ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso](https://drive.massgrave.dev/ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso) |
-| Korean                | x86  | [ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso](https://drive.massgrave.dev/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso)               |
+| Korean                | x64  | [ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso](https://drive.massgrave.dev/ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.iso)               |
+| Korean                | x86  | [ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso](https://drive.massgrave.dev/ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.iso) |
 | Lithuanian            | x64  | [lt_windows_vista_with_sp2_x64_dvd_x15-36355.iso](https://drive.massgrave.dev/lt_windows_vista_with_sp2_x64_dvd_x15-36355.iso)                   |
 | Lithuanian            | x86  | [lt_windows_vista_with_sp2_x86_dvd_x15-36304.iso](https://drive.massgrave.dev/lt_windows_vista_with_sp2_x86_dvd_x15-36304.iso)                   |
 | Latvian               | x64  | [lv_windows_vista_with_sp2_x64_dvd_x15-36353.iso](https://drive.massgrave.dev/lv_windows_vista_with_sp2_x64_dvd_x15-36353.iso)                   |
