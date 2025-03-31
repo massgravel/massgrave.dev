@@ -43,7 +43,7 @@ https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-
 (Applicable to 2019/21/24 VL)
 
 Officially, the update channel can not be changed to or from a VL (LTSC) channel, so if the installed channel is a VL (LTSC) channel, only that channel will appear in the script.  
-Also, if the current update channel is not an LTSC channel, the script won't offer to change to LTSC.
+Also, if the installed channel is not an LTSC channel, the script won't offer to change to LTSC.
 
 ### Windows 7/8/8.1 limitations
 
