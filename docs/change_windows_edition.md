@@ -1,6 +1,6 @@
 # Change Windows Edition
 
--   You can find this option in the MAS extras section.
+-   This option can be found in the main menu of MAS.
 -   It can change Windows versions 7 through 11 and the equivalent server editions.
 -   The script incorporates four methods for edition changing:
     -   May's DISM Api Method - Used in Windows 10/11 Core to Non-Core edition change
@@ -9,10 +9,10 @@
     -   [CBS Upgrade Method](https://github.com/asdcorp/Set-WindowsCbsEdition) - Used in Windows versions before 10
 -   The script will show editions available via any of the four methods.
 -   The script is future-proof, which means that it won't need an update upon the release of new editions because it can get the required product key from the system itself.
--   The script blocks changing to CountrySpecific, ServerRdsh, and to/from CloudEdition editions since it's not officially supported and the user may face issues.
--   The script cannot change
-    -   Non-Core editions to Core editions (For example, Pro > Home isn't available)
-    -   GAC editions to LTSC editions (For example, Enterprise > Enterprise LTSC isn't available)
+-   The script blocks changing to CountrySpecific and ServerRdsh, and to/from CloudEdition editions since this is not officially supported and it may cause issues.
+-   The script cannot change:
+    -   Non-Core editions to Core editions. (For example, Pro to Home isn't available.)
+    -   GAC editions to LTSC editions. (For example, Enterprise to Enterprise LTSC isn't available.)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ If you want to manually change the edition instead of using the script, please f
 
 ### Windows Server 2016 and Later
 
--   Follow the official Microsoft guide [here](https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options), you can get the required keys from [here](kms38.md#supported-products).
+-   Follow the [official Microsoft guide](https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options). You can get the required keys from [here](kms38.md#supported-products).
 
 ------------------------------------------------------------------------
 
