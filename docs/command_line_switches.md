@@ -2,15 +2,15 @@
 
 ## Switches List
 
--   You can use the below switches in MAS AIO, separate files version and in Powershell one-liner to run in unattended mode.
--   If you want to use it in Windows Pre-Activation then check [this](oem-folder.md) page for more details.
+-   You can use the switches below in MAS AIO, separate files version and in Powershell one-liner to run in unattended mode.
+-   If you want to use MAS to pre-activate Windows, check [this](oem-folder.md) page for more details.
 
 ### HWID
 
-| Switches                | Meaning                                                                                                                                                                                                         |
-|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/HWID`                 | Activate with HWID                                                                                                                                                                                              |
-| `/HWID-NoEditionChange` | Some editions don't support HWID, script by default change edition to nearest available to enable HWID activation. This switch can be used to stop this change. You don't need to add `/HWID` switch with this. |
+| Switches                | Meaning                                                                                                                                                                                   |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `/HWID`                 | Activate with HWID                                                                                                                             |
+| `/HWID-NoEditionChange` | Some editions don't support HWID, so by default the script changes the edition to nearest available edition to enable activation. This switch runs HWID without allowing edition changes. |
 
 ### Ohook
 
@@ -31,16 +31,16 @@
 | `/Z-WinHost`                 | Activate only Windows KMS Host with TSforge                                                                                                                                                          |
 | `/Z-OffHost`                 | Activate only Office KMS Host with TSforge                                                                                                                                                           |
 | `/Z-APPX`                    | Activate only 8/8.1 APPXLOB with TSforge                                                                                                                                                             |
-| `/Z-ID-ActivationIdGoesHere` | To specify an activation ID for activation, where ActivationIdGoesHere needs to be edited for Activation ID. If you want to add multiple through parameter, pass each of them in separate parameters |
+| `/Z-ID-ActivationIdGoesHere` | To specify an activation ID for activation, where ActivationIdGoesHere needs to be edited for Activation ID. If you want to add multiple through parameters, pass each of them in separate parameters |
 | `/Z-Reset`                   | Reset rearm counter, evaluation period and clear the tamper state, key lock                                                                                                                          |
 
 ### KMS38
 
-| Switches                  | Meaning                                                                                                                                                                                                            |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/KMS38`                  | Activate with KMS38                                                                                                                                                                                                |
-| `/KMS38-RemoveProtection` | Remove KMS38 protection                                                                                                                                                                                            |
-| `/KMS38-NoEditionChange`  | Some editions don't support KMS38, script by default change edition to nearest available to enable KMS38 activation. This switch can be used to stop this change. You don't need to add `/KMS38` switch with this. |
+| Switches                  | Meaning                                                                                                                                                                                     |
+|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `/KMS38`                  | Activate with KMS38                                                                                                                              |
+| `/KMS38-NoEditionChange`  | Some editions don't support KMS38, so by default the script changes the edition to nearest available edition to enable activation. This switch runs KMS38 without allowing edition changes. |
+| `/KMS38-RemoveProtection` | Remove KMS38 protection                                                                                                                                                                     |
 
 ### Online KMS
 
@@ -58,26 +58,26 @@
 
 ```
 /S
-Run operations in silent mode (no output BUT CMD Windows will still appear)
+Run operations in silent mode (no output but the CMD window will still appear)
 ```
 
 ------------------------------------------------------------------------
 
-## Uses In Powershell One Liner
+## Using in the Powershell One-Liner
 
 `& ([ScriptBlock]::Create((irm https://get.activated.win))) /para`
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /Ohook`
--   This Powershell one-liner will work on Windows 8.1 and later versions only.
+-   This Powershell one-liner will only work on Windows 8.1 and later.
 -   To change the edition through the command line, check [here](change_windows_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
 
 ------------------------------------------------------------------------
 
 ## Rules
 
--   Script will run in unattended mode if any switch is used.
+-   The script will run in unattended mode if any switch is used.
 -   `/S` switch is not applicable in MAS separate files version scripts.
--   All switches are case-insensitive, and work in any order, but must be separated with spaces.
+-   All switches are case-insensitive and work in any order, but must be separated with spaces.
 -   KMS Uninstall switch will take precedence over other KMS switches.
 -   KMS38 remove protection switch will take precedence over KMS38 activation.
 
