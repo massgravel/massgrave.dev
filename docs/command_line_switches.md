@@ -9,7 +9,7 @@
 
 | Switches                | Meaning                                                                                                                                                                                   |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/HWID`                 | Activate with HWID, doing a minor edition change if necessary                                                                                                                             |
+| `/HWID`                 | Activate with HWID                                                                                                                             |
 | `/HWID-NoEditionChange` | Some editions don't support HWID, so by default the script changes the edition to nearest available edition to enable activation. This switch runs HWID without allowing edition changes. |
 
 ### Ohook
@@ -31,14 +31,14 @@
 | `/Z-WinHost`                 | Activate only Windows KMS Host with TSforge                                                                                                                                                          |
 | `/Z-OffHost`                 | Activate only Office KMS Host with TSforge                                                                                                                                                           |
 | `/Z-APPX`                    | Activate only 8/8.1 APPXLOB with TSforge                                                                                                                                                             |
-| `/Z-ID-ActivationIdGoesHere` | To specify an activation ID for activation, where ActivationIdGoesHere needs to be edited for Activation ID. If you want to add multiple through parameter, pass each of them in separate parameters |
+| `/Z-ID-ActivationIdGoesHere` | To specify an activation ID for activation, where ActivationIdGoesHere needs to be edited for Activation ID. If you want to add multiple through parameters, pass each of them in separate parameters |
 | `/Z-Reset`                   | Reset rearm counter, evaluation period and clear the tamper state, key lock                                                                                                                          |
 
 ### KMS38
 
 | Switches                  | Meaning                                                                                                                                                                                     |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/KMS38`                  | Activate with KMS38, doing a minor edition change if necessary                                                                                                                              |
+| `/KMS38`                  | Activate with KMS38                                                                                                                              |
 | `/KMS38-NoEditionChange`  | Some editions don't support KMS38, so by default the script changes the edition to nearest available edition to enable activation. This switch runs KMS38 without allowing edition changes. |
 | `/KMS38-RemoveProtection` | Remove KMS38 protection                                                                                                                                                                     |
 
