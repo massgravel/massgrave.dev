@@ -18,6 +18,11 @@ To manually activate Windows, follow these steps:
 -   Copy the corresponding product key from the table below and paste it into the product key field.
 -   After waiting for a few seconds, Windows should be activated.
 
+:::tip
+If you're seeing error `0x803fa067` while trying to change the product key, disconnect your PC from the internet and try changing the product key again.   
+After you have done that, connect to the internet again and Windows should be activated.
+:::
+
 ### Windows 10/11
 
 | Edition                               | Key                           | Ticket                                                                                                                      |
