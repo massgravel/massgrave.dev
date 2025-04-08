@@ -127,17 +127,6 @@ Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
 
-## System Center
-
-- Download  
-  - System Center 2025 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2025    
-  - System Center 2022 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2022  
-  - System Center 2019 - https://www.microsoft.com/en-us/evalcenter/evaluate-system-center-2019  
-
-- Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
-
-------------------------------------------------------------------------
-
 :::tip
 
 -   If you need help with some other Microsoft products, reach out to us [here](contactus.md).
