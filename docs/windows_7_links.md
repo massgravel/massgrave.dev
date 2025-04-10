@@ -101,11 +101,13 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 
-<TabItem value="Old Versions" label="Other Versions" default>
+<TabItem value="Other Versions" label="Other Versions" default>
 
 **Other Versions**
 
-https://os.click/
+- https://os.click/
+- https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
+- [MVS Bot](https://discord.gg/FajfGaH3nD)
 
 ------------------------------------------------------------------------
 

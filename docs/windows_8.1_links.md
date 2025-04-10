@@ -119,11 +119,13 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 
 </TabItem>
 
-<TabItem value="Old Versions" label="Other Versions" default>
+<TabItem value="Other Versions" label="Other Versions" default>
 
 **Other Versions**
 
-https://os.click/
+- https://os.click/
+- https://files.rg-adguard.net/language/1c50237d-03ef-617b-41f0-a7c44b76e808
+- [MVS Bot](https://discord.gg/FajfGaH3nD)
 
 ------------------------------------------------------------------------
 

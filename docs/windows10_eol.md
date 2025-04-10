@@ -51,7 +51,7 @@ The IoT edition ISO is available in English language only, but don't worry.
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open the command prompt as admin and enter,  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
-- Now **quickly** go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't take time at this step, otherwise it won't show an option to keep files and apps)
+- Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 That's all.
@@ -108,7 +108,7 @@ The IoT edition is available in English language only, but don't worry.
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`  
   **For LTSC**  
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
-- Now **quickly** go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't take time at this step, otherwise it won't show an option to keep files and apps)
+- Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
 That's all.

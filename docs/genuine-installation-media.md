@@ -82,7 +82,7 @@ It takes too much effort and resources when users can and should simply run Wind
 <details>
 <summary>Click here for info</summary>
 
-You can request the file [here](https://discord.gg/NpuNEUS2Sh).
+You can request the file [here](https://discord.gg/FajfGaH3nD).
 
 </details>
 

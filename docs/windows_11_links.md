@@ -113,13 +113,14 @@ Check [here](windows_ltsc_links.md).
 
 </TabItem>
 
-<TabItem value="Old Versions" label="Old Versions" default>
+<TabItem value="Other Versions" label="Other Versions" default>
 
-**Old Versions**
+**Other Versions**
 
-1) https://os.click/  
-OR  
-2) Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- [MVS Bot](https://discord.gg/FajfGaH3nD)
+- https://os.click/
+- https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
    - Put the ESD file beside `decrypt.cmd` and run that script.
    - It will create the ISO file.
    - This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
