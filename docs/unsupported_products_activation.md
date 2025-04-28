@@ -55,7 +55,20 @@
 ## Remote Desktop Services / Client Access Licenses (RDS CALs)
 
 **Installation**  
-https://learn.microsoft.com/windows-server/remote/remote-desktop-services/rds-activate-license-server
+
+<details>
+<summary>Click here for info</summary>
+
+-  Sign into the server you want to use as the license server using an administrator account.
+-  In Server Manager, select Manage > Add Roles and Features.
+-  On the Select installation type page, select Role-based or feature-based installation.
+-  Specify the server on which you install the licensing role.
+-  On the Server Roles page, check the box for Remote Desktop Services, then select Next until you see the Remote Desktop Services page.
+-  Select the roles you want to install. Make sure you include the Remote Desktop Licensing role.
+-  In the Add Roles and Features Wizard dialog box, select Add Features.
+-  Select Next until you see the Confirmation page, then select Install.
+
+</details>
 
 **Activation**  
 There is no validation during the activation of RDS licenses.
@@ -71,6 +84,9 @@ There is no validation during the activation of RDS licenses.
 -  Set the agreement number to `1234567` and click next
 -  Fill out the next page with your chosen values and click next
 -  The license wizard should report "The requested licenses have been successfully installed"
+
+Alternatively, you can generate a key on the page below. It works on old Server versions as well.  
+https://github.com/thecatontheceiling/LyssaRDSGen
 
 ------------------------------------------------------------------------
 
