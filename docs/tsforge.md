@@ -21,7 +21,7 @@
 
 ## How does it work?
 
-**Process on Windows 7**
+**Process on Windows Vista and 7**
 
 ![](/img/win7_color.svg)
 
@@ -33,10 +33,12 @@
 - SPP stores information about the activation state in files called the "physical store" and "token store".
 - The physical store's contents are cryptographically protected and integrity-checked by SPPSvc/SPSys, preventing users from easily modifying it.
 - The physical store is usually found at these locations:
+  - Windows Vista - `C:\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-2P-0.C7483456-A289-439d-8115-601632D005A0` and `C:\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-2P-1.C7483456-A289-439d-8115-601632D005A0`
   - Windows 7 - `C:\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-5P-0.C7483456-A289-439d-8115-601632D005A0` and `C:\Windows\System32\7B296FB0-376B-497e-B012-9C450E1B7327-5P-1.C7483456-A289-439d-8115-601632D005A0`
   - Windows 8 - `C:\Windows\System32\spp\store\data.dat`
   - Windows 8.1/10/11 - `C:\Windows\System32\spp\store\2.0\data.dat`
 - The token store is usually found at these locations:
+  - Windows Vista - `C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareLicensing\tokens.dat`
   - Windows 7 - `C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform\tokens.dat`
   - Windows 8 - `C:\Windows\System32\spp\store\tokens.dat`
   - Windows 8.1/10/11 - `C:\Windows\System32\spp\store\2.0\tokens.dat`
