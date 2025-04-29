@@ -3,7 +3,7 @@
 ## Overview
 
 -   How to use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
--   This activation method can activate all kinds of Office versions on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
+-   This activation method can activate all kinds of Office versions on Windows Vista and higher and their Server equivalent except Office UWP apps.
 -   This activation method works offline and activates Office permanently.
 -   This activation method can survive Office repairs, Office updates, and even Windows major feature upgrades. You do not need to reactivate in these cases.
 -   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
@@ -12,6 +12,8 @@
 ------------------------------------------------------------------------
 
 ## How does it work?
+
+#### For SPP based Office:
 
 ![](/img/MAS-before-ohook.svg)
 
@@ -26,7 +28,64 @@
 
 ## Supported Products
 
-TL;DR all kinds of Office products are supported on Windows 8 and higher and their Server equivalent except Office 2010 and Office UWP apps.
+TL;DR all kinds of Office products are supported on Windows Vista and higher and their Server equivalent except Office UWP apps.
+
+### Office 2010 (14.0)
+
+| Office Version | Office Product                                                      | Blocked keys sourced from the Internet | Key Type |
+|----------------|---------------------------------------------------------------------|----------------------------------------|----------|
+| v14.0 (2010)   | AccessR                                                             | 7KTYC-XR43P-C3MRW-BJKFD-XBYPG          | Retail   |
+| v14.0 (2010)   | AccessRuntimeR                                                      | 7XHPQ-BQMYG-YBP49-CY8B2-T8CGQ          | ByPass   |
+| v14.0 (2010)   | AccessVL                                                            | 89RTQ-MT4GK-6CPTX-WWP7C-J9KXR          | MAK      |
+| v14.0 (2010)   | ExcelVL                                                             | 39TRR-C2F37-9WYJ2-MJQXH-B938K          | MAK      |
+| v14.0 (2010)   | GrooveVL                                                            | RCGT3-FPQDV-H49CD-PPDBF-TH47G          | MAK      |
+| v14.0 (2010)   | HomeBusinessR [HomeBusinessDemoR]                                   | 3YR9B-D9W79-BY66R-R8XYP-QYYYY          | Retail   |
+| v14.0 (2010)   | HomeStudentR [HomeStudentDemoR]                                     | 3X43R-HHHXX-FRHRW-2M2WJ-8VPHD          | Retail   |
+| v14.0 (2010)   | InfoPathR                                                           | XDGJY-KFHW9-JWX9X-YM4GW-GC8WR          | Retail   |
+| v14.0 (2010)   | InfoPathVL                                                          | 6GKT2-KMJPK-4RRBF-8VQKB-JB6G6          | MAK      |
+| v14.0 (2010)   | OneNoteR [HSOneNoteR]                                               | 2TG3P-9DB76-4YT99-8RXGD-CWXBP          | Retail   |
+| v14.0 (2010)   | OneNoteVL                                                           | CV64P-F4VRH-BJ33D-PH6MR-X69RY          | MAK      |
+| v14.0 (2010)   | OutlookVL                                                           | J8C9M-YXMH2-9CX44-2C3YG-V7692          | MAK      |
+| v14.0 (2010)   | PersonalR [PersonalDemoR,PersonalPrepaidR]                          | GMBWM-WVX26-7WHV4-DB43D-WVDY2          | Retail   |
+| v14.0 (2010)   | PowerPointVL                                                        | HPBQP-RJHDR-Q3472-PT9Q6-PBB72          | MAK      |
+| v14.0 (2010)   | ProfessionalR [ProfessionalAcadR,ProfessionalDemoR,OEM-SingleImage] | 367X9-9HP9R-TKHY6-DH4QH-K9PY7          | Retail   |
+| v14.0 (2010)   | ProjectProR [ProjectProMSDNR]                                       | 6JD4G-KRW3J-48MGV-DM6FC-T9WKR          | Retail   |
+| v14.0 (2010)   | ProjectProVL                                                        | 3XDTH-MMGJ6-F9MKX-THP8D-G9BP7          | MAK      |
+| v14.0 (2010)   | ProjectStdR                                                         | 2W96V-RTQ9R-2BPVT-PT8H9-MV68T          | Retail   |
+| v14.0 (2010)   | ProjectStdVL                                                        | 4DTT4-D4MKX-23KFH-JKR6T-YKG2J          | MAK      |
+| v14.0 (2010)   | ProPlusR [ProPlusAcadR,ProPlusMSDNR,Sub4R]                          | 2J9H6-H4D3G-PCXD2-96XVM-TRR73          | Retail   |
+| v14.0 (2010)   | ProPlusVL [ProPlusAcadVL]                                           | 6CD6C-9R8PB-T2D9Y-8RKKX-W7DFK          | MAK      |
+| v14.0 (2010)   | PublisherVL                                                         | 32YG9-3VX77-YXJVV-PRVFW-TT8BV          | MAK      |
+| v14.0 (2010)   | SmallBusBasicsVL                                                    | 7VKXH-9BWCG-RPTBB-JBRV3-GRHYC          | MAK      |
+| v14.0 (2010)   | SPDR                                                                | H48K6-FB4Y6-P83GH-9J7XG-HDKKX          | ByPass   |
+| v14.0 (2010)   | StandardR [StandardMSDNR][KeyisforMSDNR]                            | W3BTX-H6BW7-Q6DFW-BXFFY-8RVJP          | Retail   |
+| v14.0 (2010)   | StandardVL [StandardAcadVL]                                         | 2XTQP-GDR7C-GTXPC-6W6PV-4RXGC          | MAK      |
+| v14.0 (2010)   | StarterR                                                            | VXHHB-W7HBD-7M342-RJ7P8-CHBD6          | ByPass   |
+| v14.0 (2010)   | VisioSIR Prem[Pro,Std]                                              | 2RDPT-WPYQM-C2WXF-BTPDW-2J2HM          | Retail   |
+| v14.0 (2010)   | VisioSIVL Prem[Pro,Std]                                             | 7PKFT-X2MKQ-GT6X2-8CB2W-CHC9K          | MAK      |
+| v14.0 (2010)   | WordVL                                                              | 6J3XK-DFKGK-X373V-QJHYM-V3FC2          | MAK      |
+
+We couldn't find any keys (blocked/generic doesn't matter) for these Office 2010 products. If you have them, please share with us.
+
+```
+4eaff0d0-c6cb-4187-94f3-c7656d49a0aa    Retail      ExcelR_[HSExcelR]
+7004b7f0-6407-4f45-8eac-966e5f868bde    Retail      GrooveR
+fbf4ac36-31c8-4340-8666-79873129cf40    Retail      OutlookR
+133c8359-4e93-4241-8118-30bb18737ea0    Retail      PowerPointR_[HSPowerPointR]
+98677603-a668-4fa4-9980-3f1f05f78f69    Retail      PublisherR
+db3bbc9c-ce52-41d1-a46f-1a1d68059119    Retail      WordR_[HSWordR]
+dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBasicsMSDNR]
+```
+
+These installers are not publicly available, so it doesn't matter if we don't have their keys.
+
+```
+19316117-30a8-4773-8fd9-7f7231f4e060    SubPrepid   HomeBusinessSubR
+4d06f72e-fd50-4bc2-a24b-d448d7f17ef2    SubPrepid   ProjectProSubR
+e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
+14f5946a-debc-4716-babc-7e2c240fec08    Retail      MondoR
+533b656a-4425-480b-8e30-1a2358898350    MAK         MondoVL
+```
 
 ### Office 2013 (15.0)
 
@@ -267,7 +326,8 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 -   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
 -   Script doesn't convert any product to Volume or vice-versa. All products are activated with their own licence.
--   Key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
+-   For Office 2013 and later, key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
+-   For Office 2010, key preference is given in this order, Retail > Volume:MAK
 
 :::
 
@@ -275,13 +335,8 @@ TL;DR all kinds of Office products are supported on Windows 8 and higher and the
 
 ## Unsupported Products
 
--   Office on Windows 7 and their Server equivalent
--   Office 2010
--   Office UWP (Store apps)
-
-**Note:**
-
--   Theoretically Office on Windows 7 and Office 2010 can be activated with Ohook but these versions require changing Office registry keys and renaming Office file names, that is why we have not added support for it. We recommend to use KMS activation for them.
+-   Office UWP (Store apps)  
+    Use TSforge activation option for this.
 
 ------------------------------------------------------------------------
 

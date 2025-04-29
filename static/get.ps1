@@ -33,9 +33,9 @@ function CheckFile {
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 $URLs = @(
-    'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/313f240448953cd5fe3c5631f4e4de502f23fc9a/MAS/All-In-One-Version-KL/MAS_AIO.cmd',
-    'https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=313f240448953cd5fe3c5631f4e4de502f23fc9a',
-    'https://git.activated.win/massgrave/Microsoft-Activation-Scripts/raw/commit/313f240448953cd5fe3c5631f4e4de502f23fc9a/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
+    'https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/4e702068bea2cd5372904389ac687c75bc13223f/MAS/All-In-One-Version-KL/MAS_AIO.cmd',
+    'https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&versionType=Commit&version=4e702068bea2cd5372904389ac687c75bc13223f',
+    'https://git.activated.win/massgrave/Microsoft-Activation-Scripts/raw/commit/4e702068bea2cd5372904389ac687c75bc13223f/MAS/All-In-One-Version-KL/MAS_AIO.cmd'
 )
 
 foreach ($URL in $URLs | Sort-Object { Get-Random }) {
@@ -50,7 +50,7 @@ if (-not $response) {
 }
 
 # Verify script integrity
-$releaseHash = '919F17B46BF62169E8811201F75EFDF1D5C1504321B78A7B0FB47C335ECBC1B0'
+$releaseHash = '000DB2C899D009AFAFC19CF04A9BF5381F5520CB21395A29B0DB57483FA7A909'
 $stream = New-Object IO.MemoryStream
 $writer = New-Object IO.StreamWriter $stream
 $writer.Write($response)

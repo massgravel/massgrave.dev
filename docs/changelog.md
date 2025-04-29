@@ -2,6 +2,45 @@
 
 ------------------------------------------------------------------------
 
+## 3.1
+
+**Vista Support**
+
+#### **TSforge:**
+- TSforge activation now supports Windows Vista and Server 2008.  
+  - Thanks to @InvoxiPlayGames for Vista [SPSys IOCTLs](https://github.com/InvoxiPlayGames/vistaspctl) and physical store format, and to @WitherOrNot.
+- Fixed an issue where `sppsvc` might not stop on older systems. Thanks to @WitherOrNot.
+- Fixed an issue where activation wouldn't work on Windows 10 ARM64. Thanks to @WitherOrNot.
+- For Windows 10 ESU, selected 1Y and 2Y ESU options as well instead of only 3Y, to ensure compatibility.
+- Updated the Windows 10 ESU editions list as per build 19045.5552 (ServerRdsh added, IoTEnterpriseS removed).
+- Added support for Office 365 15.0 because phone licenses are available.
+- Converted Office HomeStudentARM IDs to Mondo since phone licenses aren't available for them.
+- Added support for external `LibTSforge.dll` if found in the `BIN` folder next to the script.
+- Fixed an issue where Office did not require activation but TSforge would still show a phone license missing error.
+
+#### **Ohook:**
+- Ohook activation now supports OSPP-based Office versions as well, meaning all Office versions are now supported on Windows Vista/Server 2008 and later.  
+  - Thanks to @abbodi1406 and @asdcorp.
+
+#### **Online KMS:**
+- Online KMS activation now supports Windows and Office from Windows Vista/Server 2008 onward.
+
+#### **Check Activation Status:**
+- Added updated CAS by @abbodi1406:  
+  - Faster PInvoke native method imports from the Software Licensing Client DLL.  
+  - Displays more information for all supported Windows and Office versions.  
+  - Implements "Client Licensing Check" for Windows 7 and Vista.
+
+#### **All:**
+- Simplified code related to disabling QuickEdit and avoiding the Terminal app.
+- Fixed issues with WPA key check logic.
+- Fixed MSI Office detection issues for Visio and a few other products.
+- Corrected an issue where the `SharedComputerLicensing` registry key was incorrectly added on Server editions for older Office retail versions.
+- Improved help messages.
+- Various other fixes and improvements.
+
+------------------------------------------------------------------------
+
 ## 3.0
 
 **The Forge Awakens**

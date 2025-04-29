@@ -217,6 +217,27 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 | ServerWebCore          | 6TPJF-RBVHG-WBW2R-86QPH-6RTM4 |
 | ServerEmbeddedSolution | 736RG-XDKJK-V34PF-BHK87-J6X3K |
 
+### Windows Vista
+| EditionID   | Generic Volume License Key    |
+|-------------|-------------------------------|
+| Enterprise  | VKK3X-68KWM-X2YGT-QR4M6-4BWMV |
+| Business    | YFKBB-PQJJV-G996G-VWGXY-2V3X8 |
+| BusinessN   | HMBQG-8H2RH-C77VX-27R82-VMQBT |
+| EnterpriseN | VTC42-BM838-43QHV-84HX6-XJXKV |
+
+### Windows Server 2008
+| EditionID            | Generic Volume License Key    |
+|----------------------|-------------------------------|
+| ServerStandard       | TM24T-X9RMF-VWXK6-X8JC9-BFGM2 |
+| ServerDatacenter     | 7M67G-PC374-GR742-YH8V4-TCBY3 |
+| ServerEnterprise     | YQGMW-MPWTJ-34KDK-48M3W-X4Q6V |
+| ServerEnterpriseIA64 | 4DWFP-JF3DJ-B7DTH-78FJB-PDRHK |
+| ServerWeb            | WYR28-R7TFJ-3X2YQ-YCY4H-M249D |
+| ServerComputeCluster | RCTX3-KWVHP-BR6TB-RB6DM-6X7HP |
+| ServerStandardV      | W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ |
+| ServerDatacenterV    | 22XQ2-VRXRG-P8D42-K34TD-G3QQC |
+| ServerEnterpriseV    | 39BXF-X8Q23-P2WWT-38T2F-G3FPG |
+
 ### Office 2010
 | EditionID        | Generic Volume License Key    |
 |------------------|-------------------------------|
@@ -318,23 +339,23 @@ If you don't want to install this renewal task, you can turn off the "Renewal Ta
 | Word2021Volume             | TN8H9-M34D3-Y64V9-TR72V-X79KV |
 
 ### Office 2024
-| EditionID                    | Generic Volume License Key                       |
-|------------------------------|--------------------------------------------------|
-| ProPlus2024Volume-Preview    | 2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2                    |
-| ProjectPro2024Volume-Preview | D9GTG-NP7DV-T6JP3-B6B62-JB89R                    |
-| VisioPro2024Volume-Preview   | YW66X-NH62M-G6YFP-B7KCT-WXGKQ                    |
-| Access2024Volume             | 82FTR-NCHR7-W3944-MGRHM-JMCWD                    |
-| Excel2024Volume              | F4DYN-89BP2-WQTWJ-GR8YC-CKGJG                    |
-| Outlook2024Volume            | D2F8D-N3Q3B-J28PV-X27HD-RJWB9                    |
-| PowerPoint2024Volume         | CW94N-K6GJH-9CTXY-MG2VC-FYCWP                    |
-| ProjectPro2024Volume         | FQQ23-N4YCY-73HQ3-FM9WC-76HF4  |
-| ProjectStd2024Volume         | PD3TT-NTHQQ-VC7CY-MFXK3-G87F8                    |
-| ProPlus2024Volume            | XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB  |
-| SkypeforBusiness2024Volume   | 4NKHF-9HBQF-Q3B6C-7YV34-F64P3                    |
-| Standard2024Volume           | V28N4-JG22K-W66P8-VTMGK-H6HGR                    |
-| VisioPro2024Volume           | B7TN8-FJ8V3-7QYCP-HQPMV-YY89G  |
-| VisioStd2024Volume           | JMMVY-XFNQC-KK4HK-9H7R3-WQQTV                    |
-| Word2024Volume               | MQ84N-7VYDM-FXV7C-6K7CC-VFW9J                    |
+| EditionID                    | Generic Volume License Key    |
+|------------------------------|-------------------------------|
+| ProPlus2024Volume-Preview    | 2TDPW-NDQ7G-FMG99-DXQ7M-TX3T2 |
+| ProjectPro2024Volume-Preview | D9GTG-NP7DV-T6JP3-B6B62-JB89R |
+| VisioPro2024Volume-Preview   | YW66X-NH62M-G6YFP-B7KCT-WXGKQ |
+| Access2024Volume             | 82FTR-NCHR7-W3944-MGRHM-JMCWD |
+| Excel2024Volume              | F4DYN-89BP2-WQTWJ-GR8YC-CKGJG |
+| Outlook2024Volume            | D2F8D-N3Q3B-J28PV-X27HD-RJWB9 |
+| PowerPoint2024Volume         | CW94N-K6GJH-9CTXY-MG2VC-FYCWP |
+| ProjectPro2024Volume         | FQQ23-N4YCY-73HQ3-FM9WC-76HF4 |
+| ProjectStd2024Volume         | PD3TT-NTHQQ-VC7CY-MFXK3-G87F8 |
+| ProPlus2024Volume            | XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB |
+| SkypeforBusiness2024Volume   | 4NKHF-9HBQF-Q3B6C-7YV34-F64P3 |
+| Standard2024Volume           | V28N4-JG22K-W66P8-VTMGK-H6HGR |
+| VisioPro2024Volume           | B7TN8-FJ8V3-7QYCP-HQPMV-YY89G |
+| VisioStd2024Volume           | JMMVY-XFNQC-KK4HK-9H7R3-WQQTV |
+| Word2024Volume               | MQ84N-7VYDM-FXV7C-6K7CC-VFW9J |
 
 :::info
 

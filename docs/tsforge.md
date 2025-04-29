@@ -8,8 +8,8 @@
 -   Once the system is activated, hardware can be changed arbitrarily without triggering de-activation.
 -   Internet is not required for this method.
 -   This activation method can activate any of the following products if a phone license is available and licensing is managed by the system's SPP. For example,
-    *   Windows 7 and later
-    *   Windows Server 2008 R2 and later
+    *   Windows Vista and later
+    *   Windows Server 2008 and later
     *   Office 2013 and later (requires Windows 8 or later)
     *   Windows addons (ESU, APPXLOB, etc.)
     *   Windows and Office KMS Hosts (CSVLK)
@@ -54,12 +54,14 @@
 This activation method can activate any of the following products if a phone license is available and licensing is managed by the system's SPP.
 
 - **Windows**
+  - Windows Vista
   - Windows 7
   - Windows 8
   - Windows 8.1
   - Windows 10
   - Windows 11
 - **Windows Server**
+  - Windows Server 2008
   - Windows Server 2008 R2
   - Windows Server 2012
   - Windows Server 2012 R2
@@ -78,6 +80,7 @@ This activation method can activate any of the following products if a phone lic
     - **Windows 7** (Enterprise, Professional, Ultimate and their E/N variants)
     - **Windows Embedded POSReady 7** (Embedded)
     - **Windows Embedded Standard 7** (Embedded)
+    - **Windows Server 2008** (ServerDatacenter, ServerStandard, ServerEnterprise and their V/Core/VCore variants)
     - **Windows Server 2008 R2** (ServerDatacenter, ServerStandard, ServerEnterprise and their V/Core/VCore variants)
     - **Windows Server 2012** (ServerDatacenter, ServerStandard and their Core variants)
 	- **Windows 8.1** (Enterprise, Professional, EmbeddedIndustry and their E/N variants)
@@ -91,8 +94,8 @@ This activation method can activate any of the following products if a phone lic
   - **Others** (Can be selected from the manual option)
     - OCUR
 - **KMS Hosts** (CSVLK)
-  - Windows 7 and later
-  - Windows Server 2008 R2 and later
+  - Windows Vista and later
+  - Windows Server 2008 and later
   - Office 2010 and later
 
 :::info
@@ -105,18 +108,89 @@ This activation method can activate any of the following products if a phone lic
 
 ------------------------------------------------------------------------
 
+## Keys
+
+TSforge activation generates keys for PKey2009-based products and sets product key data for PKey2005-based products.  
+However, it cannot handle keys for Windows Vista and Windows Server 2008. That is why only the keys for these products are listed here.
+
+Keys aren't available for these editions, but since the editions themselves aren't publicly available, it doesn't matter.
+```
+a797d61e-1475-470b-86c8-f737a72c188d   StarterN
+5e9f548a-c8a9-44e6-a6c2-3f8d0a7a99dd   ServerComputeClusterV
+```
+
+### Windows Vista 
+| Edition      | Generic Key                   | Key Type |
+|--------------|-------------------------------|----------|
+| Business     | 4D2XH-PRBMM-8Q22B-K8BM3-MRW4W | Retail   |
+| BusinessN    | 76884-QXFY2-6Q2WX-2QTQ8-QXX44 | Retail   |
+| Enterprise   | YQPQV-RW8R3-XMPFG-RXG9R-JGTVF | Retail   |
+| EnterpriseN  | Q7J9R-G63R4-BFMHF-FWM9R-RWDMV | Retail   |
+| HomeBasic    | RCG7P-TX42D-HM8FM-TCFCW-3V4VD | Retail   |
+| HomeBasicN   | HY2VV-XC6FF-MD6WV-FPYBQ-GFJBT | Retail   |
+| HomePremium  | X9HTF-MKJQQ-XK376-TJ7T4-76PKF | Retail   |
+| HomePremiumN | KJ6TP-PF9W2-23T3Q-XTV7M-PXDT2 | Retail   |
+| Starter      | X9PYV-YBQRV-9BXWV-TQDMK-QDWK4 | Retail   |
+| Ultimate     | VMCB9-FDRV6-6CDQM-RV23K-RP8F7 | Retail   |
+| UltimateN    | CVX38-P27B4-2X8BT-RXD4J-V7CKX | Retail   |
+
+
+### Windows Server 2008
+| Edition                        | Generic Key                   | Key Type   |
+|--------------------------------|-------------------------------|------------|
+| ServerComputeCluster           | 24FV9-H7JW8-C8Q6X-BQKMK-K977J | Retail     |
+| ServerDatacenter               | 6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB | Retail     |
+| ServerDatacenterV              | 83TWG-TD3TC-HRDP2-K93FJ-Y34YC | OEM:NONSLP |
+| ServerEnterprise               | MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ | Retail     |
+| ServerEnterpriseIA64           | H4VB6-QPRWH-VDCYM-996P8-MHKFY | OEM:NONSLP |
+| ServerEnterpriseV              | H8H7M-HDPQT-PJHQF-M7B83-9CVGV | Retail     |
+| ServerHomePremium              | RGBMC-PQBVF-94Q9K-HD63B-VY6MP | Retail     |
+| ServerHomeStandard             | 6C8KR-MD3QK-9GWFW-44CY2-W9CBM | Retail     |
+| ServerMediumBusinessManagement | 7XRBY-6MP2K-VQPT8-F37JV-YYQ83 | Retail     |
+| ServerMediumBusinessMessaging  | 6PDTD-JK48J-662TF-8J2QV-R4CRB | Retail     |
+| ServerMediumBusinessSecurity   | D694V-CMWKH-PY92X-PFQKQ-JCB69 | Retail     |
+| ServerSBSPremium               | MRDK3-YYQF3-88BQJ-D6FJG-69YJY | Retail     |
+| ServerSBSPrime                 | 2KB23-GJRBD-W3T9C-6CH2W-39B7V | Retail     |
+| ServerSBSStandard              | H4XDD-B27GY-667P6-XWVV7-GYG8J | Retail     |
+| ServerStandard                 | 8YVM4-YQBDH-7WDQM-R27WR-WVCWG | Retail     |
+| ServerStandardV                | H9MW3-6V7GK-94P9G-7FTPJ-VKCKF | Retail     |
+| ServerStorageEnterprise        | 2264C-TD9T8-P8HPW-CC9GH-MHM2V | Retail     |
+| ServerStorageExpress           | RCYMT-YX342-8T6YY-XYHYC-3DD7X | Retail     |
+| ServerStorageStandard          | FKFT2-WXYY9-WBPY7-6YMY4-X48JF | Retail     |
+| ServerStorageWorkgroup         | 8X9J7-HCJ7J-3WDJT-QM7D8-464YH | Retail     |
+| ServerWeb                      | BGT39-9FYH7-X2CYD-T628F-QPQPW | Retail     |
+| ServerWinSB                    | HPH76-FHFPP-DRW9D-7W2V4-HWGKT | Retail     |
+| ServerWinSBV                   | 2V8G6-KRXYR-MMGXJ-6RWM3-GXCCG | Retail     |
+
+### Windows Server 2008 ESU
+| ESU Version   | Blocked key sourced from the Internet | Key Type   |
+|---------------|---------------------------------------|------------|
+| Server-ESU-PA | 9FPV7-MWGT8-7XPDF-JC23W-WT7TW         | Volume:MAK |
+
+### KMS Host - Windows Vista
+| Editions                                  | Blocked keys sourced from the Internet | Key Type     |
+|-------------------------------------------|----------------------------------------|--------------|
+| Business, Enterprise and their N editions | TWVG3-9Q4P8-W9XJF-Y76FJ-DWQ4R          | Volume:CSVLK |
+
+### KMS Host - Windows Server 2008
+| Editions                                                                                                                                            | Blocked keys sourced from the Internet | Key Type     |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------------|
+| ServerComputeCluster, ServerDatacenter, <br /> ServerEnterprise, ServerEnterpriseIA64, <br /> ServerStandard, ServerWeb <br /> and their V editions | BHC4Q-6D7B7-QMVH7-4MKQH-Y9VK7          | Volume:CSVLK |
+| ServerComputeCluster, ServerEnterprise, <br /> ServerStandard, ServerWeb <br /> and their V editions                                                | PVGKG-2R7XQ-7WTFD-FXTJR-DQBQ3          | Volume:CSVLK |
+| ServerComputeCluster, ServerWeb                                                                                                                     | KH4PC-KJFX6-XFVHQ-GDK2G-JCJY9          | Volume:CSVLK |
+
+------------------------------------------------------------------------
+
 ## Unsupported Products
 
 This activation method does not work if a phone license is not available or if licensing is not managed by the system's SPP.
 
-- **Windows Vista / Server 2008**
-  - You can use these [alternative options](unsupported_products_activation.md#windows-vista) to activate.
 - **Office on Windows 7**
   - Its licensing is based on OSPP, not SPP.
-  - You can use Online KMS option in MAS to activate it.
+  - You can use Ohook option in MAS to activate it.
 - **Office 2010**
   - Its licensing is based on OSPP, not SPP.
-  - You can use Online KMS option in MAS to activate it.
+  - You can use Ohook option in MAS to activate it.
 - **Office 365**
   - Phone activation license is not available. TSforge option will install Mondo 2016 license (feature-wise equivalent to 365) instead to activate Office.
   - You can use Ohook option in MAS to activate it.
@@ -131,8 +205,6 @@ This activation method does not work if a phone license is not available or if l
   - You can activate commercial ESU for 3 years on Pro and higher level editions with TSforge.
 
 :::info
-
-**Windows Vista:** Unlike Windows 7, Vista SPSys constantly holds an exclusive handle to the physical store, preventing user-mode programs from writing to it. This has prevented us from adding support for it.
 
 **OSPP based Office:** Physical store is stored in the registry in a format that has not yet been reverse engineered.
 
@@ -162,6 +234,7 @@ This activation method does not work if a phone license is not available or if l
 
 | Windows Version              | Supported Editions List                                                                                                                           | ESU Period                                                                                                                                                                                                                                                   | Minimum Required Updates                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows Server 2008          | ServerDatacenter, ServerStandard, ServerEnterprise <br /> and their V/Core/VCore variants                                                         | [6 Years](https://web.archive.org/web/20170331081347/https://blogs.technet.microsoft.com/hybridcloud/2017/03/01/now-available-windows-server-premium-assurance-and-sql-server-premium-assurance/) with Premium Assurance License <br /> Jan 2020 to Jan 2026 | Windows Server 2008 SP2 <br /> + <br /> KB4493730 [x64](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/04/windows6.0-kb4493730-x64_5cb91f4e9000383f061b80f88feffdf228c2443c.msu)-[x86](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/04/windows6.0-kb4493730-x86_ab4368f19db796680ff445a7769886c4cdc009a0.msu) <br /> KB4474419 [x64](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows6.0-kb4474419-v4-x64_09cb148f6ef10779d7352b7269d66a7f23019207.msu)-[x86](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2019/09/windows6.0-kb4474419-v4-x86_fd568cb47870cd8ed5ba10e1dd3c49061894030e.msu) <br /> **Reboot**  <br /> KB5016891 [x64](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows6.0-kb5016891-x64_1b5f7e1030f5d229a7618c09f1617fd1ed00e90f.msu)-[x86](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows6.0-kb5016891-x86_cf3aef17f12a6dc85dd20a06e5ba9f4c882e286f.msu)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Windows 7                    | Enterprise, Professional, Ultimate <br /> and their E/N variants                                                                                  | [3 Years](https://learn.microsoft.com/en-us/lifecycle/products/windows-7) <br /> Jan 2020 to Jan 2023 <br /><br /> 4-6 Years ESU is not officially supported, <br /> but you can manually install Server 2008 R2 x64 updates until Jan 2026                  | Windows 7 SP1 <br /> + <br /> KB4490628 [x64](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu)-[x86](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/03/windows6.1-kb4490628-x86_3cdb3df55b9cd7ef7fcb24fc4e237ea287ad0992.msu) <br /> KB4474419-v3 [x64](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x64_b5614c6cea5cb4e198717789633dca16308ef79c.msu)-[x86](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2019/09/windows6.1-kb4474419-v3-x86_0f687d50402790f340087c576886501b3223bec6.msu) <br /> **Reboot**  <br /> KB5039339 [x64](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows6.1-kb5039339-x64_f62846508976a6e5325ab1dca0783f9b3a60a564.msu)-[x86](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2024/06/windows6.1-kb5039339-x86_fa942048bba2a167242451236f9daf00940588aa.msu) <br /> KB4575903 [x64](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x64_b4d5cf045a03034201ff108c2802fa6ac79459a1.msu)-[x86](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows6.1-kb4575903-x86_5905c774f806205b5d25b04523bb716e1966306d.msu) <br /> KB3138612 [x64](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3138612-x64_f7b1de8ea7cf8faf57b0138c4068d2e899e2b266.msu)-[x86](https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.1-kb3138612-x86_6e90531daffc13bc4e92ecea890e501e807c621f.msu) <br /> KB5016892 [x64](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows6.1-kb5016892-x64_52b68ba8744cb47ddfcecd19238087625e1a5fbd.msu)-[x86](https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows6.1-kb5016892-x86_ffb5b83149833e7f969f69e4f152fee5c1fdbc68.msu) |
 | Windows 7 Embedded POSReady7 | Embedded                                                                                                                                          | [3 Years](https://learn.microsoft.com/en-us/lifecycle/products/windows-embedded-posready-7) <br /> Oct 2021 to Oct 2024                                                                                                                                      | Same as Windows 7 minus KB5016892                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | Windows 7 Embedded Standard  | Embedded                                                                                                                                          | [3 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-embedded-standard-7) <br /> Oct 2020 to Oct 2023                                                                                                                                      | Same as Windows 7 minus KB5016892                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |

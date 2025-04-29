@@ -1,5 +1,8 @@
 # News
 
+### [29-Apr-25] MAS 3.1 update is released  
+Windows Vista support is added in Ohook, TSforge and online KMS options, for details check the [changelog](changelog.md)
+
 ### [14-Feb-25] MAS 3.0 update is released  
 A new method "TSforge" is added, for details check the [changelog](changelog.md)
 

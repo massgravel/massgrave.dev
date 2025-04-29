@@ -14,20 +14,6 @@
 
 ------------------------------------------------------------------------
 
-## Windows Vista
-
--   Download Windows Vista - [Link](windows_vista_links.md)
--   **Activation**
-	-	MAS doesn't support Windows Vista.
-	-	Business and Enterprise Editions can be activated with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
-	-	To activate other Windows Vista editions in,  
-		-	Non-UEFI/GPT systems - Use Windows Loader [Official thread](https://forums.mydigitallife.net/forums/windows-loader.39/) | [Mirror](https://app.box.com/s/bnchc6hten44adunlcpz9ya9j0uucfs2)  
-		-	UEFI-GPT systems - [EzWindSLIC](https://github.com/Dir3ctr1x/EzWindSLIC)
-
-**Note:** loader/slic activators sometimes may cause the system boot issue.
-
-------------------------------------------------------------------------
-
 ## Windows XP Pro VL
 
 -   Download Windows XP Pro VL - [Link](windows_xp_links.md)
@@ -41,7 +27,7 @@
 -   Download Office 2010 VL - [Link](office_msi_links#office-2010-pro-plus)
 -	Activate with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
 
-**Note:** Online KMS option in MAS supports Office 2010 on Windows 7 and later versions.
+**Note:** MAS supports Office on Windows Vista and later versions.
 
 ------------------------------------------------------------------------
 
@@ -85,8 +71,14 @@ There is no validation during the activation of RDS licenses.
 -  Fill out the next page with your chosen values and click next
 -  The license wizard should report "The requested licenses have been successfully installed"
 
-Alternatively, you can generate a key on the page below. It works on old Server versions as well.  
-https://github.com/thecatontheceiling/LyssaRDSGen
+Alternatively, you can generate a key on the page below. Use web browser option in activation process to get Product ID. It works on old Server versions as well.  
+
+Website:  
+https://thecatontheceiling.github.io/LyssaRDSGen/  
+
+Source code and details:  
+https://github.com/thecatontheceiling/LyssaRDSGen  
+https://gist.github.com/WitherOrNot/c34c4c7b893e89ab849ce04e007d89a9
 
 ------------------------------------------------------------------------
 

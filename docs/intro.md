@@ -36,7 +36,7 @@ irm https://massgrave.dev/get | iex
 
 :::
 
-#### Method 2 - Traditional (Windows 7 and later)
+#### Method 2 - Traditional (Windows Vista and later)
 
 <details>
   <summary>Click here to view</summary>
@@ -52,6 +52,11 @@ or
 6.   That's all.
 
 </details>
+
+---
+
+- **[Office for macOS](office_for_mac.md)**  
+- To run the scripts in unattended mode, check [here](command_line_switches.md).
 
 ---
 
@@ -75,7 +80,7 @@ or
 
 ## MAS Latest Release
 
-Last Release - v3.0 (14-Feb-2025)  
+Last Release - v3.1 (29-Apr-2025)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------

@@ -65,8 +65,8 @@ Yes.
 #### How is MAS able to activate?
 Read activation details in the Docs section.
 
-#### Does MAS work for Windows 7/8.1?
-Yes, TSforge and online KMS options work on Windows 7/8.1.
+#### Does MAS work for Windows Vista/7/8.1?
+Yes, TSforge, Ohook, and online KMS options work on Windows Vista/7/8.1.
 
 #### How can I donate or contribute to the project?
 The MASSGRAVE project doesn't accept donations and it's free.  
