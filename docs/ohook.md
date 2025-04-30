@@ -32,6 +32,8 @@ TL;DR all kinds of Office products are supported on Windows Vista and higher and
 
 ### Office 2010 (14.0)
 
+**Note:** You can use this `FJ44M-DX23P-QRWQ8-RXY39-HFQTC` ltFree OEM key to install any retail version of Office 2010.
+
 | Office Version | Office Product                                                      | Blocked keys sourced from the Internet | Key Type |
 |----------------|---------------------------------------------------------------------|----------------------------------------|----------|
 | v14.0 (2010)   | AccessR                                                             | 7KTYC-XR43P-C3MRW-BJKFD-XBYPG          | Retail   |
