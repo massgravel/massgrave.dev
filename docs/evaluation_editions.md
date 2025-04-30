@@ -43,7 +43,9 @@ LTSC means long-term servicing channel. Microsoft provides longer update support
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open the command prompt as admin and enter,  
-  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f` 
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f`  
+  - If you are on Windows 11 with unsupported hardware then enter,  
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`  
 - Go into that DVD drive and run setup.exe, continue until you reach the final confirmation screen.
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
 
@@ -58,7 +60,9 @@ GAC means general availability channel, aka normal version.
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open the command prompt as admin and enter,  
-  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f` 
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f`  
+  - If you are on Windows 11 with unsupported hardware then enter,  
+  `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`  
 - Go into that DVD drive and run setup.exe, enter this key if the setup is asking for it `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 - Continue until you reach the final confirmation screen.
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
