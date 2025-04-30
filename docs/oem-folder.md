@@ -98,6 +98,6 @@ To create a pre-activated Windows installation ISO, do the following:
 
 ## TSforge + Online KMS
 
--   In this method, Windows will be activated with TSforge, and **Office** (Preinstalled) will be activated using Online KMS. This combination is best for Windows 7 because Office on Windows 7 isn't supported by TSforge.
+-   In this method, Windows will be activated with TSforge, and **Office** (Preinstalled) will be activated using Online KMS.
 
 ------------------------------------------------------------------------
