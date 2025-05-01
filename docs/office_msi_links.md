@@ -4,7 +4,7 @@ All download links lead to genuine files only.
 
 - [FAQ](genuine-installation-media.md#faq)
 - This page has links for old MSI Office versions only. **To download the latest Office files from official Microsoft links, check** https://gravesoft.dev/office_c2r_links
-- You can activate all of the below listed 2010/2013/2016 Office files with Online KMS option and 2013/2016 with Ohook option in MAS. To activate Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
+- You can activate the below listed 2010/2013/2016 Office files with Ohook option in MAS. To activate Office 2007 Enterprise, you can use this key `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 
 ------------------------------------------------------------------------
 
