@@ -188,6 +188,11 @@ Our recommendation is as follows:
 
 <TabItem value="Windows 11 LTSC 2024" label="Windows 11 LTSC 2024" default>
 
+### Mirror Links
+
+https://anon.services/folder/85146024-6dfd-4eee-914e-17bf54de6f67
+
+---
 
 **Windows 11 IoT Enterprise LTSC 2024**
 
