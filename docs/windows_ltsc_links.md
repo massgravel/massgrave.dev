@@ -188,7 +188,7 @@ Our recommendation is as follows:
 
 <TabItem value="Windows 11 LTSC 2024" label="Windows 11 LTSC 2024" default>
 
-### Mirror Links
+### LTSC 2024 Mirror Links
 
 https://anon.services/folder/85146024-6dfd-4eee-914e-17bf54de6f67
 
@@ -258,6 +258,10 @@ Build - 26100.1742
 
 </TabItem>
 <TabItem value="Windows 10 LTSC 2021" label="Windows 10 LTSC 2021" default>
+
+### LTSC 2021 Mirror Links
+
+https://anon.services/folder/53641a25-d664-44e0-b6ae-d179603c9946
 
 **Windows 10 IoT Enterprise LTSC 2021**
 
