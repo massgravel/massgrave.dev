@@ -57,6 +57,7 @@ TL;DR all kinds of Office products are supported on Windows Vista and higher and
 | v14.0 (2010)   | ProjectStdVL                                                        | 4DTT4-D4MKX-23KFH-JKR6T-YKG2J          | MAK      |
 | v14.0 (2010)   | ProPlusR [ProPlusAcadR,ProPlusMSDNR,Sub4R]                          | 2J9H6-H4D3G-PCXD2-96XVM-TRR73          | Retail   |
 | v14.0 (2010)   | ProPlusVL [ProPlusAcadVL]                                           | 6CD6C-9R8PB-T2D9Y-8RKKX-W7DFK          | MAK      |
+| v14.0 (2010)   | PublisherR                                                          | CTRJP-P72VV-JBF8Y-4W6WW-HXHVG          | Retail   |
 | v14.0 (2010)   | PublisherVL                                                         | 32YG9-3VX77-YXJVV-PRVFW-TT8BV          | MAK      |
 | v14.0 (2010)   | SmallBusBasicsVL                                                    | 7VKXH-9BWCG-RPTBB-JBRV3-GRHYC          | MAK      |
 | v14.0 (2010)   | SPDR                                                                | H48K6-FB4Y6-P83GH-9J7XG-HDKKX          | ByPass   |
@@ -74,7 +75,6 @@ We couldn't find any keys (blocked/generic doesn't matter) for these Office 2010
 7004b7f0-6407-4f45-8eac-966e5f868bde    Retail      GrooveR
 fbf4ac36-31c8-4340-8666-79873129cf40    Retail      OutlookR
 133c8359-4e93-4241-8118-30bb18737ea0    Retail      PowerPointR_[HSPowerPointR]
-98677603-a668-4fa4-9980-3f1f05f78f69    Retail      PublisherR
 db3bbc9c-ce52-41d1-a46f-1a1d68059119    Retail      WordR_[HSWordR]
 dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBasicsMSDNR]
 ```
@@ -155,6 +155,7 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
 
 | Office Version | Office Product         | Generated Generic Key         | Key Type      |
 |----------------|------------------------|-------------------------------|---------------|
+| v16.0 (O365)   | O365AppsBasicRetail    | 3HYJN-9KG99-F8VG9-V3DT8-JFMHV | Subscription  |
 | v16.0 (O365)   | O365BusinessRetail     | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T | SubTest       |
 | v16.0 (O365)   | O365EduCloudRetail     | W62NQ-267QR-RTF74-PF2MH-JQMTH | Subscription  |
 | v16.0 (O365)   | O365HomePremRetail     | 3NMDC-G7C3W-68RGP-CB4MH-4CXCH | SubTest1      |

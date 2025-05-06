@@ -80,7 +80,7 @@ or
 
 ## MAS Latest Release
 
-Last Release - v3.1 (29-Apr-2025)  
+Last Release - v3.2 (6-May-2025)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------

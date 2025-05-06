@@ -29,6 +29,7 @@ To manually activate Office, follow these steps:
 
 | Office Product         | Generated Generic Key         |
 |------------------------|-------------------------------|
+| O365AppsBasicRetail    | 3HYJN-9KG99-F8VG9-V3DT8-JFMHV |
 | O365BusinessRetail     | Y9NF9-M2QWD-FF6RJ-QJW36-RRF2T |
 | O365EduCloudRetail     | W62NQ-267QR-RTF74-PF2MH-JQMTH |
 | O365HomePremRetail     | 3NMDC-G7C3W-68RGP-CB4MH-4CXCH |

@@ -2,6 +2,30 @@
 
 ------------------------------------------------------------------------
 
+## 3.2
+
+**O365AppsBasicRetail support and bug fixes**
+
+#### **Ohook:**
+- Added activation support for the newly released product `O365AppsBasicRetail`.
+- Added Office 2010 Publisher Retail key. Just FYI, we still don't have keys for these Office 2010 products
+
+```
+4eaff0d0-c6cb-4187-94f3-c7656d49a0aa    Retail      ExcelR_[HSExcelR]
+7004b7f0-6407-4f45-8eac-966e5f868bde    Retail      GrooveR
+fbf4ac36-31c8-4340-8666-79873129cf40    Retail      OutlookR
+133c8359-4e93-4241-8118-30bb18737ea0    Retail      PowerPointR_[HSPowerPointR]
+db3bbc9c-ce52-41d1-a46f-1a1d68059119    Retail      WordR_[HSWordR]
+dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBasicsMSDNR]
+```
+
+#### **All:**
+- Fixed an issue in detecting Powershell 1.0 in Server 2008 SBS editions.
+- Fixed ARM32 Office detection.
+- Various other fixes and improvements.
+
+------------------------------------------------------------------------
+
 ## 3.1
 
 **Vista Support**
