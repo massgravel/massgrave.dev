@@ -6,6 +6,16 @@ All download links available on our website lead to genuine files only.
 
 :::
 
+:::tip
+
+Some links are down. Please use the following links while we fix the issues:
+
+https://msdl.gravesoft.dev/  
+https://os.click/  
+https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+
+:::
+
 ## Download Windows
 -  [Windows 11](windows_11_links.md)                                                                                                                                                              
 -  [Windows 10](windows_10_links.md)                                                                                                                                                              
