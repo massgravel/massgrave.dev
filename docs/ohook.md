@@ -369,11 +369,11 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
     `C:\mingw64`
 -   Open Powershell as admin and enter below command to set the time and date,  
     `Set-TimeZone -Id 'UTC'; $date=[datetime]'2023/8/7 12:00';while($true){set-date $date; start-sleep -milliseconds 10;}`
--   Now open another Windows for Powershell and enter below command to create sppc.dll files,  
+-   Now open another window for Powershell and enter below commands to create sppc.dll files,  
     `Set-Location -Path C:\ohook`  
     `C:\mingw64\bin\mingw32-make.exe`
 -   Calculate the SHA-256 of the created sppc64.dll and sppc32.dll files using 7-zip or Powershell, it would be same as mentioned above.
--   Done, you can now close that powershell window and correct the date now.
+-   Done, you can now close Powershell windows and correct the date now.
 
 ------------------------------------------------------------------------
 
