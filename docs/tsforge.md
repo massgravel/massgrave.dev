@@ -231,7 +231,7 @@ This activation method does not work if a phone license is not available or if l
 
 ## Windows ESU
 
-- Microsoft offers paid [Extended Security Updates](https://learn.microsoft.com/lifecycle/faq/extended-security-updates) (ESU) for several Windows versions after their product lifecycle ends.
+- Microsoft offers paid [Extended Security Updates](https://learn.microsoft.com/en-us/lifecycle/faq/extended-security-updates) (ESU) for several Windows versions after their product lifecycle ends.
 - You can activate the Windows ESU / Premium Assurance license using the TSforge option in MAS.
 
 | Windows Version              | Supported Editions List                                                                                                                           | ESU Period                                                                                                                                                                                                                                                   | Minimum Required Updates                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -256,7 +256,7 @@ This activation method does not work if a phone license is not available or if l
 - With Windows KMS host, you can activate the KMS client in your network.
 - This option is for the advanced users, you can check the below guides to understand more about it.
 
-https://learn.microsoft.com/windows-server/get-started/kms-create-host
+https://learn.microsoft.com/en-us/windows-server/get-started/kms-create-host
 
 **Notes:**  
 - **Use this activation only when necessary.**
@@ -273,7 +273,7 @@ https://learn.microsoft.com/windows-server/get-started/kms-create-host
 - With Office KMS host, you can activate the Office KMS client in your network.
 - This option is for the advanced users, you can check the below guides to understand more about it.
 
-https://learn.microsoft.com/office/volume-license-activation/plan-volume-activation-of-office#key-management-service-kms-activation-of-office
+https://learn.microsoft.com/en-us/office/volume-license-activation/plan-volume-activation-of-office#key-management-service-kms-activation-of-office
 
 **Notes:**  
 - **Use this activation only when necessary.**

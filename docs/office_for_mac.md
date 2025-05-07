@@ -190,7 +190,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 </Tabs>
 
 **Other Resources**  
-https://learn.microsoft.com/officeupdates/update-history-office-for-mac  
+https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac  
 https://macadmins.software/
 
 ---
@@ -204,7 +204,7 @@ https://macadmins.software/
 
 ---
 
-The below activator (serializer) pkg files are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
+The below activator (serializer) pkg files are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
 
 | Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|

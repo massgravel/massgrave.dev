@@ -22,7 +22,7 @@ import TabItem from '@theme/TabItem';
 
 Build - 26100.1742
 
-**Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3131) / [Microsoft](https://www.microsoft.com/software-download/windows11arm64)
+**Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3131) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11arm64)
 
 ------------------------------------------------------------------------
 

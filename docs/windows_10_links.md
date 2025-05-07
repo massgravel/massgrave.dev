@@ -21,7 +21,7 @@ That is why we recommend getting the latest Windows 10 ISO file from the table b
 
 However, if you want direct Official links only then check
 MSDL https://msdl.gravesoft.dev/#2618 It provides Official links straight from Microsoft and works even if Microsoft is blocking the download to Russian/VPN users.
-Windows 10 download from https://www.microsoft.com/software-download isn't recommended because it uses an ESD file to generate ISO and that process sometimes may generate corrupt ISO which can not be verified with known checksums.
+Windows 10 download from https://www.microsoft.com/en-us/software-download isn't recommended because it uses an ESD file to generate ISO and that process sometimes may generate corrupt ISO which can not be verified with known checksums.
 
 </details>
 

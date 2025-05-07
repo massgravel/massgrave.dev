@@ -2,7 +2,7 @@
 
 Windows evaluation editions are trial versions of Windows operating systems provided by Microsoft. These editions allow users, especially IT professionals, to test and evaluate the features and capabilities of different Windows versions before making a purchase decision.
 
-https://www.microsoft.com/evalcenter  
+https://www.microsoft.com/en-us/evalcenter  
 Microsoft provides Windows 10/11 Enterprise and Server in evaluation version.
 
 :::warning
@@ -74,7 +74,7 @@ It will upgrade your eval Windows version to the full version.
 ### Windows Server Evaluation
 
 Changing Windows Server eval to the full version is officially supported.  
-You can use the official method here https://learn.microsoft.com/windows-server/get-started/upgrade-conversion-options  
+You can use the official method here https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options  
 or  
 Use the change edition option in the [MAS script](intro.md).
 

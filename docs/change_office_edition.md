@@ -34,7 +34,7 @@ C02D8FE6-5242-4DA8-972F-82EE55E00671  -  Microsoft2024 VL     -  Microsoft::LTSC
 ```
 
 - The script has the above list in its database and only offers officially supported upgrades.
-- Learn more about Office update channels here https://learn.microsoft.com/microsoft-365-apps/updates/overview-update-channels  
+- Learn more about Office update channels here https://learn.microsoft.com/en-us/microsoft-365-apps/updates/overview-update-channels  
 - You can fetch the latest Office build numbers here https://github.com/ItzLevvie/Office16/blob/master/defconfig  
 - The script uses an official method to change the update channel:  
 https://techcommunity.microsoft.com/t5/office-365-blog/how-to-manage-office-365-proplus-channels-for-it-pros/ba-p/795813
@@ -47,7 +47,7 @@ Also, if the installed channel is not an LTSC channel, the script won't offer to
 
 ### Windows 7/8/8.1 limitations
 
-Office C2R is no longer supported on Windows [7](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-7-support), [8](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-8-support), and [8.1](https://learn.microsoft.com/microsoft-365-apps/end-of-support/windows-81-support).  
+Office C2R is no longer supported on Windows [7](https://learn.microsoft.com/en-us/microsoft-365-apps/end-of-support/windows-7-support), [8](https://learn.microsoft.com/en-us/microsoft-365-apps/end-of-support/windows-8-support), and [8.1](https://learn.microsoft.com/en-us/microsoft-365-apps/end-of-support/windows-81-support).  
 The last available build is fixed and won't get any updates. VL (LTSC) channels are not supported on these Windows versions so they won't appear in the script.
 
 ---

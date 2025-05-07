@@ -27,7 +27,7 @@ https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 -  [Windows Vista](windows_vista_links.md)                                                                                                                                                        
 -  [Windows XP](windows_xp_links.md)                                                                                                                                                              
 -  [Windows Server](windows_server_links.md)                                                                                                                                                      
--  Windows Insider [10-11](https://www.microsoft.com/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/software-download/windowsinsiderpreviewserver) / [(Registration)](https://www.microsoft.com/windowsinsider/getting-started)
+-  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
 
 ## Download Office
 Activation with [MAS](intro.md#how-to-activate-windows--office) is required after the installation of Office.
@@ -53,7 +53,7 @@ Activation with [MAS](intro.md#how-to-activate-windows--office) is required afte
 <details>
 <summary>Click here for info</summary>
 
-Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
+Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/en-us/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/en-us/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
 
 </details>
 
@@ -83,7 +83,7 @@ The Consumer ISO includes all editions such as Home, Pro, and Education, but exc
 <details>
 <summary>Click here for info</summary>
 
-It takes too much effort and resources when users can and should simply run Windows updates (cumulative) themselves. We have decided to maintain the same build number as the consumer ISOs publicly provided by Microsoft unless there are issues with them. For example, we provide updated ISOs for Windows 10 to resolve the issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf) when using Microsoft’s official public ISO.
+It takes too much effort and resources when users can and should simply run Windows updates (cumulative) themselves. We have decided to maintain the same build number as the consumer ISOs publicly provided by Microsoft unless there are issues with them. For example, we provide updated ISOs for Windows 10 to resolve the issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf) when using Microsoft’s official public ISO.
 
 </details>
 
@@ -115,8 +115,8 @@ There are many places where you can find these checksums for verification. Examp
 Microsoft's Official free links for checksums:
 
  -	[MVS](https://my.visualstudio.com/Downloads)
- -	[Windows 11](https://www.microsoft.com/software-download/windows11)
- -	[Windows 10](https://www.microsoft.com/software-download/windows10)
+ -	[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+ -	[Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
 <details>
   <summary>More info on Official links!</summary>

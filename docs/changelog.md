@@ -127,7 +127,7 @@ dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBas
 #### All:
 
 - Removed dependancy on [WMIC](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/wmi-command-line-wmic-utility-deprecation-next-steps/ba-p/4039242) and [VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301).
-- Added the check for [Windows subscription](https://learn.microsoft.com/windows/deployment/windows-subscription-activation?pivots=windows-11), activation will be performed based on base edition, [example](https://i.ibb.co/7Cs0j7Y/6LTkK2o.png). Thanks to @asdcorp and @abbodi1406.
+- Added the check for [Windows subscription](https://learn.microsoft.com/en-us/windows/deployment/windows-subscription-activation?pivots=windows-11), activation will be performed based on base edition, [example](https://i.ibb.co/7Cs0j7Y/6LTkK2o.png). Thanks to @asdcorp and @abbodi1406.
 - Added the code to disable CMD QuickEdit using Powershell instead of temporary regedit (to avoid accidental pause when the user clicks inside the script window). Thanks to @abbodi1406.
 - Added the code to launch from conhost.exe using Powershell to avoid the Terminal app. Thanks to @abbodi1406.
 - Added more environment variables in the script at the start to resolve issues in case they are messed up in the user's system.
@@ -140,7 +140,7 @@ dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBas
 - Added the command to delete SuppressRulesEngine registry keys by default in every run if found, this causes issues in spp tasks to refresh.
 - Added the extra checks for malware and showed info accordingly.
 - Added better error handling of SPP 2.0 folder creation.
-- Added better check to find [permission issues](https://learn.microsoft.com/office/troubleshoot/activation/license-issue-when-start-office-application) in SPP.
+- Added better check to find [permission issues](https://learn.microsoft.com/en-us/office/troubleshoot/activation/license-issue-when-start-office-application) in SPP.
 - Added the command to check SvcRestartTask Status to find potential activation issues.
 - Updated the WPA registry check code to skip unrelated keys, and to make it work on Windows 7 as well.
 - Added the code to show the option to open the Troubleshoot page if errors are found.
@@ -157,14 +157,14 @@ dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBas
 
 #### Ohook
 
-- Added the code to add SharedComputerLicensing registry to avoid [licensing issues](https://learn.microsoft.com/office/troubleshoot/office-suite-issues/click-to-run-office-on-terminal-server) in the case of Windows Server with Retail C2R office.
+- Added the code to add SharedComputerLicensing registry to avoid [licensing issues](https://learn.microsoft.com/en-us/office/troubleshoot/office-suite-issues/click-to-run-office-on-terminal-server) in the case of Windows Server with Retail C2R office.
 - Script will now skip installing the key for already activated products.
 - Added the info for the Office version and the update channel.
 - Script will fix ProductReleaseIds In Registry if incorrect found, it affects features.
 - Script will check the running Office apps and will ask to close them before proceeding.
 - Added more detailed info in case Ohook installation fails.
 - Added more accurate detection of MSI Office products.
-- Script will now deeply find remnants of Office [vNext](https://learn.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)/[shared](https://learn.microsoft.com/en-us/deployoffice/overview-shared-computer-activation)/[device](https://learn.microsoft.com/deployoffice/device-based-licensing)/[OEM](https://support.microsoft.com/office/office-repeatedly-prompts-you-to-activate-on-a-new-pc-a9a6b05f-f6ce-4d1f-8d49-eb5007b64ba1) license block, and will clean them.
+- Script will now deeply find remnants of Office [vNext](https://learn.microsoft.com/en-us/office/troubleshoot/activation/reset-office-365-proplus-activation-state)/[shared](https://learn.microsoft.com/en-us/deployoffice/overview-shared-computer-activation)/[device](https://learn.microsoft.com/en-us/deployoffice/device-based-licensing)/[OEM](https://support.microsoft.com/en-us/office/office-repeatedly-prompts-you-to-activate-on-a-new-pc-a9a6b05f-f6ce-4d1f-8d49-eb5007b64ba1) license block, and will clean them.
 - Script will now add a Resiliency key to avoid the licensing banner in all of the user accounts including those that are not logged in, also registry will be added to all new future user accounts.
 - Script is updated to use [Ohook 0.5 (non+ version)](https://github.com/asdcorp/ohook), nothing is changed functionality-wise, you don't need to update your already installed Ohook.
 
@@ -197,7 +197,7 @@ Difference from the previous version:
 
 #### Troubleshoot
 
-- Added the code to fix activation errors caused by [KB971033](https://support.microsoft.com/help/4487266) in Windows 7.
+- Added the code to fix activation errors caused by [KB971033](https://support.microsoft.com/en-us/help/4487266) in Windows 7.
 - Removed the unnecessary code to find errors because they are already in activation scripts.
 
 #### Misc

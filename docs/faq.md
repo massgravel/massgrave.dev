@@ -51,10 +51,10 @@ Check this [guide](https://gravesoft.dev/bypass-russian-geoblock).
 Yes, use the Ohook activation option. However, you can't get server-side O365-specific features such as 1TB storage in OneDrive, though almost all other features and 5GB storage in a free OneDrive account would work fine.
 
 #### Can I get the Copilot feature in Office with MAS activation?
-No. [Copilot](https://www.microsoft.com/microsoft-365/microsoft-copilot) is an additional plan that can be added to existing subscriptions of Microsoft 365.
+No. [Copilot](https://www.microsoft.com/en-us/microsoft-365/microsoft-copilot) is an additional plan that can be added to existing subscriptions of Microsoft 365.
 
 #### Can I get Python in Excel with MAS activation?
-No. [Python in Excel](https://support.microsoft.com/office/introduction-to-python-in-excel-55643c2e-ff56-4168-b1ce-9428c8308545) is a server-side feature. To get this, you need to have a Microsoft 365 subscription.
+No. [Python in Excel](https://support.microsoft.com/en-us/office/introduction-to-python-in-excel-55643c2e-ff56-4168-b1ce-9428c8308545) is a server-side feature. To get this, you need to have a Microsoft 365 subscription.
 
 #### I'm getting an 'Office is not genuine' banner.
 Run Ohook activation from the latest MAS version.

@@ -21,9 +21,9 @@ Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.co
 
 Microsoft releases Windows 10/11 in two servicing channels.
 
-1- GAC (General Availability Channel) (i.e. Home, Pro, Enterprise). It will reach the end of support on [October 14, 2025](https://learn.microsoft.com/lifecycle/products/windows-10-home-and-pro).  
-2- LTSC (Long-Term Servicing Channel) (i.e. Enterprise LTSC, IoT Enterprise LTSC). Windows 10 Enterprise LTSC 2021 will reach the end of support on [Jan 12, 2027](https://learn.microsoft.com/lifecycle/products/windows-10-enterprise-ltsc-2021) 
-and Windows 10 IoT Enterprise LTSC 2021 will reach the end of support on [Jan 13, 2032](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) 
+1- GAC (General Availability Channel) (i.e. Home, Pro, Enterprise). It will reach the end of support on [October 14, 2025](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro).  
+2- LTSC (Long-Term Servicing Channel) (i.e. Enterprise LTSC, IoT Enterprise LTSC). Windows 10 Enterprise LTSC 2021 will reach the end of support on [Jan 12, 2027](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021) 
+and Windows 10 IoT Enterprise LTSC 2021 will reach the end of support on [Jan 13, 2032](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) 
 
 The solution is simple. You can just use the Official Windows 10 IoT Enterprise LTSC 2021 edition to get updates till Jan 13, 2032.
 
@@ -62,7 +62,7 @@ That's all.
   <summary>Notes</summary>
 
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md).
-- IoT editions are [binary identical](https://learn.microsoft.com/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
+- IoT editions are [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
 
 </details>
 
@@ -74,7 +74,7 @@ Many users choose not to use Windows 11 due to hardware limitations, such as a l
 
 However, a promising alternative is available.
 
-In 2024, Microsoft released Windows 11 IoT Enterprise 24H2 (GAC) / IoT Enterprise LTSC 2024 (LTSC) which has [relaxed hardware requirements](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements).
+In 2024, Microsoft released Windows 11 IoT Enterprise 24H2 (GAC) / IoT Enterprise LTSC 2024 (LTSC) which has [relaxed hardware requirements](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements).
 You can officially install these Windows 11 editions without meeting the usual hardware requirements, such as TPM, Secure Boot, and UEFI, while still receiving continued support in the future. 
 
 <details>
@@ -122,7 +122,7 @@ That's all.
 - This is why IoT (24H2/2024) editions are mentioned so that you can get official support on future feature upgrades.
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md).
 - Windows 11 24H2 / 2024 requires CPUs that support SSE4.2 and POPCNT instructions.
-- IoT editions are [binary identical](https://learn.microsoft.com/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
+- IoT editions are [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
 
 </details>
 

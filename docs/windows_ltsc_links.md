@@ -2,7 +2,7 @@
 
 All download links lead to genuine files only.
 - [FAQ](genuine-installation-media.md#faq)
-- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
+- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 
 <details>
   <summary>What is LTSC, and is it the right choice for you?</summary>
@@ -16,12 +16,12 @@ Microsoft releases Windows 10 and 11 through two servicing channels.
 1) **GAC** (General Availability Channel)
    - It is intended for both general and enterprise customers.
    - Edition examples include options such as Home, Pro, and Enterprise.
-   - Maximum support on the same build is usually [2 years](https://learn.microsoft.com/lifecycle/products/windows-11-home-and-pro) for consumers and [3 years](https://learn.microsoft.com/lifecycle/products/windows-11-enterprise-and-education) for the enterprise. After that, you need to install feature updates.
+   - Maximum support on the same build is usually [2 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro) for consumers and [3 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-and-education) for the enterprise. After that, you need to install feature updates.
    - This is the main servicing channel and other software and games usually follow this channel's life cycle to provide support.
 2) **LTSC** (Long-Term Servicing Channel)
    - It is designed for devices where functionality and features must remain constant over time, such as medical systems, industrial controllers, and air traffic control devices.
    - Examples of editions include: Enterprise LTSC and IoT Enterprise LTSC.
-   - Maximum support on the same build is usually [5 years](https://learn.microsoft.com/lifecycle/products/windows-11-enterprise-ltsc-2024) for LTSC and [10 years](https://learn.microsoft.com/lifecycle/products/windows-11-iot-enterprise-ltsc-2024) for the IoT LTSC.
+   - Maximum support on the same build is usually [5 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-ltsc-2024) for LTSC and [10 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise-ltsc-2024) for the IoT LTSC.
    - This is not the main servicing channel and other software and games usually don't follow this channel's life cycle. For example, browsers and games might not provide support for 10 years on same build.
    - It lacks most of the Store (UWP) apps.
 
@@ -91,7 +91,7 @@ import TabItem from '@theme/TabItem';
 
 | Features                               | Enterprise LTSC | IoT Enterprise LTSC / IoT Enterprise Subscription LTSC                                                                                                                                                                                    |
 |:---------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **TPM / Secure boot / UEFI / 4GB RAM** | All required    | [Not Required](https://learn.microsoft.com/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) 🎉 <br /> Also not required by [IoT Enterprise 24H2 (Non-LTSC)](windows_11_links.md) |
+| **TPM / Secure boot / UEFI / 4GB RAM** | All required    | [Not Required](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) 🎉 <br /> Also not required by [IoT Enterprise 24H2 (Non-LTSC)](windows_11_links.md) |
 | **Automatic Device Encryption**        | Enabled         | Disabled                                                                                                                                                                                                                                  |
 | **Update Support**                     | 5 Years         | 10 Years                                                                                                                                                                                                                                  |
 | **Reserved Storage Feature**           | Enabled         | Disabled                                                                                                                                                                                                                                  |
@@ -116,7 +116,7 @@ import TabItem from '@theme/TabItem';
 
 | Features                     | Enterprise LTSC                                                                                       | IoT Enterprise LTSC                                                                                        |
 |:-----------------------------|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
-| **Update Support**           | [5 Years (till 2027)](https://learn.microsoft.com/lifecycle/products/windows-10-enterprise-ltsc-2021) | [10 Years (till 2032)](https://learn.microsoft.com/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) |
+| **Update Support**           | [5 Years (till 2027)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021) | [10 Years (till 2032)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) |
 | **Reserved Storage Feature** | Enabled                                                                                               | Disabled                                                                                                   |
 | **Digital License (HWID)**   | Not supported                                                                                         | Supported                                                                                                  |
 | **KMS License**              | Supported                                                                                             | Support added after the update 19044.2788                                                                  |
