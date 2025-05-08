@@ -17,6 +17,12 @@ https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
 
 :::
 
+:::tip
+
+Use [Cloudflare WARP](https://one.one.one.one/) to improve download speeds on anon.services.
+
+:::
+
 ## Download Windows
 -  [Windows 11](windows_11_links.md)                                                                                                                                                              
 -  [Windows 10](windows_10_links.md)                                                                                                                                                              
