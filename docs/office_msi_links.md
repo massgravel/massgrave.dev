@@ -677,7 +677,7 @@ All download links lead to genuine files only.
 | Swedish               | x86  | [sv_office_enterprise_2007_united_states_x86_dvd_481336.iso](https://drive.massgrave.dev/sv_office_enterprise_2007_united_states_x86_dvd_481336.iso) |
 | Thai                  | x86  | [th_office_enterprise_2007_united_states_x86_dvd_481476.iso](https://drive.massgrave.dev/th_office_enterprise_2007_united_states_x86_dvd_481476.iso) |
 | Turkish               | x86  | [tr_office_enterprise_2007_united_states_x86_dvd_481337.iso](https://drive.massgrave.dev/tr_office_enterprise_2007_united_states_x86_dvd_481337.iso) |
-| Chinese-Taiwan        | x86  | [tw_office_enterprise_2007_united_states_x86_dvd_481333.iso](https://drive.massgrave.dev/tw_office_enterprise_2007_united_states_x86_dvd_481333.iso) |
+| Chinese-Traditional        | x86  | [tw_office_enterprise_2007_united_states_x86_dvd_481333.iso](https://drive.massgrave.dev/tw_office_enterprise_2007_united_states_x86_dvd_481333.iso) |
 | Ukrainian             | x86  | [uk_office_enterprise_2007_united_states_x86_dvd_481338.iso](https://drive.massgrave.dev/uk_office_enterprise_2007_united_states_x86_dvd_481338.iso) |
 
 ------------------------------------------------------------------------

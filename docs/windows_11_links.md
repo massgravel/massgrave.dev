@@ -72,7 +72,7 @@ Build - 26100.3775 (April 2025)
 | Turkish                | x64  | [tr-tr_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/tr-tr_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso)           |
 | Ukranian               | x64  | [uk-ua_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/uk-ua_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/zh-cn_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_24h2_updated_april_2025_x64_dvd_ea86301d.iso)           |
 
 ------------------------------------------------------------------------
 
@@ -123,7 +123,7 @@ Build - 26100.3775 (April 2025)
 | Turkish                | x64  | [tr-tr_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_d55167ca.iso](https://drive.massgrave.dev/tr-tr_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_d55167ca.iso)           |
 | Ukranian               | x64  | [uk-ua_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_60240bea.iso](https://drive.massgrave.dev/uk-ua_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_60240bea.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_f8fe2e2c.iso](https://drive.massgrave.dev/zh-cn_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_f8fe2e2c.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_2682e088.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_2682e088.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_2682e088.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_24h2_updated_april_2025_x64_dvd_2682e088.iso)           |
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ Build - 22631.5189 (April 2025)
 | Turkish                | x64  | [tr-tr_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso](https://drive.massgrave.dev/tr-tr_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso)                             |
 | Ukranian               | x64  | [uk-ua_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso](https://drive.massgrave.dev/uk-ua_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso)                             |
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso](https://drive.massgrave.dev/zh-cn_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso)                             |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso)                             |
+| Chinese-Traditional         | x64  | [zh-tw_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso](https://drive.massgrave.dev/zh-tw_windows_11_consumer_editions_version_23h2_updated_april_2025_x64_dvd_5e6831d3.iso)                             |
 
 </details>
 
@@ -283,7 +283,7 @@ Build - 22631.5189 (April 2025)
 | Turkish                | x64  | [tr-tr_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_336f3b39.iso](https://drive.massgrave.dev/tr-tr_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_336f3b39.iso)           |
 | Ukranian               | x64  | [uk-ua_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_343eba50.iso](https://drive.massgrave.dev/uk-ua_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_343eba50.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_6bb790e9.iso](https://drive.massgrave.dev/zh-cn_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_6bb790e9.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_b58e575b.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_b58e575b.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_b58e575b.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_23h2_updated_april_2025_x64_dvd_b58e575b.iso)           |
 
 ------------------------------------------------------------------------
 

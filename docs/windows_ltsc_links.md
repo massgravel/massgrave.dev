@@ -246,7 +246,7 @@ Build - 26100.1742
 | Turkish                | x64  | [tr-tr_windows_11_enterprise_ltsc_2024_x64_dvd_27bdab81.iso](https://drive.massgrave.dev/tr-tr_windows_11_enterprise_ltsc_2024_x64_dvd_27bdab81.iso)           |
 | Ukranian               | x64  | [uk-ua_windows_11_enterprise_ltsc_2024_x64_dvd_b3f00872.iso](https://drive.massgrave.dev/uk-ua_windows_11_enterprise_ltsc_2024_x64_dvd_b3f00872.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso](https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso](https://drive.massgrave.dev/zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso](https://drive.massgrave.dev/zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso)           |
 
 ---
 
@@ -347,8 +347,8 @@ Windows 10 IoT Enterprise LTSC
 | Ukranian               | x86  | [uk-ua_windows_10_enterprise_ltsc_2021_x86_dvd_aa372ed6.iso](https://drive.massgrave.dev/uk-ua_windows_10_enterprise_ltsc_2021_x86_dvd_aa372ed6.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso](https://drive.massgrave.dev/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312.iso)           |
 | Chinese-Simplified     | x86  | [zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso](https://drive.massgrave.dev/zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso)           |
-| Chinese-Taiwan         | x86  | [zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso)           |
+| Chinese-Traditional         | x86  | [zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso)           |
 
 ---
 
@@ -623,8 +623,8 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 | Thai                   | x86  | [th_windows_10_enterprise_2015_ltsb_x86_dvd_6850902.iso](https://drive.massgrave.dev/th_windows_10_enterprise_2015_ltsb_x86_dvd_6850902.iso)           |
 | Turkish                | x64  | [tr_windows_10_enterprise_2015_ltsb_x64_dvd_6850904.iso](https://drive.massgrave.dev/tr_windows_10_enterprise_2015_ltsb_x64_dvd_6850904.iso)           |
 | Turkish                | x86  | [tr_windows_10_enterprise_2015_ltsb_x86_dvd_6850915.iso](https://drive.massgrave.dev/tr_windows_10_enterprise_2015_ltsb_x86_dvd_6850915.iso)           |
-| Chinese-Taiwan         | x64  | [tw_windows_10_enterprise_2015_ltsb_x64_dvd_6848430.iso](https://drive.massgrave.dev/tw_windows_10_enterprise_2015_ltsb_x64_dvd_6848430.iso)           |
-| Chinese-Taiwan         | x86  | [tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso](https://drive.massgrave.dev/tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso)           |
+| Chinese-Traditional         | x64  | [tw_windows_10_enterprise_2015_ltsb_x64_dvd_6848430.iso](https://drive.massgrave.dev/tw_windows_10_enterprise_2015_ltsb_x64_dvd_6848430.iso)           |
+| Chinese-Traditional         | x86  | [tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso](https://drive.massgrave.dev/tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.iso)           |
 | Ukrainian              | x64  | [uk_windows_10_enterprise_2015_ltsb_x64_dvd_6850925.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2015_ltsb_x64_dvd_6850925.iso)           |
 | Ukrainian              | x86  | [uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.iso)           |
 

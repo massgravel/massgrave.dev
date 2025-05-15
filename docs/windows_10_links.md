@@ -105,8 +105,8 @@ Build - 19045.5737 (April 2025)
 | Ukranian               | x86  | [uk-ua_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso](https://drive.massgrave.dev/uk-ua_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso)           |
 | Chinese-Simplified     | x86  | [zh-cn_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-cn_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso)           |
-| Chinese-Taiwan         | x86  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x64_dvd_a39ebe02.iso)           |
+| Chinese-Traditional         | x86  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_april_2025_x86_dvd_a39ebe02.iso)           |
 
 ---
 
@@ -194,8 +194,8 @@ Build - 19045.5737 (April 2025)
 | Ukranian               | x86  | [uk-ua_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_ec23f6a9.iso](https://drive.massgrave.dev/uk-ua_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_ec23f6a9.iso)           |
 | Chinese-Simplified     | x64  | [zh-cn_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_8201e1c8.iso](https://drive.massgrave.dev/zh-cn_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_8201e1c8.iso)           |
 | Chinese-Simplified     | x86  | [zh-cn_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_3862a319.iso](https://drive.massgrave.dev/zh-cn_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_3862a319.iso)           |
-| Chinese-Taiwan         | x64  | [zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_49d1fd1f.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_49d1fd1f.iso)           |
-| Chinese-Taiwan         | x86  | [zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_a40b0c5b.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_a40b0c5b.iso)           |
+| Chinese-Traditional         | x64  | [zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_49d1fd1f.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x64_dvd_49d1fd1f.iso)           |
+| Chinese-Traditional         | x86  | [zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_a40b0c5b.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_april_2025_x86_dvd_a40b0c5b.iso)           |
 
 ---
 

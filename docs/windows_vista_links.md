@@ -99,8 +99,8 @@ import TabItem from '@theme/TabItem';
 | Thai                  | x86  | [th_windows_vista_with_sp2_x86_dvd_x15-36315.iso](https://drive.massgrave.dev/th_windows_vista_with_sp2_x86_dvd_x15-36315.iso)                   |
 | Turkish               | x64  | [tr_windows_vista_with_sp2_x64_dvd_x15-36375.iso](https://drive.massgrave.dev/tr_windows_vista_with_sp2_x64_dvd_x15-36375.iso)                   |
 | Turkish               | x86  | [tr_windows_vista_with_sp2_x86_dvd_x15-36316.iso](https://drive.massgrave.dev/tr_windows_vista_with_sp2_x86_dvd_x15-36316.iso)                   |
-| Chinese-Taiwan        | x64  | [tw_windows_vista_with_sp2_x64_dvd_x15-36323.iso](https://drive.massgrave.dev/tw_windows_vista_with_sp2_x64_dvd_x15-36323.iso)                   |
-| Chinese-Taiwan        | x86  | [tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso](https://drive.massgrave.dev/tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso)                   |
+| Chinese-Traditional        | x64  | [tw_windows_vista_with_sp2_x64_dvd_x15-36323.iso](https://drive.massgrave.dev/tw_windows_vista_with_sp2_x64_dvd_x15-36323.iso)                   |
+| Chinese-Traditional        | x86  | [tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso](https://drive.massgrave.dev/tw_windows_vista_with_sp2_x86_dvd_x15-36286.iso)                   |
 | Ukrainian             | x64  | [uk_windows_vista_with_sp2_x64_dvd_x15-36376.iso](https://drive.massgrave.dev/uk_windows_vista_with_sp2_x64_dvd_x15-36376.iso)                   |
 | Ukrainian             | x86  | [uk_windows_vista_with_sp2_x86_dvd_x15-36317.iso](https://drive.massgrave.dev/uk_windows_vista_with_sp2_x86_dvd_x15-36317.iso)                   |
 

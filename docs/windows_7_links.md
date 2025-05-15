@@ -91,8 +91,8 @@ import TabItem from '@theme/TabItem';
 | Thai                  | x86  | [th_windows_7_ultimate_with_sp1_x86_dvd_u_677483.iso](https://drive.massgrave.dev/th_windows_7_ultimate_with_sp1_x86_dvd_u_677483.iso)     |
 | Turkish               | x64  | [tr_windows_7_ultimate_with_sp1_x64_dvd_u_677404.iso](https://drive.massgrave.dev/tr_windows_7_ultimate_with_sp1_x64_dvd_u_677404.iso)     |
 | Turkish               | x86  | [tr_windows_7_ultimate_with_sp1_x86_dvd_u_677484.iso](https://drive.massgrave.dev/tr_windows_7_ultimate_with_sp1_x86_dvd_u_677484.iso)     |
-| Chinese-Taiwan        | x64  | [tw_windows_7_ultimate_with_sp1_x64_dvd_u_677414.iso](https://drive.massgrave.dev/tw_windows_7_ultimate_with_sp1_x64_dvd_u_677414.iso)     |
-| Chinese-Taiwan        | x86  | [tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso](https://drive.massgrave.dev/tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso)     |
+| Chinese-Traditional        | x64  | [tw_windows_7_ultimate_with_sp1_x64_dvd_u_677414.iso](https://drive.massgrave.dev/tw_windows_7_ultimate_with_sp1_x64_dvd_u_677414.iso)     |
+| Chinese-Traditional        | x86  | [tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso](https://drive.massgrave.dev/tw_windows_7_ultimate_with_sp1_x86_dvd_u_677488.iso)     |
 | Ukrainian             | x64  | [uk_windows_7_ultimate_with_sp1_x64_dvd_u_677406.iso](https://drive.massgrave.dev/uk_windows_7_ultimate_with_sp1_x64_dvd_u_677406.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_ultimate_with_sp1_x86_dvd_u_677485.iso](https://drive.massgrave.dev/uk_windows_7_ultimate_with_sp1_x86_dvd_u_677485.iso)     |
 
