@@ -8,7 +8,16 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2016 Pro Plus
+## Office 2016 
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+
+<TabItem value="Office 2016 Pro Plus" label="Office 2016 Pro Plus" default>
+
+**Office 2016 Pro Plus**
 
 | Language      | Arch | Link                                                                                                                                                                                   |
 |:--------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -95,7 +104,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2016 Project Pro
+</TabItem>
+
+<TabItem value="Office 2016 Project Pro" label="Office 2016 Project Pro" default>
+
+**Office 2016 Project Pro**
 
 | Language   | Arch | Link                                                                                                                                                   |
 |:-----------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -158,7 +171,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2016 Visio Pro
+</TabItem>
+
+<TabItem value="Office 2016 Visio Pro" label="Office 2016 Visio Pro" default>
+
+**Office 2016 Visio Pro**
 
 | Language   | Arch | Link                                                                                                                                               |
 |:-----------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -221,7 +238,17 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2013 Pro Plus
+</TabItem>
+
+</Tabs>
+
+## Office 2013
+
+<Tabs>
+
+<TabItem value="Office 2013 Pro Plus" label="Office 2013 Pro Plus" default>
+
+**Office 2013 Pro Plus**
 
 | Language      | Arch | Link                                                                                                                                                                                             |
 |:--------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -308,7 +335,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2013 Project Pro
+</TabItem>
+
+<TabItem value="Office 2013 Project Pro" label="Office 2013 Project Pro" default>
+
+**Office 2013 Project Pro**
 
 | Language   | Arch | Link                                                                                                                                                             |
 |:-----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -371,7 +402,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2013 Visio Pro
+</TabItem>
+
+<TabItem value="Office 2013 Visio Pro" label="Office 2013 Visio Pro" default>
+
+**Office 2013 Visio Pro**
 
 | Language   | Arch | Link                                                                                                                                                         |
 |:-----------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -434,7 +469,16 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2010 Pro Plus
+</TabItem>
+</Tabs>
+
+## Office 2010
+
+<Tabs>
+
+<TabItem value="Office 2010 Pro Plus" label="Office 2010 Pro Plus" default>
+
+**Office 2010 Pro Plus**
 
 | Language      | Arch | Link                                                                                                                                                                                                       |
 |:--------------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -515,7 +559,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2010 Project Pro
+</TabItem>
+
+<TabItem value="Office 2010 Project Pro" label="Office 2010 Project Pro" default>
+
+**Office 2010 Project Pro**
 
 | Language   | Arch | Link                                                                                                                                                             |
 |:-----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -576,7 +624,11 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2010 Visio Pro
+</TabItem>
+
+<TabItem value="Office 2010 Visio Pro" label="Office 2010 Visio Pro" default>
+
+**Office 2010 Visio Pro**
 
 | Language   | Arch | Link                                                                                                                                                                                           |
 |:-----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -637,7 +689,16 @@ All download links lead to genuine files only.
 
 ------------------------------------------------------------------------
 
-## Office 2007 Enterprise
+</TabItem>
+</Tabs>
+
+## Office 2007
+
+<Tabs>
+
+<TabItem value="Office 2007 Enterprise" label="Office 2007 Enterprise" default>
+
+**Office 2007 Enterprise**
 
 | Language              | Arch | Link                                                                                                                                                 |
 |:----------------------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -681,3 +742,6 @@ All download links lead to genuine files only.
 | Ukrainian             | x86  | [uk_office_enterprise_2007_united_states_x86_dvd_481338.iso](https://drive.massgrave.dev/uk_office_enterprise_2007_united_states_x86_dvd_481338.iso) |
 
 ------------------------------------------------------------------------
+
+</TabItem>
+</Tabs>
