@@ -1,13 +1,18 @@
 # Windows LTSC Download
 
 All download links lead to genuine files only.
+
+## Notes
+
 - [FAQ](genuine-installation-media.md#faq)
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 
-<details>
-  <summary>What is LTSC, and is it the right choice for you?</summary>
+#### What is LTSC, and is it the right choice for you?
 
-TL;DR if you're uncertain, avoid LTSC and choose the general availability channel and its editions.
+<details>
+<summary>Click here for info</summary>
+
+TL;DR if you're uncertain, avoid LTSC and choose the general availability channel and its editions (Home, Pro, Enterprise, etc).
 
 ---
 
@@ -47,10 +52,13 @@ Microsoft releases Windows 10 and 11 through two servicing channels.
   It's not fast, although there might be a bit more RAM available because of no store apps running in the background, and you can achieve the same result in GAC channel editions by [turning off](https://www.elevenforum.com/t/enable-or-disable-background-apps-in-windows-11.923/) background apps and startup apps.
 - It's more privacy-oriented.  
   No, [telemetry options](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) are the same as GAC Enterprise.
+
 </details>
 
+#### Microsoft store app installation on LTSC
+
 <details>
-  <summary>Microsoft store app installation on LTSC</summary>
+<summary>Click here for info</summary>
 
 Applicable on Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
 
@@ -81,8 +89,10 @@ https://github.com/stdin82/htfx/releases/tag/v0.0.24
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+#### Differences between IoT and Non-IoT Windows Enterprise LTSC
+
 <details>
-  <summary>Differences between IoT and Non-IoT Windows Enterprise LTSC</summary>
+<summary>Click here for info</summary>
 
 <Tabs>
 
@@ -145,15 +155,19 @@ import TabItem from '@theme/TabItem';
 
 </details>
 
+#### How to upgrade from non-LTSC to LTSC edition while keeping files and apps?
+
 <details>
-  <summary>How to upgrade from non-LTSC to LTSC edition while keeping files and apps?</summary>
+<summary>Click here for info</summary>
 
 You might want to check [Windows 10 EOL guide](windows10_eol.md).
 
 </details>
 
+#### How to clean install Windows 11 IoT Enterprise LTSC 2024 in Non-English language?
+
 <details>
-  <summary>How to clean install Windows 11 IoT Enterprise LTSC **2024** in Non-English language?</summary>
+<summary>Click here for info</summary>
 
 IoT LTSC edition ISOs are available in English language only. However, you can follow the below steps to clean install it.
 
@@ -164,8 +178,10 @@ Alternatively, You can install Non-IoT LTSC in another language and later instal
 
 </details>
 
+#### How to clean install Windows 10 IoT Enterprise LTSC 2021 in Non-English language?
+
 <details>
-  <summary>How to clean install Windows 10 IoT Enterprise LTSC **2021** in Non-English language?</summary>
+<summary>Click here for info</summary>
 
 IoT LTSC edition ISOs are available in English language only.
 
