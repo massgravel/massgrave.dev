@@ -9,28 +9,28 @@ All download links lead to genuine files only.
 
 ## Windows Server 2025
 
-Build - 26100.3775 (April 2025)
+Build - 26100.4061 (May 2025)
 
-| Language            | Arch | Link                                                                                                                                                               |
-|:--------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| German              | x64  | [de-de_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/de-de_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| English             | x64  | [en-us_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/en-us_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Spanish             | x64  | [es-es_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/es-es_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| French              | x64  | [fr-fr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/fr-fr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/hu-hu_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Italian             | x64  | [it-it_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/it-it_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/ja-jp_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/ko-kr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/nl-nl_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/pl-pl_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/pt-br_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/pt-pt_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/ru-ru_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/sv-se_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/tr-tr_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/zh-cn_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
-| Chinese-Traditional      | x64  | [zh-tw_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso](https://drive.massgrave.dev/zh-tw_windows_server_2025_updated_april_2025_x64_dvd_ea86301d.iso) |
+| Language            | Arch | Link                                                                                                                                                           |
+|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Czech               | x64  | [cs-cz_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/cs-cz_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| German              | x64  | [de-de_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/de-de_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| English             | x64  | [en-us_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/en-us_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Spanish             | x64  | [es-es_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/es-es_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| French              | x64  | [fr-fr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/fr-fr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/hu-hu_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Italian             | x64  | [it-it_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/it-it_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Japanese            | x64  | [ja-jp_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/ja-jp_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Korean              | x64  | [ko-kr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/ko-kr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/nl-nl_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Polish              | x64  | [pl-pl_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/pl-pl_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/pt-br_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/pt-pt_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Russian             | x64  | [ru-ru_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/ru-ru_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Swedish             | x64  | [sv-se_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/sv-se_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Turkish             | x64  | [tr-tr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/tr-tr_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/zh-cn_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso](https://drive.massgrave.dev/zh-tw_windows_server_2025_updated_may_2025_x64_dvd_9c776dbb.iso) |
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ The below ISO links are taken from the Official OEM portal.
 | Swedish             | x64  | [X23-81969_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_sv-se.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81969_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_sv-se.iso_b25abdb8-44ab-4ec9-8c83-8e72ed7d4569?t=38ff620b-0afc-4602-a9db-f10b6e6b489e&P1=102817441899&P2=601&P3=2&P4=aaNFrn678yCFJDMSw5NetSCCxo28UN5UoPVvsG13dST1Y8UodID5eVbh5f1G9fIPMnq4TRkR4saOrRx42UXrI1iaXw8YO%2fQP4CcdfUKhZCYCFL8dkHOuQlSgU73hwKUcQP7rrqtG0eAEk2681v88jjDDsG8TZco4b6SNJU42jjICjvzYFK2S%2fHrScMm4s2yvwYYNspd6aw9FX95wD5KwayU3RUx8w%2bS%2bR4WduYyRLZZz80ZUU%2bddYzQhU8Tbwf3TSH84QHNjTgZ0WBgvv9G0y%2f29%2bpmBr6OE8R86u9MhlQzsmcZZyjCTkC4ZJqJEaXZS5cEwA93aBS5kkVQlVN3UBg%3d%3d)                         |
 | Turkish             | x64  | [X23-81970_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_tr-tr.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81970_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_tr-tr.iso_8edc904f-1125-4ee8-a958-60434e0bfb5c?t=4a1a646c-731c-4c4a-8856-346ed90c5254&P1=102817441901&P2=601&P3=2&P4=nniUfaOMYwwv5Ek3DTY6wPjq5ZpR23xejuybPDpSTFrDme6HKvnL2LetpPheP4JPbNOKFpHeKqOQC2RRohdC1EKu%2bDevuFnm6skz8GkmeLaFboVVJYgiaZqiJBmV%2bP7hr5XVQMDdgPz%2fpZ6AFExhdfeJ6DWYMC%2bDMBJlsrdL6nonNfff1e9RPhEJsmzusKkdBWfvcggZT5CUaBybd1lnfqc%2fx1QTsHcVK1R0UwzFP6BFOYKjx9pyUUJjXCoGR%2bexCh882TN92K2QvorObKlCWJiiAXG43zkflY2NPLaJn8JGZq27%2b%2fBQjYB1J%2fEWznlQNr318oxvLejmGCB7oRXApA%3d%3d)                     |
 | Chinese-Simplified  | x64  | [X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso_c0a03233-3c87-4c90-9fac-9cbf668255c1?t=fdfcc05d-ef3b-45a4-8f87-cd492f6d10de&P1=102817441905&P2=601&P3=2&P4=phtRoTOxQBx%2bH5nhSijWBQw9deo3wwkODOj9HbwaH1%2fC%2bYTg5C7FrUUduOXIC9TzweFPlCY0YlpXM1ZD%2fj3dYrYwBbRnCeeDOvzHTjIMoZvtjfKHH%2bfI3IdPFJBa6gv5sL69QQFUUmaWqRHCTT81p6IYcNwuwOUrNW9u3BVttXiQNIAX9XrrYbWAHHmfkLW3wR2YdstEsFxF8sIQ4w1V6Znm3B7NO7Rv%2fjk3nyhQ9zzMjZFjdIlkZg4NbAhYE12EZr9pHHR0AHQeW2%2fN%2fVhGjoaYWYjHMTtfNV48EJbeQoQKrrfdLTQ%2fHk6%2bGUxO5D8xCPfkr0vpr7oBo2uICepJ3w%3d%3d)                   |
-| Chinese-Traditional      | x64  | [X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso_731ec99c-0ae2-483c-afed-710e3a0750b3?t=c3b71371-8723-4813-a386-bc318bceeb76&P1=102817441907&P2=601&P3=2&P4=KuAEtUuMYLfQx87GAmqpib39D%2btSY5MZeQGwPC05VTmqP%2fsfU7dXKrzBMpuHixmU91%2f1lO%2flfwhkPa9xnm24%2fDP4GyTrKqe3XP44IvPDS%2b4zfL%2fy%2fJhFxnlY8xnXOp%2f8aCQxgJcREil%2f8AlGPnX0%2fe3H12UIqMg84a97IESvHBBarYIvtHl3itix8vlEqC%2fq60EVzQh2jSgr9zBejd2homnuYbgMpgv1LZkN7NDG6zL1%2f8hvnENJ%2bkpK9OZmXNC7e49yJigT%2ffBnnPtTqlDv7qzVEAplS1vc522GMjqJdf4%2bueXjcsZohDHHzparCp5Nxy4kTStUDRL3LqPT5LEcKw%3d%3d)       |
+| Chinese-Traditional | x64  | [X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso_731ec99c-0ae2-483c-afed-710e3a0750b3?t=c3b71371-8723-4813-a386-bc318bceeb76&P1=102817441907&P2=601&P3=2&P4=KuAEtUuMYLfQx87GAmqpib39D%2btSY5MZeQGwPC05VTmqP%2fsfU7dXKrzBMpuHixmU91%2f1lO%2flfwhkPa9xnm24%2fDP4GyTrKqe3XP44IvPDS%2b4zfL%2fy%2fJhFxnlY8xnXOp%2f8aCQxgJcREil%2f8AlGPnX0%2fe3H12UIqMg84a97IESvHBBarYIvtHl3itix8vlEqC%2fq60EVzQh2jSgr9zBejd2homnuYbgMpgv1LZkN7NDG6zL1%2f8hvnENJ%2bkpK9OZmXNC7e49yJigT%2ffBnnPtTqlDv7qzVEAplS1vc522GMjqJdf4%2bueXjcsZohDHHzparCp5Nxy4kTStUDRL3LqPT5LEcKw%3d%3d)       |
 
 Above OEM files have same checksums as the below MVS files. Only name is changed.  
 ```
@@ -87,38 +87,38 @@ zh-tw_windows_server_2025_x64_dvd_6d2c01e3.iso
 
 ## Windows Server 2022
 
-Build - 20348.3453 (April 2025)
+Build - 20348.3692 (May 2025)
 
-| Language            | Arch | Link                                                                                                                                                               |
-|:--------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| German              | x64  | [de-de_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| English             | x64  | [en-us_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Spanish             | x64  | [es-es_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| French              | x64  | [fr-fr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Italian             | x64  | [it-it_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Japanese            | x64  | [ja-jp_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Korean              | x64  | [ko-kr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Polish              | x64  | [pl-pl_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Russian             | x64  | [ru-ru_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Swedish             | x64  | [sv-se_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Turkish             | x64  | [tr-tr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
-| Chinese-Traditional      | x64  | [zh-tw_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_april_2025_x64_dvd_3f755ec1.iso) |
+| Language            | Arch | Link                                                                                                                                                           |
+|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Czech               | x64  | [cs-cz_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/cs-cz_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| German              | x64  | [de-de_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/de-de_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| English             | x64  | [en-us_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/en-us_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Spanish             | x64  | [es-es_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/es-es_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| French              | x64  | [fr-fr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/fr-fr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/hu-hu_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Italian             | x64  | [it-it_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/it-it_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Japanese            | x64  | [ja-jp_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/ja-jp_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Korean              | x64  | [ko-kr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/ko-kr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/nl-nl_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Polish              | x64  | [pl-pl_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/pl-pl_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/pt-br_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/pt-pt_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Russian             | x64  | [ru-ru_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/ru-ru_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Swedish             | x64  | [sv-se_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/sv-se_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Turkish             | x64  | [tr-tr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/tr-tr_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/zh-cn_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso](https://drive.massgrave.dev/zh-tw_windows_server_2022_updated_may_2025_x64_dvd_0146f834.iso) |
 
 ------------------------------------------------------------------------
 
 ## Windows Server 23H2 (No GUI)
 #### (Only English ISO is available)
-Build - 25398.1486 (April 2025)
+Build - 25398.1611 (May 2025)
 
 | Language  | Arch | Link                                                                                                                                                                                                             |
 |:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2025_x64_dvd_aac908dd.iso](https://drive.massgrave.dev/en-us_windows_server_version_23h2_updated_april_2025_x64_dvd_aac908dd.iso)                               |
+| English   | x64  | [en-us_windows_server_version_23h2_updated_may_2025_x64_dvd_ba5b76bb.iso](https://drive.massgrave.dev/en-us_windows_server_version_23h2_updated_may_2025_x64_dvd_ba5b76bb.iso)                                   |
 | Lang Pack | x64  | [mul_languages_and_optional_features_for_windows_server_version_23h2_x64_dvd_f49e7fd8.iso](https://drive.massgrave.dev/mul_languages_and_optional_features_for_windows_server_version_23h2_x64_dvd_f49e7fd8.iso) |
 
 ------------------------------------------------------------------------
@@ -146,7 +146,7 @@ Updated November 2022 (Build - 17763.3650)
 | Swedish             | x64  | [sv-se_windows_server_2019_x64_dvd_48c1aeff.iso](https://drive.massgrave.dev/sv-se_windows_server_2019_x64_dvd_48c1aeff.iso) |
 | Turkish             | x64  | [tr-tr_windows_server_2019_x64_dvd_b51af600.iso](https://drive.massgrave.dev/tr-tr_windows_server_2019_x64_dvd_b51af600.iso) |
 | Chinese-Simplified  | x64  | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://drive.massgrave.dev/zh-cn_windows_server_2019_x64_dvd_19d65722.iso) |
-| Chinese-Traditional      | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://drive.massgrave.dev/zh-tw_windows_server_2019_x64_dvd_a4c80409.iso) |
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://drive.massgrave.dev/zh-tw_windows_server_2019_x64_dvd_a4c80409.iso) |
 
 ------------------------------------------------------------------------
 
@@ -201,7 +201,7 @@ Updated February 2018 (Build - 14393.1884)
 | Russian               | x64  | [ru_windows_server_2012_r2_vl_with_update_x64_dvd_6052827.iso](https://drive.massgrave.dev/ru_windows_server_2012_r2_vl_with_update_x64_dvd_6052827.iso) |
 | Swedish               | x64  | [sv_windows_server_2012_r2_vl_with_update_x64_dvd_6052835.iso](https://drive.massgrave.dev/sv_windows_server_2012_r2_vl_with_update_x64_dvd_6052835.iso) |
 | Turkish               | x64  | [tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.iso](https://drive.massgrave.dev/tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.iso) |
-| Chinese-Traditional        | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.iso](https://drive.massgrave.dev/tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.iso) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.iso](https://drive.massgrave.dev/tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.iso) |
 
 ------------------------------------------------------------------------
 
@@ -229,7 +229,7 @@ Updated February 2018 (Build - 14393.1884)
 | Russian               | x64  | [ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.iso](https://drive.massgrave.dev/ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.iso) |
 | Swedish               | x64  | [sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.iso](https://drive.massgrave.dev/sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.iso) |
 | Turkish               | x64  | [tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.iso](https://drive.massgrave.dev/tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.iso) |
-| Chinese-Traditional        | x64  | [tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso](https://drive.massgrave.dev/tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso](https://drive.massgrave.dev/tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso) |
 
 ------------------------------------------------------------------------
 
@@ -275,7 +275,7 @@ Updated February 2018 (Build - 14393.1884)
 | Swedish               | x86  | [sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.iso](https://drive.massgrave.dev/sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.iso) |
 | Turkish               | x64  | [tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.iso) |
 | Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso) |
-| Chinese-Traditional        | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso) |
-| Chinese-Traditional        | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso) |
+| Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso) |
 
 ------------------------------------------------------------------------
