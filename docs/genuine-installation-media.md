@@ -13,7 +13,6 @@ All download links available on our website lead to genuine files only.
 -  [Windows ARM64](windows_arm_links.md)                                                                                                                                                          
 -  [Windows 8.1](windows_8.1_links.md)                                                                                                                                                            
 -  [Windows 7](windows_7_links.md)                                                                                                                                                                
--  [Windows Vista](windows_vista_links.md)                                                                                                                                                        
 -  [Windows XP](windows_xp_links.md)                                                                                                                                                              
 -  [Windows Server](windows_server_links.md)                                                                                                                                                      
 -  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
