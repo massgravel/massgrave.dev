@@ -20,7 +20,7 @@ Use the Ohook option in MAS.
 Check [here](troubleshoot.md).
 
 #### Is MAS safe? How can I know if there is any malware?
-MAS is fully [open-source](intro.md#mas-latest-release). It has over 125K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts.  
+MAS is fully [open-source](intro.md#mas-latest-release). It has over 136K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and is used by millions of people. You can open the batch files with Notepad and verify the code, or take help from ChatGPT if you don't understand something in batch scripts.  
 You can even perform the activation manually, check [this page](manual_hwid_activation.md) for instructions.
 
 #### How to remove HWID, Ohook, TSforge, KMS38, and Online KMS activation?
