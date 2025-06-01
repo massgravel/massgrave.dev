@@ -6,7 +6,7 @@
 -   This activation is permanent until a Windows reinstall or a major feature upgrade (not to be confused with small enablement upgrades or monthly cumulative updates).
 -   This activation method doesn't modify any Windows components and doesn't install any new files.
 -   Once the system is activated, hardware can be changed arbitrarily without triggering de-activation.
--   Internet is not required for this method.
+-   Internet is not required for ZeroCID or KMS4k, but it is required for StaticCID. The script uses the StaticCID method from Windows 10 20H1 (19041) and later versions.
 -   This activation method can activate any of the following products if a phone license is available and licensing is managed by the system's SPP. For example,
     *   Windows Vista and later
     *   Windows Server 2008 and later
@@ -20,6 +20,8 @@
 ------------------------------------------------------------------------
 
 ## How does it work?
+
+### ZeroCID
 
 **Process on Windows Vista and 7**
 
@@ -42,12 +44,29 @@
   - Windows 7 - `C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform\tokens.dat`
   - Windows 8 - `C:\Windows\System32\spp\store\tokens.dat`
   - Windows 8.1/10/11 - `C:\Windows\System32\spp\store\2.0\tokens.dat`
-- In normal product key installation and phone activation, associated data is written to the physical store and token store. Said phone activation data is [cryptographically checked](https://github.com/UMSKT/writeups/blob/main/PKEY2005.md) against the Installation ID before being written. When SPP relaunches, it is only given a very basic check against the current Hardware ID.
-- By writing forged data directly to the physical store and token store, we can bypass both checks, causing SPP to believe it installed a fake product key and/or confirmation ID.
+- In normal product key installation and phone activation, associated cache data is written to the physical store and token store. Said phone activation data is [cryptographically checked](https://github.com/UMSKT/writeups/blob/main/PKEY2005.md) against the Installation ID before being written. When SPP relaunches, it is only given a very basic check against the current Hardware ID.
+- By writing forged cache data directly to the physical store and token store, we can bypass both checks, causing SPP to believe it installed a fake product key and/or confirmation ID.
 - To bypass checks for hardware changes, a [Hardware ID](https://github.com/massgravel/activation/blob/main/Hwid.md#hardware-id) with a threshold of 0 is included in this forged data.
 - On Windows 7, the fake product key data does not contain a value known as the "Key Unique ID". This value is required for both WAT and online activation, so removing it causes both to be non-functional, preventing WAT from triggering de-activation.
 - The presence of valid product key and confirmation ID data causes SPP to activate the specified product as long as it is capable of phone activation.
 - This process is implemented as the ZeroCID option in [TSforge](https://github.com/massgravel/TSforge).
+
+### StaticCID
+
+- In [Windows 11 build 27802](https://betawiki.net/wiki/Windows_11_build_27802), Microsoft introduced a bug that causes Confirmation ID cache validation to always fail, forcing validation directly from the stored Confirmation ID each time the license status is checked.
+- Because of this, ZeroCID does not work in any Windows 11/Server 2025 Insider Canary builds released afterwards, or any Windows 11/Server 2025 retail/release preview builds newer than 26100.4188.
+- To circumvent this bug, TSforge is used to set the current Installation ID to that of a known key that can be used to generate valid Confirmation IDs.
+- Confirmation IDs are then obtained over the internet using [a client](https://github.com/dadorner-msft/activationws) for the [VAMT](https://learn.microsoft.com/en-us/windows/deployment/volume-activation/introduction-vamt) API.
+- Depositing this CID causes activation, since the CID matches the IID and SPP never checks if the IID matches the installed product key.
+- The following product keys are used in StaticCID:
+  - RTM Licenses - `744NM-C4FXY-YGM8B-7MVJC-BBFB9`
+  - Test Licenses - `PCPHN-JH4DV-KW84V-JTWT3-VXHBC`
+
+### KMS4k
+
+- In KMS4k, fake cached KMS server response data is written to the trusted store.
+- Unlike via normal KMS emulators, this method can arbitrarily set the activation expiration up to a maximum of 2147483640 (2^31 - 8) minutes, or 4083 years.
+- This allows for offline KMS activation that is effectively infinite for all practical purposes.
 
 ------------------------------------------------------------------------
 
@@ -61,7 +80,7 @@ This activation method can activate any of the following products if a phone lic
   - Windows 8
   - Windows 8.1
   - Windows 10
-  - Windows 11
+  - Windows 11 (Does not support ZeroCID since 26100.4188)
 - **Windows Server**
   - Windows Server 2008
   - Windows Server 2008 R2
@@ -70,7 +89,7 @@ This activation method can activate any of the following products if a phone lic
   - Windows Server 2016
   - Windows Server 2019
   - Windows Server 2022
-  - Windows Server 2025
+  - Windows Server 2025 (Does not support ZeroCID since 26100.4188)
 - **Microsoft Office** (Requires Windows 8 or later) (Also supports UWP version of Office)
   - Office 2013
   - Office 2016
@@ -218,8 +237,8 @@ This activation method does not work if a phone license is not available or if l
 
 - TSforge is included in MAS and it also has its own [standalone release](https://github.com/massgravel/TSforge).
 - TSforge includes the ZeroCID / KMS4k / AVMA4k activation methods.
-- KMS4k and AVMA4k are proof-of-concept methods with limitations, so we do not recommend using them.
-- MAS uses the ZeroCID method only and does not include KMS4k or AVMA4k, as ZeroCID can already activate all available products permanently.
+- AVMA4k is a proof-of-concept method with many limitations, so we do not recommend using it.
+- MAS only uses the ZeroCID and KMS4k method and does not include AVMA4k, as ZeroCID can already activate all available products permanently.
 
 | Methods | Info                                                                                                 |
 |---------|------------------------------------------------------------------------------------------------------|

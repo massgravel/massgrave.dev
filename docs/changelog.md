@@ -2,6 +2,26 @@
 
 ------------------------------------------------------------------------
 
+## 3.3
+
+**The Empire Strikes Back**
+
+#### **TSforge:**
+- In Windows 11 build 27802, Microsoft introduced a bug that causes Confirmation ID cache validation to always fail, forcing validation directly from the stored Confirmation ID each time the license status is checked.  
+- To circumvent this bug, TSforge is used to set the current Installation ID to that of a known key that can be used to generate valid Confirmation IDs.  
+- For more information on StaticCID, check https://massgrave.dev/tsforge#staticcid
+- From now on, the script will use StaticCID method (requires Internet) on build 19041 and later.
+- KMS4k activation option is now added in the script.
+- Thanks a lot to @WitherOrNot for working on this.
+
+#### **Change Office Edition:**
+- Added the option to switch the Office update channel between VL and non-VL.
+
+#### **All:**
+- Various other fixes and improvements.
+
+------------------------------------------------------------------------
+
 ## 3.2
 
 **O365AppsBasicRetail support and bug fixes**

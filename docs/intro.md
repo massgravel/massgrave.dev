@@ -28,9 +28,7 @@ Alternatively, you can use the following (this will be deprecated in the future)
 irm https://massgrave.dev/get | iex
 ```
 
-3.   You will see the activation options.  
-	 Press [1] HWID for Windows activation.  
-     Press [2] Ohook for Office activation.
+3.   You will see the activation options. Choose the activation options highlighted in green. 
 
 4.   That's all
 
@@ -55,7 +53,7 @@ or
 
 ---
 
-- **[Office for macOS](office_for_mac.md)**  
+- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, check [here](unsupported_products_activation.md).
 - To run the scripts in unattended mode, check [here](command_line_switches.md).
 
 ---
@@ -80,7 +78,7 @@ or
 
 ## MAS Latest Release
 
-Last Release - v3.2 (6-May-2025)  
+Last Release - v3.3 (1-June-2025)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
@@ -109,7 +107,7 @@ Last Release - v3.2 (6-May-2025)
 |:----------------|:-----------------------|:-------------------------------------|:--------------------|
 | HWID            | Windows 10-11          | Permanent                            | Yes                 |
 | Ohook           | Office                 | Permanent                            | No                  |
-| TSforge         | Windows / ESU / Office | Permanent                            | No                  |
+| TSforge         | Windows / ESU / Office | Permanent                            | Yes, needed on build 19041 and later |
 | KMS38           | Windows 10-11-Server   | Till the Year 2038                   | No                  |
 | Online KMS      | Windows / Office       | 180 Days. Lifetime With Renewal Task | Yes                 |
 
