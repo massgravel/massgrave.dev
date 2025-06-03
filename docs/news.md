@@ -1,5 +1,8 @@
 # News
 
+### [3-June-25] MAS 3.4 update is released  
+Bug fixes, for details check the [changelog](changelog.md)
+
 ### [1-June-25] MAS 3.3 update is released  
 StaticCID and KMS4k methods are added in TSforge, for details check the [changelog](changelog.md)
 

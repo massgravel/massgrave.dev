@@ -2,6 +2,19 @@
 
 ------------------------------------------------------------------------
 
+## 3.4
+
+**Bug fixes**
+
+#### **TSforge:**
+- Fixed an issue where unattended mode was not working.
+- Updated info in the Change Activation Method menu.
+
+#### **All:**
+- Added a check to detect expired Office products.
+
+------------------------------------------------------------------------
+
 ## 3.3
 
 **The Empire Strikes Back**
