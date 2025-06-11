@@ -534,7 +534,7 @@ Available in x86 only.
 
 **Other Versions**
 
-- https://archive.isdn.network/windows/
+- https://archive.isdn.network/artifacts/
 - https://os.click/
 - https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
 - [MVS Bot](https://discord.gg/FajfGaH3nD)
