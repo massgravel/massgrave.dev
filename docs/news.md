@@ -1,5 +1,9 @@
 # News
 
+### [18-June-25] Added June 2025 updated ISOs  
+Windows 10 22H2 / Windows 11 24H2 / Windows 11 23H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media
+
 ### [3-June-25] MAS 3.4 update is released  
 Bug fixes, for details check the [changelog](changelog.md)
 
