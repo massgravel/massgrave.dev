@@ -116,7 +116,7 @@ import TabItem from '@theme/TabItem';
 
 |                          |                |                               |
 |--------------------------|----------------|-------------------------------|
-| IoT Enterprise LTSC 2024 | IoTEnterpriseS | CGK42-GYN6Y-VD22B-BX98W-J8JXD |
+| IoT Enterprise LTSC 2024 | IoTEnterpriseS | KBN8V-HFGQ4-MGXVD-347P6-PDQGT |
 | Enterprise LTSC 2024     | EnterpriseS    | M7XTQ-FN8P6-TTKYV-9D4CC-J462D |
 
 </TabItem>
@@ -174,7 +174,7 @@ IoT LTSC edition ISOs are available in English language only. However, you can f
 - Download the non-IoT LTSC 2024 ISO in the desired language from the section below.
 - Follow [PID.txt method](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
 
-Alternatively, You can install Non-IoT LTSC in another language and later install IoT LTSC 2024 key `CGK42-GYN6Y-VD22B-BX98W-J8JXD` in activation page in Windows settings to change the edition.
+Alternatively, You can install Non-IoT LTSC in another language and later install IoT LTSC 2024 key `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` in activation page in Windows settings to change the edition.
 
 </details>
 
