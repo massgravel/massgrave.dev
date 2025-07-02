@@ -106,6 +106,19 @@ Alternatively, you can download AppxBundle installer from https://store.rg-adgua
 
 ------------------------------------------------------------------------
 
+## Microsoft DaRT
+
+Microsoft DaRT (Diagnostics and Recovery Toolset, formerly ERD Commander) is an official bootable WinPE-based recovery image from Microsoft that contains diagnostic and troubleshooting tools for Windows recovery.
+
+This product is no longer under active development.
+
+**Download Link:** Microsoft Desktop Optimization Pack 2015  
+[mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso](https://drive.massgrave.dev/mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso)
+
+**Guide:** https://woshub.com/create-dart-10-recovery-image/
+
+------------------------------------------------------------------------
+
 ## SQL Server
 
 -	Download - https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2022

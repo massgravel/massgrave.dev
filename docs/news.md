@@ -1,5 +1,8 @@
 # News
 
+### [2-July-25] Added Microsoft DaRT  
+https://massgrave.dev/unsupported_products_activation#microsoft-dart
+
 ### [18-June-25] Added June 2025 updated ISOs  
 Windows 10 22H2 / Windows 11 24H2 / Windows 11 23H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media
