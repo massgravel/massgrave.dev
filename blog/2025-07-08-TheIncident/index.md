@@ -120,8 +120,8 @@ This is what Windows 11 does instead:
 
 ```c
 // Get the IID and the CID
-iid_data = get_iid();
-cid_data = get_cid();
+LPWSTR iid_data = get_iid();
+LPWSTR cid_data = get_cid();
 
 // Create a handle for the SHA256 algorithm
 hash_handle = BCryptCreateHash(...);
