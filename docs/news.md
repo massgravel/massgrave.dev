@@ -1,5 +1,8 @@
 # News
 
+### [8-July-25] New blog is added  
+https://massgrave.dev/blog/pesky-ampersands
+
 ### [2-July-25] Added Microsoft DaRT  
 https://massgrave.dev/unsupported_products_activation#microsoft-dart
 
