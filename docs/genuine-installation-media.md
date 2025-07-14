@@ -21,9 +21,9 @@ All download links available on our website lead to genuine files only.
 ## Download Office
 Activation with [MAS](intro.md#how-to-activate-windows--office) is required after the installation of Office.
 
--  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️  
--  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom)
--  [Office MSI VL (Old versions)](office_msi_links.md)                 
+-  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365 / 2024 / 2021 / 2019 / 2016 / 2013)  
+-  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365 / 2024 / 2021 / 2019 / 2016)
+-  [Office MSI VL (Old versions)](office_msi_links.md) (2016 / 2013 / 2010 / 2007)
 -  [Office For **Mac**](office_for_mac.md)                             
 
 ---
@@ -64,15 +64,6 @@ You can check [here](genuine-installation-media.md#verify-authenticity-of-files)
 For Windows 10/11 General Availability Channel (GAC) releases (i.e., Home and Pro), Microsoft produces two types of ISO files: Consumer and Business. 
 
 The Consumer ISO includes all editions such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO contains all editions except for the Home-level editions, and these ISO files come with a KMS key pre-installed (not activated) by default.
-
-</details>
-
-#### Why are the official monthly ISOs no longer updated on the site?
-
-<details>
-<summary>Click here for info</summary>
-
-It takes too much effort and resources when users can and should simply run Windows updates (cumulative) themselves. We have decided to maintain the same build number as the consumer ISOs publicly provided by Microsoft unless there are issues with them. For example, we provide updated ISOs for Windows 10 to resolve the issue where Windows update may fail to install [KB5028997](https://support.microsoft.com/en-us/topic/kb5028997-instructions-to-manually-resize-your-partition-to-install-the-winre-update-400faa27-9343-461c-ada9-24c8229763bf) when using Microsoft’s official public ISO.
 
 </details>
 
