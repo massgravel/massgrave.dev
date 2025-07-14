@@ -190,8 +190,7 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 </Tabs>
 
 **Other Resources**  
-https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac  
-https://macadmins.software/
+https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 
 ---
 
