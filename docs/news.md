@@ -1,5 +1,9 @@
 # News
 
+### [16-July-25] Added July 2025 updated ISOs  
+Windows 10 22H2 / Windows 11 24H2 / Windows 11 23H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media
+
 ### [8-July-25] New blog is added  
 https://massgrave.dev/blog/pesky-ampersands
 
