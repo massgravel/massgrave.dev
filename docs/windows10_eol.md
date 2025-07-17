@@ -13,7 +13,15 @@ Here are several solutions for you to choose from; feel free to select the one y
 
 Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) where users can buy the ESU subscription to receive Windows updates. These updates will begin to roll out in November 2025. 
 
-**You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office) to activate 3 Years ESU (Oct 2025 to Oct 2028).**
+#### Consumer ESU Program (1 Year)
+
+- Microsoft is offering free consumer ESU Program (1 Year) for Windows 10 Home, Professional, Pro Education, or Workstation editions.
+- To get this free ESU, you need to login your Microsoft account and [sync your PC settings](https://support.microsoft.com/windows/deebcba2-5bc0-4e63-279a-329926955708#id0ebd=windows_10). 
+- [More info](https://support.microsoft.com/en-us/windows/windows-10-consumer-extended-security-updates-esu-program-33e17de9-36b3-43bb-874d-6c53d2e4bf42).
+
+#### Commercial ESU Program (3 Years) ❤️
+
+- You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 
 ---
 
