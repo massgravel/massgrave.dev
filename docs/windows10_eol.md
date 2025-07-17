@@ -49,6 +49,8 @@ The IoT edition ISO is available in English language only, but don't worry.
 <details>
   <summary>Upgrade Windows 10 Home, Pro, etc editions to Windows 10 IoT Enterprise LTSC 2021 while keeping files and apps</summary>
 
+The IoT edition is available in English language only, but don't worry.
+
 - Download Windows 10 Enterprise LTSC ISO from [here](windows_ltsc_links.md) in the **same Windows language and architecture**.  
   - To check the installed Windows architecture, open Powershell as admin and enter,  
 `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  

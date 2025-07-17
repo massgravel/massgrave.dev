@@ -50,9 +50,12 @@ Microsoft releases Windows 10 and 11 through two servicing channels.
 **Common misconceptions**
 - LTSC is fast.  
   It's not fast, although there might be a bit more RAM available because of no store apps running in the background, and you can achieve the same result in GAC channel editions by [turning off](https://www.elevenforum.com/t/enable-or-disable-background-apps-in-windows-11.923/) background apps and startup apps.
+  
 - It's more privacy-oriented.  
   No, [telemetry options](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) are the same as GAC Enterprise.
-
+  
+- IoT LTSC 2021 is the only way to receive security updates for Windows 10 after October 2025.  
+  No, You can [activate ESU](windows10_eol.md) in Windows 10 as well.
 </details>
 
 #### Microsoft store app installation on LTSC
