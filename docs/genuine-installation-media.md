@@ -1,8 +1,9 @@
 # Download Windows / Office
 
-:::info[Note]
+:::info
 
-All download links available on our website lead to genuine files only.
+- All download links available on our website lead to genuine files only.
+- If your downloads are slow or keep interrupting, try using a download manager like [FDM](https://www.freedownloadmanager.org/).
 
 :::
 
