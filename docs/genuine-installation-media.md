@@ -4,6 +4,7 @@
 
 - All download links available on our website lead to genuine files only.
 - If your downloads are slow or keep interrupting, try using a download manager like [FDM](https://www.freedownloadmanager.org/).
+- If a download link isn't working, try using the [WARP](https://one.one.one.one/) VPN to connect.
 
 :::
 
