@@ -2,7 +2,11 @@
 
 All download links lead to genuine files only.
 
-- [FAQ](genuine-installation-media.md#faq)
+- [**FAQ**](genuine-installation-media.md#faq)
+- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- The Consumer ISO includes all editions, such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO includes all editions except for the Home versions.
+- [How to clean install Windows 11 IoT Enterprise 24H2 in Non-English language?  
+  How to install Windows 11 on unsupported hardware?](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
 
 ------------------------------------------------------------------------
 
@@ -133,22 +137,11 @@ Build - 26100.4652 (July 2025)
 
 **Windows 11 IoT Enterprise 24H2**  
 **(Not LTSC)**  
-Build - 26100.1742 (RTM) (This ISO file is not updated every month)  
-IoT Enterprise ISO is available only in English language.  
+Build - 26100.1742 (RTM) (Only English RTM ISO is available)  
 
 | Language | Arch | Link                                                                                                                                                               |
 |:---------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | x64  | [en-us_windows_11_iot_enterprise_version_24h2_x64_dvd_3a99b72b.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_24h2_x64_dvd_3a99b72b.iso) |
-
-------------------------------------------------------------------------
-
-</TabItem>
-
-<TabItem value="Windows 11 ARM64 24H2" label="Windows 11 ARM64 24H2" default>
-
-**Windows 11 ARM64 24H2**
-
-Check [here](windows_arm_links.md).
 
 ------------------------------------------------------------------------
 
@@ -159,6 +152,16 @@ Check [here](windows_arm_links.md).
 **Windows 11 IoT Enterprise LTSC 2024**
 
 Check [here](windows_ltsc_links.md).
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Windows 11 ARM64 24H2" label="Windows 11 ARM64 24H2" default>
+
+**Windows 11 ARM64 24H2**
+
+Check [here](windows_arm_links.md).
 
 ------------------------------------------------------------------------
 
@@ -293,7 +296,7 @@ Build - 22631.5624 (July 2025)
 
 **Windows 11 IoT Enterprise 23H2**  
 **(Not LTSC)**  
-Build - 22631.2428 (31-Oct-2023) (This ISO file is not updated every month)
+Build - 22631.2428 (31-Oct-2023) (Only English RTM ISO is available)
 
 | Language | Arch | Link                                                                                                                                                               |
 |:---------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

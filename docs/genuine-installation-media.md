@@ -3,8 +3,8 @@
 :::info
 
 - All download links available on our website lead to genuine files only.
-- If your downloads are slow or keep interrupting, try using a download manager like [FDM](https://www.freedownloadmanager.org/).
-- If a download link isn't working, try using the [WARP](https://one.one.one.one/) VPN to connect.
+- Slow download? Use a download manager like [FDM](https://www.freedownloadmanager.org/).
+- Download link not working? Try [WARP](https://one.one.one.one/) VPN to unblock.
 
 :::
 
@@ -23,9 +23,9 @@
 ## Download Office
 Activation with [MAS](intro.md#how-to-activate-windows--office) is required after the installation of Office.
 
--  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365 / 2024 / 2021 / 2019 / 2016 / 2013)  
--  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365 / 2024 / 2021 / 2019 / 2016)
--  [Office MSI VL (Old versions)](office_msi_links.md) (2016 / 2013 / 2010 / 2007)
+-  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365, 2024, 2021, 2019, 2016, 2013)  
+-  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365, 2024, 2021, 2019, 2016)
+-  [Office MSI VL (Old versions)](office_msi_links.md) (2016, 2013, 2010, 2007)
 -  [Office For **Mac**](office_for_mac.md)                             
 
 ---
@@ -83,7 +83,7 @@ You can request the file [here](https://discord.gg/FajfGaH3nD).
 
 ## Verify Authenticity Of Files
 
-You can use the [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine. This can be done using tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA).
+You can use the [file hashing method](https://en.wikipedia.org/wiki/File_verification) to verify if a file is genuine. This can be done using tools like [7-Zip](https://7-zip.org/) (After installing 7-Zip, right-click on the ISO file and go to 7-Zip > CRC SHA > SHA-256).
 
 There are many places where you can find these checksums for verification. Examples can be found below.
 
@@ -94,7 +94,7 @@ There are many places where you can find these checksums for verification. Examp
  -  [sha1.rg-adguard](https://sha1.rg-adguard.net/)
  -  Google
 
-Microsoft's Official free links for checksums:
+#### Microsoft's Official free links for checksums:
 
  -	[MVS](https://my.visualstudio.com/Downloads)
  -	[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)

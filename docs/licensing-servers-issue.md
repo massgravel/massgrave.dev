@@ -48,4 +48,8 @@ ipconfig /flushdns
 
 ------------------------------------------------------------------------
 
--   If HWID activation is still not working then check [here](troubleshoot.md) for help.
+:::tip
+
+If HWID activation is still not working then check [here](troubleshoot.md) for help.
+
+:::

@@ -2,8 +2,12 @@
 
 All download links lead to genuine files only.
 
-- [FAQ](genuine-installation-media.md#faq)
-- [Windows 10 Updates After End-Of-Life](windows10_eol.md)
+- [**FAQ**](genuine-installation-media.md#faq)
+- [Windows 10 updates after End-Of-Life.](windows10_eol.md)
+- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- The Consumer ISO includes all editions, such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO includes all editions except for the Home versions.
+
+---
 
 ## Download Links
 
@@ -204,8 +208,8 @@ Build - 19045.6093 (July 2025)
 <TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
 
 **Windows 10 IoT Enterprise 22H2**  
-**(Not LTSC)**
-Updated Oct 2022 (Build - 19045.2006) (This ISO file is not updated every month)
+**(Not LTSC)**  
+Updated Oct 2022 (Build - 19045.2006) (Only English RTM ISO is available)
 
 | Language | Arch | Link                                                                                                                                                               |
 |:---------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,7 +2,8 @@
 
 All download links lead to genuine files only.
 
-- [FAQ](genuine-installation-media.md#faq)
+- [**FAQ**](genuine-installation-media.md#faq)
+- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 -   Below listed ISO have these editions available to choose from when installing Windows.  
     Windows Vista Business  
     Windows Vista HomeBasic  

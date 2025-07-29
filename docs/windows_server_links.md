@@ -2,7 +2,8 @@
 
 All download links lead to genuine files only.
 
-- [FAQ](genuine-installation-media.md#faq)
+- [**FAQ**](genuine-installation-media.md#faq)
+- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 -   **Windows Server 2008 and later can be permanently activated with TSforge option in MAS.**
 
 ------------------------------------------------------------------------

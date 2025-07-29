@@ -2,13 +2,19 @@
 
 If the script encounters an error during the Windows edition change, follow the points listed below in this order.
 
+---
+
 ## Restart System
 
 -   Press the restart button to reboot the system, then attempt to change the edition again.
 
+---
+
 ## Update Windows
 
 -	Open the Windows settings, navigate to the Windows Update section, and ensure that Windows is fully updated.
+
+---
 
 ## Error 0x80070490
 
@@ -34,7 +40,17 @@ Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (
 
 </details>
 
+---
+
 ## In-Place Repair Upgrade
 
 -   If none of the solutions worked, please follow the guide below to fix the system corruption.
 -   https://gravesoft.dev/in-place_repair_upgrade
+
+---
+
+:::tip
+
+If you need any help, feel free to connect with us [here](troubleshoot.md).
+
+:::

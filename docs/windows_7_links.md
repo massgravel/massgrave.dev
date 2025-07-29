@@ -2,7 +2,8 @@
 
 All download links lead to genuine files only.
 
-- [FAQ](genuine-installation-media.md#faq)
+- [**FAQ**](genuine-installation-media.md#faq)
+- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 -   **You can permanently activate Windows 7 with TSforge option in MAS.**
 -   Ultimate, Professional, Home Premium, Home Basic and Starter ISOs contain all editions except Enterprise but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the bootable USB or ISO.
 -   To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or activate ESU with TSforge option in MAS.
