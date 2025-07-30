@@ -215,6 +215,24 @@ Updated Oct 2022 (Build - 19045.2006) (Only English RTM ISO is available)
 |:---------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | x64  | [en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso) |
 
+
+:::info
+
+Note for IoT Enterprise (GAC) **Not LTSC**:
+
+- If your system has an OEM license on the motherboard for Pro or higher-level edition
+- And the edition key in Windows setup is OEM as well
+
+In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
+As a result, you can install IoT Enterprise as per its features. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+
+This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+
+`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+
+:::
+
+
 ---
 
 </TabItem>

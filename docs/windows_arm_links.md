@@ -46,6 +46,24 @@ ARM64 version for IoT Enterprise ISO is available only in English language.
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_11_iot_enterprise_version_24h2_arm64_dvd_e9155a10.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_24h2_arm64_dvd_e9155a10.iso) |
 
+
+:::info
+
+Note for IoT Enterprise (GAC) **Not LTSC**:
+
+- If your system has an OEM license on the motherboard for Pro or higher-level edition
+- And the edition key in Windows setup is OEM as well
+
+In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
+As a result, you can install IoT Enterprise according to the relaxed hardware requirements. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+
+This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+
+`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+
+:::
+
+
 ------------------------------------------------------------------------
 
 </TabItem>
@@ -162,6 +180,24 @@ ARM64 version for LTSC is available only in English language.
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
+
+
+:::info
+
+Note for IoT Enterprise (GAC) **Not LTSC**:
+
+- If your system has an OEM license on the motherboard for Pro or higher-level edition
+- And the edition key in Windows setup is OEM as well
+
+In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
+As a result, you can install IoT Enterprise as per its features. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+
+This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+
+`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+
+:::
+
 
 ------------------------------------------------------------------------
 
