@@ -37,6 +37,7 @@ Activation with [MAS](intro.md#how-to-activate-windows--office) is required afte
 - [In-place Repair Upgrade (Keeping files and apps)](https://gravesoft.dev/in-place_repair_upgrade)
 - [Windows 11 on Unsupported Hardware](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
 - [Edition List During Windows Installation](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)
+- [Bypass Windows 11 Internet and Microsoft Account Requirements](https://gravesoft.dev/clean_install_windows#bypass-windows-11-internet-and-microsoft-account-requirements)
 - [Windows 10 Updates After End-Of-Life](windows10_eol.md)
 
 #### Why are we hosting files on our server when we can download them from Microsoft?
