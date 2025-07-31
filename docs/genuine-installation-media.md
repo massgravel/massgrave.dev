@@ -131,7 +131,7 @@ Microsoft doesn't allow you to download ISO file directly if browser's useragent
 
 import ReactPlayer from 'react-player'
 
-<ReactPlayer controls width='100%' height='auto' url='/how_to_verify_files.mp4' />
+<ReactPlayer controls width='100%' height='auto' src='/how_to_verify_files.mp4' />
 
 ---
 

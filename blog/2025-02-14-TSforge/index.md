@@ -39,7 +39,7 @@ Recognizing this, asdcorp decided to investigate how CID validation worked inter
 
 import ReactPlayer from 'react-player'
 
-<ReactPlayer controls width='100%' height='auto' url='/cidtrick.mp4' />
+<ReactPlayer controls width='100%' height='auto' src='/cidtrick.mp4' />
 
 As shown in the video, patching the CID validation code in `sppobjs.dll` allowed us to use a CID made of all zeroes for activation. Crucially though, this activation remained even after clearing the patch by restarting sppsvc. To us, this suggested something very important: **whatever data SPP saves to remember that it's activated is never validated after being written**.
 
