@@ -16,7 +16,7 @@ if ($ExecutionContext.SessionState.LanguageMode.value__ -ne 0) {
 }
 
 try {
-    [System.AppDomain]::CurrentDomain.GetAssemblies(); [System.Math]::Sqrt(144)
+    [void][System.AppDomain]::CurrentDomain.GetAssemblies(); [void][System.Math]::Sqrt(144)
 }
 catch {
     Write-Host "Error: $($_.Exception.Message)" -ForegroundColor Red
