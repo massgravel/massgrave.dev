@@ -2,6 +2,39 @@
 
 ------------------------------------------------------------------------
 
+## 3.5
+
+**ESU for Home editions / Powershell method for Windows 7**
+
+#### HWID:
+- The script now won't change region (temporarily) in the top countries.
+
+#### KMS38:
+- Removed KMS38 protection (registry lock) feature, it's not important.
+
+#### TSforge:
+- Added ESU support for Home editions (license files updated in Windows 10 19045.6156).
+- Fixed a bug on W10 ARM64.
+
+#### Change Office Edition:
+- Fixed an issue with add/remove apps when more than one language is installed.
+- Added detection for unsupported languages in the Office 2019 Perpetual VL update channel.
+
+#### All:
+- Fixed a bug in detecting Terminal app.
+- The AIO script will now show a tip about ESU updates on Windows 10.
+- The AIO script will highlight Ohook in green if O365 is installed.
+- In all KMS-related activation options, the script will display a message about KMS renewal notifications on build 26200 and later.
+- Added checks for .NET corruption and Windows Sandbox.
+- Various fixes and improvements.
+
+#### Powershell command to launch MAS:
+
+- The command `irm https://massgrave.dev/get | iex` is now officially retired. It will display info on how to get the updated code.
+- Added a new command for Windows 7, along with an alternative DoH-based command for cases where `get.activated.win` is blocked by ISP/DNS. See https://massgrave.dev/ for details.
+
+------------------------------------------------------------------------
+
 ## 3.4
 
 **Bug fixes**

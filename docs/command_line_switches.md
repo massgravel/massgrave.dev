@@ -78,10 +78,19 @@ Run operations in silent mode (no output but the CMD window will still appear)
 
 ## Using in the Powershell One-Liner
 
-`& ([ScriptBlock]::Create((irm https://get.activated.win))) /para`
+For **Windows 7** and later:
+
+```
+& ([ScriptBlock]::Create((New-Object Net.WebClient).DownloadString('https://get.activated.win'))) /para
+```
+
+If the above is blocked (by DNS/ISP), try this alternative method (requires **updated Windows 10 or 11**):
+
+```
+& ([ScriptBlock]::Create((curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String))) /para
+```
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /Ohook`
--   This Powershell one-liner will only work on Windows 8.1 and later.
 -   To change the edition through the command line, check [here](change_windows_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
 
 ------------------------------------------------------------------------
