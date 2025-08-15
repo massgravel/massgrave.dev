@@ -167,21 +167,6 @@ ARM64 version for IoT Enterprise ISO is available only in English language.
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
 
-------------------------------------------------------------------------
-
-</TabItem>
-<TabItem value="Windows 10 IoT Enterprise LTSC 2021" label="Windows 10 IoT Enterprise LTSC 2021" default>
-
-**Windows 10 IoT Enterprise LTSC 2021**
-
-Build - 19044.1288  
-ARM64 version for LTSC is available only in English language.  
-
-| Language | Arch  | Link                                                                                                                                                             |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
-
-
 :::info
 
 Note for IoT Enterprise (GAC) **Not LTSC**:
@@ -198,6 +183,19 @@ This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM ke
 
 :::
 
+------------------------------------------------------------------------
+
+</TabItem>
+<TabItem value="Windows 10 IoT Enterprise LTSC 2021" label="Windows 10 IoT Enterprise LTSC 2021" default>
+
+**Windows 10 IoT Enterprise LTSC 2021**
+
+Build - 19044.1288  
+ARM64 version for LTSC is available only in English language.  
+
+| Language | Arch  | Link                                                                                                                                                             |
+|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
 
 ------------------------------------------------------------------------
 
