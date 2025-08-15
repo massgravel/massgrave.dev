@@ -48,7 +48,7 @@ You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--ex
 - #### Is it legal? Can I face any consequences?
   - By using MAS, you are bypassing official licensing methods and not paying Microsoft, so technically it is not legal.
   - Is it safe?  
-    - **Home users:** Yes, it's safe. Piracy has existed for decades, and Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100–$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine. 
+    - **Home users:** Yes, it's safe. Piracy has existed for decades, and Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100–$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine (with MAS, these notifications do not appear). 
     - **Businesses:** We do not recommend that businesses use MAS. Microsoft conducts audits on business entities to verify licenses. While small businesses might be less likely to face audits, the risk is still yours. If you work in IT at a college or university, consult experienced senior staff about the chances of Microsoft audits at your institution.
 
 ---
