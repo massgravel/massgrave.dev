@@ -19,7 +19,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 1. **Open PowerShell**  
    Click the **Start Menu**, type `PowerShell`, then open it.
 
-2. **Copy and paste the code below, then press enter.**  
+2. **Copy and paste the code below, then press Enter.**  
    - For **Windows 8, 10, 11**: 📌
      ```
      irm https://get.activated.win | iex
@@ -30,9 +30,9 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
      ```
 <details>
 
-<summary>**Script not launching❓Click here for info.**</summary>
+<summary>**Script not launching❓ Click here for info.**</summary>
 
-- If the above is blocked (by ISP/DNS), try this (needs **updated Windows 10 or 11**):
+- If the above is blocked (by ISP or DNS), try this (requires **updated Windows 10 or 11**):
   ```
   iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
   ```
@@ -55,8 +55,8 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
 or  
 `https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
-2.   Right-click on the downloaded zip file and extract it.
-3.   In the extracted folder, find the folder named `All-In-One-Version`.
+2.   Right-click the downloaded ZIP file and extract it.
+3.   In the extracted folder, open the folder named `All-In-One-Version`.
 4.   Run the file named `MAS_AIO.cmd`.
 5.   You will see the activation options. Follow the on-screen instructions.
 6.   That's all.
@@ -68,7 +68,7 @@ or
 :::tip
 
 - Some ISPs/DNS block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.  
-- **Having trouble**❓Connect with us [here](troubleshoot.md).
+- **Having trouble**❓ Connect with us [here](troubleshoot.md).
 
 :::
 
@@ -82,8 +82,8 @@ or
 :::note
 
 - The IRM command in PowerShell downloads a script from a specified URL, and the IEX command executes it.
-- Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
-- Be cautious, as some spread malware disguised as MAS by changing the URL in the IRM command.
+- Always double-check the URL before running the command, and verify the source is trustworthy when manually downloading files.
+- Be cautious, as some spread malware disguises itself as MAS by changing the URL in the IRM command.
 
 :::
 
