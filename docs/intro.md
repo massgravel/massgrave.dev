@@ -120,11 +120,11 @@ Last Release - v3.5 (10-Aug-2025)
 |:----------------|:-----------------------|:-------------------------------------|:--------------------|
 | HWID            | Windows 10-11          | Permanent                            | Yes                 |
 | Ohook           | Office                 | Permanent                            | No                  |
-| TSforge         | Windows / ESU / Office | Permanent                            | Yes, needed on build 19041 and later |
-| KMS38           | Windows 10-11-Server   | Till the Year 2038                   | No                  |
-| Online KMS      | Windows / Office       | 180 Days. Lifetime With Renewal Task | Yes                 |
+| TSforge         | Windows / ESU / Office | Permanent                            | Yes - needed on build 19041 and later |
+| KMS38           | Windows 10-11-Server   | Until the year 2038                  | No                  |
+| Online KMS      | Windows / Office       | 180 days; Lifetime with renewal task | Yes                 |
 
-For more details, use the respective activation details in Docs and [comparison chart](chart.md).  
+For more details, see the respective activation pages in [Docs](hwid.md) and the [comparison chart](chart.md).  
 To activate unsupported products such as **Office on Mac**, check [here](unsupported_products_activation.md).
 
 ------------------------------------------------------------------------
