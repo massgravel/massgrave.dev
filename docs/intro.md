@@ -108,7 +108,7 @@ Last Release - v3.5 (10-Aug-2025)
 -   Change Windows Edition
 -   Change Office Edition
 -   Check Windows/Office Activation Status
--   Available in All In One and Separate Files Versions
+-   Available in All-in-One and Separate Files Versions
 -   Fully Open Source and Based on Batch Scripts
 -   Fewer Antivirus Detections
 
