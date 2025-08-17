@@ -2,7 +2,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
+-   How do I use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
 -   This activation method supports Windows 10/11 only.
 -   This activation method does not store or modify any files in your system.
 -   This activation method gives you permanent Windows activation for your system hardware.

@@ -2,7 +2,7 @@
 
 ## Overview
 
--   How to use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
+-   How do I use it? Please find the instructions [here](intro.md#how-to-activate-windows--office).
 -   This activation method activates Windows 10/11 and Windows Server (14393 and later builds), until January 19, 2038, 03:14:07 UTC.
 -   This activation method does not store any files on the system.
 -   This activation method works offline.
