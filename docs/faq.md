@@ -53,13 +53,13 @@ You can use the [TSforge option in MAS](intro.md#how-to-activate-windows--office
 
 ---
 
-#### How to remove MAS?
-MAS uses different activation methods; see the links below for removal instructions for each one.  
+#### How do I remove MAS?
+MAS uses different activation methods; see the links below for removal instructions for each.  
 [HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 ---
 
-#### How to change the Windows edition from Home to Pro?
+#### How do I change the Windows edition from Home to Pro?
 In MAS, select the Change Windows Edition option.
 
 ---
@@ -69,7 +69,7 @@ No.
 
 ---
 
-#### I changed my Windows edition from Home to Pro and now Windows is deactivated.
+#### I changed my Windows edition from Home to Pro, and now Windows is deactivated.
 Run HWID activation to activate Pro. Each edition requires separate activation.
 
 ---
@@ -84,13 +84,13 @@ Yes.
 
 ---
 
-#### I'm in Russia and Office is not downloading.
+#### I'm in Russia, and Office is not downloading.
 Check this [guide](https://gravesoft.dev/bypass-russian-geoblock).
 
 ---
 
 #### Can I activate Office 365?
-Yes. Use the Ohook activation option. However, you won't get server-side O365-specific features such as 1 TB of OneDrive storage, though almost all other features and the 5 GB free OneDrive storage will work fine.
+Yes. Use the Ohook activation option. However, you won't get server-side O365-specific features such as 1 TB of OneDrive storage, though almost all other features and the 5 GB of free OneDrive storage will work fine.
 
 Some features require signing in with a Microsoft account (free) in the Office apps.
 
@@ -111,13 +111,13 @@ Yes.
 
 ---
 
-#### Does MAS work for Windows Vista/7/8.1?
-Yes. TSforge, Ohook, and Online KMS options work on Windows Vista/7/8.1.
+#### Does MAS work for Windows Vista, 7 and 8.1?
+Yes. TSforge, Ohook, and Online KMS options work on Windows Vista, 7 and 8.1.
 
 ---
 
 #### How can I donate or contribute to the project?
-The MASSGRAVE project doesn't accept donations and it's free.  
+The MASSGRAVE project doesn't accept donations, and it's free.  
 Because it's a community project with many contributors, splitting donations is not practical, and profiting from piracy is not good.
 
 However, if you would like to contribute in nonfinancial ways, please visit [this page](contribute.md) for more information.
@@ -126,6 +126,6 @@ However, if you would like to contribute in nonfinancial ways, please visit [thi
 
 :::tip
 
-If you have any other questions, feel free to connect with us [here](contactus.md).
+If you have any other questions, feel free to contact us [here](contactus.md).
 
 :::
