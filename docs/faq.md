@@ -30,13 +30,13 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 ---
 
 #### How to receive security updates for Windows 10 after October 2025?
-You can use the [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
+You can use the [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 years of ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
 ---
 
 #### Is MAS safe?
 - #### How can I tell if there is any malware?
-  MAS is fully [open source](intro.md#mas-latest-release), with over 140K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself or ask ChatGPT for help if you don’t understand something in the scripts.  
+  MAS is fully [open source](intro.md#mas-latest-release), with over 140K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself, or ask ChatGPT for help if you don’t understand something in the scripts.  
   You can also perform the activation manually; see [this page](manual_hwid_activation.md) for instructions.
 
 - #### Will I receive updates? How is it different from an official license?
@@ -111,8 +111,8 @@ Yes.
 
 ---
 
-#### Does MAS work for Windows Vista, 7 and 8.1?
-Yes. TSforge, Ohook, and Online KMS options work on Windows Vista, 7 and 8.1.
+#### Does MAS work for Windows Vista/7/8.1?
+Yes. TSforge, Ohook, and Online KMS options work on Windows Vista/7/8.1.
 
 ---
 
