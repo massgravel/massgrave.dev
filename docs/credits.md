@@ -1,6 +1,6 @@
 # Credits
 
-The MAS project wouldn't be possible without the kind help and use of other honorable developers' tools and scripts. I would like to say thanks to all those wonderful people and projects.
+The MAS project wouldn't be possible without the kind help and the use of other honorable developers' tools and scripts. I would like to thank all those wonderful people and projects.
 
 ### Activation Methods Contributions
 
