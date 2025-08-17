@@ -1,6 +1,6 @@
 # KMS38
 
-This page is intended for users who do not want to use the script for any reason and would rather perform the KMS38 activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md#how-to-activate-windows--office).
+This page is for people who do not want to use the script for any reason and would rather perform the KMS38 activation process themselves. If you'd like to use a tool for this, please check [here](intro.md#how-to-activate-windows--office).
 
 :::info
 KMS38 activation is only supported on Windows 10/11 Client and Server editions.
@@ -8,23 +8,23 @@ KMS38 activation is only supported on Windows 10/11 Client and Server editions.
 
 ## Manually Activate Windows
 To manually activate Windows, follow these steps:
--   Open Windows Powershell as administrator and enter the below commands.
--   Install the generic key which matches your Windows edition and version:   
+-   Open Windows PowerShell as administrator and enter the commands below.
+-   Install the generic key that matches your Windows edition and version:   
     `slmgr /ipk <key>`  
     *(Refer to the table below for the appropriate key.)*
 -   Download the [KMS38 ticket file](https://github.com/massgravel/hwid-kms38-tickets/releases/download/2.0/KMS38.xml).
 -   Copy the downloaded ticket file to the root of the C: drive.
--   Migrate the ticket to a license and activate Windows by running the commands:    
+-   Migrate the ticket to a license and activate Windows by running the command:    
     `clipup -v -o -altto C:\`  
--   After waiting for a few seconds, Windows should be activated.
+-   After waiting a few seconds, Windows should be activated.
 
 **Notes:**
--   For Windows Server Cor/Acor editions, the system does not have the `clipup.exe` file.  
-    To activate it using KMS38, download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
+-   For Windows Server Cor/Acor editions, the system does not include the `clipup.exe` file.  
+    To activate using KMS38, download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     The file is digitally signed and verifiable. You can also obtain this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).  
-    Place the `ClipUp.exe` file in the `C:\Windows\System32` folder and perform the KMS38 activation process. Once the activation is complete, you can remove the file.
+    Place the `ClipUp.exe` file in the `C:\Windows\System32` folder and perform the KMS38 activation process. Once activation is complete, you can remove the file.
 
 ### Windows 10 / 11
 | Product Names                                          | Generic Volume License Key    |
