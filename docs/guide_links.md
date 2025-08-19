@@ -14,6 +14,7 @@ If you are facing any error, the script should tell you which guide you need to 
 -   [Change Edition Issues](change_edition_issues.md)
 -   [Windows Evaluation Editions](evaluation_editions.md)
 -   [Fix Powershell](https://gravesoft.dev/fix_powershell)
+-   [PowerShell on Legacy Windows](powershell-on-legacy-windows.md)
 -   [In-place Repair Upgrade](https://gravesoft.dev/in-place_repair_upgrade)
 -   [Remove Malware](https://gravesoft.dev/remove_malware)
 -   [Clean Install Windows](https://gravesoft.dev/clean_install_windows)
