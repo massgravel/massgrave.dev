@@ -1,5 +1,9 @@
 # News
 
+### [20-Aug-25] Added Aug 2025 updated ISOs  
+Windows 10 22H2 / Windows 11 24H2 / Windows 11 23H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media
+
 ### [10-Aug-25] MAS 3.5 update is released  
 ESU for Home editions / Powershell method for Windows 7, for details check the [changelog](changelog.md)
 
