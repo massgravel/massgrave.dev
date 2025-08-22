@@ -17,6 +17,7 @@
 -  [Windows 7](windows_7_links.md)                                                                                                                                                                
 -  [Windows Vista](windows_vista__links.md)    
 -  [Windows XP](windows_xp_links.md)                                                                                                                                                              
+-  [Windows Server](windows_server_links.md)                                                                                                                                                      
 -  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
 
 ## Download Office
