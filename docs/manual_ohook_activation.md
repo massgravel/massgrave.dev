@@ -1,9 +1,9 @@
 # Ohook
 
-This page is intended for users who do not want to use the script for any reason and would rather perform the Ohook activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md#how-to-activate-windows--office).
+This page is for people who do not want to use the script for any reason and would rather perform the Ohook activation process themselves. If you'd like to use a tool for this, please check [here](intro.md#how-to-activate-windows--office).
 
 :::info
-The steps below only apply to Office 16.0 (2016, 2019, 2021 and 365) C2R x64 bit versions running on an x64 bit Windows 8+ machine.  
+The steps below apply only to Office 16.0 (2016, 2019, 2021 and 365) C2R x64 versions running on an x64 Windows 8+ machine.  
 For older Office versions, please follow [this](intro.md#how-to-activate-windows--office) instead.
 :::
 
@@ -12,15 +12,15 @@ For older Office versions, please follow [this](intro.md#how-to-activate-windows
 To manually activate Office, follow these steps:
 
 -   Download the Ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases/download/0.5/ohook_0.5.zip) or compile the sppc.dll files yourself using [this guide](ohook#custom-sppcdll-info).
--   Create a new folder called `ohook` in the root of your C: drive and extract the zip file to it. The path to the folder should be `C:\ohook`.
--   Open Command Prompt as Administrator and enter the following command to create a symlink of the system's sppc.dll as sppcs.dll in the Office C2R System directory:  
+-   Create a new folder called `ohook` in the root of your C: drive. and extract the ZIP file to it. The path to the folder should be `C:\ohook`.
+-   Open Command Prompt as administrator and enter the following command to create a symlink of the system's sppc.dll as sppcs.dll in the Office C2R System directory:  
     `mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"`
--   Enter the following commands to copy the hook library `sppc64.dll` to the Office C2R system directory:    
+-   Enter the following commands to copy the hook library `sppc64.dll` to the Office C2R System directory:    
     `cd /d C:\ohook`  
     `copy /y sppc64.dll "%ProgramFiles%\Microsoft Office\root\vfs\System\sppc.dll"`
--   Some Office 365 editions check the license status and display the banner "There was a problem checking this device's license status". To prevent this, enter the following command:  
+-   Some Office 365 editions check the license status and display the banner "There was a problem checking this device's license status." To prevent this, enter the following command:  
     `reg add HKCU\Software\Microsoft\Office\16.0\Common\Licensing\Resiliency /v "TimeOfLastHeartbeatFailure" /t REG_SZ /d "2040-01-01T00:00:00Z" /f`
--   Install the generic key which matches your Office edition and version:  
+-   Install the generic key that matches your Office edition and version:  
     `slmgr /ipk <key>`  
     *(Refer to the table below for the appropriate key.)*
 -   Office should be activated now.
