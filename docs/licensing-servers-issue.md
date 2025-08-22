@@ -1,21 +1,21 @@
 # Licensing Servers Issue
 
-In some cases, **HWID activation** may fail because the system couldn't connect to HWID licensing servers. The activation script will inform you about this if that is the case.
-We suggest following the below guide only when the script tells you to do so.
+In some cases, HWID activation may fail because the system can't connect to the HWID licensing servers. The activation script will inform you if that is the case.
+We suggest following the guide below only when the script tells you to do so.
 
 ------------------------------------------------------------------------
 
 ## Network Reset
 
--   In Windows 10/11, go to settings and search for Network Reset, then apply this option.
--   Restart your system and try HWID Activation.
--   If it's showing the same Internet error then follow the below option.
+-   In Windows 10/11, go to Settings and search for Network Reset, then apply this option.
+-   Restart your system and try HWID activation.
+-   If it shows the same internet error, follow the option below.
 
 ------------------------------------------------------------------------
 
 ## Firewall / Proxy Reset
 
-- Open Powershell as admin and enter below commands,
+- Open PowerShell as admin and enter the commands below:
 
 ```
 Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name ProxyEnable -Type DWord -Value 0
@@ -34,8 +34,8 @@ bitsadmin /util /setieproxy localsystem NO_PROXY RESET
 ipconfig /flushdns
 ```
 
--   Restart your system and try HWID Activation.
--   If it's showing the same Internet error then follow the below option.
+-   Restart your system and try HWID activation.
+-   If it still shows the same internet error, follow the option below.
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ ipconfig /flushdns
 - Install Cloudflare WARP VPN - https://1.1.1.1/  
   Connect the VPN and try HWID activation.
 
-- If it's not working, try a different internet connection or use your phone's internet through USB tethering.
+- If that doesn't work, try a different internet connection or use your phone's internet via USB tethering.
 
 ------------------------------------------------------------------------
 
