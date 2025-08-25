@@ -22,17 +22,18 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="Windows 11 Consumer 24H2" label="Windows 11 Consumer 24H2 ❤️" default>
 
-**Windows 11 Consumer 24H2**
+<details>
+  <summary>Info on Official links</summary>
 
-Build - 26100.1742 (RTM)   
+Microsoft provides official public links for Windows 11 24H2 (Build **26100.1742**).  
+However, this ISO cannot be used for an in-place repair upgrade if the latest updates are already installed.  
 
-**Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3113) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11)
+For repair upgrades, we recommend using the latest **Windows 11 24H2 ISO** from the table below, sourced from the official [MVS site](https://my.visualstudio.com/Downloads).
 
-------------------------------------------------------------------------
+If you want links for the old build, check here:  
+**RTM ISO Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3113) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11)
 
-</TabItem>
-
-<TabItem value="Windows 11 Consumer 24H2 Updated" label="Windows 11 Consumer 24H2" default>
+</details>
 
 **Windows 11 Consumer 24H2**
 

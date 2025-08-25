@@ -21,9 +21,9 @@ If the script encounters an error during the Windows edition change, follow the 
 ## Dism RestoreHealth & SFC Scannow
 
 -	In the MAS script, go to the Troubleshoot option and select `DISM RestoreHealth`.
-- 	Restart the system using the Restart button.
+- 	Restart the system using the restart button.
 -	After that, select `SFC Scannow` option.
--	Restart the system using the Restart button.
+-	Restart the system using the restart button.
 -	Try changing the edition now. If it doesn’t work, follow the next step listed below.
 
 ---
