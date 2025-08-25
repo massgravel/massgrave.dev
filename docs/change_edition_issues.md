@@ -6,39 +6,25 @@ If the script encounters an error during the Windows edition change, follow the 
 
 ## Restart System
 
--   Press the restart button to reboot the system, then attempt to change the edition again.
+-   Press the restart button to reboot the system.
+-	Try changing the edition now. If it doesn’t work, follow the next step listed below.
 
 ---
 
 ## Update Windows
 
 -	Open the Windows settings, navigate to the Windows Update section, and ensure that Windows is fully updated.
+-	Try changing the edition now. If it doesn’t work, follow the next step listed below.
 
 ---
 
-## Error 0x80070490
+## Dism RestoreHealth & SFC Scannow
 
-:::note
-
-Only proceed if the script displays a 0x80070490 error code. If it doesn’t, this action is unnecessary.
-
-:::
-
-<details>
-<summary>Click here for info</summary>
-
--   During a Home to Pro upgrade, the script may show the below error:  
-```         
-Exception calling "_DismSet Edition" with "6" argument(s): "Element not found. (Exception from HRESULT: 0x80070490)"
-```
--   This issue often appears when .NET Framework 3.5 is installed.
--   To solve this, it needs to be disabled. To do that, open Command Prompt as admin and enter  
-    `DISM /Online /English /Disable-Feature /FeatureName:"NetFx3"`
--   Once that's done, try to change the edition again.
--   After the edition change, you can enable .NET 3.5 again:  
-    `DISM /Online /English /Enable-Feature /FeatureName:"NetFx3"`
-
-</details>
+-	In the MAS script, go to the Troubleshoot option and select `DISM RestoreHealth`.
+- 	Restart the system using the Restart button.
+-	After that, select `SFC Scannow` option.
+-	Restart the system using the Restart button.
+-	Try changing the edition now. If it doesn’t work, follow the next step listed below.
 
 ---
 
