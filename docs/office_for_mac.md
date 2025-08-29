@@ -214,14 +214,21 @@ The below activator (serializer) pkg files are extracted from the official iso f
 | Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
 | Office 2016 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                               |
 
-:::tip
+## Activation Troubleshooting
 
-- If activation is not working then,
-  - Uninstall all the Office apps
-  - Clean everything using [Office-Reset tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw)
-  - Now redo the Office installation and activation as explained above.
-  - If you are still facing any issues, connect with us [here](troubleshoot.md).
+- If activation is not working, then:
+  - Uninstall all Office apps.
+  - Clean everything using [Office-Reset Tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw).
+  - Reinstall Office and follow the activation steps explained above.
+  - If you are still facing issues, [erase and reinstall macOS](https://support.apple.com/en-us/guide/mac-help/mh27903/mac), then repeat the process.
+
+:::note
+
+- This activation method is identical to Microsoft’s official process for [paid subscribers](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/volume-license-serializer). No third-party cracks are used.  
+- While activation works for most users, some errors may occur due to macOS issues rather than the activation steps.  
+- As we do not use macOS, we cannot provide system-specific troubleshooting. A clean installation of macOS is recommended as a final option.  
 
 :::
+
 
 ------------------------------------------------------------------------
