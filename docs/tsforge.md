@@ -106,7 +106,7 @@ This activation method can activate any of the following products if a phone lic
     - **Windows Server 2012** (ServerDatacenter, ServerStandard and their Core variants)
 	- **Windows 8.1** (Enterprise, Professional, EmbeddedIndustry and their E/N variants)
     - **Windows Server 2012 R2** (ServerDatacenter, ServerStandard and their Core variants)
-    - **Windows 10** (Education, Enterprise, IoTEnterprise, Professional, ProfessionalEducation, ProfessionalWorkstation and their N variants)
+    - **Windows 10** (Core, CoreCountrySpecific, CoreSingleLanguage, Education, Enterprise, IoTEnterprise, Professional, ProfessionalEducation, ProfessionalWorkstation, ServerRdsh and their N variants)
   - **8/8.1 APPXLOB**
 	- Client
 	- Embedded Industry
