@@ -21,7 +21,7 @@ Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.co
 
 #### Commercial ESU Program (3 Years) ❤️
 
-- You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
+- You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 
 ---
 

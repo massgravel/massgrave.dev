@@ -24,7 +24,7 @@
 
 ## Office 2010 VL on Windows XP
 
--   Download Office 2010 VL - [Link](office_msi_links#office-2010-pro-plus)
+-   Download Office 2010 VL - [Link](office_msi_links.md#office-2010)
 -	Activate with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
 
 **Note:** MAS supports Office on Windows Vista and later versions.
@@ -33,7 +33,7 @@
 
 ## Office 2007 Enterprise
 
--   Download Office 2007 Enterprise - [Link](office_msi_links.md#office-2007-enterprise)
+-   Download Office 2007 Enterprise - [Link](office_msi_links.md#office-2007)
 -	Activation key - `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
 
 ------------------------------------------------------------------------

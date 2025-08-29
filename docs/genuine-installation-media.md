@@ -21,7 +21,7 @@
 -  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
 
 ## Download Office
-Activation with [MAS](intro.md#how-to-activate-windows--office) is required after the installation of Office.
+Activation with [MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) is required after the installation of Office.
 
 -  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365, 2024, 2021, 2019, 2016, 2013)  
 -  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365, 2024, 2021, 2019, 2016)
