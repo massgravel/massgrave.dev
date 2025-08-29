@@ -149,20 +149,29 @@ Build - 26100.1742 (RTM) (Only English RTM ISO is available)
 
 :::info
 
-Note for IoT Enterprise (GAC) **Not LTSC**:
+### Note for IoT Enterprise (GAC) - Not LTSC
 
-- If your system has an OEM license on the motherboard for Pro or higher-level edition
-- And the edition key in Windows setup is OEM as well
+When installing Windows IoT Enterprise (GAC):
 
-In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
-As a result, you can install IoT Enterprise according to the relaxed hardware requirements. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+- If your system has an **OEM license** in the motherboard (Pro or higher),
+- And the key used in Setup is **OEM**,
 
-This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+then Windows Setup will apply the OEM key from the motherboard during the final stage.
 
-`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+### What this means
+- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
+- After installation, the system will show Pro edition, not IoT Enterprise.
+- This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
+- This behavior is normal and cannot be avoided.
+
+### Fix
+After installation, switch the edition by running the following in command prompt as admin.
+
+```
+slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
+```
 
 :::
-
 
 ------------------------------------------------------------------------
 
@@ -326,17 +335,27 @@ Build - 22631.2428 (31-Oct-2023) (Only English RTM ISO is available)
 
 :::info
 
-Note for IoT Enterprise (GAC) **Not LTSC**:
+### Note for IoT Enterprise (GAC) - Not LTSC
 
-- If your system has an OEM license on the motherboard for Pro or higher-level edition
-- And the edition key in Windows setup is OEM as well
+When installing Windows IoT Enterprise (GAC):
 
-In that case, during the final stages in Windows installation, setup will install the OEM key that is installed on your motherboard.
-As a result, you can install IoT Enterprise as per its features. However, after the Windows installation is complete, it will show that the Pro edition is installed.
+- If your system has an **OEM license** in the motherboard (Pro or higher),
+- And the key used in Setup is **OEM**,
 
-This situation cannot be avoided because IoT Enterprise (GAC) only has an OEM key. However, don't worry, you can just change the edition to IoT Enterprise later using the command below as admin.
+then Windows Setup will apply the OEM key from the motherboard during the final stage.
 
-`slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD`
+### What this means
+- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
+- After installation, the system will show Pro edition, not IoT Enterprise.
+- This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
+- This behavior is normal and cannot be avoided.
+
+### Fix
+After installation, switch the edition by running the following in command prompt as admin.
+
+```
+slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
+```
 
 :::
 
