@@ -9,18 +9,18 @@ HWID activation is only supported on Windows 10/11.
 ## Manually Activate Windows
 To manually activate Windows, follow these steps:
 -   Make sure you have a working internet connection.
--   Determine your Windows Edition. You can find this by searching for "About your PC" in the start menu.
+-   Determine your Windows edition. You can find this by searching for "About your PC" in the Start menu.
 -   Download the appropriate ticket file from the table below; the ticket file must match your Windows edition.
 -   Copy the downloaded ticket file to:  
     `C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket`    
-    The `ProgramData` folder is hidden by default. You can access it directly by pasting the full path above into the Windows Explorer address bar.
--   Open the Windows Activation settings and click the "Change product key" button.
+    The `ProgramData` folder is hidden by default. You can access it directly by pasting the full path above into the File Explorer address bar.
+-   Open Windows Activation settings and click the "Change product key" button.
 -   Copy the corresponding product key from the table below and paste it into the product key field.
--   After waiting for a few seconds, Windows should be activated.
+-   After waiting a few seconds, Windows should be activated.
 
 :::tip
 If you're seeing error `0x803fa067` while trying to change the product key, disconnect your PC from the internet and try changing the product key again.   
-After you have done that, connect to the internet again and Windows should be activated.
+After you have done that, reconnect to the internet and Windows should be activated.
 :::
 
 ### Windows 10/11
