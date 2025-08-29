@@ -121,7 +121,7 @@ This product is no longer under active development.
 
 ## SQL Server
 
--	Download - https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2022
+-	Download - https://www.microsoft.com/en-us/evalcenter/download-sql-server-2022
 -	Activation keys:
 
 | Editions                        | Activation Key                |
@@ -143,7 +143,7 @@ Formerly known as Systems Management Server (SMS), System Center Configuration M
 
 **Microsoft Configuration Manager (Current Branch)**
 
-Download - https://www.microsoft.com/en-us/evalcenter/evaluate-microsoft-endpoint-configuration-manager  
+Download - https://www.microsoft.com/en-us/evalcenter/download-microsoft-endpoint-configuration-manager 
 Activation Key - `BXH69-M62YX-QQD6R-3GPWX-8WMFY`
 
 ------------------------------------------------------------------------
