@@ -78,7 +78,7 @@ That's all.
 
 ---
 
-## Windows 11 (IoT) Enterprise 24H2 / Windows 11 (IoT) Enterprise LTSC 2024
+## Windows 11 (IoT) Enterprise GAC 24H2 / Windows 11 (IoT) Enterprise LTSC 2024
 
 Many users choose not to use Windows 11 due to hardware limitations, such as a lack of TPM, Secure Boot, or UEFI support. While it is possible to bypass these limitations, doing so is officially unsupported and may lead to issues with future updates.
 
@@ -148,4 +148,5 @@ That's all.
 -   If you need any help regarding this, you can [connect with us](troubleshoot.md).
 
 :::
+
 
