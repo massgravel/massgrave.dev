@@ -2,6 +2,23 @@
 
 ------------------------------------------------------------------------
 
+
+## 3.6  
+
+**Minor Update**  
+
+#### TSforge
+- Fixed an issue caused by the updated pkeyconfig on build 22631.5840. Thanks to @WitherOrNot for the fix.
+- StaticCID is now used by default only on build 26100 and above. FYI, users can change this in the options.
+
+#### Ohook
+- Added the Outlook 2010 Retail key. Thanks to celestial_tiger_98134.
+
+#### All
+- Replaced Get-ScheduledTask with ComObject command for improved reliability.
+
+------------------------------------------------------------------------
+
 ## 3.5
 
 **ESU for Home editions / Powershell method for Windows 7**
