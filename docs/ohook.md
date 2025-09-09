@@ -47,6 +47,7 @@ TL;DR all kinds of Office products are supported on Windows Vista and higher and
 | v14.0 (2010)   | InfoPathVL                                                          | 6GKT2-KMJPK-4RRBF-8VQKB-JB6G6          | MAK      |
 | v14.0 (2010)   | OneNoteR [HSOneNoteR]                                               | 2TG3P-9DB76-4YT99-8RXGD-CWXBP          | Retail   |
 | v14.0 (2010)   | OneNoteVL                                                           | CV64P-F4VRH-BJ33D-PH6MR-X69RY          | MAK      |
+| v14.0 (2010)   | OutlookR                                                            | 9D8FR-7GYBW-4YG8M-V36JK-VD7CM          | Retail   |
 | v14.0 (2010)   | OutlookVL                                                           | J8C9M-YXMH2-9CX44-2C3YG-V7692          | MAK      |
 | v14.0 (2010)   | PersonalR [PersonalDemoR,PersonalPrepaidR]                          | GMBWM-WVX26-7WHV4-DB43D-WVDY2          | Retail   |
 | v14.0 (2010)   | PowerPointVL                                                        | HPBQP-RJHDR-Q3472-PT9Q6-PBB72          | MAK      |
@@ -73,7 +74,6 @@ We couldn't find any keys (blocked/generic doesn't matter) for these Office 2010
 ```
 4eaff0d0-c6cb-4187-94f3-c7656d49a0aa    Retail      ExcelR_[HSExcelR]
 7004b7f0-6407-4f45-8eac-966e5f868bde    Retail      GrooveR
-fbf4ac36-31c8-4340-8666-79873129cf40    Retail      OutlookR
 133c8359-4e93-4241-8118-30bb18737ea0    Retail      PowerPointR_[HSPowerPointR]
 db3bbc9c-ce52-41d1-a46f-1a1d68059119    Retail      WordR_[HSWordR]
 dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBasicsMSDNR]
