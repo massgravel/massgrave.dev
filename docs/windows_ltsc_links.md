@@ -110,7 +110,6 @@ import TabItem from '@theme/TabItem';
 | **Update Support**                     | 5 Years         | 10 Years                                                                                                                                                                                                                                  |
 | **Reserved Storage Feature**           | Enabled         | Disabled                                                                                                                                                                                                                                  |
 | **Digital License (HWID)**             | Not supported   | Supported                                                                                                                                                                                                                                 |
-| **Uninstallable Edge outside of EEA**  | Yes             | No                                                                                                                                                                                                                                        |
 | **2 Simultaneous RDP Sessions**        | No              | Yes                                                                                                                                                                                                                                       |
 
 
@@ -134,7 +133,6 @@ import TabItem from '@theme/TabItem';
 | **Reserved Storage Feature** | Enabled                                                                                               | Disabled                                                                                                   |
 | **Digital License (HWID)**   | Not supported                                                                                         | Supported                                                                                                  |
 | **KMS License**              | Supported                                                                                             | Support added after the update 19044.2788                                                                  |
-| **Uninstallable Edge**       | Yes                                                                                                   | No                                                                                                         |
 | **$OEM$ Folder Support**     | Yes                                                                                                   | No [(More Info)](oem-folder.md)                                                                            |
 
 
