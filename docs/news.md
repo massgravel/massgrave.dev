@@ -1,5 +1,8 @@
 # News
 
+### [11-Sep-25] MAS 3.7 update is released  
+HWID/KMS38 tickets are now signed within script with SPP Client Lockbox signing key instead of using precomputed signatures, for details check the [changelog](changelog.md)
+
 ### [9-Sep-25] MAS 3.6 update is released  
 Minor update, for details check the [changelog](changelog.md)
 

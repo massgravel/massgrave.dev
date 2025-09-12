@@ -2,6 +2,16 @@
 
 ------------------------------------------------------------------------
 
+## 3.7
+
+**The Twin Keys Fall**
+
+### HWID / KMS38
+
+- Switched ticket generation to automatically sign tickets with the SPP Client Lockbox signing key, which was found to be the same as the Trusted Store key used in [TSforge](https://massgrave.dev/tsforge). Thanks to @WitherOrNot for finding this.
+- GamersOsState (patched GatherOsState) method is now obsolete for all ticket generation.
+
+------------------------------------------------------------------------
 
 ## 3.6  
 
