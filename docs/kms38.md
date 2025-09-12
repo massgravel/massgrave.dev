@@ -158,21 +158,6 @@
 
 ------------------------------------------------------------------------
 
-## KMS38 Protection
-
--   KMS38 Activation is vulnerable to unintended replacement by a 180-Day KMS Activator.
--   From MAS 1.7, the script will enable KMS38 protection by default.
--   If you are going to use KMS_VL_ALL by abbodi1406 or [MAS](intro.md) (Online KMS option) for **Office activation**, then you can choose to remove this protection.
--   Below is the explanation for how the script protect KMS38.
--   In the KMS activation method, Windows first checks the KMS IP registered as a specific KMS, and if that is not defined, then it checks the Global KMS IP. Another fact is that if Localhost (IP range 127.0.0.0/8) is defined as the KMS IP in Windows 8 and later OS, then Windows will not accept it as a valid KMS IP. This script simply utilizes the above facts to protect the KMS38 activation from being overwritten by any alternative 'normal' 180-Day KMS Activation, and at the same time, that KMS activator can be used for Office activation.
--   Script steps-  
-    -   Set the Windows edition-specific KMS IP to Localhost (127.0.0.2)
-    -   Protect the below Registry from edit and delete  
-	   `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\`
-    -   Done.  
-
-------------------------------------------------------------------------
-
 ## Command line Switches
 
 -   Check [here](command_line_switches.md).
