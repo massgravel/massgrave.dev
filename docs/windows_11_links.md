@@ -149,7 +149,7 @@ Build - 26100.1742 (RTM) (Only English RTM ISO is available)
 
 :::info
 
-### Note for IoT Enterprise (GAC) - Not LTSC
+**Note for IoT Enterprise (GAC) - Not LTSC**  
 
 When installing Windows IoT Enterprise (GAC):
 
@@ -158,13 +158,13 @@ When installing Windows IoT Enterprise (GAC):
 
 then Windows Setup will apply the OEM key from the motherboard during the final stage.
 
-### What this means
+**What this means**  
 - You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
 - After installation, the system will show Pro edition, not IoT Enterprise.
 - This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
 - This behavior is normal and cannot be avoided.
 
-### Fix
+**Fix**  
 After installation, switch the edition by running the following in command prompt as admin.
 
 ```
@@ -335,7 +335,7 @@ Build - 22631.2428 (31-Oct-2023) (Only English RTM ISO is available)
 
 :::info
 
-### Note for IoT Enterprise (GAC) - Not LTSC
+**Note for IoT Enterprise (GAC) - Not LTSC**  
 
 When installing Windows IoT Enterprise (GAC):
 
@@ -344,13 +344,13 @@ When installing Windows IoT Enterprise (GAC):
 
 then Windows Setup will apply the OEM key from the motherboard during the final stage.
 
-### What this means
+**What this means**  
 - You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
 - After installation, the system will show Pro edition, not IoT Enterprise.
 - This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
 - This behavior is normal and cannot be avoided.
 
-### Fix
+**Fix**  
 After installation, switch the edition by running the following in command prompt as admin.
 
 ```
