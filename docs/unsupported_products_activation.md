@@ -22,12 +22,20 @@
 
 ------------------------------------------------------------------------
 
-## Office 2010 VL on Windows XP
+## Office 2010 on Windows XP / Server 2003
 
--   Download Office 2010 VL - [Link](office_msi_links.md#office-2010)
--	Activate with KMS-VL-ALL by qewlpal [Official thread](https://forums.mydigitallife.net/threads/kms-vl-all-online-offline-kms-activator-for-microsoft-products.63471/) | [Mirror](https://app.box.com/s/q0nyib6bfylosvbbm5x8ztg87vy0kl8a) (Use 7.2RC2 version from the mirror link)
+- [Office 2010 Installer.](office_msi_links.md#office-2010)  
+- [Ohook Script for Office 2010 by abbodi1406.](https://gitlab.com/-/project/11037551/uploads/bbdc7aae987d08f8e2bf6533942e623a/office2010_ohook.7z) *(Password: `2010`)*  
 
-**Note:** MAS supports Office on Windows Vista and later versions.
+1. Extract the Ohook archive.
+2. Run 	`_install.cmd` as Administrator.
+3. Get a key from [here](ohook.md#office-2010-140) for the installed Office 2010 product.
+4. Open an Office app > `File > Help > Activate/Change Product Key`.
+5. Enter the key and finish activation.
+
+Office 2010 should now be permanently activated.  
+
+**Note:** MAS supports Office on Windows Vista and later.
 
 ------------------------------------------------------------------------
 
