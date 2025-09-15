@@ -6,7 +6,7 @@
 -   This activation is permanent until a Windows reinstall or a major feature upgrade (not to be confused with small enablement upgrades or monthly cumulative updates).
 -   This activation method doesn't modify any Windows components and doesn't install any new files.
 -   Once the system is activated, hardware can be changed arbitrarily without triggering de-activation.
--   Internet is not required for ZeroCID or KMS4k, but it is required for StaticCID. The script uses the StaticCID method from Windows 10 20H1 (19041) and later versions.
+-   Internet is not required for ZeroCID or KMS4k, but it is required for StaticCID. The script uses the StaticCID method from Windows 11 24H2 (26100) and later versions.
 -   This activation method can activate any of the following products if a phone license is available and licensing is managed by the system's SPP. For example,
     *   Windows Vista and later
     *   Windows Server 2008 and later

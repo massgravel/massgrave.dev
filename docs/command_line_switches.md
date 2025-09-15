@@ -36,15 +36,15 @@
 
 **Change activation method:**  
 
-For builds 19041 and later, the script automatically selects StaticCID (requires an internet connection). If no internet connection is detected, it automatically switches to the KMS4k method.  
-For builds earlier than 19041, the script automatically selects ZeroCID.
+For builds 26100 and later, the script automatically selects StaticCID (requires an internet connection). If no internet connection is detected, it automatically switches to the KMS4k method.  
+For builds earlier than 26100, the script automatically selects ZeroCID.
 
 To override this automatic selection and use a specific activation method, you can apply the following switches in combination with the switches listed above.
 
 | Switches   | Meaning                                                                                                                                                          |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `/Z-SCID`  | Force use StaticCID activation method. It needs Internet and does not work on Windows 7 and older versions.                                                      |
-| `/Z-ZCID`  | Force use ZeroCID activation method. Works reliably on builds below 19041, may break on builds between 19041-26100 and does not work on builds above 26100.4188. |
+| `/Z-ZCID`  | Force use ZeroCID activation method. Works reliably on builds below 26100, and does not work on builds above 26100.4188. |
 | `/Z-KMS4k` | Volume licenses only. Activates for 4000+ years.                                                                                                                 |
 
 ### KMS38

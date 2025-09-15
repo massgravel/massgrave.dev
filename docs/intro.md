@@ -120,7 +120,7 @@ Last Release - v3.7 (11-Sep-2025)
 |:----------------|:-----------------------|:-------------------------------------|:--------------------|
 | HWID            | Windows 10-11          | Permanent                            | Yes                 |
 | Ohook           | Office                 | Permanent                            | No                  |
-| TSforge         | Windows / ESU / Office | Permanent                            | Yes, needed on build 19041 and later |
+| TSforge         | Windows / ESU / Office | Permanent                            | Yes, needed on build 26100 and later |
 | KMS38           | Windows 10-11-Server   | Till the Year 2038                   | No                  |
 | Online KMS      | Windows / Office       | 180 Days. Lifetime With Renewal Task | Yes                 |
 
