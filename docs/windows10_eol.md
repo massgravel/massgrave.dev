@@ -73,7 +73,7 @@ That's all.
 
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md#microsoft-store-app-installation-on-ltsc).
 - To learn about the advantages and disadvantages of LTSC, click [here](windows_ltsc_links.md#what-is-ltsc-and-is-it-the-right-choice-for-you)
-- To learn about the differences between IoT and non-IoT editions, see https://massgrave.dev/windows_ltsc_links#differences-between-iot-and-non-iot-windows-enterprise-ltsc. Most users have no reason not to use IoT editions.
+- To learn about the differences between IoT and non-IoT editions, click [here](windows_ltsc_links#differences-between-iot-and-non-iot-windows-enterprise-ltsc). Most users have no reason not to use IoT editions.
 </details>
 
 ---
@@ -136,7 +136,7 @@ That's all.
 - This is why IoT (24H2/2024) editions are mentioned so that you can get official support on future feature upgrades.
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md#microsoft-store-app-installation-on-ltsc).
 - Windows 11 24H2 / 2024 requires CPUs that support SSE4.2 and POPCNT instructions.
-- The GAC IoT edition has no known disadvantages. To learn about the advantages and disadvantages of LTSC IoT editions, see https://massgrave.dev/windows_ltsc_links#differences-between-iot-and-non-iot-windows-enterprise-ltsc
+- The GAC IoT edition has no known disadvantages. To learn about the advantages and disadvantages of LTSC IoT editions, click [here](windows_ltsc_links#differences-between-iot-and-non-iot-windows-enterprise-ltsc)
 
 ---
 
