@@ -1,5 +1,8 @@
 # News
 
+### [21-Sep-25] Added Windows 11 25H2 Consumer x64/A64 static links
+https://massgrave.dev/genuine-installation-media
+
 ### [17-Sep-25] Added Sep 2025 updated ISOs  
 Windows 10 22H2 / Windows 11 24H2 / Windows 11 23H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media
