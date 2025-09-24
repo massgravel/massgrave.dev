@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="Windows 11 Consumer 25H2" label="Windows 11 Consumer 25H2" default>
+<TabItem value="Windows 11 Consumer 25H2" label="Windows 11 Consumer 25H2 ❤" default>
 
 :::info
 
@@ -73,6 +73,80 @@ Build - 26200.6584
 | Ukranian               | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_uk-ua.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_uk-ua.iso) |
 | Chinese-Simplified     | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-cn.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-cn.iso) |
 | Chinese-Traditional    | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso) |
+
+------------------------------------------------------------------------
+
+</TabItem>
+<TabItem value="Windows 11 IoT Enterprise 25H2" label="Windows 11 IoT Enterprise 25H2" default>
+
+**Windows 11 IoT Enterprise 25H2**  
+**(Not LTSC)**  
+Build - 26200.6584  
+These ISOs contain below editions,  
+
+Windows 11 Enterprise  
+Windows 11 IoT Enterprise  
+Windows 11 IoT Enterprise Subscription  
+
+IoT Enterprise ISO is available only in English language.  
+
+| Language | Arch  | Link                                                                                                                                                                   |
+|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English  | x64 | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso](https://drive.massgrave.dev/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENTENTERPRISE_OEM_x64FRE_en-us.iso) |
+
+
+:::info
+
+**Note for IoT Enterprise (GAC) - Not LTSC**  
+
+When installing Windows IoT Enterprise (GAC):
+
+- If your system has an **OEM license** in the motherboard (Pro or higher),
+- And the key used in Setup is **OEM**,
+
+then Windows Setup will apply the OEM key from the motherboard during the final stage.
+
+**What this means**  
+- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
+- After installation, the system will show Pro edition, not IoT Enterprise.
+- This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
+- This behavior is normal and cannot be avoided.
+
+**Fix**  
+After installation, switch the edition by running the following in command prompt as admin.
+
+```
+slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
+```
+
+:::
+
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Windows 11 ARM64 24H2" label="Windows 11 ARM64 25H2" default>
+
+**Windows 11 ARM64 25H2**
+
+Check [here](windows_arm_links.md).
+
+------------------------------------------------------------------------
+
+</TabItem>
+
+<TabItem value="Other Versions" label="Other Versions" default>
+
+**Other Versions**
+
+- [MVS Bot](https://discord.gg/FajfGaH3nD)
+- https://os.click/
+- https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5
+- Download the [Official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+   - Put the ESD file beside `decrypt.cmd` and run that script.
+   - It will create the ISO file.
+   - This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
 
 ------------------------------------------------------------------------
 
