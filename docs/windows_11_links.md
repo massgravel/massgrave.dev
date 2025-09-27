@@ -95,8 +95,8 @@ Build - 26200.6584
 | English        | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_English_Pro_Ent_EDU_N_MLF_X24-13075.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_English_Pro_Ent_EDU_N_MLF_X24-13075.ISO)|
 | Estonian       | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_Estonian_Pro_Ent_EDU_N_MLF_x24-13083.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_Estonian_Pro_Ent_EDU_N_MLF_x24-13083.iso)|
 | Finnish        | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_Finnish_Pro_Ent_EDU_N_MLF_x24-13088.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_Finnish_Pro_Ent_EDU_N_MLF_x24-13088.iso)|
-| FrenchCanadian | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_French_Pro_Ent_EDU_N_MLF_x24-13080.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_French_Pro_Ent_EDU_N_MLF_x24-13080.iso)|
-| French         | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_FrenchCanadian_Pro_Ent_EDU_N_MLF_x24-13095.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_FrenchCanadian_Pro_Ent_EDU_N_MLF_x24-13095.iso)|
+| FrenchCanadian | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_FrenchCanadian_Pro_Ent_EDU_N_MLF_x24-13095.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_FrenchCanadian_Pro_Ent_EDU_N_MLF_x24-13095.iso)|
+| French         | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_French_Pro_Ent_EDU_N_MLF_x24-13080.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_French_Pro_Ent_EDU_N_MLF_x24-13080.iso)|
 | German         | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_German_Pro_Ent_EDU_N_MLF_x24-13077.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_German_Pro_Ent_EDU_N_MLF_x24-13077.iso)|
 | Greek          | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_Greek_Pro_Ent_EDU_N_MLF_X24-13068.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_Greek_Pro_Ent_EDU_N_MLF_X24-13068.iso)|
 | Hebrew         | x64 | [SW_DVD9_Win_Pro_11_25H2_64BIT_Hebrew_Pro_Ent_EDU_N_MLF_x24-13090.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_64BIT_Hebrew_Pro_Ent_EDU_N_MLF_x24-13090.iso)|
