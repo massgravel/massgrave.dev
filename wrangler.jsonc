@@ -1,7 +1,8 @@
 {
   "name": "massgrave",
-  "compatibility_date": "2025-08-28",
+  "compatibility_date": "2025-09-27",
   "assets": {
-    "directory": "./build"
+    "directory": "./build",
+	"not_found_handling": "404-page"
   }
 }
