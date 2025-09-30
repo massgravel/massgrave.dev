@@ -10,7 +10,7 @@
 
 ### Читайте и следуйте синим линиям в сценарии.
 
-### Leia e siga as linhas azuis no roteiro.
+### Leia e siga as linhas azuis no script.
 
 :::
 
@@ -25,3 +25,4 @@ import DiscordBadge from '@site/src/components/DiscordBadge';
 <DiscordBadge />
 
 ------------------------------------------------------------------------
+
