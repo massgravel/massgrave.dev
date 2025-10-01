@@ -11,7 +11,7 @@ All download links lead to genuine files only.
 
 ## Download Links
 
-### Windows 11 25H2
+### Windows 11
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
@@ -23,8 +23,8 @@ import TabItem from '@theme/TabItem';
 **Windows 11 Consumer 25H2**
 
 Build - 26200.6584
-
-**The following links are official Microsoft links.**
+ 
+Official Microsoft **static download links** are provided below. You can also download from [MSDL](https://msdl.gravesoft.dev/) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11arm64).
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ Build - 26200.6584
 | Lithuanian             | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_lt-lt.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_lt-lt.iso) |
 | Latvian                | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_lv-lv.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_lv-lv.iso) |
 | Norwegian-Bokmal       | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nb-no.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nb-no.iso) |
-| Dutch-Netherlands      | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nl-nl.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nl-nl.iso) |
+| Dutch-Netherlands      | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nl-nl.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_nl-nl.iso) <br /> Not working <br /> Use [MSDL](https://msdl.gravesoft.dev/) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11arm64) |
 | Polish                 | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pl-pl.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pl-pl.iso) |
 | Portuguese-Brazil      | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pt-br.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pt-br.iso) |
 | Portuguese-Portugal    | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pt-pt.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_pt-pt.iso) |
@@ -75,8 +75,6 @@ Build - 26200.6584
 **Windows 11 Business 25H2**
 
 Build - 26200.6584
-
-**The business ISO files listed below are from the official Microsoft VLSC portal.**
 
 | Language       | Arch  | Link                                                                                                                                                                                           |
 |:---------------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -124,8 +122,6 @@ Build - 26200.6584
 </TabItem>
 <TabItem value="Windows 11 IoT Enterprise 25H2" label="Windows 11 IoT Enterprise 25H2" default>
 
-**The IoT ISO file listed below is from the official Microsoft OEM portal.**
-
 **Windows 11 IoT Enterprise 25H2**  
 **(Not LTSC)**  
 Build - 26200.6584  
@@ -139,7 +135,7 @@ ARM64 version for IoT Enterprise ISO is available only in English language.
 
 | Language | Arch  | Link                                                                                                                                                                   |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso](https://drive.massgrave.dev/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENTENTERPRISE_OEM_A64FRE_en-us.iso) |
+| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_25h2_arm64_dvd_59e0d737.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_25h2_arm64_dvd_59e0d737.iso) |
 
 
 :::info
@@ -167,85 +163,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 ```
 
 :::
-
-
-------------------------------------------------------------------------
-
-</TabItem>
-
-<TabItem value="Old Versions" label="Other Versions" default>
-
-**Other Versions**
-
-- Download an [official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
-- Put the ESD file beside `decrypt.cmd` and run that script.
-- It will create the ISO file.
-- This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.
-
-------------------------------------------------------------------------
-
-</TabItem>
-</Tabs>
-
-
-### Windows 11 24H2
-
-<Tabs>
-<TabItem value="Windows 11 Consumer 24H2" label="Windows 11 Consumer 24H2" default>
-
-**Windows 11 Consumer 24H2**
-
-Build - 26100.1742
-
-**Download Links:** [MSDL ❤](https://msdl.gravesoft.dev/#3131) / [Microsoft](https://www.microsoft.com/en-us/software-download/windows11arm64)
-
-------------------------------------------------------------------------
-
-</TabItem>
-<TabItem value="Windows 11 IoT Enterprise 24H2" label="Windows 11 IoT Enterprise 24H2" default>
-
-**Windows 11 IoT Enterprise 24H2**  
-**(Not LTSC)**  
-Build - 26100.1742  
-These ISOs contain below editions,  
-
-Windows 11 Enterprise  
-Windows 11 IoT Enterprise  
-Windows 11 IoT Enterprise Subscription  
-
-ARM64 version for IoT Enterprise ISO is available only in English language.  
-
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_24h2_arm64_dvd_e9155a10.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_24h2_arm64_dvd_e9155a10.iso) |
-
-
-:::info
-
-**Note for IoT Enterprise (GAC) - Not LTSC**  
-
-When installing Windows IoT Enterprise (GAC):
-
-- If your system has an **OEM license** in the motherboard (Pro or higher),
-- And the key used in Setup is **OEM**,
-
-then Windows Setup will apply the OEM key from the motherboard during the final stage.
-
-**What this means**  
-- You can install **IoT Enterprise** with its features (including relaxed hardware requirements on Windows 11 24H2, etc.).
-- After installation, the system will show Pro edition, not IoT Enterprise.
-- This happens because IoT Enterprise (GAC) is distributed only with an OEM key.
-- This behavior is normal and cannot be avoided.
-
-**Fix**  
-After installation, switch the edition by running the following in command prompt as admin.
-
-```
-slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
-```
-
-:::
-
 
 ------------------------------------------------------------------------
 
@@ -271,11 +188,11 @@ ARM64 version for LTSC is available only in English language.
 
 </TabItem>
 
-<TabItem value="Other Versions" label="Other Versions" default>
+<TabItem value="Old Versions" label="Other Versions" default>
 
 **Other Versions**
 
-- Download the [official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
+- Download an [official Microsoft ESD file](https://worproject.com/esd) and [ESD>ISO Converter](https://github.com/abbodi1406/WHD/raw/master/scripts/esd-decrypter-wimlib-65.7z) by [abbodi1406](https://forums.mydigitallife.net/threads/abbodi1406s-batch-scripts-repo.74197/),
 - Put the ESD file beside `decrypt.cmd` and run that script.
 - It will create the ISO file.
 - This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.

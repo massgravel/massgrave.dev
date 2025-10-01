@@ -257,9 +257,9 @@ Check [here](windows_arm_links.md).
 
 </TabItem>
 
-<TabItem value="Windows 10 Enterprise LTSC" label="Windows 10 Enterprise LTSC" default>
+<TabItem value="Windows 10 Enterprise LTSC" label="Windows 10 (IoT) Enterprise LTSC" default>
 
-**Windows 10 Enterprise LTSC**
+**Windows 10 (IoT) Enterprise LTSC**
 
 Check [here](windows_ltsc_links.md).
 
