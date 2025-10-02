@@ -85,7 +85,7 @@ Yes.
 ---
 
 #### I'm in Russia and Office is not downloading.
-Check this [guide](https://gravesoft.dev/bypass-russian-geoblock).
+Check this [guide](https://gravesoft.dev/bypass-microsoft-geoblocking).
 
 ---
 
