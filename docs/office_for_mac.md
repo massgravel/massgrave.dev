@@ -9,8 +9,9 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="macOS 13, 14, 15" label="Sequoia, Sonoma, Ventura" default>
+<TabItem value="macOS 13, 14, 15, 26" label="Tahoe, Sequoia, Sonoma, Ventura" default>
 
+macOS Tahoe (macOS 26)  
 macOS Sequoia (macOS 15)  
 macOS Sonoma (macOS 14)  
 macOS Ventura (macOS 13)  
@@ -207,8 +208,8 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 | Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
 |:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
-| Office 2024       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Sequoia, Sonoma, Ventura                                      |
-| Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2024       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Tahoe, Sequoia, Sonoma, Ventura                                      |
+| Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Tahoe, Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
 | Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
 | Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
 | Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
