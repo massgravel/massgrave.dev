@@ -20,9 +20,13 @@ const sidebars = {
   
   tutorialSidebar: [
     'intro',
+    'genuine-installation-media',
     'faq',
     'troubleshoot',
-    'genuine-installation-media',
+    {
+      type: 'html',
+      value: '<hr style="margin: 8px 0; border: 0; border-top: 1px solid #ddd;" />',
+    },
     {
       type: 'category',
       label: 'Docs',

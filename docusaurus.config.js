@@ -88,6 +88,11 @@ const config = {
         },
         items: [
           {
+            to: '/genuine-installation-media',
+            position: 'left',
+            label: 'Download Windows / Office',
+          },
+          {
             to: '/faq',
             position: 'left',
             label: 'FAQ',
@@ -96,16 +101,6 @@ const config = {
             to: '/troubleshoot',
             position: 'left',
             label: 'Troubleshoot',
-          },
-          {
-            to: '/genuine-installation-media',
-            position: 'left',
-            label: 'Download Windows / Office',
-          },
-          {
-            to: '/credits',
-            position: 'left',
-            label: 'Credits',
           },
           {
             type: 'dropdown',
@@ -143,6 +138,10 @@ const config = {
               {
                 label: 'Contribute',
                 to: '/contribute',
+              },
+              {
+                label: 'Credits',
+                to: '/credits',
               },
             ],
           },
