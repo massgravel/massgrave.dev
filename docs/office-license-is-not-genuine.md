@@ -1,3 +1,8 @@
+---
+sidebar_label: Office License Is Not Genuine
+description: To discourage the use of pirated Office, the Office team began implementing checks in Office C2R in February 2021 to display a banner prompting users to buy genuine Office.
+---
+
 # 'Get genuine Office' banner
 
 ![](/img/office-license-is-not-genuine.png)

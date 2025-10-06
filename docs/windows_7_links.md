@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows 7
+---
+
 # Windows 7 Download
 
 All download links lead to genuine files only.
@@ -98,8 +102,6 @@ import TabItem from '@theme/TabItem';
 | Ukrainian             | x64  | [uk_windows_7_ultimate_with_sp1_x64_dvd_u_677406.iso](https://drive.massgrave.dev/uk_windows_7_ultimate_with_sp1_x64_dvd_u_677406.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_ultimate_with_sp1_x86_dvd_u_677485.iso](https://drive.massgrave.dev/uk_windows_7_ultimate_with_sp1_x86_dvd_u_677485.iso)     |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 7 Enterprise SP1" label="Windows 7 Enterprise SP1" default>
@@ -181,8 +183,6 @@ import TabItem from '@theme/TabItem';
 | Ukrainian             | x64  | [uk_windows_7_enterprise_with_sp1_x64_dvd_u_677683.iso](https://drive.massgrave.dev/uk_windows_7_enterprise_with_sp1_x64_dvd_u_677683.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_enterprise_with_sp1_x86_dvd_u_677712.iso](https://drive.massgrave.dev/uk_windows_7_enterprise_with_sp1_x86_dvd_u_677712.iso)     |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 7 Professional SP1" label="Windows 7 Professional SP1" default>
@@ -263,8 +263,6 @@ import TabItem from '@theme/TabItem';
 | Chinese-Traditional   | x86  | [tw_windows_7_professional_with_sp1_x86_dvd_u_677189.iso](https://drive.massgrave.dev/tw_windows_7_professional_with_sp1_x86_dvd_u_677189.iso)     |
 | Ukrainian             | x64  | [uk_windows_7_professional_with_sp1_x64_dvd_u_677026.iso](https://drive.massgrave.dev/uk_windows_7_professional_with_sp1_x64_dvd_u_677026.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_professional_with_sp1_x86_dvd_u_677150.iso](https://drive.massgrave.dev/uk_windows_7_professional_with_sp1_x86_dvd_u_677150.iso)     |
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -348,8 +346,6 @@ This version contains only Professional edition index.
 | Ukrainian             | x64  | [uk_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677811.iso](https://drive.massgrave.dev/uk_windows_7_professional_with_sp1_vl_build_x64_dvd_u_677811.iso) |
 | Ukrainian             | x86  | [uk_windows_7_professional_with_sp1_vl_build_x86_dvd_u_677928.iso](https://drive.massgrave.dev/uk_windows_7_professional_with_sp1_vl_build_x86_dvd_u_677928.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 7 Home Premium SP1" label="Windows 7 Home Premium SP1" default>
@@ -431,8 +427,6 @@ This version contains only Professional edition index.
 | Ukrainian             | x64  | [uk_windows_7_home_premium_with_sp1_x64_dvd_u_676684.iso](https://drive.massgrave.dev/uk_windows_7_home_premium_with_sp1_x64_dvd_u_676684.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_home_premium_with_sp1_x86_dvd_u_676769.iso](https://drive.massgrave.dev/uk_windows_7_home_premium_with_sp1_x86_dvd_u_676769.iso)     |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 7 Home Basic SP1" label="Windows 7 Home Basic SP1" default>
@@ -478,8 +472,6 @@ Available in x86 only on MVS.
 | Turkish               | x86  | [tr_windows_7_home_basic_with_sp1_x86_dvd_u_676488.iso](https://drive.massgrave.dev/tr_windows_7_home_basic_with_sp1_x86_dvd_u_676488.iso) |
 | Chinese-Traditional   | x86  | [tw_windows_7_home_basic_with_sp1_x86_dvd_u_676507.iso](https://drive.massgrave.dev/tw_windows_7_home_basic_with_sp1_x86_dvd_u_676507.iso) |
 | Ukrainian             | x86  | [uk_windows_7_home_basic_with_sp1_x86_dvd_u_676494.iso](https://drive.massgrave.dev/uk_windows_7_home_basic_with_sp1_x86_dvd_u_676494.iso) |
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -527,8 +519,6 @@ Available in x86 only.
 | Chinese-Traditional   | x86  | [tw_windows_7_starter_with_sp1_x86_dvd_u_678549.iso](https://drive.massgrave.dev/tw_windows_7_starter_with_sp1_x86_dvd_u_678549.iso)     |
 | Ukrainian             | x86  | [uk_windows_7_starter_with_sp1_x86_dvd_u_678529.iso](https://drive.massgrave.dev/uk_windows_7_starter_with_sp1_x86_dvd_u_678529.iso)     |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Other Versions" label="Other Versions" default>
@@ -539,8 +529,6 @@ Available in x86 only.
 - https://os.click/
 - https://files.rg-adguard.net/language/a9e697fb-a83e-ef89-8279-5e876ce4d2c3
 - [MVS Bot](https://discord.gg/FajfGaH3nD)
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>

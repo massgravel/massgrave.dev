@@ -10,4 +10,3 @@ At the moment, we don't need any help with coding.
 ---  
 
 We will update this list as needed in the future.  
-

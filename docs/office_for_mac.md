@@ -230,6 +230,3 @@ The below activator (serializer) pkg files are extracted from the official iso f
 - As we do not use macOS, we cannot provide system-specific troubleshooting. A clean installation of macOS is recommended as a final option.  
 
 :::
-
-
-------------------------------------------------------------------------

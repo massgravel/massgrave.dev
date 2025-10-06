@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows 8.1
+---
+
 # Windows 8.1 Download
 
 All download links lead to genuine files only.
@@ -29,8 +33,6 @@ import TabItem from '@theme/TabItem';
 (Build - 9600.17415)  
 
 MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Microsoft.
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -117,8 +119,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 | Ukrainian              | x64  | [uk_windows_8.1_with_update_x64_dvd_6051508.iso](https://drive.massgrave.dev/uk_windows_8.1_with_update_x64_dvd_6051508.iso)           |
 | Ukrainian              | x86  | [uk_windows_8.1_with_update_x86_dvd_6051671.iso](https://drive.massgrave.dev/uk_windows_8.1_with_update_x86_dvd_6051671.iso)           |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 8.1 Pro VL" label="Windows 8.1 Pro VL" default>
@@ -203,8 +203,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 | Chinese-Taiwan         | x86  | [tw_windows_8.1_pro_vl_with_update_x86_dvd_6050912.iso](https://drive.massgrave.dev/tw_windows_8.1_pro_vl_with_update_x86_dvd_6050912.iso)           |
 | Ukrainian              | x64  | [uk_windows_8.1_pro_vl_with_update_x64_dvd_6050907.iso](https://drive.massgrave.dev/uk_windows_8.1_pro_vl_with_update_x64_dvd_6050907.iso)           |
 | Ukrainian              | x86  | [uk_windows_8.1_pro_vl_with_update_x86_dvd_6050945.iso](https://drive.massgrave.dev/uk_windows_8.1_pro_vl_with_update_x86_dvd_6050945.iso)           |
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -291,8 +289,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 | Ukrainian              | x64  | [uk_windows_8.1_enterprise_with_update_x64_dvd_6050618.iso](https://drive.massgrave.dev/uk_windows_8.1_enterprise_with_update_x64_dvd_6050618.iso)           |
 | Ukrainian              | x86  | [uk_windows_8.1_enterprise_with_update_x86_dvd_6050870.iso](https://drive.massgrave.dev/uk_windows_8.1_enterprise_with_update_x86_dvd_6050870.iso)           |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 8.1 Embedded Pro" label="Windows 8.1 Embedded Pro" default>
@@ -377,8 +373,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 | Chinese-Taiwan         | x86  | [tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso](https://drive.massgrave.dev/tw_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052118.iso)           |
 | Ukrainian              | x64  | [uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso](https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052113.iso)           |
 | Ukrainian              | x86  | [uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso](https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052150.iso)           |
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -465,8 +459,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 | Ukrainian              | x64  | [uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso](https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052210.iso)           |
 | Ukrainian              | x86  | [uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso](https://drive.massgrave.dev/uk_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052328.iso)           |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Other Versions" label="Other Versions" default>
@@ -477,8 +469,6 @@ MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Micros
 - https://os.click/
 - https://files.rg-adguard.net/language/1c50237d-03ef-617b-41f0-a7c44b76e808
 - [MVS Bot](https://discord.gg/FajfGaH3nD)
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>

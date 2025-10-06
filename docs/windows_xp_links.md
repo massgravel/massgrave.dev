@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows XP
+---
+
 # Windows XP Download
 
 All download links lead to genuine files only.

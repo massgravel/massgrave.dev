@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows 11
+---
+
 # Windows 11 Download
 
 All download links lead to genuine files only.
@@ -120,8 +124,6 @@ zh-tw_windows_11_consumer_editions_version_25h2_x64_dvd_5c984625.iso
 | Chinese-Simplified     | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-cn.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-cn.iso) |
 | Chinese-Traditional    | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_zh-tw.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 11 Business 25H2" label="Windows 11 Business 25H2" default>
 
@@ -170,8 +172,6 @@ Build - 26200.6584
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_business_editions_version_25h2_x64_dvd_22759158.iso](https://drive.massgrave.dev/zh-cn_windows_11_business_editions_version_25h2_x64_dvd_22759158.iso)|
 | Chinese-Traditional    | x64  | [zh-tw_windows_11_business_editions_version_25h2_x64_dvd_fc876202.iso](https://drive.massgrave.dev/zh-tw_windows_11_business_editions_version_25h2_x64_dvd_fc876202.iso)|
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 11 IoT Enterprise 25H2" label="Windows 11 IoT Enterprise 25H2" default>
 
@@ -218,8 +218,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 :::
 
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 11 ARM64 24H2" label="Windows 11 ARM64 25H2" default>
@@ -228,8 +226,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 Check [here](windows_arm_links.md).
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Windows 11 IoT Enterprise LTSC 24H2" label="Windows 11 (IoT) Enterprise LTSC 2024" default>
@@ -237,8 +233,6 @@ Check [here](windows_arm_links.md).
 **Windows 11 (IoT) Enterprise LTSC 2024**
 
 Check [here](windows_ltsc_links.md).
-
-------------------------------------------------------------------------
 
 </TabItem>
 
@@ -253,8 +247,6 @@ Check [here](windows_ltsc_links.md).
    - Put the ESD file beside `decrypt.cmd` and run that script.
    - It will create the ISO file.
    - This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>

@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows Vista
+---
+
 # Windows Vista Download
 
 All download links lead to genuine files only.
@@ -105,8 +109,6 @@ import TabItem from '@theme/TabItem';
 | Ukrainian             | x64  | [uk_windows_vista_with_sp2_x64_dvd_x15-36376.iso](https://drive.massgrave.dev/uk_windows_vista_with_sp2_x64_dvd_x15-36376.iso)                   |
 | Ukrainian             | x86  | [uk_windows_vista_with_sp2_x86_dvd_x15-36317.iso](https://drive.massgrave.dev/uk_windows_vista_with_sp2_x86_dvd_x15-36317.iso)                   |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Other Versions" label="Other Versions" default>
@@ -116,8 +118,6 @@ import TabItem from '@theme/TabItem';
 - https://os.click/
 - https://files.rg-adguard.net/language/7639fac9-2977-69dd-e02e-d0609bc3435e
 - [MVS Bot](https://discord.gg/FajfGaH3nD)
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>

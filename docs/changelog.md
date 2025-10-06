@@ -1041,5 +1041,3 @@ About-
    These previous scripts are now discontinued and from now on i'll only work on
    "Microsoft Activation Script"
 ```
-
-------------------------------------------------------------------------

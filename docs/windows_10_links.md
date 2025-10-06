@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows 10
+---
+
 # Windows 10 Download
 
 All download links lead to genuine files only.
@@ -112,8 +116,6 @@ Build - 19045.6332 (Sep 2025)
 | Chinese-Traditional    | x64  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_sep_2025_x64_dvd_4a22741d.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_sep_2025_x64_dvd_4a22741d.iso) |
 | Chinese-Traditional    | x86  | [zh-tw_windows_10_consumer_editions_version_22h2_updated_sep_2025_x86_dvd_4a22741d.iso](https://drive.massgrave.dev/zh-tw_windows_10_consumer_editions_version_22h2_updated_sep_2025_x86_dvd_4a22741d.iso) |
 
----
-
 </TabItem>
 
 <TabItem value="Windows 10 Business 22H2" label="Windows 10 Business 22H2" default>
@@ -201,8 +203,6 @@ Build - 19045.6332 (Sep 2025)
 | Chinese-Traditional    | x64  | [zh-tw_windows_10_business_editions_version_22h2_updated_sep_2025_x64_dvd_ba90af64.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_sep_2025_x64_dvd_ba90af64.iso) |
 | Chinese-Traditional    | x86  | [zh-tw_windows_10_business_editions_version_22h2_updated_sep_2025_x86_dvd_c9aa2f71.iso](https://drive.massgrave.dev/zh-tw_windows_10_business_editions_version_22h2_updated_sep_2025_x86_dvd_c9aa2f71.iso) |
 
----
-
 </TabItem>
 
 <TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
@@ -242,9 +242,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 :::
 
-
----
-
 </TabItem>
 
 <TabItem value="Windows 10 ARM64 22H2" label="Windows 10 ARM64 22H2" default>
@@ -253,8 +250,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 Check [here](windows_arm_links.md).
 
----
-
 </TabItem>
 
 <TabItem value="Windows 10 Enterprise LTSC" label="Windows 10 (IoT) Enterprise LTSC" default>
@@ -262,8 +257,6 @@ Check [here](windows_arm_links.md).
 **Windows 10 (IoT) Enterprise LTSC**
 
 Check [here](windows_ltsc_links.md).
-
----
 
 </TabItem>
 
@@ -278,8 +271,6 @@ Check [here](windows_ltsc_links.md).
    - Put the ESD file beside `decrypt.cmd` and run that script.
    - It will create the ISO file.
    - This process is same as how Official MCT tool creates Windows 10 and 11 ISOs.
-
----
 
 </TabItem>
 </Tabs>

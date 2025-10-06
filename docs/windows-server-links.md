@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows Server
+---
+
 # Windows Server Download
 
 All download links lead to genuine files only.
@@ -278,5 +282,3 @@ Updated February 2018 (Build - 14393.1884)
 | Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso) |
 | Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso) |
 | Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso) |
-
-------------------------------------------------------------------------

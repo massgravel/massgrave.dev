@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows ARM64
+---
+
 # Windows ARM64 Download
 
 All download links lead to genuine files only.
@@ -67,8 +71,6 @@ Official Microsoft **static download links** are provided below. You can also do
 | Chinese-Simplified     | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_zh-cn.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_zh-cn.iso) |
 | Chinese-Traditional    | ARM64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_zh-tw.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_A64FRE_zh-tw.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 11 Business 25H2" label="Windows 11 Business 25H2" default>
 
@@ -117,8 +119,6 @@ Build - 26200.6584
 | Turkish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-13138.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-13138.iso) |
 | Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-13107.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-13107.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 11 IoT Enterprise 25H2" label="Windows 11 IoT Enterprise 25H2" default>
 
@@ -164,8 +164,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 :::
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 11 IoT Enterprise LTSC 2024" label="Windows 11 IoT Enterprise LTSC 2024" default>
 
@@ -184,8 +182,6 @@ ARM64 version for LTSC is available only in English language.
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Old Versions" label="Other Versions" default>
@@ -196,8 +192,6 @@ ARM64 version for LTSC is available only in English language.
 - Put the ESD file beside `decrypt.cmd` and run that script.
 - It will create the ISO file.
 - This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>
@@ -253,8 +247,6 @@ Build - 19045.5854
 | Turkish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-05100.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-05100.ISO) |
 | Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-05101.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-05101.ISO) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
 
@@ -293,8 +285,6 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 :::
 
-------------------------------------------------------------------------
-
 </TabItem>
 <TabItem value="Windows 10 IoT Enterprise LTSC 2021" label="Windows 10 IoT Enterprise LTSC 2021" default>
 
@@ -307,8 +297,6 @@ ARM64 version for LTSC is available only in English language.
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
 
-------------------------------------------------------------------------
-
 </TabItem>
 
 <TabItem value="Old Versions" label="Other Versions" default>
@@ -319,8 +307,6 @@ ARM64 version for LTSC is available only in English language.
 - Put the ESD file beside `decrypt.cmd` and run that script.
 - It will create the ISO file.
 - This process is the same as how the official MCT tool creates Windows 10 and 11 ISOs.
-
-------------------------------------------------------------------------
 
 </TabItem>
 </Tabs>

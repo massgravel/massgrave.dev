@@ -25,7 +25,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  trailingSlash: 'false',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -43,10 +43,6 @@ const config = {
         docs: {
           routeBasePath: '/', // Serve the docs at the site's root	
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/massgravel/massgrave.dev/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -87,6 +83,12 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          {
+            to: '/',
+            position: 'left',
+            label: 'Home',
+            activeBaseRegex: "^/$",
+          },
           {
             to: '/genuine-installation-media',
             position: 'left',
@@ -167,51 +169,6 @@ const config = {
           },
         ],
       },
-      /*   footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      }, */
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,

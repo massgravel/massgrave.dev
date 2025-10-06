@@ -23,6 +23,3 @@ Reach out to us with an error screenshot on any of the below links;
 import DiscordBadge from '@site/src/components/DiscordBadge';
 
 <DiscordBadge />
-
-------------------------------------------------------------------------
-

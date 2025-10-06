@@ -115,3 +115,16 @@ table {
 .markdown h1:first-child {
   --ifm-h1-font-size: 2.2rem;
 }
+
+.sidebar-hr {
+  background-color: var(--ifm-toc-border-color);
+  margin: .5rem .75em;
+}
+
+.sidebar-hr > .sub {
+  margin-left: 1.25em;
+}
+
+.pagination-nav {
+  display: none;
+}

@@ -1,3 +1,7 @@
+---
+sidebar_label: Windows 10 / 11 LTSC
+---
+
 # Windows LTSC Download
 
 All download links lead to genuine files only.
@@ -266,8 +270,6 @@ Build - 26100.1742
 | Chinese-Simplified     | x64  | [zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso](https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso)           |
 | Chinese-Traditional         | x64  | [zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso](https://drive.massgrave.dev/zh-tw_windows_11_enterprise_ltsc_2024_x64_dvd_6287d84d.iso)           |
 
----
-
 </TabItem>
 <TabItem value="Windows 10 LTSC 2021" label="Windows 10 LTSC 2021" default>
 
@@ -368,8 +370,6 @@ Windows 10 IoT Enterprise LTSC
 | Chinese-Traditional         | x64  | [zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x64_dvd_80dba877.iso)           |
 | Chinese-Traditional         | x86  | [zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso](https://drive.massgrave.dev/zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso)           |
 
----
-
 </TabItem>
 <TabItem value="Windows 10 LTSC 2019" label="Windows 10 LTSC 2019" default>
 
@@ -468,8 +468,6 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 | Ukrainian              | x64  | [uk_windows_10_enterprise_ltsc_2019_x64_dvd_d40a905a.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_ltsc_2019_x64_dvd_d40a905a.iso)       |
 | Ukrainian              | x86  | [uk_windows_10_enterprise_ltsc_2019_x86_dvd_e3b4eb4d.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_ltsc_2019_x86_dvd_e3b4eb4d.iso)       |
 
----
-
 </TabItem>
 <TabItem value="Windows 10 LTSB 2016" label="Windows 10 LTSB 2016" default>
 
@@ -555,8 +553,6 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 | Turkish                | x86  | [tr_windows_10_enterprise_2016_ltsb_x86_dvd_9058186.iso](https://drive.massgrave.dev/tr_windows_10_enterprise_2016_ltsb_x86_dvd_9058186.iso)           |
 | Ukrainian              | x64  | [uk_windows_10_enterprise_2016_ltsb_x64_dvd_9058295.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2016_ltsb_x64_dvd_9058295.iso)           |
 | Ukrainian              | x86  | [uk_windows_10_enterprise_2016_ltsb_x86_dvd_9058286.iso](https://drive.massgrave.dev/uk_windows_10_enterprise_2016_ltsb_x86_dvd_9058286.iso)           |
-
----
 
 </TabItem>
 <TabItem value="Windows 10 LTSB 2015" label="Windows 10 LTSB 2015" default>
@@ -653,8 +649,6 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 **Windows 10/11 IoT Enterprise LTSC ARM64**
 
 Check [here](windows_arm_links.md).
-
----
 
 </TabItem>
 </Tabs>
