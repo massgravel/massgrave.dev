@@ -34,6 +34,7 @@ Activation with [MAS](intro.md#how-to-activate-windows--office--extended-updates
 
 #### Guides
 - [Clean Install Windows](https://gravesoft.dev/clean_install_windows)
+- [Manually Update Windows ISOs](https://gravesoft.dev/update-windows-iso)
 - [In-place Repair Upgrade (Keeping files and apps)](https://gravesoft.dev/in-place_repair_upgrade)
 - [Windows 11 on Unsupported Hardware](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
 - [Edition List During Windows Installation](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)

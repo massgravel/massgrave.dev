@@ -100,6 +100,12 @@ const sidebars = {
         'powershell-on-legacy-windows',
         {
           type: 'link',
+          label: 'Update Windows ISO',
+          href: 'https://gravesoft.dev/update-windows-iso',
+          description: 'Guide on how to manually update Windows ISO file.'
+        },
+        {
+          type: 'link',
           label: 'In-Place Repair Upgrade',
           href: 'https://gravesoft.dev/in-place_repair_upgrade',
           description: 'In-place repair upgrade using Windows ISO file is a good way to fix system errors.'
