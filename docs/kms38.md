@@ -140,8 +140,7 @@
 
 ## How to remove KMS38?
 
--   In MAS, go to KMS38 Activation and apply the Remove KM38 Protection option.
--   After that, In MAS, go to Troubleshoot and apply the Fix Licensing option.
+-   In MAS, go to Troubleshoot and apply the Fix Licensing option.
 -   Done.
 
 ------------------------------------------------------------------------
