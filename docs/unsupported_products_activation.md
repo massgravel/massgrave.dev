@@ -67,21 +67,18 @@ Office 2010 should now be permanently activated.
 </details>
 
 **Activation**  
-There is no validation during the activation of RDS licenses.
 
--  Open "Remote Desktop Licensing Manager"
--  Right-click the server and click "Activate Server"
--  Select the connection method of choice and click next (default is fine)
--  Fill the first company information with garbage and click next
--  Leave the next page blank and click next
--  The wizard should complete and say "The license server has been successfully activated"
--  Keep "Start Install Licenses Wizard" checked and click next until it asks you to select a "License program"
--  Change the License Program to "Service Provider License Agreement" in the dropdown and click next
--  Set the agreement number to `1234567` and click next
--  Fill out the next page with your chosen values and click next
--  The license wizard should report "The requested licenses have been successfully installed"
-
-Alternatively, you can generate a key on the page below. Use web browser option in activation process to get Product ID. It works on old Server versions as well.  
+1. Open **Remote Desktop Licensing Manager**.
+2. Right-click your server and select **Activate Server**.
+3. Choose **Web Browser** as the connection method, then click Next.
+4. On the next screen, a **Product ID** will be displayed.  
+   Go to the [LyssaRDSGen website](https://thecatontheceiling.github.io/LyssaRDSGen/) and use this Product ID to generate a **License Server ID**.
+5. Enter the generated License Server ID into the wizard.
+6. When you see the message **"The license server has been successfully activated."**, click Next.
+7. Continue by clicking Next again.  
+   The wizard will prompt you to enter a **License Key Pack ID**.
+8. Generate the License Key Pack ID from the same LyssaRDSGen website and enter it into the wizard.
+9. Once the message **"The requested licenses have been successfully installed."** appears, the process is complete.
 
 Website:  
 https://thecatontheceiling.github.io/LyssaRDSGen/  
