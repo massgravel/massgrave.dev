@@ -29,15 +29,24 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 
 ---
 
-#### How to receive security updates for Windows 10 after October 2025?
-You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
+#### Windows 10 ESU (Extended Security Updates)
+- #### How to receive security updates for Windows 10 after October 2025?
+  You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
+
+- #### I activated ESU with the TSforge option, but the Windows Update page in Settings still asks me to enroll. Why?
+- #### How can I check if TSforge ESU is activated?
+  Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
 
 ---
 
 #### Is MAS safe?
 - #### How can I know if there is any malware?
-  MAS is fully [open-source](intro.md#mas-latest-release), with over 140K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself, or ask ChatGPT for help if you don’t understand something in the scripts.  
+  MAS is fully [open-source](intro.md#mas-latest-release), with over 150K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself, or ask ChatGPT for help if you don’t understand something in the scripts.  
   You can also perform the activation manually, see [this page](manual_hwid_activation.md) for instructions.
+
+- #### Why is my antivirus flagging the MAS script as a virus or Trojan?
+  Antivirus programs often flag piracy-related software as malicious, even when it’s safe. These are called [false positives](https://www.malwarebytes.com/blog/news/2017/09/explained-false-positives).  
+  You can add an exception in your antivirus, or use the [manual activation steps](manual_hwid_activation.md) to avoid any alerts.
 
 - #### Will I receive updates? How is it different from an official license?
   MAS does not interfere with Windows or Office updates. It functions in the same way as official licensing methods.
@@ -48,7 +57,7 @@ You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--ex
 - #### Is it legal? Can I face any consequences?
   - By using MAS, you are bypassing official licensing methods and not paying Microsoft, so technically it is not legal.
   - Is it safe?  
-    - **Home users:** Yes, it's safe. Piracy has existed for decades, and Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100–$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine (with MAS, these notifications do not appear). 
+    - **Home users:** Yes, it's safe. Piracy has existed for decades, and Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100-$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine (with MAS, these notifications do not appear). 
     - **Businesses:** We do not recommend that businesses use MAS. Microsoft conducts audits on business entities to verify licenses. While small businesses might be less likely to face audits, the risk is still yours. If you work in IT at a college or university, consult experienced senior staff about the chances of Microsoft audits at your institution.
 
 ---
