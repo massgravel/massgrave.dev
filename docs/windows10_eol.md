@@ -16,6 +16,7 @@ Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.co
 #### Commercial ESU Program (3 Years) ❤️
 
 - You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
+- If you have any questions, please check the FAQ [here](tsforge.md#windows-esu).
 
 #### Consumer ESU Program (1 Year)
 
@@ -68,10 +69,12 @@ The IoT edition is available in English language only, but don't worry.
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
 - Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
-- You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
 - That's all.
 
 :::note
+
+These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu).
 
 If you applied the registry command and ran the setup promptly, setup shouldn’t ask you to enter a key. However, if a key is needed, use the keys below:
 
@@ -91,10 +94,12 @@ If you applied the registry command and ran the setup promptly, setup shouldn’
 <summary>Click here for info</summary>
 
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md#microsoft-store-app-installation-on-ltsc).
-- IoT editions are [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
+- IoT Enterprise LTSC edition is [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise LTSC edition. The difference is in licensing. You can use it just fine on a general-purpose device.
 - To learn about the advantages and disadvantages of LTSC, click [here](windows_ltsc_links.md#what-is-ltsc-and-is-it-the-right-choice-for-you)
 
 </details>
+
+[Why is the Windows Update page in Windows 10 Enterprise LTSC 2021 showing "Your device is no longer receiving security updates."?](faq.md#why-is-the-windows-update-page-in-windows-10-enterprise-ltsc-2021-showing-your-device-is-no-longer-receiving-security-updates)
 
 ---
 
@@ -156,10 +161,12 @@ The IoT edition is available in English language only, but don't worry.
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
 - Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
-- You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
 - That's all.
 
 :::note
+
+These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu).
 
 If you applied the registry command and ran the setup promptly, setup shouldn’t ask you to enter a key. However, if a key is needed, use the keys below:
 
@@ -182,7 +189,7 @@ If you applied the registry command and ran the setup promptly, setup shouldn’
 - This is why IoT (25H2/2024) editions are mentioned so that you can get official support on future feature upgrades.
 - LTSC editions do not have Store apps installed by default. However, if you upgrade from GAC to LTSC, all your Store apps will be retained. In contrast, if you perform a clean installation of Windows LTSC, Store apps will not be installed. For instructions on how to install them manually, please refer to this [page](windows_ltsc_links.md#microsoft-store-app-installation-on-ltsc).
 - Windows 11 25H2 / 2024 requires CPUs that support SSE4.2 and POPCNT instructions.
-- IoT editions are [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise editions. The difference is in licensing. You can use it just fine on a general-purpose device.
+- IoT Enterprise LTSC edition is [binary identical](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Overview) to Enterprise LTSC edition. The difference is in licensing. You can use it just fine on a general-purpose device.
 
 ---
 

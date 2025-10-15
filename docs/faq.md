@@ -33,8 +33,19 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 - #### How to receive security updates for Windows 10 after October 2025?
   You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
-- #### I have more questions.
+- #### I activated ESU with the TSforge, but the Windows Update page in Settings still saying "Your device is no longer receiving security updates." Why?
+- #### How can I check if TSforge ESU is activated?
+
   Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
+  
+---
+
+#### Why is the Windows Update page in Windows 10 Enterprise LTSC 2021 showing "Your device is no longer receiving security updates."?
+
+![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
+
+It’s just a visual bug. Hopefully, Microsoft will fix it in upcoming updates.  
+Windows 10 IoT Enterprise LTSC 2021 will continue to receive updates until [January 13, 2032](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021).
 
 ---
 

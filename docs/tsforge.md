@@ -257,19 +257,27 @@ This activation method does not work if a phone license is not available or if l
 
 #### Windows 10 ESU FAQ
 
-#### I activated ESU with the TSforge option, but the Windows Update page in Settings still asks me to enroll. Why?
+#### I activated ESU with the TSforge, but the Windows Update page in Settings still saying "Your device is no longer receiving security updates." Why?
 
-Microsoft provides Extended Security Updates (ESU) through several channels, such as CommercialAzureESU, CommercialW365ESU, CommercialKeybasedESU, and ConsumerESU.  
+Microsoft provides Extended Security Updates (ESU) through several channels, such as CommercialAzureESU, CommercialW365ESU, **CommercialKeybasedESU**, and **ConsumerESU**.  
 
 TSforge activates the [Commercial Key-based ESU](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#get-the-product-keys-for-activating-extended-security-update-esu-licenses), which is intended for use by administrators in business environments.  
 
-The Windows Update page in Settings does not display the status of Commercial Key-based ESU activations and may still prompt you to enroll in Consumer ESU. This behavior is normal and can safely be ignored.
+The Windows Update page in Settings is currently showing the incorrect status below to **all CommercialKeybasedESU users**.  
+
+![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
+
+**It’s just a visual bug**, and it even appears on Windows 10 LTSC 2021. **Your ESU is activated correctly**. Hopefully, Microsoft will fix it in the upcoming updates.
 
 #### How can I check if TSforge ESU is activated?
 
-According to the official [Microsoft documentation](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#install-and-activate-the-esu-key), you can verify the status of a Commercial Key-based ESU activation by running the following command in an elevated Command Prompt:
+According to the official [Microsoft documentation](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#install-and-activate-the-esu-key), you can verify the status of a Commercial Key-based ESU activation by running the following command in Command Prompt:
 
 `cscript C:\Windows\System32\slmgr.vbs /dlv`
+
+Alternatively, you can confirm the key-based ESU status with the following command:  
+
+`ClipESU.exe`
 
 #### What does it mean when the script says, "Windows Update can receive 1-3 years of ESU. 4-6 years ESU is not officially supported, but it might be useful"?
 
