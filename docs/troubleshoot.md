@@ -22,8 +22,6 @@
 
 ## Support Links
 
-:::info[Support Links]
-
 - [Discord](https://discord.gg/j2yFsV5ZVC) ❤️ (signup not required)  
 - [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues)  
 - Email: `mas.help@outlook.com`  
@@ -31,8 +29,6 @@
 import DiscordBadge from '@site/src/components/DiscordBadge';
 
 <DiscordBadge />
-
-:::
 
 ---
 
