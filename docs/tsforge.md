@@ -267,25 +267,28 @@ The Windows Update page in Settings is currently showing the incorrect status be
 
 ![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
 
-**It’s just a visual bug**, and it even appears on Windows 10 LTSC 2021. **Your ESU is activated correctly**. Hopefully, Microsoft will fix it in the upcoming updates.
+**It’s just a visual bug**. Your ESU is activated correctly. Hopefully, Microsoft will fix it in the upcoming updates.
 
 #### How can I check if TSforge ESU is activated?
 
 According to the official [Microsoft documentation](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#install-and-activate-the-esu-key), you can verify the status of a Commercial Key-based ESU activation by running the following command in Command Prompt:
 
-`cscript C:\Windows\System32\slmgr.vbs /dlv`
+`slmgr.vbs /dlv`
 
-Alternatively, you can confirm the key-based ESU status with the following command:  
+For a shorter output, use
 
-`ClipESU.exe`
+`slmgr.vbs /dli`
+
+You can also run "Check Activation Status" option in MAS script.
 
 #### What does it mean when the script says, "Windows Update can receive 1-3 years of ESU. 4-6 years ESU is not officially supported, but it might be useful"?
 
 Microsoft officially announced that Extended Security Updates (ESU) would be available for only 3 years. However, ESU licenses actually exist for up to 6 years.  
 **Why?**  
-There is no official explanation for this. Historically, the same situation occurred with Windows 7 ESU. Microsoft officially supported only 3 years, yet licenses were available for years 4-6. Although those later years were not officially documented, activating the 4-6 year ESU licenses still allowed users to manually install Server 2008 R2 updates.  
+There is no official explanation for this. Historically, the same situation occurred with Windows 7 ESU. Microsoft officially supported only 3 years, yet licenses were available for years 4-6. Although those later years were not officially documented, activating the 4-6 year ESU licenses still allowed users to manually install Server 2008 R2 updates on Windows 7 (Both versions share the same build).  
 
-The same concept might apply to Windows 10. If 4-6 year ESU licenses are activated, it is possible they could enable manual installation of LTSC 2021 updates on GAC editions (Home, Pro, Enterprise, etc) of Windows 10.
+The same concept might apply to Windows 10. If 4-6 year ESU licenses are activated, it is possible they could enable manual installation of LTSC 2021 updates on GAC editions (Home, Pro, Enterprise, etc) of Windows 10 22H2.
+Windows 10 LTSC 2021 (21H2) and Windows 10 22H2 share the same base build, 19041. The later builds, 19044 (21H2) and 19045 (22H2), are simply enablement packages. Both versions use the same update files.
 
 ---
 
