@@ -9,12 +9,11 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
 
-<TabItem value="macOS 13, 14, 15, 26" label="Tahoe, Sequoia, Sonoma, Ventura" default>
+<TabItem value="macOS 14, 15, 26" label="Tahoe, Sequoia, Sonoma" default>
 
 macOS Tahoe (macOS 26)  
 macOS Sequoia (macOS 15)  
 macOS Sonoma (macOS 14)  
-macOS Ventura (macOS 13)  
 
 Generation - 2021 / 2024
 
@@ -27,6 +26,25 @@ Generation - 2021 / 2024
 | PowerPoint                   | https://go.microsoft.com/fwlink/p/?linkid=525136  |
 | Outlook                      | https://go.microsoft.com/fwlink/p/?linkid=525137  |
 | OneNote                      | https://go.microsoft.com/fwlink/p/?linkid=820886  |
+
+</TabItem>
+
+<TabItem value="macOS 13" label="Ventura" default>
+
+macOS Ventura (macOS 13)  
+Highest supported office version 16.101 (Generation - 2021 / 2024) (September 2025)  
+It's no longer supported by Microsoft, and Office doesn't receive updates.
+
+
+| Application                  | Link                                                                                                                                                    |
+|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Office suite (with Teams)    | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_BusinessPro_Installer.pkg |
+| Office suite (without Teams) | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_365_and_Office_16.101.25091314_Installer.pkg             |
+| Word                         | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.101.25091314_Updater.pkg                         |
+| Excel                        | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.101.25091314_Updater.pkg                        |
+| PowerPoint                   | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.101.25091314_Updater.pkg                   |
+| Outlook                      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.101.25091314_Updater.pkg                      |
+| OneNote                      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.101.25091314_Updater.pkg                      |
 
 </TabItem>
 
@@ -198,7 +216,7 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 ## Office Activation
 
 - Install Office for your macOS version from the above table if not installed.
-- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) and clean the licenses.
+- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) and clean the licenses.
 - Now run the below-listed activator pkg file and install. (**Don't open Office apps before installing activator pkg file**)
 - Your office should be activated now.
 
@@ -219,7 +237,7 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 - If activation is not working, then:
   - Uninstall all Office apps.
-  - Clean everything using [Office-Reset Tool 2.0 Beta 1](https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw).
+  - Clean everything using [Office-Reset Tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw).
   - Reinstall Office and follow the activation steps explained above.
   - If you are still facing issues, [erase and reinstall macOS](https://support.apple.com/en-us/guide/mac-help/mh27903/mac), then repeat the process.
 
