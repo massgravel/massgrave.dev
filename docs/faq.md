@@ -48,13 +48,15 @@ This is a **visual bug** that started appearing on October 15, 2025.
 Microsoft released a **fix** the next day; simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
 
 > **Note:**  
-> If the **DiagTrack** service is disabled, you may need to enable it before checking for updates.  
-> To do so, open Command Prompt as Administrator and run the following commands:
+> Some so-called privacy tools may block connections to Microsoft services, which can prevent important features or updates from working properly. If you’ve used such tools, you may need to undo these changes.  
+>
+> To do so, open Command Prompt as Administrator and enter the following commands:
 > ```
-> sc.exe config Diagtrack start= auto
-> net start Diagtrack
+> reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v DisableOneSettingsDownloads /f
+> 
+> reg add "HKLM\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet" /v EnableActiveProbing /t REG_DWORD /d 1 /f
 > ```
-> After enabling the service, run “Check for updates” again. The end-of-support message should no longer appear.
+> **Restart** the system, run “Check for updates” again. The end-of-support message should no longer appear.
 
 ---
 
