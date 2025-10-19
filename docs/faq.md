@@ -60,6 +60,9 @@ Microsoft released a **fix** the next day for the 64-bit Windows version (32-bit
 >
 > netsh advfirewall reset
 > ```
+> If you are using Pi-hole, a hosts file, or any other firewall to block telemetry, make sure the following URL is **not** blocked:  
+> `settings-win.data.microsoft.com`
+>
 > **Restart** the system, and run "Check for updates" again. The end-of-support message should no longer appear.
 
 Still seeing the EOS message? [Connect with us](troubleshoot.md) for help.
@@ -124,6 +127,16 @@ Yes.
 
 #### I'm in Russia and Office is not downloading.
 Check this [guide](https://gravesoft.dev/bypass-microsoft-geoblocking).
+
+---
+
+#### Office is showing: "It looks like your stored credentials are out of date. Please sign in as so we can verify your subscription."
+
+1. Sign out of all accounts in Office (if any are currently signed in).  
+2. Activate Office using the [latest MAS version](intro.md#how-to-activate-windows--office--extended-updates-esu).  
+3. Sign back into your Office account (if needed).  
+
+Still seeing this message? [Connect with us](troubleshoot.md) for help.
 
 ---
 
