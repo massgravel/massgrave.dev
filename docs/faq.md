@@ -33,7 +33,7 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 - #### How to receive security updates for Windows 10 after October 2025?
   You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
-- #### I activated ESU with the TSforge, but the Windows Update page in Settings still saying "Your device is no longer receiving security updates." Why?
+- #### The Windows Update page in Settings is still showing "Your device is no longer receiving security updates." Why?
 - #### How can I check if TSforge ESU is activated?
 
   Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
@@ -45,18 +45,24 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 ![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
 
 This is a **visual bug** that started appearing on October 15, 2025.  
-Microsoft released a **fix** the next day; simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
+Microsoft released a **fix** the next day for the 64-bit Windows version (32-bit LTSC is still showing the EOS message); simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
 
 > **Note:**  
-> Some so-called privacy tools may block connections to Microsoft services, which can prevent important features or updates from working properly. If you’ve used such tools, you may need to undo these changes.  
+> Some privacy tools may block connections to Microsoft services, which can prevent important features or updates from working properly. If you’ve used such tools, you need to **undo** those changes using that same tool.  
 >
-> To do so, open Command Prompt as Administrator and enter the following commands:
+> Alternatively, open Command Prompt as Administrator and enter the following commands:
 > ```
 > reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v DisableOneSettingsDownloads /f
 > 
 > reg add "HKLM\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet" /v EnableActiveProbing /t REG_DWORD /d 1 /f
+>
+> :: If telemetry or system files are blocked through the firewall, you need to remove those rules or reset the firewall rules with the command below
+>
+> netsh advfirewall reset
 > ```
-> **Restart** the system, run “Check for updates” again. The end-of-support message should no longer appear.
+> **Restart** the system, and run "Check for updates" again. The end-of-support message should no longer appear.
+
+Still seeing the EOS message? [Connect with us](troubleshoot.md) for help.
 
 ---
 
@@ -67,8 +73,10 @@ Microsoft released a **fix** the next day; simply select "Check for updates" in 
 
 - #### Why is my antivirus flagging the MAS script as a virus or Trojan?
   Antivirus programs often flag piracy-related software as malicious, even when it’s safe. These are called [false positives](https://www.malwarebytes.com/blog/news/2017/09/explained-false-positives).  
-  You can add an exception in your antivirus, or use the [manual activation steps](manual_hwid_activation.md) to avoid any alerts.
+  You can add an exception in your third-party antivirus, or use the [manual activation steps](manual_hwid_activation.md) to avoid any alerts.
 
+  > **Note:**  
+  > **Windows Defender** won’t trigger any alerts if you are using the [PowerShell method](intro.md#how-to-activate-windows--office--extended-updates-esu) to launch MAS or the download links listed in Method 2.
 - #### Will I receive updates? How is it different from an official license?
   MAS does not interfere with Windows or Office updates. It functions in the same way as official licensing methods.
 
