@@ -27,8 +27,6 @@ import TabItem from '@theme/TabItem';
 
 **Windows 11 Consumer 25H2**
 
-Build - 26200.6584
-
 :::info
 
 - Microsoft has released Windows 11 25H2 (Build 26200.6584) ISOs across multiple official sources.  
@@ -84,6 +82,9 @@ zh-tw_windows_11_consumer_editions_version_25h2_x64_dvd_5c984625.iso
 
 :::
 
+Build - 26200.6584 (Sep 2025)  
+Windows 11 25H2 Oct 2025 updated ISOs are not released by Microsoft. You can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arabic                 | x64  | [26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_ar-sa.iso](https://software-static.download.prss.microsoft.com/dbazure/888969d5-f34g-4e03-ac9d-1f9786c66749/26200.6584.250915-1905.25h2_ge_release_svc_refresh_CLIENT_CONSUMER_x64FRE_ar-sa.iso) |
@@ -130,7 +131,8 @@ zh-tw_windows_11_consumer_editions_version_25h2_x64_dvd_5c984625.iso
 
 **Windows 11 Business 25H2**
 
-Build - 26200.6584
+Build - 26200.6584 (Sep 2025)  
+Windows 11 25H2 Oct 2025 updated ISOs are not released by Microsoft. You can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -178,7 +180,7 @@ Build - 26200.6584
 
 **Windows 11 IoT Enterprise 25H2**  
 **(Not LTSC)**  
-Build - 26200.6584  
+Build - 26200.6584 (Sep 2025)  
 These ISOs contain below editions,  
 
 Windows 11 Enterprise  

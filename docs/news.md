@@ -1,5 +1,11 @@
 # News
 
+### [22-Oct-25] Added Oct 2025 updated ISOs  
+Windows 10 22H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media  
+
+Note: Windows 11 25H2 updated ISOs are not released.
+
 ### [26-Sep-25] Added Windows 11 25H2 Business x64/A64 ISOs from VLSC
 https://massgrave.dev/genuine-installation-media
 
