@@ -44,6 +44,13 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 
 ![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
 
+:::info
+
+- The **fix** below is applicable to Windows 10 **LTSC 2021 only**.  
+- This visual bug is still [**not fixed for Commercial ESU-activated editions**](tsforge.md#windows-10-esu-faq).
+
+:::
+
 This is a **visual bug** that started appearing on October 15, 2025.  
 Microsoft released a **fix** the next day for the 64-bit Windows version (32-bit LTSC is still showing the EOS message); simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
 
@@ -59,6 +66,7 @@ Microsoft released a **fix** the next day for the 64-bit Windows version (32-bit
 > :: If telemetry or system files are blocked through the firewall, you need to remove those rules or reset the firewall rules with the command below
 >
 > netsh advfirewall reset
+>
 > ```
 > If you are using Pi-hole, a hosts file, or any other firewall to block telemetry, make sure the following URL is **not** blocked:  
 > `settings-win.data.microsoft.com`

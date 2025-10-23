@@ -259,15 +259,16 @@ This activation method does not work if a phone license is not available or if l
 
 #### I activated ESU with the TSforge, but the Windows Update page in Settings still saying "Your device is no longer receiving security updates." Why?
 
-Microsoft provides Extended Security Updates (ESU) through several channels, such as CommercialAzureESU, CommercialW365ESU, **CommercialKeybasedESU**, and **ConsumerESU**.  
-
-TSforge activates the [Commercial Key-based ESU](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#get-the-product-keys-for-activating-extended-security-update-esu-licenses), which is intended for use by administrators in business environments.  
-
-The Windows Update page in Settings is currently showing the incorrect status below to **all CommercialKeybasedESU users**.  
-
 ![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
 
+Microsoft provides Extended Security Updates (ESU) through several channels, such as CommercialAzureESU, CommercialW365ESU, **CommercialKeybasedESU**, and **ConsumerESU**.
+TSforge activates the [Commercial Key-based ESU](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#get-the-product-keys-for-activating-extended-security-update-esu-licenses), which is intended for use by administrators in business environments.  
+
+The Windows Update page in Settings currently checks only whether a user is enrolled in Consumer ESU and fails to account for **all Commercial ESU** users (Azure, W365, and key-based).
+
 **It’s just a visual bug**. Your ESU is activated correctly. Hopefully, Microsoft will fix it in the upcoming updates.
+
+---
 
 #### How can I check if TSforge ESU is activated?
 
@@ -280,6 +281,8 @@ For a shorter output, use
 `slmgr.vbs /dli`
 
 You can also run "Check Activation Status" option in MAS script.
+
+---
 
 #### What does it mean when the script says, "Windows Update can receive 1-3 years of ESU. 4-6 years ESU is not officially supported, but it might be useful"?
 
