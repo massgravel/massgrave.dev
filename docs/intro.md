@@ -2,7 +2,7 @@
 slug: /
 sidebar_position: 1
 sidebar_label: Activate Windows / Office
-title: Home
+title: Microsoft Activation Scripts
 ---
 
 # Microsoft Activation Scripts (MAS)

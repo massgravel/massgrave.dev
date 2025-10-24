@@ -25,7 +25,7 @@ Activation with [MAS](intro.md#how-to-activate-windows--office--extended-updates
 
 -  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365, 2024, 2021, 2019, 2016, 2013)  
 -  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365, 2024, 2021, 2019, 2016)
--  [Office MSI VL (Old versions)](office_msi_links.md) (2016, 2013, 2010, 2007)
+-  [Office MSI VL (Old versions)](office_msi_links.md) (2016, 2013, 2010, 2007, 2003, XP (2002))
 -  [Office For **Mac**](office_for_mac.md)                             
 
 ---

@@ -1,5 +1,8 @@
 # News
 
+### [25-Oct-25] Added Office 2003 and Office XP (2002) ISOs  
+https://massgrave.dev/genuine-installation-media  
+
 ### [22-Oct-25] Added Oct 2025 updated ISOs  
 Windows 10 22H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media  

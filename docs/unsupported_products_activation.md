@@ -24,7 +24,7 @@
 
 ## Office 2010 on Windows XP / Server 2003
 
-- [Office 2010 Installer.](office_msi_links.md#office-2010)  
+- [Office 2010 Installer.](office_msi_links.md)  
 - [Ohook Script for Office 2010 by abbodi1406.](https://gitlab.com/-/project/11037551/uploads/bbdc7aae987d08f8e2bf6533942e623a/office2010_ohook.7z) *(Password: `2010`)*  
 
 1. Extract the Ohook archive.
@@ -41,10 +41,9 @@ Office 2010 should now be permanently activated.
 
 ------------------------------------------------------------------------
 
-## Office 2007 Enterprise
+## Office 2007 / Office 2003 / Office XP (2002)
 
--   Download Office 2007 Enterprise - [Link](office_msi_links.md#office-2007)
--	Activation key - `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`
+-   Check [here](office_msi_links.md).
 
 ------------------------------------------------------------------------
 
