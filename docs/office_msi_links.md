@@ -1058,6 +1058,7 @@ import TabItem from '@theme/TabItem';
 | Arabic                  | x32  | [ar_office_2003_frontpage.iso](https://drive.massgrave.dev/ar_office_2003_frontpage.iso) |
 | Chinese - Hong Kong SAR | x32  | [hk_office_2003_frontpage.iso](https://drive.massgrave.dev/hk_office_2003_frontpage.iso) |
 | Chinese - Simplified    | x32  | [sc_office_2003_frontpage.iso](https://drive.massgrave.dev/sc_office_2003_frontpage.iso) |
+| Chinese - Traditional   | x32  | [cht_offfice_2003_frontpage.iso](https://drive.massgrave.dev/cht_offfice_2003_frontpage.iso) |
 | Czech                   | x32  | [cz_office_2003_frontpage.iso](https://drive.massgrave.dev/cz_office_2003_frontpage.iso) |
 | Danish                  | x32  | [da_office_2003_frontpage.iso](https://drive.massgrave.dev/da_office_2003_frontpage.iso) |
 | Dutch                   | x32  | [nl_office_2003_frontpage.iso](https://drive.massgrave.dev/nl_office_2003_frontpage.iso) |
