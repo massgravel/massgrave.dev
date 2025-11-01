@@ -47,32 +47,44 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 :::info
 
 - The **fix** below is applicable to Windows 10 **LTSC 2021 only**.  
-- This visual bug is still [**not fixed for Commercial ESU-activated editions**](tsforge.md#windows-10-esu-faq).
+- This visual bug is [**still not fixed** for Commercial ESU-activated editions](tsforge.md#windows-10-esu-faq) (Home, Pro etc).
 
 :::
 
 This is a **visual bug** that started appearing on October 15, 2025.  
-Microsoft released a **fix** the next day for the 64-bit Windows version (32-bit LTSC is still showing the EOS message); simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
+Microsoft released a **fix** the next day for the **64-bit** Windows version (**32-bit LTSC is still showing the EOS message**); simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
 
 > **Note:**  
 > Some privacy tools may block connections to Microsoft services, which can prevent important features or updates from working properly. If you’ve used such tools, you need to **undo** those changes using that same tool.  
 >
-> Alternatively, open Command Prompt as Administrator and enter the following commands:
+> Alternatively, open **PowerShell as Administrator** and enter the following commands:
 > ```
 > reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v DisableOneSettingsDownloads /f
-> 
 > reg add "HKLM\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet" /v EnableActiveProbing /t REG_DWORD /d 1 /f
->
-> :: If telemetry or system files are blocked through the firewall, you need to remove those rules or reset the firewall rules with the command below
->
+> 
+> # If telemetry or system files are blocked through the firewall, you need to remove those rules or reset the firewall rules with the command below
 > netsh advfirewall reset
->
+> 
+> # Remove Microsoft URL blocks from the hosts file
+> $filePath = "$env:SystemRoot\System32\drivers\etc\hosts"
+> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*settings-win.data.microsoft.com.*', ''}) -force
+> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftconnecttest.*', ''}) -force
+> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftncsi.*', ''}) -force
+> 
+> ipconfig /flushdns
+> cmd /c UsoClient.exe StartBypassScan
 > ```
-> If you are using Pi-hole, a hosts file, or any other firewall to block telemetry, make sure the following URL is **not** blocked:  
-> `settings-win.data.microsoft.com`
+> 
+> If you are using Pi-hole, or any other firewall/DNS to block telemetry, make sure the `settings-win.data.microsoft.com` URL is **not** blocked. You can use the following ping command to ensure it's not blocked:
+> ```
+> ping settings-win.data.microsoft.com
+> ```
 >
-> **Restart** the system, and run "Check for updates" again. The end-of-support message should no longer appear.
-
+> **Restart** the system, then enter the following command:
+> ```
+> cmd /c UsoClient.exe StartBypassScan
+> ```
+The end-of-support message should no longer appear.  
 Still seeing the EOS message? [Connect with us](troubleshoot.md) for help.
 
 ---
