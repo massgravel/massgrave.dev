@@ -24,15 +24,16 @@ const sidebars = {
         'windows_10_links',
         'windows_ltsc_links',
         'windows_arm_links',
+        'windows-server-links',
         {
           type: 'html',
           value: '<hr class="sidebar-hr" />',
         },
         'windows_8.1_links',
+        'windows_8_links',
         'windows_7_links',
         'windows_vista__links',
         'windows_xp_links',
-        'windows-server-links',
         {
           type: 'html',
           value: '<hr class="sidebar-hr" />',

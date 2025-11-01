@@ -14,6 +14,7 @@
 -  [Windows 10 / 11 Enterprise **LTSC**](windows_ltsc_links.md)                                                                                                                                   
 -  [Windows ARM64](windows_arm_links.md)                                                                                                                                                          
 -  [Windows 8.1](windows_8.1_links.md)                                                                                                                                                            
+-  [Windows 8](windows_8_links.md)                                                                                                                                                            
 -  [Windows 7](windows_7_links.md)                                                                                                                                                                
 -  [Windows Vista](windows_vista__links.md)    
 -  [Windows XP](windows_xp_links.md)                                                                                                                                                              
@@ -71,6 +72,20 @@ The Consumer ISO includes all editions such as Home, Pro, and Education, but exc
 
 </details>
 
+#### What are Windows N, K, and KN editions, and should I use them?
+
+<details>
+<summary>Click here for info</summary>
+
+- **Windows N editions** are European versions of Windows **without media features** like Windows Media Player. They were created because the **EU required Microsoft** to offer Windows without built-in media software, as explained in [Microsoft’s statement](https://news.microsoft.com/source/2005/03/28/microsoft-statement-on-european-commission-process-2/) and the [EU decision](https://www.microsoft.com/en-us/legal/antitrust/eu-commission-decision).  
+
+- **Windows K and KN editions** are versions for **South Korea**, made after a ruling by the Korea Fair Trade Commission (KFTC) requiring Microsoft to offer Windows without certain media and messaging apps. You can read Microsoft’s [official statement on the KFTC decision](https://news.microsoft.com/2005/12/06/microsoft-statement-on-korean-fair-trade-commission-decision/).
+
+- You can restore most missing features by installing the Media Feature Pack, but **[some functions may still not work fully](https://support.microsoft.com/en-us/windows/media-feature-pack-for-windows-n-8622b390-4ce6-43c9-9b42-549e5328e407?#:~:text=Note%20that%20some%20of%20these%20may%20not%20work%20properly%20after%20installing%20the%20Media%20Feature%20Pack)** even after installation.  
+
+- **Windows N, K, and KN editions** are **not recommended for general use**.
+
+</details>
 
 #### How can I obtain an official Microsoft ISO that is not available here?
 
