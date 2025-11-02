@@ -18,13 +18,16 @@ We suggest following the below guide only when the script tells you to do so.
 - Open Powershell as admin and enter below commands,
 
 ```
-Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name ProxyEnable -Type DWord -Value 0
-Set-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name ProxyServer -Type String -Value ""
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyEnable /t REG_DWORD /d 0 /f
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyServer /t REG_SZ /d "" /f
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet" /v EnableActiveProbing /t REG_DWORD /d 1 /f
 
 $filePath = "$env:SystemRoot\System32\drivers\etc\hosts"
 Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*licensing.mp.microsoft.com.*', ''}) -force
 Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*purchase.mp.microsoft.com.*', ''}) -force
 Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*login.live.com.*', ''}) -force
+Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftconnecttest.*', ''}) -force
+Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftncsi.*', ''}) -force
 
 netsh int ip reset
 netsh winsock reset
