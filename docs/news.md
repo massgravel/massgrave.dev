@@ -1,5 +1,8 @@
 # News
 
+### [6-Nov-25] Added Windows Embedded ISOs  
+https://massgrave.dev/genuine-installation-media  
+
 ### [25-Oct-25] Added Office 2003 and Office XP (2002) ISOs  
 https://massgrave.dev/genuine-installation-media  
 

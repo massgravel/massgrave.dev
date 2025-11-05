@@ -800,4 +800,48 @@ Available in x86 only.
 </TabItem>
 </Tabs>
 </TabItem>
+
+<TabItem value="Windows Embedded 7" label="Windows Embedded 7" default>
+
+<Tabs>
+<TabItem value="Windows Embedded POSReady 7" label="Windows Embedded POSReady 7" default>
+
+**Windows Embedded POSReady 7**
+
+Note - "Eval" is just in the file name; it’s actually the full version.
+
+| Language      | Arch | Link                                                                                                                                                   |
+| :------------ | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| English       | x64  | [en_windows_embedded_posready_7_eval_x64_dvd_698169.iso](https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x64_dvd_698169.iso)           |
+| English       | x32  | [en_windows_embedded_posready_7_eval_x86_dvd_698168.iso](https://drive.massgrave.dev/en_windows_embedded_posready_7_eval_x86_dvd_698168.iso)           |
+| Language Pack | x64  | [en_windows_embedded_posready_7_lang_pack_x64_dvd_698178.iso](https://drive.massgrave.dev/en_windows_embedded_posready_7_lang_pack_x64_dvd_698178.iso) |
+| Language Pack | x32  | [en_windows_embedded_posready_7_lang_pack_x86_dvd_698172.iso](https://drive.massgrave.dev/en_windows_embedded_posready_7_lang_pack_x86_dvd_698172.iso) |
+
+</TabItem>
+
+<TabItem value="Windows Embedded Standard 7 SP1" label="Windows Embedded Standard 7 SP1" default>
+
+**Windows Embedded Standard 7 SP1**
+
+| Language      | Arch | Link                                                                                                                                                       |
+| :------------ | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| English       | x64  | [en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso) |
+| English       | x32  | [en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso) |
+| English       | x32  | [en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_toolkit_x86_dvd_651894.iso) |
+| Language Pack | x64  | [en_windows_embedded_standard_7_sp1_for_mui_x64_dvd_669676.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_for_mui_x64_dvd_669676.iso) |
+| Language Pack | x32  | [en_windows_embedded_standard_7_sp1_for_mui_x86_dvd_669659.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_for_mui_x86_dvd_669659.iso) |
+
+</TabItem>
+
+<TabItem value="Windows Thin PC" label="Windows Thin PC" default>
+
+**Windows Thin PC**
+
+| Language | Arch | Link                                                                                               |
+| :------- | :--- | :------------------------------------------------------------------------------------------------- |
+| English  | x32  | [en_windows_thin_pc_x86_697681.iso](https://drive.massgrave.dev/en_windows_thin_pc_x86_697681.iso) |
+
+</TabItem>
+</Tabs>
+</TabItem>
 </Tabs>
