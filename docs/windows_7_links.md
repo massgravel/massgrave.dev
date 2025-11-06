@@ -823,6 +823,9 @@ Note - "Eval" is just in the file name; it’s actually the full version.
 
 **Windows Embedded Standard 7 SP1**
 
+`XGY72-BRBBT-FF8MH-2GG8H-W7KCW`  
+During the final stage of the Windows installation, when the setup asks for a key, use this one. It will install the full version of Windows instead of the evaluation version.
+
 | Language      | Arch | Link                                                                                                                                                       |
 | :------------ | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | English       | x64  | [en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso](https://drive.massgrave.dev/en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso) |

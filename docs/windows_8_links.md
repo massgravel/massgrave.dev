@@ -472,6 +472,9 @@ import TabItem from '@theme/TabItem';
 
 **Windows Embedded 8 Standard**
 
+`V8YQB-NK79D-3XXDR-HVDQV-M4FCQ`  
+Use this key when the setup asks for one during the Windows installation. It will install the full version of Windows instead of the evaluation version.
+
 | Language      | Arch | Link                                                                                                                                                                           |
 | :------------ | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | English       | x64  | [en_windows_embedded_8_standard_image_builder_wizard_x64_dvd_1791545.iso](https://drive.massgrave.dev/en_windows_embedded_8_standard_image_builder_wizard_x64_dvd_1791545.iso) |
