@@ -128,3 +128,21 @@ table {
 .pagination-nav {
   display: none;
 }
+
+.tabs__item {
+  border: 1px var(--ifm-toc-border-color) solid;
+  border-radius: var(--ifm-global-radius);
+  text-align: center;
+  margin: .125em;
+}
+
+.tabs__item--active {
+  background-color: var(--ifm-color-primary-darker);
+  border-color: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.tabs__item--active:hover {
+  background-color: var(--ifm-color-primary-dark);
+  border-color: var(--ifm-color-primary-light);
+}
