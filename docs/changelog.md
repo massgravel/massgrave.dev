@@ -2,11 +2,45 @@
 
 ------------------------------------------------------------------------
 
+## 3.8  
+
+**R.I.P. KMS38**  
+
+#### HWID
+- Activation support is added for the WNC edition.
+
+#### KMS38
+- Beginning with build **26100.7019**, Microsoft fully deprecated clip-based KMS license migration functionality. As a result, KMS38 has stopped working. [Detailed info](kms38.md).
+- KMS38 has now been removed from the MAS script. Users are advised to use HWID or TSforge activation instead.
+- If you still wish to use it on older Windows versions or keep it for archival purposes, you can download the script from [here](https://github.com/massgravel/Microsoft-Activation-Scripts/blob/ab6b572af940fa0ea4255b327eb6f69a274d6725/MAS/Separate-Files-Version/Activators/KMS38_Activation.cmd).
+
+#### TSforge
+- From build 26100.7019, Windows will always display and **stay** at the 180-day remaining KMS grace period if the actual period is longer. KMS4k info is updated as per this change.
+- Added ESU support for PPIPro (added in 19045.6388).
+- Fixed an issue in filtering where ESU IDs were not showing in the manual option.
+- Added a command to refresh the ESU status.
+
+#### Change Windows Edition
+- Changed key preference order so that the HWID key can be installed. Thanks to @lava1879 (Magic).
+- Added [GAC, not LTSC] info for the "IoTEnterprise" edition to avoid confusion with its LTSC edition "IoTEnterpriseS".
+
+#### Troubleshoot
+- The script will now auto-select the Quick Repair option for Office 16.0 C2R. Thanks to @YerongAI for the suggestion.
+- Added more conditions before rebuilding ClipSVC licenses.
+
+#### Check Activation Status
+- @abbodi1406 fixed an issue in [CAS](https://gravesoft.dev/cas) where, when ADBA is active, KMS Client info was shown.
+
+#### All
+- Some other minor improvements in error handling and information.
+
+------------------------------------------------------------------------
+
 ## 3.7
 
 **The Twin Keys Fall**
 
-### HWID / KMS38
+#### HWID / KMS38
 
 - Switched ticket generation to automatically sign tickets with the SPP Client Lockbox signing key, which was found to be the same as the Trusted Store key used in [TSforge](https://massgrave.dev/tsforge). Thanks to @WitherOrNot for finding this.
 - GamersOsState (patched GatherOsState) method is now obsolete for all ticket generation.

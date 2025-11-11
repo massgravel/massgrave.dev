@@ -1,5 +1,11 @@
 # News
 
+### [11-Nov-25] Keys added for Visual Studio 2026  
+https://massgrave.dev/unsupported_products_activation#visual-studio  
+
+### [11-Nov-25] MAS 3.8 update is released  
+R.I.P. KMS38. For more details check the [changelog](changelog.md)
+
 ### [6-Nov-25] Added Windows Embedded ISOs  
 https://massgrave.dev/genuine-installation-media  
 

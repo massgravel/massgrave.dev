@@ -1,4 +1,10 @@
-# KMS38
+# KMS38 Manual Activation
+
+:::danger[KMS38 no longer works on Windows builds 26100.7019 and newer.]
+
+Check the info [**here**](kms38.md).
+
+:::
 
 This page is intended for users who do not want to use the script for any reason and would rather perform the KMS38 activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
 

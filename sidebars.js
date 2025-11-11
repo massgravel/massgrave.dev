@@ -61,12 +61,12 @@ const sidebars = {
     {
       type: 'category',
       label: 'Docs',
-      items: ['hwid','ohook','tsforge','kms38','online_kms','chart','command_line_switches','check_activation_status','oem-folder','change_windows_edition','change_office_edition'],
+      items: ['hwid','ohook','tsforge','online_kms','chart','command_line_switches','check_activation_status','oem-folder','change_windows_edition','change_office_edition'],
     },
     {
       type: 'category',
       label: 'Manual Activation',
-      items: ['manual_hwid_activation', 'manual_ohook_activation', 'manual_kms38_activation']
+      items: ['manual_hwid_activation', 'manual_ohook_activation']
     },
     {
       type: 'category',
@@ -124,6 +124,11 @@ const sidebars = {
           description: 'Guide on how to backup your data and clean install Windows.'
         },
       ]
+    },
+    {
+      type: 'category',
+      label: 'Archive',
+      items: ['kms38', 'manual_kms38_activation'],
     },
     'unsupported_products_activation',
     'news',

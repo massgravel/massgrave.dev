@@ -99,8 +99,6 @@ If you applied the registry command and ran the setup promptly, setup shouldn’
 
 </details>
 
-[Why is the Windows Update page in Windows 10 Enterprise LTSC 2021 showing "Your device is no longer receiving security updates."?](faq.md#why-is-the-windows-update-page-in-windows-10-enterprise-ltsc-2021-showing-your-device-is-no-longer-receiving-security-updates)
-
 ---
 
 ## Windows 11 IoT Enterprise Editions

@@ -105,6 +105,8 @@ Alternatively, you can download AppxBundle installer from https://store.rg-adgua
 
 | Editions                        | Activation Key                |
 |---------------------------------|-------------------------------|
+| Visual Studio 2026 Professional | NVTDK-QB8J9-M28GR-92BPC-BTHXK |
+| Visual Studio 2026 Enterprise   | VYGRN-WPR22-HG4X3-692BF-QGT2V |
 | Visual Studio 2022 Professional | TD244-P4NB7-YQ6XK-Y8MMM-YWV2J |
 | Visual Studio 2022 Enterprise   | VHF9H-NXBBB-638P6-6JHCY-88JWH |
 | Visual Studio 2019 Professional | NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y |

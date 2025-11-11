@@ -1,4 +1,22 @@
-# KMS38 Activation
+# KMS38 Documentation
+
+:::danger[KMS38 Deprecation and Removal]
+
+Windows uses a clip-based KMS license to migrate the KMS grace period during feature upgrades. For example, if 100 days remain in the KMS grace period and Windows is upgraded, this migration allows the remaining days to carry over. The process relies on the *gatherosstate.exe* file to transfer the license. KMS38 takes advantage of this mechanism by extending the grace period until the year 2038.
+
+Starting with build **26040**, Microsoft removed *gatherosstate.exe* from the ISO. As a result, after a feature or in-place upgrade, the KMS grace period no longer carries over and resets to zero, requiring reconnection to a KMS server for renewal.
+
+Beginning with build **26100.7019**, Microsoft fully deprecated this functionality, causing KMS38 to stop working on that build and all later versions.
+
+---
+
+**KMS38 has now been removed from the MAS script.** Users are advised to use **HWID** or **TSforge activation** instead.
+
+---
+
+If you still wish to use it on older Windows versions or keep it for archival purposes, you can download the script from [**here**](https://github.com/massgravel/Microsoft-Activation-Scripts/blob/ab6b572af940fa0ea4255b327eb6f69a274d6725/MAS/Separate-Files-Version/Activators/KMS38_Activation.cmd)
+
+:::
 
 ## Overview
 

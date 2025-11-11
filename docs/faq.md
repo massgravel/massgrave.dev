@@ -33,60 +33,9 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 - #### How to receive security updates for Windows 10 after October 2025?
   You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
-- #### The Windows Update page in Settings is still showing "Your device is no longer receiving security updates." Why?
-- #### How can I check if TSforge ESU is activated?
-
+- #### How can I check if TSforge ESU is activated?   
   Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
   
----
-
-#### Why is the Windows Update page in Windows 10 Enterprise LTSC 2021 showing "Your device is no longer receiving security updates."?
-
-![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
-
-:::info
-
-- The **fix** below is applicable to Windows 10 **LTSC 2021 only**.  
-- This visual bug is [**still not fixed** for Commercial ESU-activated editions](tsforge.md#windows-10-esu-faq) (Home, Pro etc).
-
-:::
-
-This is a **visual bug** that started appearing on October 15, 2025.  
-Microsoft released a **fix** the next day for the **64-bit** Windows version (**32-bit LTSC is still showing the EOS message**); simply select "Check for updates" in Windows Update, and the end-of-support message will disappear.
-
-> **Note:**  
-> Some privacy tools may block connections to Microsoft services, which can prevent important features or updates from working properly. If you’ve used such tools, you need to **undo** those changes using that same tool.  
->
-> Alternatively, open **PowerShell as Administrator** and enter the following commands:
-> ```
-> reg delete "HKLM\SOFTWARE\Policies\Microsoft\Windows\DataCollection" /v DisableOneSettingsDownloads /f
-> reg add "HKLM\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\Internet" /v EnableActiveProbing /t REG_DWORD /d 1 /f
-> 
-> # If telemetry or system files are blocked through the firewall, you need to remove those rules or reset the firewall rules with the command below
-> netsh advfirewall reset
-> 
-> # Remove Microsoft URL blocks from the hosts file
-> $filePath = "$env:SystemRoot\System32\drivers\etc\hosts"
-> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*settings-win.data.microsoft.com.*', ''}) -force
-> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftconnecttest.*', ''}) -force
-> Set-Content -Path $filePath -Value (Get-Content $filePath | ForEach-Object { $_ -replace '.*msftncsi.*', ''}) -force
-> 
-> ipconfig /flushdns
-> cmd /c UsoClient.exe StartBypassScan
-> ```
-> 
-> If you are using Pi-hole, or any other firewall/DNS to block telemetry, make sure the `settings-win.data.microsoft.com` URL is **not** blocked. You can use the following ping command to ensure it's not blocked:
-> ```
-> ping settings-win.data.microsoft.com
-> ```
->
-> **Restart** the system, then enter the following command:
-> ```
-> cmd /c UsoClient.exe StartBypassScan
-> ```
-The end-of-support message should no longer appear.  
-Still seeing the EOS message? [Connect with us](troubleshoot.md) for help.
-
 ---
 
 #### Is MAS safe?

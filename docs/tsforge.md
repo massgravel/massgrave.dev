@@ -257,19 +257,6 @@ This activation method does not work if a phone license is not available or if l
 
 #### Windows 10 ESU FAQ
 
-#### I activated ESU with the TSforge, but the Windows Update page in Settings still saying "Your device is no longer receiving security updates." Why?
-
-![image](./assets/Your-device-is-no-longer-receiving-security-updates.png)
-
-Microsoft provides Extended Security Updates (ESU) through several channels, such as CommercialAzureESU, CommercialW365ESU, **CommercialKeybasedESU**, and **ConsumerESU**.
-TSforge activates the [Commercial Key-based ESU](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#get-the-product-keys-for-activating-extended-security-update-esu-licenses), which is intended for use by administrators in business environments.  
-
-The Windows Update page in Settings currently checks only whether a user is enrolled in Consumer ESU and fails to account for **all Commercial ESU** users (Azure, W365, and key-based).
-
-**It’s just a visual bug**. Your ESU is activated correctly. Hopefully, Microsoft will fix it in the upcoming updates.
-
----
-
 #### How can I check if TSforge ESU is activated?
 
 According to the official [Microsoft documentation](https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates#install-and-activate-the-esu-key), you can verify the status of a Commercial Key-based ESU activation by running the following command in Command Prompt:
@@ -284,7 +271,7 @@ You can also run "Check Activation Status" option in MAS script.
 
 ---
 
-#### What does it mean when the script says, "Windows Update can receive 1-3 years of ESU. 4-6 years ESU is not officially supported, but it might be useful"?
+#### What does it mean when the script says, "Windows Update gets 1-3 years of ESU; 4-6 are unofficial but may let you install LTSC updates manually."?
 
 Microsoft officially announced that Extended Security Updates (ESU) would be available for only 3 years. However, ESU licenses actually exist for up to 6 years.  
 **Why?**  

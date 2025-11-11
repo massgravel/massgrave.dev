@@ -7,7 +7,7 @@ title: Microsoft Activation Scripts
 
 # Microsoft Activation Scripts (MAS)
 
-Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ---
 
@@ -80,7 +80,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, 
 
 ## MAS Latest Release
 
-Last Release - v3.7 (11-Sep-2025)  
+Last Release - v3.8 (11-Nov-2025)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/massgrave/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
@@ -90,7 +90,6 @@ Last Release - v3.7 (11-Sep-2025)
 -   **HWID (Digital License)** Method to Permanently Activate Windows
 -   **Ohook** Method to Permanently Activate Office
 -   **TSforge** Method to Permanently Activate Windows/ESU/Office
--   **KMS38** Method to Activate Windows Till the Year 2038
 -   **Online KMS** Method to Activate Windows/Office For 180 Days (Lifetime With Renewal Task)
 -   Advanced Activation Troubleshooting
 -   $OEM$ Folders For Preactivation
@@ -110,7 +109,6 @@ Last Release - v3.7 (11-Sep-2025)
 | HWID            | Windows 10-11          | Permanent                            | Yes                 |
 | Ohook           | Office                 | Permanent                            | No                  |
 | TSforge         | Windows / ESU / Office | Permanent                            | Yes, needed on build 26100 and later |
-| KMS38           | Windows 10-11-Server   | Till the Year 2038                   | No                  |
 | Online KMS      | Windows / Office       | 180 Days. Lifetime With Renewal Task | Yes                 |
 
 For more details, use the respective activation details in Docs and [comparison chart](chart.md).  
@@ -120,23 +118,23 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 
 ## Screenshots
 
-![](/img/MAS_AIO.png)
+![image](./assets/MAS_AIO.png)
 
-![](/img/MAS_HWID.png)
+![image](./assets/MAS_HWID.png)
 
-![](/img/MAS_Ohook.png)
+![image](./assets/MAS_Ohook.png)
 
-![](/img/MAS_TSforge.png)
+![image](./assets/MAS_TSforge.png)
 
-![](/img/MAS_Troubleshoot.png)
+![image](./assets/MAS_Troubleshoot.png)
 
-![](/img/MAS_change_windows_edition.png)
+![image](./assets/MAS_change_windows_edition.png)
 
-![](/img/MAS_change_office_edition_1.png)
+![image](./assets/MAS_change_office_edition_1.png)
 
-![](/img/MAS_change_office_edition_2.png)
+![image](./assets/MAS_change_office_edition_2.png)
 
-![](/img/MAS_change_office_edition_3.png)
+![image](./assets/MAS_change_office_edition_3.png)
 
 ------------------------------------------------------------------------
 
