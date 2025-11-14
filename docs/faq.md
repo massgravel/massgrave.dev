@@ -65,7 +65,7 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 
 #### How to remove MAS?
 MAS uses different activation methods, see the link below for removal instructions for each one.  
-[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [KMS38](kms38.md#how-to-remove-kms38), [Online KMS](online_kms.md#how-to-remove-online-kms)
+[HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 ---
 

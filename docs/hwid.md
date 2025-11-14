@@ -103,7 +103,7 @@ Now a question, can Microsoft block the new requests or revoke already establish
 -   As explained above, you cannot remove it for your hardware, only major hardware change such as CPU, motherboard can remove the activation.
 
 **What if you just want to keep Windows in the unactivated stage?**  
-- To do that, you can install the [KMS key](kms38.md#supported-products) in the Windows settings activation page  
+- To do that, you can install the [KMS key](online_kms.md#supported-products) in the Windows settings activation page  
   Or
 - Change the edition using Change Windows edition option in MAS.  
 - **Note:** 

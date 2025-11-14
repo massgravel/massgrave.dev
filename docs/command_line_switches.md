@@ -47,14 +47,6 @@ To override this automatic selection and use a specific activation method, you c
 | `/Z-ZCID`  | Force use ZeroCID activation method. Works reliably on builds below 26100, and does not work on builds above 26100.4188. |
 | `/Z-KMS4k` | Volume licenses only. Activates for 4000+ years.                                                                                                                 |
 
-### KMS38
-
-| Switches                  | Meaning                                                                                                                                                                                     |
-|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/KMS38`                  | Activate with KMS38                                                                                                                                                                         |
-| `/KMS38-NoEditionChange`  | Some editions don't support KMS38, so by default the script changes the edition to nearest available edition to enable activation. This switch runs KMS38 without allowing edition changes. |
-| `/KMS38-RemoveProtection` | Remove KMS38 protection                                                                                                                                                                     |
-
 ### Online KMS
 
 | Switches                      | Meaning                                                                                                                                                       |
@@ -78,7 +70,13 @@ Run operations in silent mode (no output but the CMD window will still appear)
 
 ## Using in the Powershell One-Liner
 
-For **Windows 7** and later:
+For **Windows 8** and newer:
+
+```
+& ([ScriptBlock]::Create((irm https://get.activated.win))) /para
+```
+
+For **Windows 7** and newer:
 
 ```
 & ([ScriptBlock]::Create((New-Object Net.WebClient).DownloadString('https://get.activated.win'))) /para

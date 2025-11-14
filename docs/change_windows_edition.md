@@ -33,7 +33,7 @@ If you want to manually change the edition instead of using the script, please f
 
 ### Windows Server 2016 and Later
 
--   Follow the [official Microsoft guide](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options). You can get the required keys from [here](kms38.md#supported-products).
+-   Follow the [official Microsoft guide](https://learn.microsoft.com/en-us/windows-server/get-started/upgrade-conversion-options). You can get the required keys from [here](online_kms.md#supported-products).
 
 ------------------------------------------------------------------------
 
