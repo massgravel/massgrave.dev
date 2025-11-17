@@ -7,6 +7,8 @@ title: Microsoft Activation Scripts
 
 # Microsoft Activation Scripts (MAS)
 
+b
+
 Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ---
@@ -139,3 +141,4 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
