@@ -1,5 +1,9 @@
 # News
 
+### [19-Nov-25] Added Nov 2025 updated ISOs  
+Windows 11 25H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media  
+
 ### [19-Nov-25] MAS 3.9 update is released  
 Fixed an issue for IoTEnterprise ESU. For more details check the [changelog](changelog.md)
 
