@@ -1,5 +1,8 @@
 # News
 
+### [19-Nov-25] MAS 3.9 update is released  
+Fixed an issue for IoTEnterprise ESU. For more details check the [changelog](changelog.md)
+
 ### [11-Nov-25] Keys added for Visual Studio 2026  
 https://massgrave.dev/unsupported_products_activation#visual-studio  
 

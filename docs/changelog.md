@@ -2,6 +2,21 @@
 
 ------------------------------------------------------------------------
 
+## 3.9
+
+**Minor Update**
+
+#### TSforge
+- Fixed an issue where IoT ESU licenses were not working (a bug from Microsoft) for the IoTEnterprise edition. The script will use the Client ESU license instead.
+
+#### Change Office Edition
+- Removed the deprecated Semi Annual Preview channel from the change update channel option.
+
+#### Online KMS
+- The script will no longer automatically change IoTEnterprise editions to Enterprise for KMS activation.
+
+------------------------------------------------------------------------
+
 ## 3.8  
 
 **R.I.P. KMS38**  
