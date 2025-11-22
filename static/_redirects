@@ -1,5 +1,4 @@
 /get /get.ps1 301
-/ias /ias.ps1 301
 /api/msdl/proxy* https://msdl.gravesoft.dev/ 301
 /msdl* https://msdl.gravesoft.dev/ 301
 /in-place_repair_upgrade* https://gravesoft.dev/in-place_repair_upgrade 301
