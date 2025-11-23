@@ -81,7 +81,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 ## MAS Latest Release
 
 Last Release - v3.9 (19-Nov-2025)  
-[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/Microsoft-Activation-Scripts/)
+[GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,5 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
 
