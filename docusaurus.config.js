@@ -81,7 +81,6 @@ const config = {
       // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
-        title: 'MAS',
         logo: {
           alt: 'MAS',
           src: 'img/logo.png',

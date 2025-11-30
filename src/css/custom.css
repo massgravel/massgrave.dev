@@ -31,6 +31,10 @@
   filter: drop-shadow(1px 1px 2px #0003);
 }
 
+.navbar__logo {
+  margin-right: 0;
+}
+
 .navbar__inner,
 .navbar__inner a,
 .navbar__inner a:hover,
