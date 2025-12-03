@@ -129,11 +129,14 @@ This product is no longer under active development.
 
 ## SQL Server
 
--	Download - https://www.microsoft.com/en-us/evalcenter/download-sql-server-2022
+-	Download - https://www.microsoft.com/en-us/evalcenter/sql-server-2025-download
 -	Activation keys:
 
 | Editions                        | Activation Key                |
 |---------------------------------|-------------------------------|
+| SQL Server 2025 Enterprise      | B64XM-XC68Y-XRM4N-MTX7B-MY9J4 |
+| SQL Server 2025 Enterprise Core | H62HC-BCYXW-PP88N-PXPV3-BHD6H |
+| SQL Server 2025 Standard        | HX782-X7RHN-BVHGT-8HB24-2KGXG |
 | SQL Server 2022 Enterprise      | J4V48-P8MM4-9N3J9-HD97X-DYMRM |
 | SQL Server 2022 Enterprise Core | 2Q48Q-PB48J-DRCVN-GB844-X2H4Q |
 | SQL Server 2022 Standard        | FG86G-CHH2T-CB7NJ-XT7D2-V8V4X |
