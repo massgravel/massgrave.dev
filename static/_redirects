@@ -7,7 +7,6 @@
 /redirect-genuine-installation-media* /genuine-installation-media 301
 /change_edition /change_windows_edition 301
 /change_edition.html /change_windows_edition 301
-/idm-activation-script* https://github.com/WindowsAddict/IDM-Activation-Script 301
 /office_c2r_links* https://gravesoft.dev/office_c2r_links 301
 /office_c2r_custom* https://gravesoft.dev/office_c2r_custom 301
 /fix_powershell* https://gravesoft.dev/fix_powershell 301
