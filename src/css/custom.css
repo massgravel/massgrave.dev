@@ -68,6 +68,11 @@
   background: none;
 }
 
+.navbar-sidebar .toggleButton_gllP,
+.navbar-sidebar .toggle_vylO {
+  display: none !important;
+}
+
 .navbar__inner .dropdown__menu {
   background: #0c040ecc;
   border: 1px solid #fff3;
@@ -105,6 +110,24 @@
 .navbar__inner .github-button:before {
   background: url('/img/github.svg') no-repeat;
   margin: 1px 0 0 -7px;
+}
+
+@media (max-width: 996px) {
+  .navbar__items--right > .colorModeToggle_DEke {
+    display: flex !important;
+  }
+  
+  .navbar__item.discord-button,
+  .navbar__item.github-button {
+    display: flex !important;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar__item.github-button::before {
+    margin: 0 !important;
+  }
 }
 
 table {
