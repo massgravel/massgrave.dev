@@ -1,1 +1,4 @@
-This site (https://massgrave.dev/) is built using [Docusaurus](https://docusaurus.io/).
+massgrave.dev
+=============
+
+This site is built using [Docusaurus](https://docusaurus.io/).
