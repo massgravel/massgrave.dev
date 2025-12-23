@@ -70,6 +70,68 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/get',
+            to: 'https://massgrave.dev/get.ps1',
+          },
+          {
+            from: '/redirect-genuine-installation-media',
+            to: '/genuine-installation-media',
+          },
+          {
+            from: ['/change_edition', '/change_edition.html'],
+            to: '/change_windows_edition',
+          },
+          {
+            from: '/in-place_repair_upgrade',
+            to: 'https://gravesoft.dev/in-place_repair_upgrade',
+          },
+          {
+            from: '/bypass-russian-geoblock',
+            to: 'https://gravesoft.dev/bypass-russian-geoblock',
+          },
+          {
+            from: '/fix-wpa-registry',
+            to: 'https://gravesoft.dev/fix-wpa-registry',
+          },
+          {
+            from: '/office_c2r_links',
+            to: 'https://gravesoft.dev/office_c2r_links',
+          },
+          {
+            from: '/office_c2r_custom',
+            to: 'https://gravesoft.dev/office_c2r_custom',
+          },
+          {
+            from: '/fix_powershell',
+            to: 'https://gravesoft.dev/fix_powershell',
+          },
+          {
+            from: '/remove_malware',
+            to: 'https://gravesoft.dev/remove_malware',
+          },
+          {
+            from: '/clean_install_windows',
+            to: 'https://gravesoft.dev/clean_install_windows',
+          },
+          {
+            from: '/msdl',
+            to: 'https://msdl.gravesoft.dev/',
+          },
+          {
+            from: '/api/msdl/proxy',
+            to: 'https://msdl.gravesoft.dev/',
+          },
+        ],
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
