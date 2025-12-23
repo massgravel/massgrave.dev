@@ -68,11 +68,6 @@
   background: none;
 }
 
-.navbar-sidebar .toggleButton_gllP,
-.navbar-sidebar .toggle_vylO {
-  display: none !important;
-}
-
 .navbar__inner .dropdown__menu {
   background: #0c040ecc;
   border: 1px solid #fff3;
@@ -113,8 +108,24 @@
 }
 
 @media (max-width: 996px) {
-  .navbar__items--right > .colorModeToggle_DEke {
+  .navbar__items--right > div[class*="toggle"],
+  .navbar__items--right > div[class*="colorMode"] {
     display: flex !important;
+  }
+  
+  .navbar__items--right > div[class*="toggle"] button,
+  .navbar__items--right > div[class*="colorMode"] button {
+    display: flex !important;
+  }
+  
+  .navbar-sidebar div[class*="toggle"],
+  .navbar-sidebar div[class*="colorMode"] {
+    display: none !important;
+  }
+  
+  .navbar-sidebar button[title*="Switch between"],
+  .navbar-sidebar button[aria-label*="Switch between"] {
+    display: none !important;
   }
   
   .navbar__item.discord-button,
