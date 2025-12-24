@@ -29,11 +29,6 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 	 ```
 	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 	 ```
-   - For **Windows 7** and later:
-     ```
-     iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
-     ```
-	- **Script not launching❓Use [**Method 2**](intro.md#method-2---traditional-windows-vista-and-later).**
 
 3. The activation menu will appear. **Choose the green-highlighted options** to activate Windows or Office.
 
@@ -139,5 +134,6 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
 
 
