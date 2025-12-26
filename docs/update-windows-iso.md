@@ -37,7 +37,7 @@ Using an updated ISO saves both time and bandwidth during setup and post-install
 ### Option 1: Updated ISOs from MVS
 
 Microsoft provides monthly updated Windows 10 / 11 ISOs (non-LTSC) to [MVS](https://my.visualstudio.com/Downloads) subscribers.  
-Alternatively, you can find download links [here](https://massgrave.dev/genuine-installation-media).
+Alternatively, you can find download links [here](genuine-installation-media).
 
 ---
 
@@ -55,7 +55,7 @@ Alternatively, you can find download links [here](https://massgrave.dev/genuine-
 Follow these steps to manually create an updated Windows ISO:
 
 1. **Download the base ISO**  
-   - Get the official ISO from [MSDL](https://msdl.gravesoft.dev/) or [Microsoft](https://www.microsoft.com/en-us/software-download/) (Download ISO file directly; Media Creation Tool ISOs won’t work here.) or [here](https://massgrave.dev/genuine-installation-media).
+   - Get the official ISO from [MSDL](https://msdl.gravesoft.dev/) or [Microsoft](https://www.microsoft.com/en-us/software-download/) (Download ISO file directly; Media Creation Tool ISOs won’t work here.) or [here](genuine-installation-media).
 
 2. **Download W10UI**  
    - Get [W10UI](https://forums.mydigitallife.net/posts/1216064/).  

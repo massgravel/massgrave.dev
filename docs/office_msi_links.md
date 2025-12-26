@@ -30,7 +30,7 @@ All download links lead to genuine files only.
 :::warning[Info]
 
 - All of the Office versions listed below have reached end of life and no longer receive security updates. They are provided here for evaluation and archival purposes.
-- It is recommended to use the [**latest Office versions (O365, 2021, 2024)**](https://massgrave.dev/office_c2r_links).
+- It is recommended to use the [**latest Office versions (O365, 2021, 2024)**](office_c2r_links).
 
 :::
 

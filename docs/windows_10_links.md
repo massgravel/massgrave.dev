@@ -37,7 +37,7 @@ Windows 10 download from https://www.microsoft.com/en-us/software-download isn't
 **Windows 10 Consumer 22H2**
 
 Build - 19045.6456 (Oct 2025)  
-Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://massgrave.dev/update-windows-iso) if needed.
+Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](update-windows-iso) if needed.
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,7 +125,7 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 **Windows 10 Business 22H2**
 
 Build - 19045.6456 (Oct 2025)  
-Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://massgrave.dev/update-windows-iso) if needed.
+Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](update-windows-iso) if needed.
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
