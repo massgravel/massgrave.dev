@@ -11,7 +11,7 @@ All download links lead to genuine files only.
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
-- Microsoft does not provide monthly updated ISOs for LTSC editions. However, you can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+- Microsoft does not provide monthly updated ISOs for LTSC editions. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
 #### What is LTSC, and is it the right choice for you?
 
@@ -179,7 +179,7 @@ You might want to check [Windows 10 EOL guide](windows10_eol.md).
 IoT LTSC edition ISOs are available in English language only. However, you can follow the below steps to clean install it.
 
 - Download the non-IoT LTSC 2024 ISO in the desired language from the section below.
-- Follow [PID.txt method](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
+- Follow [PID.txt method](https://massgrave.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
 
 Alternatively, You can install Non-IoT LTSC in another language and later install IoT LTSC 2024 key `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` in activation page in Windows settings to change the edition.
 
@@ -197,7 +197,7 @@ When installing Windows 11 IoT Enterprise LTSC 2024 from scratch, one advantage 
 Our recommendation is as follows:
 
 - Download the non-IoT LTSC 2021 ISO in the desired language from the section below.
-- Install Windows using this [clean installation guide](https://gravesoft.dev/clean_install_windows).
+- Install Windows using this [clean installation guide](https://massgrave.dev/clean_install_windows).
 - After installing Windows, to change the edition, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in the Windows settings.
 
 </details>

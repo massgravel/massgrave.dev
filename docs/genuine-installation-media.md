@@ -24,8 +24,8 @@
 ## Download Office
 Activation with [MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) is required after the installation of Office.
 
--  [Office C2R Installers](https://gravesoft.dev/office_c2r_links) ❤️ (O365, 2024, 2021, 2019, 2016, 2013)  
--  [Office C2R Custom Install](https://gravesoft.dev/office_c2r_custom) (O365, 2024, 2021, 2019, 2016)
+-  [Office C2R Installers](office_c2r_links) ❤️ (O365, 2024, 2021, 2019, 2016, 2013)  
+-  [Office C2R Custom Install](office_c2r_custom) (O365, 2024, 2021, 2019, 2016)
 -  [Office MSI VL (Old versions)](office_msi_links.md) (2016, 2013, 2010, 2007, 2003, XP (2002))
 -  [Office For **Mac**](office_for_mac.md)                             
 
@@ -34,12 +34,12 @@ Activation with [MAS](intro.md#how-to-activate-windows--office--extended-updates
 ## FAQ
 
 #### Guides
-- [Clean Install Windows](https://gravesoft.dev/clean_install_windows)
-- [Manually Update Windows ISOs](https://gravesoft.dev/update-windows-iso)
-- [In-place Repair Upgrade (Keeping files and apps)](https://gravesoft.dev/in-place_repair_upgrade)
-- [Windows 11 on Unsupported Hardware](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
-- [Edition List During Windows Installation](https://gravesoft.dev/clean_install_windows#edition-list-during-windows-installation)
-- [Bypass Windows 11 Internet and Microsoft Account Requirements](https://gravesoft.dev/clean_install_windows#bypass-windows-11-internet-and-microsoft-account-requirements)
+- [Clean Install Windows](clean_install_windows)
+- [Manually Update Windows ISOs](update-windows-iso)
+- [In-place Repair Upgrade (Keeping files and apps)](in-place_repair_upgrade)
+- [Windows 11 on Unsupported Hardware](clean_install_windows#windows-11-on-unsupported-hardware)
+- [Edition List During Windows Installation](clean_install_windows#edition-list-during-windows-installation)
+- [Bypass Windows 11 Internet and Microsoft Account Requirements](clean_install_windows#bypass-windows-11-internet-and-microsoft-account-requirements)
 - [Windows 10 Updates After End-Of-Life](windows10_eol.md)
 
 #### Why are we hosting files on our server when we can download them from Microsoft?

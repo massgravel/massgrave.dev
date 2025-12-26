@@ -88,38 +88,6 @@ const config = {
             to: '/change_windows_edition',
           },
           {
-            from: '/in-place_repair_upgrade',
-            to: 'https://gravesoft.dev/in-place_repair_upgrade',
-          },
-          {
-            from: '/bypass-russian-geoblock',
-            to: 'https://gravesoft.dev/bypass-russian-geoblock',
-          },
-          {
-            from: '/fix-wpa-registry',
-            to: 'https://gravesoft.dev/fix-wpa-registry',
-          },
-          {
-            from: '/office_c2r_links',
-            to: 'https://gravesoft.dev/office_c2r_links',
-          },
-          {
-            from: '/office_c2r_custom',
-            to: 'https://gravesoft.dev/office_c2r_custom',
-          },
-          {
-            from: '/fix_powershell',
-            to: 'https://gravesoft.dev/fix_powershell',
-          },
-          {
-            from: '/remove_malware',
-            to: 'https://gravesoft.dev/remove_malware',
-          },
-          {
-            from: '/clean_install_windows',
-            to: 'https://gravesoft.dev/clean_install_windows',
-          },
-          {
             from: '/msdl',
             to: 'https://msdl.gravesoft.dev/',
           },
@@ -198,10 +166,6 @@ const config = {
               {
                 label: 'MAS Changelog',
                 to: '/changelog',
-              },
-              {
-                label: 'Our Non-Piracy Site',
-                to: '/our_non-piracy_site',
               },
               {
                 label: 'Contribute',

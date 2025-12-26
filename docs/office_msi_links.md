@@ -9,7 +9,7 @@ All download links lead to genuine files only.
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - This page has links for old MSI Office versions only.
-- To download the **latest Office files from official Microsoft links**, check https://gravesoft.dev/office_c2r_links
+- To download the **latest Office files from official Microsoft links**, see [this page](office_c2r_links)
 
 ---
 
@@ -30,7 +30,7 @@ All download links lead to genuine files only.
 :::warning[Info]
 
 - All of the Office versions listed below have reached end of life and no longer receive security updates. They are provided here for evaluation and archival purposes.
-- It is recommended to use the [**latest Office versions (O365, 2021, 2024)**](https://gravesoft.dev/office_c2r_links).
+- It is recommended to use the [**latest Office versions (O365, 2021, 2024)**](https://massgrave.dev/office_c2r_links).
 
 :::
 

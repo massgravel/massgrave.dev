@@ -10,7 +10,7 @@ All download links lead to genuine files only.
 - [Windows 10 updates after End-Of-Life.](windows10_eol.md)
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - The Consumer ISO includes all editions, such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO includes all editions except for the Home versions.
-- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
 ---
 
@@ -37,7 +37,7 @@ Windows 10 download from https://www.microsoft.com/en-us/software-download isn't
 **Windows 10 Consumer 22H2**
 
 Build - 19045.6456 (Oct 2025)  
-Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://massgrave.dev/update-windows-iso) if needed.
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,7 +125,7 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 **Windows 10 Business 22H2**
 
 Build - 19045.6456 (Oct 2025)  
-Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+Windows 10 reached end of life on October 14, 2025. Microsoft will no longer provide monthly updated ISOs. You can [manually update Windows ISO file](https://massgrave.dev/update-windows-iso) if needed.
 
 | Language               | Arch | Link                                                                                                                                                                                                                     |
 |:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

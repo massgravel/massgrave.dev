@@ -44,7 +44,7 @@ The solution is simple. You can just use the Official Windows 10 IoT Enterprise 
 The IoT edition ISO is available in English language only, but don't worry. 
 
 - Download [Enterprise LTSC 2021](windows_ltsc_links.md) ISO in your desired language. The ISO file does not need to be the IoT version.
-- Install Windows using this [clean installation guide](https://gravesoft.dev/clean_install_windows).
+- Install Windows using this [clean installation guide](clean_install_windows).
 - After installing Windows, to change the edition, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in the Windows settings.
 - You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
 
@@ -122,11 +122,11 @@ You can officially install these Windows 11 editions without meeting the usual h
 The IoT edition ISO is available in English language only, but don't worry. 
 
 - Download any [Windows 11 25H2](windows_11_links.md) (For GAC) or [Enterprise LTSC 2024](windows_ltsc_links.md) (For LTSC) ISO in your desired language. The ISO file does not need to be the IoT version.
-- Follow [normal clean installation guide](https://gravesoft.dev/clean_install_windows) if you are using IoT edition English language ISO.
-- Follow [PID.txt method](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT edition from scratch if you are using Non-IoT ISO.
+- Follow [normal clean installation guide](https://massgrave.dev/clean_install_windows) if you are using IoT edition English language ISO.
+- Follow [PID.txt method](https://massgrave.dev/clean_install_windows#windows-11-on-unsupported-hardware) to install IoT edition from scratch if you are using Non-IoT ISO.
 - You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
 
-Alternatively, you can install any Windows 11 25H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO file with [Rufus](https://gravesoft.dev/clean_install_windows) and once the installation is done, you can use the change edition option in MAS to switch the edition to IoT Enterprise and enjoy official support on unsupported hardware.
+Alternatively, you can install any Windows 11 25H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO file with [Rufus](https://massgrave.dev/clean_install_windows) and once the installation is done, you can use the change edition option in MAS to switch the edition to IoT Enterprise and enjoy official support on unsupported hardware.
 
 </details>
 
@@ -138,7 +138,7 @@ Alternatively, you can install any Windows 11 25H2 (For GAC) or Enterprise LTSC 
 :::note
 
 - **If you are using Windows 11 24H2/25H2** and trying to upgrade to Windows 11 IoT LTSC 2024 using the guide below, it **will not work**.  
-- In this case, you need the latest monthly updated Windows 11 LTSC 2024 ISO. Since Microsoft does not provide updated ISO files for LTSC, you must [manually update the ISO file](https://gravesoft.dev/update-windows-iso) before following the guide below.
+- In this case, you need the latest monthly updated Windows 11 LTSC 2024 ISO. Since Microsoft does not provide updated ISO files for LTSC, you must [manually update the ISO file](https://massgrave.dev/update-windows-iso) before following the guide below.
 
 :::
 

@@ -38,16 +38,8 @@ const sidebars = {
           type: 'html',
           value: '<hr class="sidebar-hr" />',
         },
-        {
-          type: 'link',
-          label: 'Office C2R Installers',
-          href: 'https://gravesoft.dev/office_c2r_links',
-        },
-        {
-          type: 'link',
-          label: 'Office C2R Custom Install',
-          href: 'https://gravesoft.dev/office_c2r_custom',
-        },
+        'office_c2r_links',
+        'office_c2r_custom',
         'office_msi_links',
         'office_for_mac'
       ],
@@ -75,54 +67,19 @@ const sidebars = {
       items: [
         'windows10_eol',
         'office-license-is-not-genuine',
-        {
-          type: 'link',
-          label: 'Bypass Microsoft Geoblocking',
-          href: 'https://gravesoft.dev/bypass-microsoft-geoblocking',
-          description: 'Microsoft blocks services in certain countries due to U.S. laws and local legal regulations. For example, users in Russia may not be able to download Windows or Office.'
-        },
-        {
-          type: 'link',
-          label: 'Fix WPA Registry',
-          href: 'https://gravesoft.dev/fix-wpa-registry',
-          description: 'In some cases, the system may have corrupt WPA registry keys at HKEY_LOCAL_MACHINE\\SYSTEM\\WPA which can cause sppsvc to not work and activation to fail, it can also cause high CPU usage in sppsvc service.'
-        },
+        'bypass_microsoft_geoblocking',
+        'fix-wpa-registry',
         'licensing-servers-issue',
         'issues_due_to_gaming_spoofers',
         'fix_service',
         'change_edition_issues',
         'evaluation_editions',
-        {
-          type: 'link',
-          label: 'Fix Powershell',
-          href: 'https://gravesoft.dev/fix_powershell',
-          description: 'Scripts may show an error related to Powershell not working.'
-        },
+        'fix_powershell',
         'powershell-on-legacy-windows',
-        {
-          type: 'link',
-          label: 'Update Windows ISO',
-          href: 'https://gravesoft.dev/update-windows-iso',
-          description: 'Guide on how to manually update Windows ISO file.'
-        },
-        {
-          type: 'link',
-          label: 'In-Place Repair Upgrade',
-          href: 'https://gravesoft.dev/in-place_repair_upgrade',
-          description: 'In-place repair upgrade using Windows ISO file is a good way to fix system errors.'
-        },
-        {
-          type: 'link',
-          label: 'Remove Malware',
-          href: 'https://gravesoft.dev/remove_malware',
-          description: 'Guide on how to remove malware.'
-        },
-        {
-          type: 'link',
-          label: 'Clean Install Windows',
-          href: 'https://gravesoft.dev/clean_install_windows',
-          description: 'Guide on how to backup your data and clean install Windows.'
-        },
+        'update-windows-iso',
+        'in-place_repair_upgrade',
+        'remove_malware',
+        'clean_install_windows'
       ]
     },
     {
@@ -133,7 +90,6 @@ const sidebars = {
     'unsupported_products_activation',
     'news',
     'changelog',
-    'our_non-piracy_site',
     'contribute',
     'credits',
     'contactus',

@@ -9,7 +9,7 @@ All download links lead to genuine files only.
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 -   **Windows Server 2008 and later can be permanently activated with TSforge option in MAS.**
-- Microsoft provides monthly updated ISOs for Server 2025 and 2022 on the third Tuesday of each month. However, you can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+- Microsoft provides monthly updated ISOs for Server 2025 and 2022 on the third Tuesday of each month. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
 ------------------------------------------------------------------------
 

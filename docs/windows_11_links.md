@@ -9,10 +9,10 @@ All download links lead to genuine files only.
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - The Consumer ISO includes all editions, such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO includes all editions except for the Home versions.
-- [How to bypass Windows 11 Internet and Microsoft Account requirements?](https://gravesoft.dev/clean_install_windows#bypass-windows-11-internet-and-microsoft-account-requirements)
+- [How to bypass Windows 11 Internet and Microsoft Account requirements?](clean_install_windows#bypass-windows-11-internet-and-microsoft-account-requirements)
 - [How to clean install Windows 11 IoT Enterprise 25H2 in Non-English language?  
-  How to install Windows 11 on unsupported hardware?](https://gravesoft.dev/clean_install_windows#windows-11-on-unsupported-hardware)
-- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+  How to install Windows 11 on unsupported hardware?](clean_install_windows#windows-11-on-unsupported-hardware)
+- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
 ------------------------------------------------------------------------
 
