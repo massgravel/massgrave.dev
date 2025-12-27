@@ -95,7 +95,7 @@ Yes.
 ---
 
 #### I'm in Russia and Office is not downloading.
-Follow this [guide](bypass-microsoft-geoblocking).
+Follow this [guide](/bypass-microsoft-geoblocking).
 
 ---
 
@@ -149,3 +149,4 @@ However, if you would like to contribute in non-financial ways, please visit [th
 If you have any other questions, feel free to connect with us [here](contactus.md).
 
 :::
+
