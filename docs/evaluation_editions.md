@@ -94,12 +94,11 @@ You can repeat this process 2 times (a total of 270 days of activation).
 
 ### Reset the activation at any given time
 
-#### Method -1
+#### Method 1
 You can use TSforge option in MAS to reset the activation (trial) period at any given time.
 
-#### Method -2
-WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` hold the records of the trial period. By clearing this registry we can simply reset the activation (trial) period at any given time. You can follow below guide to do this.  
-https://gravesoft.dev/fix-wpa-registry
+#### Method 2
+WPA registry keys at `HKEY_LOCAL_MACHINE\SYSTEM\WPA` hold the records of the trial period. By clearing this registry we can simply reset the activation (trial) period at any given time. You can follow [this guide](fix-wpa-registry).
 
 :::note
 

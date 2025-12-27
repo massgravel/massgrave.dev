@@ -10,7 +10,7 @@ All download links lead to genuine files only.
 - You need an ARM64 processor (CPU) to install Windows ARM64 architecture OS.
 - [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - The Consumer ISO includes all editions, such as Home, Pro, and Education, but excludes the Enterprise edition. In contrast, the Business ISO includes all editions except for the Home versions.
-- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](https://gravesoft.dev/update-windows-iso) if needed.
+- Microsoft provides monthly updated ISOs for consumer and business versions on the third Tuesday of each month. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
 ------------------------------------------------------------------------
 

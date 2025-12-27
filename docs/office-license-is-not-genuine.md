@@ -65,7 +65,7 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPla
 
 As mentioned in the Reasons section, these checks are performed only if Retail Office is installed and was later converted to VL. The office doesn't perform any kind of related checks if the proper installation of the VL office is done. (Not applicable to PerpetualVL2024)
 
-Please see the guide [here](https://gravesoft.dev/office_c2r_custom) for VL Office installation.
+Please see the guide [here](office_c2r_custom) for VL Office installation.
 
 ------------------------------------------------------------------------
 
