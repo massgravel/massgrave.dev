@@ -45,7 +45,7 @@ Microsoft 365 receive regular updates with new features and improvements across 
 
 ---
 
-**Russian** users need to follow [this guide](/bypass_microsoft_geoblocking) to bypass geoblock in Office downloading.
+**Russian** users need to follow [this guide](bypass_microsoft_geoblocking) to bypass geoblock in Office downloading.
 
 </details>
 
