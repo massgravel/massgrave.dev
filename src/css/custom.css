@@ -107,6 +107,40 @@
   margin: 1px 0 0 -7px;
 }
 
+@media (max-width: 996px) {
+  .navbar__items--right > div[class*="toggle"],
+  .navbar__items--right > div[class*="colorMode"] {
+    display: flex !important;
+  }
+  
+  .navbar__items--right > div[class*="toggle"] button,
+  .navbar__items--right > div[class*="colorMode"] button {
+    display: flex !important;
+  }
+  
+  .navbar-sidebar div[class*="toggle"],
+  .navbar-sidebar div[class*="colorMode"] {
+    display: none !important;
+  }
+  
+  .navbar-sidebar button[title*="Switch between"],
+  .navbar-sidebar button[aria-label*="Switch between"] {
+    display: none !important;
+  }
+  
+  .navbar__item.discord-button,
+  .navbar__item.github-button {
+    display: flex !important;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .navbar__item.github-button::before {
+    margin: 0 !important;
+  }
+}
+
 table {
   font-family: var(--ifm-font-family-monospace);
   font-size: var(--ifm-code-font-size);
