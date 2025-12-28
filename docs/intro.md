@@ -13,7 +13,7 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 
 ### How to Activate Windows / Office / Extended Updates (ESU)?
 
-#### Method 1 - PowerShell ❤️
+#### Method 1 - PowerShell ❤️ (Windows 8.1 and later)
 
 :::info
 
@@ -21,7 +21,6 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
    Click the **Start Menu**, type `PowerShell`, then open it.
 
 2. **Copy and paste the code below, then press enter.**  
-   - For **Windows 8, 10, 11**: 📌
      ```
      irm https://get.activated.win | iex
      ```
@@ -29,6 +28,10 @@ Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Onl
 	 ```
 	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
 	 ```
+    Older versions of Windows will require running this command beforehand:
+    ```
+    [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
+    ```
 
 3. The activation menu will appear. **Choose the green-highlighted options** to activate Windows or Office.
 
