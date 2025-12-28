@@ -136,6 +136,10 @@
     justify-content: center;
   }
   
+  .navbar__item.discord-button::before {
+    margin: 3px 0 0 0 !important;
+  }
+  
   .navbar__item.github-button::before {
     margin: 0 !important;
   }
