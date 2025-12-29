@@ -168,10 +168,6 @@ const config = {
                 to: '/changelog',
               },
               {
-                label: 'Contribute',
-                to: '/contribute',
-              },
-              {
                 label: 'Credits',
                 to: '/credits',
               },

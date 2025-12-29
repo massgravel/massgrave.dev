@@ -140,8 +140,6 @@ Yes, TSforge, Ohook, and online KMS options work on Windows Vista/7/8.1.
 The MASSGRAVE project doesn't accept donations and it's free.  
 It's because it's a community project and involves many contributors, splitting donations is not practical, and also because profiting from piracy is not good.
 
-However, if you would like to contribute in non-financial ways, please visit [this page](contribute.md) for more information.
-
 ---
 
 :::tip

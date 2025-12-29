@@ -90,7 +90,6 @@ const sidebars = {
     'unsupported_products_activation',
     'news',
     'changelog',
-    'contribute',
     'credits',
     'contactus',
   ],
