@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+Windows:
+  label: Windows
+  permalink: /windows
+  description: Windows
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+Activation:
+  label: Activation
+  permalink: /activation
+  description: Windows Activation
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+MAS:
+  label: MAS
+  permalink: /mas
+  description: Microsoft Activation Scripts

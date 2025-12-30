@@ -24,7 +24,6 @@ const config = {
   projectName: 'massgrave.dev', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
@@ -91,6 +90,13 @@ const config = {
       },
     ],
   ],
+
+  markdown:
+  ({
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    }
+  }),
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
