@@ -180,13 +180,6 @@ const config = {
             label: 'Contact Us',
           },
           {
-            href: 'https://discord.gg/j2yFsV5ZVC',
-            className: 'discord-button',
-            position: 'right',
-            label: 'Discord',
-            "title": 'Chat with us on Discord',
-          },
-          {
             href: 'https://github.com/massgravel/Microsoft-Activation-Scripts',
             className: 'github-button',
             position: 'right',

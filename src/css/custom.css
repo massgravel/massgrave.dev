@@ -74,8 +74,7 @@
   backdrop-filter: blur(1rem);
 }
 
-.navbar__inner .github-button,
-.navbar__inner .discord-button {
+.navbar__inner .github-button {
   width: 32px;
   height: 32px;
   font-size: 0;
@@ -84,22 +83,15 @@
   padding: var(--ifm-navbar-item-padding-vertical) var(--ifm-navbar-item-padding-horizontal);
 }
 
-.navbar__inner .github-button *,
-.navbar__inner .discord-button * {
+.navbar__inner .github-button * {
   display: none;
 }
 
-.navbar__inner .github-button:before,
-.navbar__inner .discord-button:before {
+.navbar__inner .github-button:before {
   content: '';
   width: 22px;
   height: 22px;
   display: block;
-}
-
-.navbar__inner .discord-button:before {
-  background: url('/img/discord.svg') no-repeat;
-  margin: 3px 0 0 -7px;
 }
 
 .navbar__inner .github-button:before {
@@ -128,16 +120,11 @@
     display: none !important;
   }
   
-  .navbar__item.discord-button,
   .navbar__item.github-button {
     display: flex !important;
     padding: 5px;
     align-items: center;
     justify-content: center;
-  }
-  
-  .navbar__item.discord-button::before {
-    margin: 3px 0 0 0 !important;
   }
   
   .navbar__item.github-button::before {
