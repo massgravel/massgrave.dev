@@ -1,4 +1,11 @@
 # Download Windows / Office
+:::warning
+
+Due to some ongoing technical issues, **most download links will not work**. If the link for the ISO you want isn't working, you can get your ISO from other sources, such as:
+- https://os.click
+- https://files.rg-adguard.net
+
+:::
 
 :::info
 
