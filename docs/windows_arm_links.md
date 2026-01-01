@@ -181,7 +181,7 @@ ARM64 version for LTSC is available only in English language.
 
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso) |
+| English  | ARM64 | [en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso](https://buzzheavier.com/i44xrak0z5o5) |
 
 </TabItem>
 
@@ -296,7 +296,7 @@ ARM64 version for LTSC is available only in English language.
 
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso) |
+| English  | ARM64 | [en-us_windows_10_iot_enterprise_ltsc_2021_arm64_dvd_e8d4fc46.iso](https://buzzheavier.com/4ib5kvl31k4c) |
 
 </TabItem>
 
