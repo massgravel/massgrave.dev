@@ -214,9 +214,9 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 **(Not LTSC)**  
 Updated Oct 2022 (Build - 19045.2006) (Only English RTM ISO is available)
 
-| Language | Arch | Link                                                                                                                                                               |
-|:---------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | x64  | [en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso) |
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en-us_windows_10_iot_enterprise_version_22h2_x64_dvd_51cc370f.iso](https://buzzheavier.com/5eerq83cpgwi) |
 
 
 :::info

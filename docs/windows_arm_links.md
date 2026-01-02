@@ -79,46 +79,46 @@ Official Microsoft **static download links** are provided below. You can also do
 
 Build - 26200.6584
 
-| Language       | Arch  | Link                                                                                                                                                                                           |
-|:---------------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-13113.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-13113.iso) |
-| Brazilian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-13108.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-13108.iso) |
-| Bulgarian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-13114.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-13114.iso) |
-| ChnSimp        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-13110.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-13110.iso) |
-| ChnTrad        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-13139.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-13139.iso) |
-| Croatian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-13106.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-13106.iso) |
-| Czech          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-13115.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-13115.iso) |
-| Danish         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-13117.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-13117.iso) |
-| Dutch          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-13129.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-13129.iso) |
-| Eng Intl       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-13140.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-13140.iso) |
-| English        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_English_Pro_Ent_EDU_N_MLF_X24-13111.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_English_Pro_Ent_EDU_N_MLF_X24-13111.iso) |
-| Estonian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-13127.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-13127.iso) |
-| Finnish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-13134.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-13134.iso) |
-| FrenchCanadian | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-13109.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-13109.iso) |
-| French         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_French_Pro_Ent_EDU_N_MLF_X24-13119.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_French_Pro_Ent_EDU_N_MLF_X24-13119.iso) |
-| German         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_German_Pro_Ent_EDU_N_MLF_X24-13116.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_German_Pro_Ent_EDU_N_MLF_X24-13116.iso) |
-| Greek          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-13120.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-13120.iso) |
-| Hebrew         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-13121.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-13121.iso) |
-| Hungarian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-13122.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-13122.iso) |
-| Italian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-13123.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-13123.iso) |
-| Japanese       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-13124.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-13124.iso) |
-| Korean         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-13125.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-13125.iso) |
-| Latvian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-13104.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-13104.iso) |
-| Lithuanian     | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-13105.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-13105.iso) |
-| Norwegian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-13128.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-13128.iso) |
-| Polish         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-13131.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-13131.iso) |
-| Portuguese     | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-13130.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-13130.iso) |
-| Romanian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-13132.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-13132.iso) |
-| Russian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-13136.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-13136.iso) |
-| SerbianLatin   | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-13112.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-13112.iso) |
-| Slovak         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-13135.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-13135.iso) |
-| Slovenian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-13126.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-13126.iso) |
-| SpanishLatam   | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-13141.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-13141.iso) |
-| Spanish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-13118.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-13118.iso) |
-| Swedish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-13133.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-13133.iso) |
-| Thai           | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-13137.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-13137.iso) |
-| Turkish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-13138.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-13138.iso) |
-| Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-13107.iso](https://drive.massgrave.dev/SW_DVD9_Win_Pro_11_25H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-13107.iso) |
+| Language       | Arch  | Link |
+|:---------------|:------|:---|
+| Arabic         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-13113.iso](https://buzzheavier.com/rax68muvsf0i) |
+| Brazilian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-13108.iso](https://buzzheavier.com/wntbc76l4opi) |
+| Bulgarian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-13114.iso](https://buzzheavier.com/x8dvng9xozup) |
+| ChnSimp        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-13110.iso](https://buzzheavier.com/3loyjg4uctoa) |
+| ChnTrad        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-13139.iso](https://buzzheavier.com/ee5du9a9m1er) |
+| Croatian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-13106.iso](https://buzzheavier.com/xdpqcbsz1zxu) |
+| Czech          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-13115.iso](https://buzzheavier.com/g0p8hw83yla8) |
+| Danish         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-13117.iso](https://buzzheavier.com/1rj38yqknc4n) |
+| Dutch          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-13129.iso](https://buzzheavier.com/hp8f5hs8hb9y) |
+| Eng Intl       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-13140.iso](https://buzzheavier.com/8szo7fi348ca) |
+| English        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_English_Pro_Ent_EDU_N_MLF_X24-13111.iso](https://buzzheavier.com/j9rf7ft5zag3) |
+| Estonian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-13127.iso](https://buzzheavier.com/do9j79hxu7kl) |
+| Finnish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-13134.iso](https://buzzheavier.com/zuslaq1l2f83) |
+| FrenchCanadian | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-13109.iso](https://buzzheavier.com/y5tux6nix3q6) |
+| French         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_French_Pro_Ent_EDU_N_MLF_X24-13119.iso](https://buzzheavier.com/7s9bq3ai383l) |
+| German         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_German_Pro_Ent_EDU_N_MLF_X24-13116.iso](https://buzzheavier.com/3oexps0or8no) |
+| Greek          | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-13120.iso](https://buzzheavier.com/r4wu6i55bdtt) |
+| Hebrew         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-13121.iso](https://buzzheavier.com/dst1l69zjnf2) | 
+| Hungarian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-13122.iso](https://buzzheavier.com/gwa4avt8lbia) |
+| Italian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-13123.iso](https://buzzheavier.com/vf9yevnq12jg) |
+| Japanese       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-13124.iso](https://buzzheavier.com/4s1a4awts35x) |
+| Korean         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-13125.iso](https://buzzheavier.com/8ye4sgdedlz2) |
+| Latvian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-13104.iso](https://buzzheavier.com/vjb1yaxg4w5m) |
+| Lithuanian     | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-13105.iso](https://buzzheavier.com/a49fotwae3k0) |
+| Norwegian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-13128.iso](https://buzzheavier.com/y7wbjzqac1wm) |
+| Polish         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-13131.iso](https://buzzheavier.com/tzy46a9np3zi) |
+| Portuguese     | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-13130.iso](https://buzzheavier.com/lpdek7jdsav2) |
+| Romanian       | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-13132.iso](https://buzzheavier.com/oh6xm3vahgd7) |
+| Russian        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-13136.iso](https://buzzheavier.com/74bc2h7eznzf) |
+| SerbianLatin   | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-13112.iso](https://buzzheavier.com/faacydrq1wtp) |
+| Slovak         | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-13135.iso](https://buzzheavier.com/4c0wx2zeswpt) |
+| Slovenian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-13126.iso](https://buzzheavier.com/njmot5jtv4ja) |
+| SpanishLatam   | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-13141.iso](https://buzzheavier.com/i4l6v1k3h2r5) |
+| Spanish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-13118.iso](https://buzzheavier.com/gcx6sy2proz1) |
+| Swedish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-13133.iso](https://buzzheavier.com/jtuq8hk3qusf) |
+| Thai           | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-13137.iso](https://buzzheavier.com/8djn2s6an252) |
+| Turkish        | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-13138.iso](https://buzzheavier.com/i60eeemmo51k) |
+| Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_11_25H2_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-13107.iso](https://buzzheavier.com/cngz2o43jteh) |
 
 </TabItem>
 <TabItem value="Windows 11 IoT Enterprise 25H2" label="Windows 11 IoT Enterprise 25H2" default>
@@ -134,9 +134,9 @@ Windows 11 IoT Enterprise Subscription
 
 ARM64 version for IoT Enterprise ISO is available only in English language.  
 
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_25h2_arm64_dvd_59e0d737.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_25h2_arm64_dvd_59e0d737.iso) |
+| Language | Arch  | Link |
+|:---------|:------|:---|
+| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_25h2_arm64_dvd_59e0d737.iso](https://buzzheavier.com/o7s7cmyze7tz) |
 
 
 :::info
@@ -179,8 +179,8 @@ Windows 11 IoT Enterprise Subscription LTSC
 
 ARM64 version for LTSC is available only in English language.  
 
-| Language | Arch  | Link                                                                                                                                                             |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Language | Arch  | Link |
+|:---------|:------|:---|
 | English  | ARM64 | [en-us_windows_11_iot_enterprise_ltsc_2024_arm64_dvd_ec517836.iso](https://buzzheavier.com/i44xrak0z5o5) |
 
 </TabItem>
@@ -207,46 +207,46 @@ ARM64 version for LTSC is available only in English language.
 
 Build - 19045.5854
 
-| Language       | Arch  | Link                                                                                                                                                                                           |
-|:---------------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-05064.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-05064.ISO) |
-| Brazilian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-05065.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-05065.ISO) |
-| Bulgarian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-05066.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-05066.ISO) |
-| ChnSimp        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-05067.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-05067.ISO) |
-| ChnTrad        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-05068.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-05068.ISO) |
-| Croatian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-05069.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-05069.ISO) |
-| Czech          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-05070.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-05070.ISO) |
-| Danish         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-05071.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-05071.ISO) |
-| Dutch          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-05072.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-05072.ISO) |
-| Eng Intl       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-05073.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-05073.ISO) |
-| English        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_English_Pro_Ent_EDU_N_MLF_X24-05074.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_English_Pro_Ent_EDU_N_MLF_X24-05074.ISO) |
-| Estonian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-05075.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-05075.ISO) |
-| Finnish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-05076.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-05076.ISO) |
-| FrenchCanadian | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-05078.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-05078.ISO) |
-| French         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_French_Pro_Ent_EDU_N_MLF_X24-05077.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_French_Pro_Ent_EDU_N_MLF_X24-05077.ISO) |
-| German         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_German_Pro_Ent_EDU_N_MLF_X24-05079.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_German_Pro_Ent_EDU_N_MLF_X24-05079.ISO) |
-| Greek          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-05080.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-05080.ISO) |
-| Hebrew         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-05081.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-05081.ISO) |
-| Hungarian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-05082.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-05082.ISO) |
-| Italian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-05083.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-05083.ISO) |
-| Japanese       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-05084.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-05084.ISO) |
-| Korean         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-05085.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-05085.ISO) |
-| Latvian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-05086.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-05086.ISO) |
-| Lithuanian     | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-05087.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-05087.ISO) |
-| Norwegian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-05088.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-05088.ISO) |
-| Polish         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-05089.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-05089.ISO) |
-| Portuguese     | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-05090.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-05090.ISO) |
-| Romanian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-05091.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-05091.ISO) |
-| Russian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-05092.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-05092.ISO) |
-| SerbianLatin   | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-05093.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-05093.ISO) |
-| Slovak         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-05094.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-05094.ISO) |
-| Slovenian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-05095.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-05095.ISO) |
-| SpanishLatam   | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-05096.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-05096.ISO) |
-| Spanish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-05097.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-05097.ISO) |
-| Swedish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-05098.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-05098.ISO) |
-| Thai           | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-05099.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-05099.ISO) |
-| Turkish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-05100.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-05100.ISO) |
-| Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-05101.ISO](https://drive.massgrave.dev/SW_DVD9_Win_Pro_10_22H2.31_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-05101.ISO) |
+| Language       | Arch  | Link |
+|:---------------|:------|:----|
+| Arabic         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Arabic_Pro_Ent_EDU_N_MLF_X24-05064.iso](https://buzzheavier.com/6ygeyvw2a9nr) |
+| Brazilian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Brazilian_Pro_Ent_EDU_N_MLF_X24-05065.iso](https://buzzheavier.com/1l5tovygj45v) |
+| Bulgarian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Bulgarian_Pro_Ent_EDU_N_MLF_X24-05066.iso](https://buzzheavier.com/kyiheggm643b) |
+| ChnSimp        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnSimp_Pro_Ent_EDU_N_MLF_X24-05067.iso](https://buzzheavier.com/t103tkf4vqzj) |
+| ChnTrad        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_ChnTrad_Pro_Ent_EDU_N_MLF_X24-05068.iso](https://buzzheavier.com/9hceasdehq6k) |
+| Croatian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Croatian_Pro_Ent_EDU_N_MLF_X24-05069.iso](https://buzzheavier.com/8eyv4fgqxdkr) |
+| Czech          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Czech_Pro_Ent_EDU_N_MLF_X24-05070.iso](https://buzzheavier.com/yv4w9kjhkmn2) |
+| Danish         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Danish_Pro_Ent_EDU_N_MLF_X24-05071.iso](https://buzzheavier.com/2uqmrk2clrkn) |
+| Dutch          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Dutch_Pro_Ent_EDU_N_MLF_X24-05072.iso](https://buzzheavier.com/aj0vxrdwuwqy) |
+| Eng Intl       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Eng_Intl_Pro_Ent_EDU_N_MLF_X24-05073.iso](https://buzzheavier.com/q61gol665dx5) |
+| English        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_English_Pro_Ent_EDU_N_MLF_X24-05074.iso](https://buzzheavier.com/d7bcpebvol6e) |
+| Estonian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Estonian_Pro_Ent_EDU_N_MLF_X24-05075.iso](https://buzzheavier.com/1kfg1ou46voy) |
+| Finnish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Finnish_Pro_Ent_EDU_N_MLF_X24-05076.iso](https://buzzheavier.com/yi5y6aq1blj0) |
+| FrenchCanadian | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_FrenchCanadian_Pro_Ent_EDU_N_MLF_X24-05078.iso](https://buzzheavier.com/3pl98ka4kmyi) |
+| French         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_French_Pro_Ent_EDU_N_MLF_X24-05077.iso](https://buzzheavier.com/u832mhnmuldd) |
+| German         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_German_Pro_Ent_EDU_N_MLF_X24-05079.iso](https://buzzheavier.com/ylugqtrqyvox) |
+| Greek          | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Greek_Pro_Ent_EDU_N_MLF_X24-05080.iso](https://buzzheavier.com/gajf9wf0j1n5) |
+| Hebrew         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hebrew_Pro_Ent_EDU_N_MLF_X24-05081.iso](https://buzzheavier.com/5iw1lsj906f9) |
+| Hungarian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Hungarian_Pro_Ent_EDU_N_MLF_X24-05082.iso](https://buzzheavier.com/0hg3zm5li3z7) |
+| Italian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Italian_Pro_Ent_EDU_N_MLF_X24-05083.iso](https://buzzheavier.com/4cdul8qsazqw) |
+| Japanese       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Japanese_Pro_Ent_EDU_N_MLF_X24-05084.iso](https://buzzheavier.com/v85ffza06ar3) |
+| Korean         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Korean_Pro_Ent_EDU_N_MLF_X24-05085.iso](https://buzzheavier.com/opwqt3w7lay4) |
+| Latvian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Latvian_Pro_Ent_EDU_N_MLF_X24-05086.iso](https://buzzheavier.com/ukru4dgbxl0v) |
+| Lithuanian     | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Lithuanian_Pro_Ent_EDU_N_MLF_X24-05087.iso](https://buzzheavier.com/g9h44n5vt9mt) |
+| Norwegian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Norwegian_Pro_Ent_EDU_N_MLF_X24-05088.iso](https://buzzheavier.com/itmf0iwetse0) |
+| Polish         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Polish_Pro_Ent_EDU_N_MLF_X24-05089.iso](https://buzzheavier.com/y7jfdho603xy) |
+| Portuguese     | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Portuguese_Pro_Ent_EDU_N_MLF_X24-05090.iso](https://buzzheavier.com/j0ashjb9p8ud) |
+| Romanian       | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Romanian_Pro_Ent_EDU_N_MLF_X24-05091.iso](https://buzzheavier.com/s9aa84ydp34t) |
+| Russian        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Russian_Pro_Ent_EDU_N_MLF_X24-05092.iso](https://buzzheavier.com/o6q1dc6mj6tt) |
+| SerbianLatin   | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Serbian_Latin_Pro_Ent_EDU_N_MLF_X24-05093.iso](https://buzzheavier.com/pucqwpv6oomf) |
+| Slovak         | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovak_Pro_Ent_EDU_N_MLF_X24-05094.iso](https://buzzheavier.com/xlwyav8whtxw) |
+| Slovenian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Slovenian_Pro_Ent_EDU_N_MLF_X24-05095.iso](https://buzzheavier.com/r6lgdifsh16t) |
+| SpanishLatam   | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Latam_Pro_Ent_EDU_N_MLF_X24-05096.iso](https://buzzheavier.com/4dcrsy721v1g) |
+| Spanish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Spanish_Pro_Ent_EDU_N_MLF_X24-05097.iso](https://buzzheavier.com/1c0y79uapzee) |
+| Swedish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Swedish_Pro_Ent_EDU_N_MLF_X24-05098.iso](https://buzzheavier.com/0sbvnpwl74fa) |
+| Thai           | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Thai_Pro_Ent_EDU_N_MLF_X24-05099.iso](https://buzzheavier.com/5856930cvcdb) |
+| Turkish        | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Turkish_Pro_Ent_EDU_N_MLF_X24-05100.iso](https://buzzheavier.com/8k7dib6258pi) |
+| Ukrainian      | ARM64 | [SW_DVD9_Win_Pro_10_22H2.31_Arm64_Ukrainian_Pro_Ent_EDU_N_MLF_X24-05101.iso](https://buzzheavier.com/mummyjfmghrj) |
 
 </TabItem>
 <TabItem value="Windows 10 IoT Enterprise 22H2" label="Windows 10 IoT Enterprise 22H2" default>
@@ -256,9 +256,9 @@ Build - 19045.5854
 Build - 19045.2006  
 ARM64 version for IoT Enterprise ISO is available only in English language.  
 
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | ARM64 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://drive.massgrave.dev/en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso) |
+| Language | Arch  | Link |
+|:---------|:------|:---|
+| English  | ARM64 | [en-us_windows_10_iot_enterprise_version_22h2_arm64_dvd_39566b6b.iso](https://buzzheavier.com/uhqlfsstpxex) |
 
 :::info
 

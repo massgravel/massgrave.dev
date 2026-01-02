@@ -235,9 +235,9 @@ Windows 11 IoT Enterprise Subscription
 
 IoT Enterprise ISO is available only in English language.  
 
-| Language | Arch  | Link                                                                                                                                                                   |
-|:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English  | x64 | [en-us_windows_11_iot_enterprise_version_25h2_x64_dvd_67098cd6.iso](https://drive.massgrave.dev/en-us_windows_11_iot_enterprise_version_25h2_x64_dvd_67098cd6.iso) |
+| Language | Arch  | Link |
+|:---------|:------|:---|
+| English  | x64 | [en-us_windows_11_iot_enterprise_version_25h2_x64_dvd_67098cd6.iso](https://buzzheavier.com/k1g5we7lqkw9) |
 
 
 :::info
