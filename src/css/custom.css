@@ -74,7 +74,7 @@
   backdrop-filter: blur(1rem);
 }
 
-.navbar__inner .github-button {
+.navbar__items--right > .github-button {
   width: 32px;
   height: 32px;
   font-size: 0;
@@ -83,62 +83,20 @@
   padding: var(--ifm-navbar-item-padding-vertical) var(--ifm-navbar-item-padding-horizontal);
 }
 
-.navbar__inner .github-button * {
+.navbar__items--right > .github-button * {
   display: none;
 }
 
-.navbar__inner .github-button:before {
+.navbar__items--right > .github-button:before {
   content: '';
   width: 22px;
   height: 22px;
   display: block;
 }
 
-.navbar__inner .github-button:before {
+.navbar__items--right > .github-button:before {
   background: url('/img/github.svg') no-repeat;
   margin: 1px 0 0 -7px;
-}
-
-@media (max-width: 996px) {
-  .navbar__items--right > div[class*="toggle"],
-  .navbar__items--right > div[class*="colorMode"] {
-    display: flex !important;
-  }
-  
-  .navbar__items--right > div[class*="toggle"] button,
-  .navbar__items--right > div[class*="colorMode"] button {
-    display: flex !important;
-  }
-  
-  .navbar-sidebar div[class*="toggle"],
-  .navbar-sidebar div[class*="colorMode"] {
-    display: none !important;
-  }
-  
-  .navbar-sidebar button[title*="Switch between"],
-  .navbar-sidebar button[aria-label*="Switch between"] {
-    display: none !important;
-  }
-  
-  .navbar__item.github-button {
-    display: flex !important;
-    padding: 5px;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .navbar__item.github-button::before {
-    margin: 0 !important;
-  }
-}
-
-table {
-  font-family: var(--ifm-font-family-monospace);
-  font-size: var(--ifm-code-font-size);
-}
-
-.markdown h1:first-child {
-  --ifm-h1-font-size: 2.2rem;
 }
 
 .sidebar-hr {
@@ -148,10 +106,6 @@ table {
 
 .sidebar-hr > .sub {
   margin-left: 1.25em;
-}
-
-.pagination-nav {
-  display: none;
 }
 
 .tabs__item {
@@ -172,4 +126,33 @@ table {
 .tabs__item--active:hover {
   background-color: var(--ifm-color-primary-dark);
   border-color: var(--ifm-color-primary-light);
+}
+
+table {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: var(--ifm-code-font-size);
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.2rem;
+}
+
+.pagination-nav {
+  display: none;
+}
+
+@media(max-width: 996px) {
+  .navbar__items--right > .github-button {
+    margin-right: 8px;
+  }
+
+  .navbar__items--right > .github-button,
+  .navbar__items--right > [class*='toggle'] {
+    display: block;
+  }
+
+  .navbar-sidebar__items .menu__link.github-button,
+  .navbar-sidebar__brand > [class*='toggle'] {
+    display: none;
+  }
 }
