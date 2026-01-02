@@ -224,14 +224,14 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 
 The below activator (serializer) pkg files are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
 
-| Serializer        | Activator                                                                                                                                                                     | Applicable On                                                 |
-|:------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|
-| Office 2024       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2024_MLF_X23-81811.ISO)      | Tahoe, Sequoia, Sonoma, Ventura                                      |
-| Office 2021       | [pkg](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2021_MLF_X22-74226.iso)      | Tahoe, Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
-| Office 2019 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X21-88135.iso)           | High Sierra, Sierra                                           |
-| Office 2016 (Old) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_MLF_X21-83220.iso)           | El Capitan, Yosemite                                          |
-| Office 2019 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2019_VL_Serializer_Universal.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2019_MLF_X22-61752.iso) |                                                               |
-| Office 2016 (New) | [pkg](https://drive.massgrave.dev/Microsoft_Office_2016_64_VL_Serializer.pkg) - [iso](https://drive.massgrave.dev/SWDVD5_Office_Mac_Serializer_2016_-2_MLF_X21-93585.iso)     |                                                               |
+| Serializer | Activator | Applicable On |
+|:------------------|:---|:---|
+| Office 2024       | [pkg](https://buzzheavier.com/ysb9003nnj0m) - [iso](https://buzzheavier.com/tdvzq09yv4e5) | Tahoe, Sequoia, Sonoma, Ventura |
+| Office 2021       | [pkg](https://buzzheavier.com/lmen5vflrzhf) - [iso](https://buzzheavier.com/tb4mkfbm1wlw) | Tahoe, Sequoia, Sonoma, Ventura, Monterey, Big Sur, Catalina, Mojave |
+| Office 2019 (Old) | [pkg](https://buzzheavier.com/y3illxxr12a4) - [iso](https://buzzheavier.com/2jxft7fq7k79) | High Sierra, Sierra |
+| Office 2016 (Old) | [pkg](https://buzzheavier.com/xiiy1tphoy95) - [iso](https://buzzheavier.com/0bdfywenupt8) | El Capitan, Yosemite |
+| Office 2019 (New) | [pkg](https://buzzheavier.com/net83rkrezr8) - [iso](https://buzzheavier.com/xw9kw1lbkdxb) | |
+| Office 2016 (New) | [pkg](https://buzzheavier.com/0lmtp2i4aa28) - [iso](https://buzzheavier.com/s2b1hnuop88x) | |
 
 ## Activation Troubleshooting
 
