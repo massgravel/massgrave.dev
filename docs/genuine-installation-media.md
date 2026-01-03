@@ -1,13 +1,4 @@
 # Download Windows / Office
-:::warning
-
-Due to some ongoing technical issues, **most download links will not work**. If the link for the ISO you want isn't working, you can get your ISO from other sources, such as:
-- https://os.click
-- https://files.rg-adguard.net
-- MVS bot on our [Discord server](https://discord.gg/6DWuNRvvGe)
-
-:::
-
 :::info
 
 - All download links available on our website lead to genuine files only.

@@ -133,35 +133,41 @@ Build - 25398.2025 (Dec 2025)
 
 Updated November 2022 (Build - 17763.3650)
 
-| Language            | Arch | Link                                                                                                                         |
-|:--------------------|:-----|:-----------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2019_x64_dvd_3781c31c.iso](https://drive.massgrave.dev/cs-cz_windows_server_2019_x64_dvd_3781c31c.iso) |
-| German              | x64  | [de-de_windows_server_2019_x64_dvd_132f7aa4.iso](https://drive.massgrave.dev/de-de_windows_server_2019_x64_dvd_132f7aa4.iso) |
-| English             | x64  | [en-us_windows_server_2019_x64_dvd_f9475476.iso](https://drive.massgrave.dev/en-us_windows_server_2019_x64_dvd_f9475476.iso) |
-| Spanish             | x64  | [es-es_windows_server_2019_x64_dvd_3ce0fd9e.iso](https://drive.massgrave.dev/es-es_windows_server_2019_x64_dvd_3ce0fd9e.iso) |
-| French              | x64  | [fr-fr_windows_server_2019_x64_dvd_f6f6acf6.iso](https://drive.massgrave.dev/fr-fr_windows_server_2019_x64_dvd_f6f6acf6.iso) |
-| Hungarian           | x64  | [hu-hu_windows_server_2019_x64_dvd_1d834c46.iso](https://drive.massgrave.dev/hu-hu_windows_server_2019_x64_dvd_1d834c46.iso) |
-| Italian             | x64  | [it-it_windows_server_2019_x64_dvd_454267de.iso](https://drive.massgrave.dev/it-it_windows_server_2019_x64_dvd_454267de.iso) |
-| Japanese            | x64  | [ja-jp_windows_server_2019_x64_dvd_3899c3a3.iso](https://drive.massgrave.dev/ja-jp_windows_server_2019_x64_dvd_3899c3a3.iso) |
-| Korean              | x64  | [ko-kr_windows_server_2019_x64_dvd_84101c0a.iso](https://drive.massgrave.dev/ko-kr_windows_server_2019_x64_dvd_84101c0a.iso) |
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2019_x64_dvd_f69d914e.iso](https://drive.massgrave.dev/nl-nl_windows_server_2019_x64_dvd_f69d914e.iso) |
-| Polish              | x64  | [pl-pl_windows_server_2019_x64_dvd_a50263e1.iso](https://drive.massgrave.dev/pl-pl_windows_server_2019_x64_dvd_a50263e1.iso) |
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2019_x64_dvd_aee8c1c2.iso](https://drive.massgrave.dev/pt-br_windows_server_2019_x64_dvd_aee8c1c2.iso) |
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2019_x64_dvd_464373e8.iso](https://drive.massgrave.dev/pt-pt_windows_server_2019_x64_dvd_464373e8.iso) |
-| Russian             | x64  | [ru-ru_windows_server_2019_x64_dvd_e02b76ba.iso](https://drive.massgrave.dev/ru-ru_windows_server_2019_x64_dvd_e02b76ba.iso) |
-| Swedish             | x64  | [sv-se_windows_server_2019_x64_dvd_48c1aeff.iso](https://drive.massgrave.dev/sv-se_windows_server_2019_x64_dvd_48c1aeff.iso) |
-| Turkish             | x64  | [tr-tr_windows_server_2019_x64_dvd_b51af600.iso](https://drive.massgrave.dev/tr-tr_windows_server_2019_x64_dvd_b51af600.iso) |
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://drive.massgrave.dev/zh-cn_windows_server_2019_x64_dvd_19d65722.iso) |
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://drive.massgrave.dev/zh-tw_windows_server_2019_x64_dvd_a4c80409.iso) |
+:::warning
+
+Downloads for this release are temporarily unavailable.
+
+:::
+
+| Language            | Arch | Link |
+|:--------------------|:-----|:---|
+| Czech               | x64  | cs-cz_windows_server_2019_x64_dvd_3781c31c.iso |
+| German              | x64  | de-de_windows_server_2019_x64_dvd_132f7aa4.iso |
+| English             | x64  | en-us_windows_server_2019_x64_dvd_f9475476.iso |
+| Spanish             | x64  | es-es_windows_server_2019_x64_dvd_3ce0fd9e.iso |
+| French              | x64  | fr-fr_windows_server_2019_x64_dvd_f6f6acf6.iso |
+| Hungarian           | x64  | hu-hu_windows_server_2019_x64_dvd_1d834c46.iso |
+| Italian             | x64  | it-it_windows_server_2019_x64_dvd_454267de.iso |
+| Japanese            | x64  | ja-jp_windows_server_2019_x64_dvd_3899c3a3.iso |
+| Korean              | x64  | ko-kr_windows_server_2019_x64_dvd_84101c0a.iso |
+| Dutch-Netherlands   | x64  | nl-nl_windows_server_2019_x64_dvd_f69d914e.iso |
+| Polish              | x64  | pl-pl_windows_server_2019_x64_dvd_a50263e1.iso |
+| Portuguese-Brazil   | x64  | pt-br_windows_server_2019_x64_dvd_aee8c1c2.iso |
+| Portuguese-Portugal | x64  | pt-pt_windows_server_2019_x64_dvd_464373e8.iso |
+| Russian             | x64  | ru-ru_windows_server_2019_x64_dvd_e02b76ba.iso |
+| Swedish             | x64  | sv-se_windows_server_2019_x64_dvd_48c1aeff.iso |
+| Turkish             | x64  | tr-tr_windows_server_2019_x64_dvd_b51af600.iso |
+| Chinese-Simplified  | x64  | zh-cn_windows_server_2019_x64_dvd_19d65722.iso |
+| Chinese-Traditional | x64  | zh-tw_windows_server_2019_x64_dvd_a4c80409.iso |
 
 ------------------------------------------------------------------------
 
 ## Windows Server 2016
 
-Updated February 2018 (Build - 14393.1884)
+Updated July 2016 (Build - 14393.0)
 
-| Language            | Arch | Link                                                                                                                         |
-|:--------------------|:-----|:-----------------------------------------------------------------------------------------------------------------------------|
+| Language            | Arch | Link |
+|:--------------------|:-----|:---|
 | Chinese-Simplified  | x64  | [cn_windows_server_2016_x64_dvd_9327743.iso](https://drive.massgrave.dev/cn_windows_server_2016_x64_dvd_9327743.iso) |
 | Czech               | x64  | [cs_windows_server_2016_x64_dvd_9327749.iso](https://drive.massgrave.dev/cs_windows_server_2016_x64_dvd_9327749.iso) |
 | Chinese-Traditional | x64  | [ct_windows_server_2016_x64_dvd_9327748.iso](https://drive.massgrave.dev/ct_windows_server_2016_x64_dvd_9327748.iso) |

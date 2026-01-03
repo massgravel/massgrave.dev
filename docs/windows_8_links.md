@@ -464,38 +464,4 @@ import TabItem from '@theme/TabItem';
 </TabItem>
 </Tabs>
 </TabItem>
-
-<TabItem value="Windows Embedded 8" label="Windows Embedded 8" default>
-
-<Tabs>
-<TabItem value="Windows Embedded 8 Standard" label="Windows Embedded 8 Standard" default>
-
-**Windows Embedded 8 Standard**
-
-`V8YQB-NK79D-3XXDR-HVDQV-M4FCQ`  
-Use this key when the setup asks for one during the Windows installation. It will install the full version of Windows instead of the evaluation version.
-
-| Language      | Arch | Link                                                                                                                                                                           |
-| :------------ | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| English       | x64  | [en_windows_embedded_8_standard_image_builder_wizard_x64_dvd_1791545.iso](https://drive.massgrave.dev/en_windows_embedded_8_standard_image_builder_wizard_x64_dvd_1791545.iso) |
-| English       | x32  | [en_windows_embedded_8_standard_image_builder_wizard_x86_dvd_1791542.iso](https://drive.massgrave.dev/en_windows_embedded_8_standard_image_builder_wizard_x86_dvd_1791542.iso) |
-| English       | x32  | [en_windows_embedded_8_standard_toolkit_x86_dvd_1791541.iso](https://drive.massgrave.dev/en_windows_embedded_8_standard_toolkit_x86_dvd_1791541.iso)                           |
-| Language Pack | x64  | [mu_windows_embedded_8_standard_language_pack_x64_dvd_2045374.iso](https://drive.massgrave.dev/mu_windows_embedded_8_standard_language_pack_x64_dvd_2045374.iso)               |
-| Language Pack | x32  | [mu_windows_embedded_8_standard_language_pack_x86_dvd_2045226.iso](https://drive.massgrave.dev/mu_windows_embedded_8_standard_language_pack_x86_dvd_2045226.iso)               |
-
-</TabItem>
-
-<TabItem value="Windows Embedded 8 Industry Professional" label="Windows Embedded 8 Industry Professional" default>
-
-**Windows Embedded 8 Industry Professional**
-
-| Language      | Arch    | Link                                                                                                                                                                             |
-| :------------ | :------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| English       | x64     | [en_windows_embedded_8_industry_pro_x64_dvd_1966345.iso](https://drive.massgrave.dev/en_windows_embedded_8_industry_pro_x64_dvd_1966345.iso)                                     |
-| English       | x32     | [en_windows_embedded_8_industry_pro_x86_dvd_1966344.iso](https://drive.massgrave.dev/en_windows_embedded_8_industry_pro_x86_dvd_1966344.iso)                                     |
-| Language Pack | x32-x64 | [mu_windows_embedded_8_industry_pro_language_pack_x86_x64_dvd_1966340.iso](https://drive.massgrave.dev/mu_windows_embedded_8_industry_pro_language_pack_x86_x64_dvd_1966340.iso) |
-
-</TabItem>
-</Tabs>
-</TabItem>
 </Tabs>

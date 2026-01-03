@@ -174,38 +174,6 @@ It's no longer supported by Microsoft, and Office doesn't receive updates.
 | OneNote      | https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20101200_Updater.pkg    |
 
 </TabItem>
-
-<TabItem value="10.5 to 10.9" label="Mavericks, Mountain Lion, Lion, Snow Leopard, Leopard" default>
-
-OS X Mavericks (10.9)  
-OS X Mountain Lion (10.8)  
-OS X Lion (10.7)  
-Mac OS X Snow Leopard (10.6)  
-Mac OS X Leopard (10.5)  
-
-Highest supported office version is Office 2011.  
-This Office installer does not require activation.  
-It's no longer supported by Microsoft, and Office doesn't receive updates.
-
-| Language  | Link                                                                                                                                                                             |
-|:----------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ChnSimp   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnSimp_-3_ISO_MLF_X21-39848.iso)     |
-| ChnTrad   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_ChnTrad_-3_ISO_MLF_X21-39852.iso)     |
-| Danish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Danish_-3_ISO_MLF_X21-39844.iso)       |
-| Dutch     | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Dutch_-3_ISO_MLF_X21-39850.iso)         |
-| English   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_English_-3_ISO_MLF_X21-39841.iso)     |
-| Finnish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Finnish_-3_ISO_MLF_X21-39846.iso)     |
-| French    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_French_-3_ISO_MLF_X21-39843.iso)       |
-| German    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_German_-3_ISO_MLF_X21-39853.iso)       |
-| Italian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Italian_-3_ISO_MLF_X21-39849.iso)     |
-| Japanese  | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Japanese_-3_ISO_MLF_X21-39842.iso)   |
-| Norwegian | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Norwegian_-3_ISO_MLF_X21-39845.iso) |
-| Polish    | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Polish_-3_ISO_MLF_X21-39851.iso)       |
-| Russian   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Russian_-3_ISO_MLF_X21-39854.iso)     |
-| Spanish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Spanish_-3_ISO_MLF_X21-39855.iso)     |
-| Swedish   | [SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso](https://drive.massgrave.dev/SW_DVD5_Office_Mac_Standard_2011w_SP4_Swedish_-3_ISO_MLF_X21-39847.iso)     |
-
-</TabItem>
 </Tabs>
 
 **Other Resources**  

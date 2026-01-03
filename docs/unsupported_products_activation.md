@@ -93,7 +93,8 @@ https://gist.github.com/WitherOrNot/c34c4c7b893e89ab849ce04e007d89a9
 -	It's a [paid Microsoft extension](https://apps.microsoft.com/detail/9nmzlz57r3t7) to play High Efficiency Video Coding (HEVC) videos in any video app on your Windows 10/11 device.
 -	Microsoft provides digitally signed installers to M365 Admin Center subscribers, you can download them below.
 
-Download link: https://app.box.com/s/rozwl3zsx6o90xw2568by61fhp3z3icw  
+Download link: https://buzzheavier.com/ronil20s7z6l
+
 Alternatively, you can download AppxBundle installer from https://store.rg-adguard.net/ search `9nmzlz57r3t7` in ProductId.
 
 ------------------------------------------------------------------------
@@ -111,19 +112,6 @@ Alternatively, you can download AppxBundle installer from https://store.rg-adgua
 | Visual Studio 2022 Enterprise   | VHF9H-NXBBB-638P6-6JHCY-88JWH |
 | Visual Studio 2019 Professional | NYWVH-HT4XC-R2WYW-9Y3CM-X4V3Y |
 | Visual Studio 2019 Enterprise   | BF8Y8-GN2QH-T84XB-QVY3B-RC4DF |
-
-------------------------------------------------------------------------
-
-## Microsoft DaRT
-
-Microsoft DaRT (Diagnostics and Recovery Toolset, formerly ERD Commander) is an official bootable WinPE-based recovery image from Microsoft that contains diagnostic and troubleshooting tools for Windows recovery.
-
-This product is no longer under active development.
-
-**Download Link:** Microsoft Desktop Optimization Pack 2015  
-[mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso](https://drive.massgrave.dev/mu_microsoft_desktop_optimization_pack_2015_x86_x64_dvd_5975282.iso)
-
-**Guide:** https://woshub.com/create-dart-10-recovery-image/
 
 ------------------------------------------------------------------------
 
