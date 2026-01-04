@@ -501,82 +501,82 @@ import TabItem from '@theme/TabItem';
 
 **Office 2010 Professional Plus**
 
-| Language              | Arch | Link                                                                                                                                                                                                       |
-| :-------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Arabic_CORE_MLF_X17-76770.iso |
-| Arabic                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Arabic_CORE_MLF_X17-76762.iso |
-| Bulgarian             | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Bulgarian_CORE_MLF_X17-77158.iso |
-| Bulgarian             | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Bulgarian_CORE_MLF_X17-77148.iso |
-| Chinese - Simplified  | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnSimp_CORE_MLF_X17-76742.iso |
-| Chinese - Simplified  | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_ChnSimp_CORE_MLF_X17-76734.iso |
-| Chinese - Traditional | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnTrad_CORE_MLF_X17-77048.iso |
-| Chinese - Traditional | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_ChnTrad_CORE_MLF_X17-77040.iso |
-| Croatian              | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Croatian_CORE_MLF_X17-77095.iso |
-| Croatian              | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Croatian_CORE_MLF_X17-77086.iso |
-| Czech                 | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Czech_CORE_MLF_X17-76784.iso |
-| Czech                 | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Czech_CORE_MLF_X17-76776.iso |
-| Danish                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Danish_CORE_MLF_X17-76811.iso |
-| Danish                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Danish_CORE_MLF_X17-76803.iso |
-| Dutch                 | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Dutch_CORE_MLF_X17-76936.iso |
-| Dutch                 | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Dutch_CORE_MLF_X17-76928.iso |
-| English               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_English_CORE_MLF_X17-76756.ISO |
-| English               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_English_CORE_MLF_X17-76748.ISO |
-| Estonian              | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Estonian_CORE_MLF_X17-77203.iso |
-| Estonian              | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Estonian_CORE_MLF_X17-77194.iso |
-| Finnish               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Finnish_CORE_MLF_X17-76993.iso |
-| Finnish               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Finnish_CORE_MLF_X17-76985.iso |
-| French                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_French_CORE_MLF_X17-76839.iso |
-| French                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_French_CORE_MLF_X17-76831.iso |
-| German                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_German_CORE_MLF_X17-76797.iso |
-| German                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_German_CORE_MLF_X17-76790.iso |
-| Greek                 | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Greek_CORE_MLF_X17-76853.iso |
-| Greek                 | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Greek_CORE_MLF_X17-76845.iso |
-| Hebrew                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Hebrew_CORE_MLF_X17-76867.iso |
-| Hebrew                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Hebrew_CORE_MLF_X17-76859.iso |
-| Hindi                 | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Indic_CORE_MLF_X17-77127.iso |
-| Hindi                 | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Indic_CORE_MLF_X17-77117.iso |
-| Hungarian             | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Hungarian_CORE_MLF_X17-76881.iso |
-| Hungarian             | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Hungarian_CORE_MLF_X17-76873.iso |
-| Italian               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Italian_CORE_MLF_X17-76894.iso |
-| Italian               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Italian_CORE_MLF_X17-76887.iso |
-| Japanese              | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Japanese_CORE_MLF_X17-76908.iso |
-| Japanese              | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Japanese_CORE_MLF_X17-76901.iso |
-| Kazakh                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Kazakh_CORE_MLF_X17-77250.iso |
-| Kazakh                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Kazakh_CORE_MLF_X17-77240.iso |
-| Korean                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Korean_CORE_MLF_X17-77172.iso |
-| Korean                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Korean_CORE_MLF_X17-77164.iso |
-| Latvian               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Latvian_CORE_MLF_X17-77064.iso |
-| Latvian               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Latvian_CORE_MLF_X17-77054.iso |
-| Lithuanian            | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Lithuanian_CORE_MLF_X17-77080.iso |
-| Lithuanian            | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Lithuanian_CORE_MLF_X17-77070.iso |
-| Norwegian             | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Norwegian_CORE_MLF_X17-76922.iso |
-| Norwegian             | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Norwegian_CORE_MLF_X17-76914.iso |
-| Polish                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Polish_CORE_MLF_X17-76964.iso |
-| Polish                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Polish_CORE_MLF_X17-76956.iso |
-| Portuguese - Brazil   | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Brazilian_CORE_MLF_X17-76728.iso |
-| Portuguese - Brazil   | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Brazilian_CORE_MLF_X17-76721.iso |
-| Portuguese - Portugal | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Portuguese_CORE_MLF_X17-76950.iso |
-| Portuguese - Portugal | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Portuguese_CORE_MLF_X17-76942.iso |
-| Romanian              | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Romanian_CORE_MLF_X17-77219.iso |
-| Romanian              | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Romanian_CORE_MLF_X17-77209.iso |
-| Russian               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Russian_CORE_MLF_X17-77007.iso |
-| Russian               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Russian_CORE_MLF_X17-76999.iso |
-| Serbian               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Serbian_Latin_CORE_MLF_X17-77142.iso |
-| Serbian               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Serbian_Latin_CORE_MLF_X17-77133.iso |
-| Slovak                | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Slovak_CORE_MLF_X17-77234.iso |
-| Slovak                | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Slovak_CORE_MLF_X17-77225.iso |
-| Slovenian             | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Slovenian_CORE_MLF_X17-77188.iso |
-| Slovenian             | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Slovenian_CORE_MLF_X17-77178.iso |
-| Spanish               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Spanish_CORE_MLF_X17-76825.iso |
-| Spanish               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Spanish_CORE_MLF_X17-76817.iso |
-| Swedish               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Swedish_CORE_MLF_X17-76979.iso |
-| Swedish               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Swedish_CORE_MLF_X17-76971.iso |
-| Thai                  | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Thai_CORE_MLF_X17-77020.iso |
-| Thai                  | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Thai_CORE_MLF_X17-77013.iso |
-| Turkish               | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Turkish_CORE_MLF_X17-77035.iso |
-| Turkish               | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Turkish_CORE_MLF_X17-77026.iso |
-| Ukrainian             | x64  | SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Ukrainian_CORE_MLF_X17-77111.iso |
-| Ukrainian             | x32  | SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Ukrainian_CORE_MLF_X17-77101.iso |
+| Language              | Arch | Link |
+| :-------------------- | :--- | :--- |
+| Arabic                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Arabic_CORE_MLF_X17-76770.ISO](https://buzzheavier.com/4273c66qz9vp) |
+| Arabic                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Arabic_CORE_MLF_X17-76762.ISO](https://buzzheavier.com/syf3ikhny9mg) |
+| Bulgarian             | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Bulgarian_CORE_MLF_X17-77158.ISO](https://buzzheavier.com/8i92zvb2r3sd) |
+| Bulgarian             | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Bulgarian_CORE_MLF_X17-77148.ISO](https://buzzheavier.com/nwx6h1os2w48) |
+| Chinese - Simplified  | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnSimp_CORE_MLF_X17-76742.ISO](https://buzzheavier.com/maj0dhxyrqe7) |
+| Chinese - Simplified  | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_ChnSimp_CORE_MLF_X17-76734.ISO](https://buzzheavier.com/qgas55t4r8jy) |
+| Chinese - Traditional | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnTrad_CORE_MLF_X17-77048.ISO](https://buzzheavier.com/smi77wgaotix) |
+| Chinese - Traditional | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_ChnTrad_CORE_MLF_X17-77040.ISO](https://buzzheavier.com/q5ozdh2cs9hw) |
+| Croatian              | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Croatian_CORE_MLF_X17-77095.ISO](https://buzzheavier.com/6zbqfzxildl7) |
+| Croatian              | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Croatian_CORE_MLF_X17-77086.ISO](https://buzzheavier.com/ke431j4v0hiu) |
+| Czech                 | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Czech_CORE_MLF_X17-76784.ISO](https://buzzheavier.com/egayy24sg999) |
+| Czech                 | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Czech_CORE_MLF_X17-76776.ISO](https://buzzheavier.com/xdmlrqy7ikdg) |
+| Danish                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Danish_CORE_MLF_X17-76811.ISO](https://buzzheavier.com/fi9ozv5rtirk) |
+| Danish                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Danish_CORE_MLF_X17-76803.ISO](https://buzzheavier.com/xjv8tt617d35) |
+| Dutch                 | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Dutch_CORE_MLF_X17-76936.ISO](https://buzzheavier.com/iqale2fxebso) |
+| Dutch                 | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Dutch_CORE_MLF_X17-76928.ISO](https://buzzheavier.com/1mmnw9sywtnx) |
+| English               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_English_CORE_MLF_X17-76756.ISO](https://buzzheavier.com/g0sj17y29zh5) |
+| English               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_English_CORE_MLF_X17-76748.ISO](https://buzzheavier.com/xlqr4py2eipm) |
+| Estonian              | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Estonian_CORE_MLF_X17-77203.ISO](https://buzzheavier.com/3edi1camal80) |
+| Estonian              | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Estonian_CORE_MLF_X17-77194.ISO](https://buzzheavier.com/tcm0noizyv61) |
+| Finnish               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Finnish_CORE_MLF_X17-76993.ISO](https://buzzheavier.com/7jh9u729w5e0) |
+| Finnish               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Finnish_CORE_MLF_X17-76985.ISO](https://buzzheavier.com/x16aba9d8i5n) |
+| French                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_French_CORE_MLF_X17-76839.ISO](https://buzzheavier.com/m9by4jpw0x85) |
+| French                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_French_CORE_MLF_X17-76831.ISO](https://buzzheavier.com/jmhkb7d7u965) |
+| German                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_German_CORE_MLF_X17-76797.ISO](https://buzzheavier.com/zlv9yq84e69o) |
+| German                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_German_CORE_MLF_X17-76790.ISO](https://buzzheavier.com/9y3pg915oo27) |
+| Greek                 | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Greek_CORE_MLF_X17-76853.ISO](https://buzzheavier.com/oxs3snh5j1t5) |
+| Greek                 | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Greek_CORE_MLF_X17-76845.ISO](https://buzzheavier.com/w9efkl7uols0) |
+| Hebrew                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Hebrew_CORE_MLF_X17-76867.ISO](https://buzzheavier.com/m1pnwki61865) |
+| Hebrew                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Hebrew_CORE_MLF_X17-76859.ISO](https://buzzheavier.com/z0h4w46xvtu4) |
+| Hindi                 | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Indic_CORE_MLF_X17-77127.ISO](https://buzzheavier.com/xm22e89x9wrl) |
+| Hindi                 | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Indic_CORE_MLF_X17-77117.ISO](https://buzzheavier.com/ghlfl2n75y4v) |
+| Hungarian             | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Hungarian_CORE_MLF_X17-76881.ISO](https://buzzheavier.com/c9m3btwbtq0f) |
+| Hungarian             | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Hungarian_CORE_MLF_X17-76873.ISO](https://buzzheavier.com/tf17amdfp7sm) |
+| Italian               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Italian_CORE_MLF_X17-76894.ISO](https://buzzheavier.com/v3ebepoein21) |
+| Italian               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Italian_CORE_MLF_X17-76887.ISO](https://buzzheavier.com/aef3pnpb44oo) |
+| Japanese              | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Japanese_CORE_MLF_X17-76908.ISO](https://buzzheavier.com/zaa6hg3ovy9f) |
+| Japanese              | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Japanese_CORE_MLF_X17-76901.ISO](https://buzzheavier.com/fc7j6cc5zy25) |
+| Kazakh                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Kazakh_CORE_MLF_X17-77250.ISO](https://buzzheavier.com/0rsqcban5zx2) |
+| Kazakh                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Kazakh_CORE_MLF_X17-77240.ISO](https://buzzheavier.com/yew8q0g0fby3) |
+| Korean                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Korean_CORE_MLF_X17-77172.ISO](https://buzzheavier.com/9eg002s3fgkf) |
+| Korean                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Korean_CORE_MLF_X17-77164.ISO](https://buzzheavier.com/hptwoblliuyp) |
+| Latvian               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Latvian_CORE_MLF_X17-77064.ISO](https://buzzheavier.com/r0kf6936gwmm) |
+| Latvian               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Latvian_CORE_MLF_X17-77054.ISO](https://buzzheavier.com/wpok9onckk19) |
+| Lithuanian            | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Lithuanian_CORE_MLF_X17-77080.ISO](https://buzzheavier.com/29fcmyfcgaz7) |
+| Lithuanian            | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Lithuanian_CORE_MLF_X17-77070.ISO](https://buzzheavier.com/xtee5mcdb6cj) |
+| Norwegian             | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Norwegian_CORE_MLF_X17-76922.ISO](https://buzzheavier.com/obc3tbxd4ni0) |
+| Norwegian             | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Norwegian_CORE_MLF_X17-76914.ISO](https://buzzheavier.com/47v4mesc2791) |
+| Polish                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Polish_CORE_MLF_X17-76964.ISO](https://buzzheavier.com/15swl5dsu9go) |
+| Polish                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Polish_CORE_MLF_X17-76956.ISO](https://buzzheavier.com/lm5772feqwl8) |
+| Portuguese - Brazil   | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Brazilian_CORE_MLF_X17-76728.ISO](https://buzzheavier.com/6s4w2dmc0s7e) |
+| Portuguese - Brazil   | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Brazilian_CORE_MLF_X17-76721.ISO](https://buzzheavier.com/nga4rzny4qlz) |
+| Portuguese - Portugal | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Portuguese_CORE_MLF_X17-76950.ISO](https://buzzheavier.com/nt6g94l6yr8t) |
+| Portuguese - Portugal | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Portuguese_CORE_MLF_X17-76942.ISO](https://buzzheavier.com/ivkoqjdswyrt) |
+| Romanian              | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Romanian_CORE_MLF_X17-77219.ISO](https://buzzheavier.com/4rvmb8s43zcm) |
+| Romanian              | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Romanian_CORE_MLF_X17-77209.ISO](https://buzzheavier.com/bootka5pma6k) |
+| Russian               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Russian_CORE_MLF_X17-77007.ISO](https://buzzheavier.com/v4kpu7wq8nei) |
+| Russian               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Russian_CORE_MLF_X17-76999.ISO](https://buzzheavier.com/8afqx69q8z2v) |
+| Serbian               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Serbian_Latin_CORE_MLF_X17-77142.ISO](https://buzzheavier.com/zwwr368sxajs) |
+| Serbian               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Serbian_Latin_CORE_MLF_X17-77133.ISO](https://buzzheavier.com/binqthjye7wq) |
+| Slovak                | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Slovak_CORE_MLF_X17-77234.ISO](https://buzzheavier.com/8eqzfqrgkgwk) |
+| Slovak                | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Slovak_CORE_MLF_X17-77225.ISO](https://buzzheavier.com/pfspzh537jjt) |
+| Slovenian             | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Slovenian_CORE_MLF_X17-77188.ISO](https://buzzheavier.com/h5mxd6mndum7) |
+| Slovenian             | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Slovenian_CORE_MLF_X17-77178.ISO](https://buzzheavier.com/q3df4v0nlikg) |
+| Spanish               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Spanish_CORE_MLF_X17-76825.ISO](https://buzzheavier.com/v9vi0mlko30i) |
+| Spanish               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Spanish_CORE_MLF_X17-76817.ISO](https://buzzheavier.com/o2f7dgrfupgu) |
+| Swedish               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Swedish_CORE_MLF_X17-76979.ISO](https://buzzheavier.com/3o97yzedzadn) |
+| Swedish               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Swedish_CORE_MLF_X17-76971.ISO](https://buzzheavier.com/291wg0opzati) |
+| Thai                  | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Thai_CORE_MLF_X17-77020.ISO](https://buzzheavier.com/fo4gpwnidwp3) |
+| Thai                  | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Thai_CORE_MLF_X17-77013.ISO](https://buzzheavier.com/k9rb2b4szj3e) |
+| Turkish               | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Turkish_CORE_MLF_X17-77035.ISO](https://buzzheavier.com/og44oilbl28k) |
+| Turkish               | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Turkish_CORE_MLF_X17-77026.ISO](https://buzzheavier.com/a28txlz8mwr9) |
+| Ukrainian             | x64  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_Ukrainian_CORE_MLF_X17-77111.ISO](https://buzzheavier.com/wl05jiw00kni) |
+| Ukrainian             | x32  | [SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_Ukrainian_CORE_MLF_X17-77101.ISO](https://buzzheavier.com/lojk4gepf6dn) |
 
 </TabItem>
 
