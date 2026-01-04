@@ -4,12 +4,6 @@ sidebar_label: Office MSI VL
 
 # Office MSI VL Download
 
-:::warning
-
-Downloads for some of the files on this page are currently unavailable. We currently cannot provide an ETA for when they will be restored.
-
-:::
-
 All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
@@ -584,62 +578,62 @@ import TabItem from '@theme/TabItem';
 
 **Office 2010 Project Professional**
 
-| Language              | Arch | Link                                                                                                                                                             |
-| :-------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Arabic_MLF_X17-76708.ISO |
-| Arabic                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Arabic_MLF_X17-76683.ISO |
-| Chinese - Simplified  | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_ChnSimp_MLF_X17-76658.ISO |
-| Chinese - Simplified  | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_ChnSimp_MLF_X17-76643.iso |
-| Chinese - Traditional | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_ChnTrad_MLF_X17-77399.iso |
-| Chinese - Traditional | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_ChnTrad_MLF_X17-77384.iso |
-| Czech                 | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Czech_MLF_X17-76743.iso |
-| Czech                 | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Czech_MLF_X17-76712.iso |
-| Danish                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Danish_MLF_X17-76812.iso |
-| Danish                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Danish_MLF_X17-76782.iso |
-| Dutch                 | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Dutch_MLF_X17-77189.iso |
-| Dutch                 | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Dutch_MLF_X17-77159.iso |
-| English               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_English_MLF_X17-76681.iso |
-| English               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_English_MLF_X17-76660.iso |
-| Finnish               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Finnish_MLF_X17-77330.iso |
-| Finnish               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Finnish_MLF_X17-77299.iso |
-| French                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_French_MLF_X17-76880.iso |
-| French                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_French_MLF_X17-76850.iso |
-| German                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_German_MLF_X17-76777.iso |
-| German                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_German_MLF_X17-76747.iso |
-| Greek                 | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Greek_MLF_X17-76915.ISO |
-| Greek                 | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Greek_MLF_X17-76885.iso |
-| Hebrew                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Hebrew_MLF_X17-76949.ISO |
-| Hebrew                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Hebrew_MLF_X17-76919.ISO |
-| Hungarian             | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Hungarian_MLF_X17-76982.iso |
-| Hungarian             | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Hungarian_MLF_X17-76953.iso |
-| Italian               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Italian_MLF_X17-77017.iso |
-| Italian               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Italian_MLF_X17-76986.iso |
-| Japanese              | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Japanese_MLF_X17-77051.iso |
-| Japanese              | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Japanese_MLF_X17-77021.iso |
-| Korean                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Korean_MLF_X17-77085.iso |
-| Korean                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Korean_MLF_X17-77055.iso |
-| Norwegian             | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Norwegian_MLF_X17-77155.iso |
-| Norwegian             | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Norwegian_MLF_X17-77124.iso |
-| Polish                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Polish_MLF_X17-77259.iso |
-| Polish                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Polish_MLF_X17-77228.iso |
-| Portuguese - Brazil   | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Brazilian_MLF_X17-76641.iso |
-| Portuguese - Brazil   | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Brazilian_MLF_X17-76626.ISO |
-| Portuguese - Portugal | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Portuguese_MLF_X17-77224.iso |
-| Portuguese - Portugal | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Portuguese_MLF_X17-77193.iso |
-| Russian               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Russian_MLF_X17-77365.iso |
-| Russian               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Russian_MLF_X17-77350.iso |
-| Slovak                | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Slovak_MLF_X17-77348.ISO |
-| Slovak                | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Slovak_MLF_X17-77333.iso |
-| Slovenian             | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Slovenian_MLF_X17-77120.iso |
-| Slovenian             | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Slovenian_MLF_X17-77090.ISO |
-| Spanish               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Spanish_MLF_X17-76846.iso |
-| Spanish               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Spanish_MLF_X17-76816.ISO |
-| Swedish               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Swedish_MLF_X17-77294.ISO |
-| Swedish               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Swedish_MLF_X17-77263.iso |
-| Turkish               | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Turkish_MLF_X17-77382.iso |
-| Turkish               | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Turkish_MLF_X17-77367.ISO |
-| Ukrainian             | x64  | SW_DVD5_Project_Pro_2010w_SP1_64Bit_Ukrainian_MLF_X17-76624.iso |
-| Ukrainian             | x32  | SW_DVD5_Project_Pro_2010w_SP1_W32_Ukrainian_MLF_X17-76609.iso |
+| Language              | Arch | Link |
+| :-------------------- | :--- | :--- |
+| Arabic                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Arabic_MLF_X17-76708.ISO](https://buzzheavier.com/fmae5srrd25i) |
+| Arabic                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Arabic_MLF_X17-76683.ISO](https://buzzheavier.com/s92m1qjaaziq) |
+| Chinese - Simplified  | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_ChnSimp_MLF_X17-76658.ISO](https://buzzheavier.com/z0xcvczok8nj) |
+| Chinese - Simplified  | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_ChnSimp_MLF_X17-76643.ISO](https://buzzheavier.com/8qww1uylru97) |
+| Chinese - Traditional | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_ChnTrad_MLF_X17-77399.ISO](https://buzzheavier.com/5zsb4tpx9z9w) |
+| Chinese - Traditional | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_ChnTrad_MLF_X17-77384.ISO](https://buzzheavier.com/ffhdaov58xh2) |
+| Czech                 | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Czech_MLF_X17-76743.ISO](https://buzzheavier.com/2adqwvwd0qx7) |
+| Czech                 | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Czech_MLF_X17-76712.ISO](https://buzzheavier.com/g2es94axw84p) |
+| Danish                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Danish_MLF_X17-76812.ISO](https://buzzheavier.com/n2f8s8svommr) |
+| Danish                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Danish_MLF_X17-76782.ISO](https://buzzheavier.com/k2oqscgnxg43) |
+| Dutch                 | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Dutch_MLF_X17-77189.ISO](https://buzzheavier.com/1qgzncy8j179) |
+| Dutch                 | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Dutch_MLF_X17-77159.ISO](https://buzzheavier.com/60ff7hhoooxt) |
+| English               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_English_MLF_X17-76681.ISO](https://buzzheavier.com/jkw7j0r2c2ii) |
+| English               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_English_MLF_X17-76660.ISO](https://buzzheavier.com/i4nkjj06h86x) |
+| Finnish               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Finnish_MLF_X17-77330.ISO](https://buzzheavier.com/fkxvcw39igvd) |
+| Finnish               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Finnish_MLF_X17-77299.ISO](https://buzzheavier.com/yseos0j2q2oy) |
+| French                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_French_MLF_X17-76880.ISO](https://buzzheavier.com/3bxgs54nu7f5) |
+| French                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_French_MLF_X17-76850.ISO](https://buzzheavier.com/py5kexbtqv3s) |
+| German                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_German_MLF_X17-76777.ISO](https://buzzheavier.com/48i3sw0w7a76) |
+| German                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_German_MLF_X17-76747.ISO](https://buzzheavier.com/azum4tz0juw3) |
+| Greek                 | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Greek_MLF_X17-76915.ISO](https://buzzheavier.com/qamt257vf0ot) |
+| Greek                 | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Greek_MLF_X17-76885.ISO](https://buzzheavier.com/hnnsgrrgwchj) |
+| Hebrew                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Hebrew_MLF_X17-76949.ISO](https://buzzheavier.com/tmotp91n2hkp) |
+| Hebrew                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Hebrew_MLF_X17-76919.ISO](https://buzzheavier.com/kd36ddts6nwa) |
+| Hungarian             | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Hungarian_MLF_X17-76982.ISO](https://buzzheavier.com/q4db7cp4t98y) |
+| Hungarian             | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Hungarian_MLF_X17-76953.ISO](https://buzzheavier.com/p4dcjofi70mr) |
+| Italian               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Italian_MLF_X17-77017.ISO](https://buzzheavier.com/7b2wmd3xmgdk) |
+| Italian               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Italian_MLF_X17-76986.ISO](https://buzzheavier.com/tz396rlc5glh) |
+| Japanese              | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Japanese_MLF_X17-77051.ISO](https://buzzheavier.com/k70jvlinqaxm) |
+| Japanese              | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Japanese_MLF_X17-77021.ISO](https://buzzheavier.com/5kcggw6osdaw) |
+| Korean                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Korean_MLF_X17-77085.ISO](https://buzzheavier.com/6qsmg3pwnlq5) |
+| Korean                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Korean_MLF_X17-77055.ISO](https://buzzheavier.com/i8h0mvazn6bp) |
+| Norwegian             | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Norwegian_MLF_X17-77155.ISO](https://buzzheavier.com/2spdby8i4wb5) |
+| Norwegian             | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Norwegian_MLF_X17-77124.ISO](https://buzzheavier.com/azkqwizx7cip) |
+| Polish                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Polish_MLF_X17-77259.ISO](https://buzzheavier.com/b4ohbv673k4l) |
+| Polish                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Polish_MLF_X17-77228.ISO](https://buzzheavier.com/kvc8k9xt42fh) |
+| Portuguese - Brazil   | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Brazilian_MLF_X17-76641.ISO](https://buzzheavier.com/tum8ab6kglu1) |
+| Portuguese - Brazil   | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Brazilian_MLF_X17-76626.ISO](https://buzzheavier.com/k7nhzhj22qw3) |
+| Portuguese - Portugal | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Portuguese_MLF_X17-77224.ISO](https://buzzheavier.com/hy0mihv6mzxx) |
+| Portuguese - Portugal | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Portuguese_MLF_X17-77193.ISO](https://buzzheavier.com/qayn9hy0tdvo) |
+| Russian               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Russian_MLF_X17-77365.ISO](https://buzzheavier.com/odora3ll56lt) |
+| Russian               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Russian_MLF_X17-77350.ISO](https://buzzheavier.com/0ourauyftqe1) |
+| Slovak                | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Slovak_MLF_X17-77348.ISO](https://buzzheavier.com/uoa8y8byfv7n) |
+| Slovak                | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Slovak_MLF_X17-77333.ISO](https://buzzheavier.com/sb7dozydqpgm) |
+| Slovenian             | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Slovenian_MLF_X17-77120.ISO](https://buzzheavier.com/9gnjhhfbvspb) |
+| Slovenian             | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Slovenian_MLF_X17-77090.ISO](https://buzzheavier.com/tl6b2ba03vnh) |
+| Spanish               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Spanish_MLF_X17-76846.ISO](https://buzzheavier.com/z6gis4i8tpsi) |
+| Spanish               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Spanish_MLF_X17-76816.ISO](https://buzzheavier.com/mqoytdnb5y28) |
+| Swedish               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Swedish_MLF_X17-77294.ISO](https://buzzheavier.com/33roumbqyn35) |
+| Swedish               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Swedish_MLF_X17-77263.ISO](https://buzzheavier.com/i5yfycfxvnwd) |
+| Turkish               | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Turkish_MLF_X17-77382.ISO](https://buzzheavier.com/slrqxoe4b9w6) |
+| Turkish               | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Turkish_MLF_X17-77367.ISO](https://buzzheavier.com/5ssjxuozja69) |
+| Ukrainian             | x64  | [SW_DVD5_Project_Pro_2010w_SP1_64Bit_Ukrainian_MLF_X17-76624.ISO](https://buzzheavier.com/8kksf9zl3zfv) |
+| Ukrainian             | x32  | [SW_DVD5_Project_Pro_2010w_SP1_W32_Ukrainian_MLF_X17-76609.ISO](https://buzzheavier.com/5r5z45mkbj6c) |
 
 </TabItem>
 
@@ -647,62 +641,62 @@ import TabItem from '@theme/TabItem';
 
 **Office 2010 Visio Visio Premium / Professional / Standard**
 
-| Language              | Arch | Link                                                                                                                                                                                           |
-| :-------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Arabic_Std_Pro_Prem_MLF_X17-75857.iso |
-| Arabic                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Arabic_Std_Pro_Prem_MLF_X17-75855.iso |
-| Chinese - Simplified  | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_ChnSimp_Std_Pro_Prem_MLF_X17-75849.iso |
-| Chinese - Simplified  | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_ChnSimp_Std_Pro_Prem_MLF_X17-75847.iso |
-| Chinese - Traditional | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_ChnTrad_Std_Pro_Prem_MLF_X17-75945.ISO |
-| Chinese - Traditional | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_ChnTrad_Std_Pro_Prem_MLF_X17-75943.iso |
-| Czech                 | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Czech_Std_Pro_Prem_MLF_X17-75861.iso |
-| Czech                 | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Czech_Std_Pro_Prem_MLF_X17-75859.iso |
-| Danish                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Danish_Std_Pro_Prem_MLF_X17-75869.ISO |
-| Danish                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Danish_Std_Pro_Prem_MLF_X17-75867.iso |
-| Dutch                 | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Dutch_Std_Pro_Prem_MLF_X17-75913.iso |
-| Dutch                 | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Dutch_Std_Pro_Prem_MLF_X17-75911.ISO |
-| English               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_English_Std_Pro_Prem_MLF_X17-75853.ISO |
-| English               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_English_Std_Pro_Prem_MLF_X17-75851.iso |
-| Finnish               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Finnish_Std_Pro_Prem_MLF_X17-75929.ISO |
-| Finnish               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Finnish_Std_Pro_Prem_MLF_X17-75927.iso |
-| French                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_French_Std_Pro_Prem_MLF_X17-75877.ISO |
-| French                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_French_Std_Pro_Prem_MLF_X17-75875.iso |
-| German                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_German_Std_Pro_Prem_MLF_X17-75865.iso |
-| German                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_German_Std_Pro_Prem_MLF_X17-75863.iso |
-| Greek                 | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Greek_Std_Pro_Prem_MLF_X17-75881.iso |
-| Greek                 | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Greek_Std_Pro_Prem_MLF_X17-75879.iso |
-| Hebrew                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Hebrew_Std_Pro_Prem_MLF_X17-75885.ISO |
-| Hebrew                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Hebrew_Std_Pro_Prem_MLF_X17-75883.iso |
-| Hungarian             | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Hungarian_Std_Pro_Prem_MLF_X17-75889.iso |
-| Hungarian             | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Hungarian_Std_Pro_Prem_MLF_X17-75887.iso |
-| Italian               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Italian_Std_Pro_Prem_MLF_X17-75893.ISO |
-| Italian               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Italian_Std_Pro_Prem_MLF_X17-75891.iso |
-| Japanese              | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Japanese_Std_Pro_Prem_MLF_X17-75897.ISO |
-| Japanese              | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Japanese_Std_Pro_Prem_MLF_X17-75895.iso |
-| Korean                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Korean_Std_Pro_Prem_MLF_X17-75901.ISO |
-| Korean                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Korean_Std_Pro_Prem_MLF_X17-75899.iso |
-| Norwegian             | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Norwegian_Std_Pro_Prem_MLF_X17-75909.iso |
-| Norwegian             | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Norwegian_Std_Pro_Prem_MLF_X17-75907.iso |
-| Polish                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Polish_Std_Pro_Prem_MLF_X17-75921.iso |
-| Polish                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Polish_Std_Pro_Prem_MLF_X17-75919.iso |
-| Portuguese - Brazil   | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Brazilian_Std_Pro_Prem_MLF_X17-75845.iso |
-| Portuguese - Brazil   | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Brazilian_Std_Pro_Prem_MLF_X17-75843.iso |
-| Portuguese - Portugal | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Portuguese_Std_Pro_Prem_MLF_X17-75917.ISO |
-| Portuguese - Portugal | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Portuguese_Std_Pro_Prem_MLF_X17-75915.iso |
-| Russian               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Russian_Std_Pro_Prem_MLF_X17-75937.iso |
-| Russian               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Russian_Std_Pro_Prem_MLF_X17-75935.iso |
-| Slovak                | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Slovak_Std_Pro_Prem_MLF_X17-75933.iso |
-| Slovak                | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Slovak_Std_Pro_Prem_MLF_X17-75931.ISO |
-| Slovenian             | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Slovenian_Std_Pro_Prem_MLF_X17-75905.iso |
-| Slovenian             | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Slovenian_Std_Pro_Prem_MLF_X17-75903.ISO |
-| Spanish               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Spanish_Std_Pro_Prem_MLF_X17-75873.iso |
-| Spanish               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Spanish_Std_Pro_Prem_MLF_X17-75871.iso |
-| Swedish               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Swedish_Std_Pro_Prem_MLF_X17-75925.iso |
-| Swedish               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Swedish_Std_Pro_Prem_MLF_X17-75923.iso |
-| Turkish               | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Turkish_Std_Pro_Prem_MLF_X17-75941.ISO |
-| Turkish               | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Turkish_Std_Pro_Prem_MLF_X17-75939.iso |
-| Ukrainian             | x64  | SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Ukrainian_Std_Pro_Prem_MLF_X17-75841.ISO |
-| Ukrainian             | x32  | SW_DVD5_Visio_Premium_2010w_SP1_W32_Ukrainian_Std_Pro_Prem_MLF_X17-75839.iso |
+| Language              | Arch | Link |
+| :-------------------- | :--- | :--- |
+| Arabic                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Arabic_Std_Pro_Prem_MLF_X17-75857.ISO](https://buzzheavier.com/52spoqoe5v6u) |
+| Arabic                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Arabic_Std_Pro_Prem_MLF_X17-75855.ISO](https://buzzheavier.com/0s9yg5qj7vgv) |
+| Chinese - Simplified  | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_ChnSimp_Std_Pro_Prem_MLF_X17-75849.ISO](https://buzzheavier.com/0sfzkkhnlfn6) |
+| Chinese - Simplified  | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_ChnSimp_Std_Pro_Prem_MLF_X17-75847.ISO](https://buzzheavier.com/0ybmolc0izoo) |
+| Chinese - Traditional | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_ChnTrad_Std_Pro_Prem_MLF_X17-75945.ISO](https://buzzheavier.com/lqc03rb4vuw5) |
+| Chinese - Traditional | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_ChnTrad_Std_Pro_Prem_MLF_X17-75943.ISO](https://buzzheavier.com/vky2xqeyqbef) |
+| Czech                 | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Czech_Std_Pro_Prem_MLF_X17-75861.ISO](https://buzzheavier.com/sscglscvw30a) |
+| Czech                 | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Czech_Std_Pro_Prem_MLF_X17-75859.ISO](https://buzzheavier.com/rrrvdby0deie) |
+| Danish                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Danish_Std_Pro_Prem_MLF_X17-75869.ISO](https://buzzheavier.com/gev3g5wx65tn) |
+| Danish                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Danish_Std_Pro_Prem_MLF_X17-75867.ISO](https://buzzheavier.com/j39x0w7a3r5j) |
+| Dutch                 | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Dutch_Std_Pro_Prem_MLF_X17-75913.ISO](https://buzzheavier.com/6jgadehd93ea) |
+| Dutch                 | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Dutch_Std_Pro_Prem_MLF_X17-75911.ISO](https://buzzheavier.com/1tfaqg8ih41k) |
+| English               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_English_Std_Pro_Prem_MLF_X17-75853.ISO](https://buzzheavier.com/a1qwgbxdpzi8) |
+| English               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_English_Std_Pro_Prem_MLF_X17-75851.ISO](https://buzzheavier.com/waui4u05oi9c) |
+| Finnish               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Finnish_Std_Pro_Prem_MLF_X17-75929.ISO](https://buzzheavier.com/vmo5h7km4zr9) |
+| Finnish               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Finnish_Std_Pro_Prem_MLF_X17-75927.ISO](https://buzzheavier.com/ylgmxwlejbr7) |
+| French                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_French_Std_Pro_Prem_MLF_X17-75877.ISO](https://buzzheavier.com/rfl4x9399hqb) |
+| French                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_French_Std_Pro_Prem_MLF_X17-75875.ISO](https://buzzheavier.com/g4spv5wu44mx) |
+| German                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_German_Std_Pro_Prem_MLF_X17-75865.ISO](https://buzzheavier.com/nje4xa81p07i) |
+| German                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_German_Std_Pro_Prem_MLF_X17-75863.ISO](https://buzzheavier.com/cc0mpfxhprh2) |
+| Greek                 | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Greek_Std_Pro_Prem_MLF_X17-75881.ISO](https://buzzheavier.com/mot16bbyhnyb) |
+| Greek                 | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Greek_Std_Pro_Prem_MLF_X17-75879.ISO](https://buzzheavier.com/b7c3zhip0b2g) |
+| Hebrew                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Hebrew_Std_Pro_Prem_MLF_X17-75885.ISO](https://buzzheavier.com/4eawhdlodfjz) |
+| Hebrew                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Hebrew_Std_Pro_Prem_MLF_X17-75883.ISO](https://buzzheavier.com/arnim30ycbg7) |
+| Hungarian             | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Hungarian_Std_Pro_Prem_MLF_X17-75889.ISO](https://buzzheavier.com/h8i3ialavsjv) |
+| Hungarian             | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Hungarian_Std_Pro_Prem_MLF_X17-75887.ISO](https://buzzheavier.com/k1w44pjxrchr) |
+| Italian               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Italian_Std_Pro_Prem_MLF_X17-75893.ISO](https://buzzheavier.com/qqu7pl6j6a91) |
+| Italian               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Italian_Std_Pro_Prem_MLF_X17-75891.ISO](https://buzzheavier.com/eildd62fsysx) |
+| Japanese              | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Japanese_Std_Pro_Prem_MLF_X17-75897.ISO](https://buzzheavier.com/17pw9yffihdx) |
+| Japanese              | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Japanese_Std_Pro_Prem_MLF_X17-75895.ISO](https://buzzheavier.com/b41k4jz4nu4k) |
+| Korean                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Korean_Std_Pro_Prem_MLF_X17-75901.ISO](https://buzzheavier.com/hqfxlck7sb90) |
+| Korean                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Korean_Std_Pro_Prem_MLF_X17-75899.ISO](https://buzzheavier.com/j5xvz0baf80n) |
+| Norwegian             | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Norwegian_Std_Pro_Prem_MLF_X17-75909.ISO](https://buzzheavier.com/idnni4pqz6us) |
+| Norwegian             | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Norwegian_Std_Pro_Prem_MLF_X17-75907.ISO](https://buzzheavier.com/hzcfmalf93x0) |
+| Polish                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Polish_Std_Pro_Prem_MLF_X17-75921.ISO](https://buzzheavier.com/y5l0tkl45chj) |
+| Polish                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Polish_Std_Pro_Prem_MLF_X17-75919.ISO](https://buzzheavier.com/l8btjj8ms9ce) |
+| Portuguese - Brazil   | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Brazilian_Std_Pro_Prem_MLF_X17-75845.ISO](https://buzzheavier.com/pg0dmsfb5kxi) |
+| Portuguese - Brazil   | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Brazilian_Std_Pro_Prem_MLF_X17-75843.ISO](https://buzzheavier.com/fpuhc52dp9fj) |
+| Portuguese - Portugal | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Portuguese_Std_Pro_Prem_MLF_X17-75917.ISO](https://buzzheavier.com/otnfrpke14r9) |
+| Portuguese - Portugal | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Portuguese_Std_Pro_Prem_MLF_X17-75915.ISO](https://buzzheavier.com/pedjw1akg4xd) |
+| Russian               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Russian_Std_Pro_Prem_MLF_X17-75937.ISO](https://buzzheavier.com/t8p1rsyjhjdw) |
+| Russian               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Russian_Std_Pro_Prem_MLF_X17-75935.ISO](https://buzzheavier.com/wgpsak4zp88f) |
+| Slovak                | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Slovak_Std_Pro_Prem_MLF_X17-75933.ISO](https://buzzheavier.com/84tefw6ixfzc) |
+| Slovak                | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Slovak_Std_Pro_Prem_MLF_X17-75931.ISO](https://buzzheavier.com/6pwpblkcuhly) |
+| Slovenian             | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Slovenian_Std_Pro_Prem_MLF_X17-75905.ISO](https://buzzheavier.com/an5m8he9y3oo) |
+| Slovenian             | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Slovenian_Std_Pro_Prem_MLF_X17-75903.ISO](https://buzzheavier.com/okqpbk6ljzpp) |
+| Spanish               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Spanish_Std_Pro_Prem_MLF_X17-75873.ISO](https://buzzheavier.com/lorm2xe2zrki) |
+| Spanish               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Spanish_Std_Pro_Prem_MLF_X17-75871.ISO](https://buzzheavier.com/j4k3mnuqra6g) |
+| Swedish               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Swedish_Std_Pro_Prem_MLF_X17-75925.ISO](https://buzzheavier.com/wid30vbn9i02) |
+| Swedish               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Swedish_Std_Pro_Prem_MLF_X17-75923.ISO](https://buzzheavier.com/vl9tt4lmwyxq) |
+| Turkish               | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Turkish_Std_Pro_Prem_MLF_X17-75941.ISO](https://buzzheavier.com/gik6nkkky6ex) |
+| Turkish               | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Turkish_Std_Pro_Prem_MLF_X17-75939.ISO](https://buzzheavier.com/67f9ldm7bm08) |
+| Ukrainian             | x64  | [SW_DVD5_Visio_Premium_2010w_SP1_64Bit_Ukrainian_Std_Pro_Prem_MLF_X17-75841.ISO](https://buzzheavier.com/zn30jzugyx7y) |
+| Ukrainian             | x32  | [SW_DVD5_Visio_Premium_2010w_SP1_W32_Ukrainian_Std_Pro_Prem_MLF_X17-75839.ISO](https://buzzheavier.com/qffkgoq8he7f) |
 
 </TabItem>
 </Tabs>
