@@ -133,32 +133,26 @@ Build - 25398.2025 (Dec 2025)
 
 Updated November 2022 (Build - 17763.3650)
 
-:::warning
-
-Downloads for this release are temporarily unavailable.
-
-:::
-
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
-| Czech               | x64  | cs-cz_windows_server_2019_x64_dvd_3781c31c.iso |
-| German              | x64  | de-de_windows_server_2019_x64_dvd_132f7aa4.iso |
-| English             | x64  | en-us_windows_server_2019_x64_dvd_f9475476.iso |
-| Spanish             | x64  | es-es_windows_server_2019_x64_dvd_3ce0fd9e.iso |
-| French              | x64  | fr-fr_windows_server_2019_x64_dvd_f6f6acf6.iso |
-| Hungarian           | x64  | hu-hu_windows_server_2019_x64_dvd_1d834c46.iso |
-| Italian             | x64  | it-it_windows_server_2019_x64_dvd_454267de.iso |
-| Japanese            | x64  | ja-jp_windows_server_2019_x64_dvd_3899c3a3.iso |
-| Korean              | x64  | ko-kr_windows_server_2019_x64_dvd_84101c0a.iso |
-| Dutch-Netherlands   | x64  | nl-nl_windows_server_2019_x64_dvd_f69d914e.iso |
-| Polish              | x64  | pl-pl_windows_server_2019_x64_dvd_a50263e1.iso |
-| Portuguese-Brazil   | x64  | pt-br_windows_server_2019_x64_dvd_aee8c1c2.iso |
-| Portuguese-Portugal | x64  | pt-pt_windows_server_2019_x64_dvd_464373e8.iso |
-| Russian             | x64  | ru-ru_windows_server_2019_x64_dvd_e02b76ba.iso |
-| Swedish             | x64  | sv-se_windows_server_2019_x64_dvd_48c1aeff.iso |
-| Turkish             | x64  | tr-tr_windows_server_2019_x64_dvd_b51af600.iso |
-| Chinese-Simplified  | x64  | zh-cn_windows_server_2019_x64_dvd_19d65722.iso |
-| Chinese-Traditional | x64  | zh-tw_windows_server_2019_x64_dvd_a4c80409.iso |
+| Czech               | x64  | [cs-cz_windows_server_2019_x64_dvd_3781c31c.iso](https://buzzheavier.com/1uw61k578nnb) |
+| German              | x64  | [de-de_windows_server_2019_x64_dvd_132f7aa4.iso](https://buzzheavier.com/z5bixf580n9a) |
+| English             | x64  | [en-us_windows_server_2019_x64_dvd_f9475476.iso](https://buzzheavier.com/ue3zuuxwwa59) |
+| Spanish             | x64  | [es-es_windows_server_2019_x64_dvd_3ce0fd9e.iso](https://buzzheavier.com/n87ms8uck09k) |
+| French              | x64  | [fr-fr_windows_server_2019_x64_dvd_f6f6acf6.iso](https://buzzheavier.com/ticxvuab2rcx) |
+| Hungarian           | x64  | [hu-hu_windows_server_2019_x64_dvd_1d834c46.iso](https://buzzheavier.com/towje3tkeng9) |
+| Italian             | x64  | [it-it_windows_server_2019_x64_dvd_454267de.iso](https://buzzheavier.com/p2fll4bgh2yf) |
+| Japanese            | x64  | [ja-jp_windows_server_2019_x64_dvd_3899c3a3.iso](https://buzzheavier.com/3f6ii4v3zp3e) |
+| Korean              | x64  | [ko-kr_windows_server_2019_x64_dvd_84101c0a.iso](https://buzzheavier.com/rflohw1kf1hs) |
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2019_x64_dvd_f69d914e.iso](https://buzzheavier.com/il0oaugsq5ba) |
+| Polish              | x64  | [pl-pl_windows_server_2019_x64_dvd_a50263e1.iso](https://buzzheavier.com/lrnp5doeydmm) |
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2019_x64_dvd_aee8c1c2.iso](https://buzzheavier.com/yht1590hva9j) |
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2019_x64_dvd_464373e8.iso](https://buzzheavier.com/1kin2aqaimy8) |
+| Russian             | x64  | [ru-ru_windows_server_2019_x64_dvd_e02b76ba.iso](https://buzzheavier.com/9onc2io2bmdk) |
+| Swedish             | x64  | [sv-se_windows_server_2019_x64_dvd_48c1aeff.iso](https://buzzheavier.com/m7rne8n77k3q) |
+| Turkish             | x64  | [tr-tr_windows_server_2019_x64_dvd_b51af600.iso](https://buzzheavier.com/9ahy6190d6tu) |
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://buzzheavier.com/sqddwet2qb3j) |
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://buzzheavier.com/iou6g468c7qf) |
 
 ------------------------------------------------------------------------
 
