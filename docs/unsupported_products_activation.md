@@ -45,12 +45,12 @@ Office 2010 should now be permanently activated.
 
 | Office Version                                    | Activation / Keys                                                     |
 | :------------------------------------------------ | :-------------------------------------------------------------------- |
-| Office 2007 Enterprise                            | `BQDQB-KRRY9-43DBR-4P9J4-DH7D8`                                       |
-| Office 2007 Sharepoint Designer / Project / Visio | `W2JJW-4KYDP-2YMKW-FX36H-QYVD8`                                       |
-| Office 2003 Pro                                   | `VPXMC-4KG2B-6YGFT-JDFFP-QCQHM`                                       |
-| Office 2003 Frontpage / OneNote / Project / Visio | `VVT43-R24HV-8HVFK-YBPYM-8B9VM`                                       |
-| Office XP (2002) Pro / Pro with FrontPage         | `HRPK8-F8JKW-MP6Q2-3P2TJ-4WX8J`                                       |
-| Office 2002 Publisher / Project / Visio           | `M6XJF-97J4W-PF9PG-PHRTX-7K49B`                                       |
+| Office 2007 Enterprise                            | BQDQB-KRRY9-43DBR-4P9J4-DH7D8                                         |
+| Office 2007 Sharepoint Designer / Project / Visio | W2JJW-4KYDP-2YMKW-FX36H-QYVD8                                         |
+| Office 2003 Pro                                   | VPXMC-4KG2B-6YGFT-JDFFP-QCQHM                                         |
+| Office 2003 Frontpage / OneNote / Project / Visio | VVT43-R24HV-8HVFK-YBPYM-8B9VM                                         |
+| Office XP (2002) Pro / Pro with FrontPage         | HRPK8-F8JKW-MP6Q2-3P2TJ-4WX8J                                         |
+| Office 2002 Publisher / Project / Visio           | M6XJF-97J4W-PF9PG-PHRTX-7K49B                                         |
 
 ------------------------------------------------------------------------
 
