@@ -278,6 +278,7 @@ import TabItem from '@theme/TabItem';
 | Ukrainian                | x32  | [uk_windows_8_enterprise_x86_dvd_917694.iso](https://drive.massgrave.dev/uk_windows_8_enterprise_x86_dvd_917694.iso)       |
 
 </TabItem>
+
 </Tabs>
 </TabItem>
 
@@ -460,6 +461,29 @@ import TabItem from '@theme/TabItem';
 | Spanish                  | x32  | [es_windows_8_enterprise_n_x86_dvd_918730.iso](https://drive.massgrave.dev/es_windows_8_enterprise_n_x86_dvd_918730.iso)       |
 | Swedish                  | x64  | [sv_windows_8_enterprise_n_x64_dvd_918701.iso](https://drive.massgrave.dev/sv_windows_8_enterprise_n_x64_dvd_918701.iso)       |
 | Swedish                  | x32  | [sv_windows_8_enterprise_n_x86_dvd_918668.iso](https://drive.massgrave.dev/sv_windows_8_enterprise_n_x86_dvd_918668.iso)       |
+
+</TabItem>
+</Tabs>
+</TabItem>
+
+<TabItem value="Windows Embedded 8" label="Windows Embedded 8" default>
+
+<Tabs>
+
+<TabItem value="Windows Embedded Standard 8" label="Windows Embedded Standard 8" default>
+
+**Windows Embedded Standard 8**
+
+The runtime and toolkit are delivered as multi-part archives. Select the parts corresponding to your desired architecture before downloading.
+
+Use the following product keys during installation to get the full, non-evaluation version:
+
+ - Runtime: `V8YQB-NK79D-3XXDR-HVDQV-M4FCQ`
+ - Toolkit: `D9XDH-78JX9-2KJG8-K7CY9-KF2Q3`
+
+| Language                | Arch     | Link                                                                                    |
+| :---------------------- | :------- | :-------------------------------------------------------------------------------------- |
+| English                 | x32/x64  | [Official Download](https://www.microsoft.com/en-us/download/details.aspx?id=37019)     |
 
 </TabItem>
 </Tabs>

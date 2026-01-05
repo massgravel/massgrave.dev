@@ -520,6 +520,7 @@ Available in x86 only.
 | Ukrainian               | x32  | [uk_windows_7_starter_with_sp1_x86_dvd_u_678529.iso](https://drive.massgrave.dev/uk_windows_7_starter_with_sp1_x86_dvd_u_678529.iso)     |
 
 </TabItem>
+
 </Tabs>
 </TabItem>
 
@@ -787,6 +788,29 @@ Available in x86 only.
 | Slovenian             | x32  | [sl_windows_7_starter_n_with_sp1_x86_dvd_u_678531.iso](https://drive.massgrave.dev/sl_windows_7_starter_n_with_sp1_x86_dvd_u_678531.iso)   |
 | Spanish               | x32  | [es_windows_7_starter_n_with_sp1_x86_dvd_u_678353.iso](https://drive.massgrave.dev/es_windows_7_starter_n_with_sp1_x86_dvd_u_678353.iso)   |
 | Swedish               | x32  | [sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso](https://drive.massgrave.dev/sv_windows_7_starter_n_with_sp1_x86_dvd_u_678538.iso)   |
+
+</TabItem>
+</Tabs>
+</TabItem>
+
+<TabItem value="Windows Embedded 7" label="Windows Embedded 7" default>
+
+<Tabs>
+
+<TabItem value="Windows Embedded Standard 7" label="Windows Embedded Standard 7" default>
+
+**Windows Embedded Standard 7**
+
+The runtime and toolkit are delivered as multi-part archives. Select the parts corresponding to your desired architecture before downloading.
+
+Use the following product keys during installation to get the full, non-evaluation version:
+
+ - Runtime: `XGY72-BRBBT-FF8MH-2GG8H-W7KCW`
+ - Toolkit: `7XT84-3XQFP-YMXQF-PP96H-F74DV`
+
+| Language                | Arch     | Link                                                                                    |
+| :---------------------- | :------- | :-------------------------------------------------------------------------------------- |
+| English                 | x32/x64  | [Official Download](https://www.microsoft.com/en-us/download/details.aspx?id=11887)     |
 
 </TabItem>
 </Tabs>
