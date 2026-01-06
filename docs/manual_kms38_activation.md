@@ -26,7 +26,7 @@ To manually activate Windows, follow these steps:
 
 **Notes:**
 -   For Windows Server Cor/Acor editions, the system does not have the `clipup.exe` file.  
-    To activate it using KMS38, download the missing `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
+    To activate it using KMS38, download the missing `ClipUp.exe` file from [this link](https://buzzheavier.com/mys913qkbfg6).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     The file is digitally signed and verifiable. You can also obtain this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).  

@@ -184,7 +184,7 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 ## Office Activation
 
 - Install Office for your macOS version from the above table if not installed.
-- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw) and clean the licenses.
+- If you have ever opened Office apps on your macOS, then run this [Office-Reset tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://buzzheavier.com/mrx6aj8o0pjn) and clean the licenses.
 - Now run the below-listed activator pkg file and install. (**Don't open Office apps before installing activator pkg file**)
 - Your office should be activated now.
 
@@ -205,7 +205,7 @@ The below activator (serializer) pkg files are extracted from the official iso f
 
 - If activation is not working, then:
   - Uninstall all Office apps.
-  - Clean everything using [Office-Reset Tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://app.box.com/s/hctdoltzt36hnc37440lmgkjwp3qncpw).
+  - Clean everything using [Office-Reset Tool 2.0 Beta 1](https://web.archive.org/web/20250812220920/https://office-reset.com/) - [(Mirror)](https://buzzheavier.com/mrx6aj8o0pjn).
   - Reinstall Office and follow the activation steps explained above.
   - If you are still facing issues, [erase and reinstall macOS](https://support.apple.com/en-us/guide/mac-help/mh27903/mac), then repeat the process.
 

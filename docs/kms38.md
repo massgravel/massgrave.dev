@@ -166,7 +166,7 @@ If you still wish to use it on older Windows versions or keep it for archival pu
 ## KMS38 - Server Cor/Acor
 
 -   Windows Server Cor/Acor (No GUI) editions don't have the `clipup.exe` file.
--   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://app.box.com/s/cwoxub9tqyowhnyva6ign6qnogb6vk0o).  
+-   To KMS38 activate it, you need to download the `ClipUp.exe` file from [this link](https://buzzheavier.com/mys913qkbfg6).  
     `File: ClipUp.exe`  
     `SHA-256: 0d6e9f6bbd0321eda149658d96040cb4f79e0bd93ba60061f25b28fecbf4d4ef`  
     This file has digital signatures that can be verified. You can also get this file from the official [Windows Server 2016 x64 RTM ISO](https://download.microsoft.com/download/1/6/F/16FA20E6-4662-482A-920B-1A45CF5AAE3C/14393.0.160715-1616.RS1_RELEASE_SERVER_EVAL_X64FRE_EN-US.ISO).
