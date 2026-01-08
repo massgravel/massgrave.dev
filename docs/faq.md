@@ -94,7 +94,7 @@ Yes.
 
 ---
 
-#### I'm in Russia and Office is not downloading.
+#### I'm in a sanctioned country and Office is not downloading.
 Follow this [guide](bypass_microsoft_geoblocking).
 
 ---
