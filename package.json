@@ -1,6 +1,7 @@
 {
   "name": "mas-docs",
   "version": "0.0.0",
+  "license": "CC-BY-4.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -14,9 +15,10 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "3.9.2",
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/faster": "^3.9.2",
     "@docusaurus/plugin-client-redirects": "^3.9.2",
-    "@docusaurus/preset-classic": "3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
@@ -25,8 +27,8 @@
     "react-player": "^3.4.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.9.2",
-    "@docusaurus/types": "3.9.2"
+    "@docusaurus/module-type-aliases": "^3.9.2",
+    "@docusaurus/types": "^3.9.2"
   },
   "browserslist": {
     "production": [
@@ -35,9 +37,9 @@
       "not op_mini all"
     ],
     "development": [
-      "last 3 chrome version",
-      "last 3 firefox version",
-      "last 5 safari version"
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
     ]
   },
   "engines": {

@@ -1,9 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -11,24 +5,20 @@ const config = {
   title: 'MAS',
   tagline: 'Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://massgrave.dev/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'massgravel', // Usually your GitHub org/user name.
-  projectName: 'massgrave.dev', // Usually your repo name.
+  baseUrlIssueBanner: true,
+  url: 'https://massgrave.dev',
+  organizationName: 'massgravel',
+  projectName: 'massgrave.dev',
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  future: {
+    v4: true,
+    experimental_faster: true
+  },
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -40,7 +30,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/', // Serve the docs at the site's root	
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
         },
         blog: {
@@ -49,7 +39,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -106,7 +95,6 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
-      // Replace with your project's social card
       image: 'img/card.png',
       navbar: {
         title: 'MAS',
