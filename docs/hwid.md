@@ -21,28 +21,27 @@
 
 ## How does it work?
 
-#### HWID 1 (Now defunct) (Summer of 2018 - Sep 26 2023)
+#### HWID 1 (Defunct) (Summer 2018 - Sep 26, 2023)
 
--   In the official upgrade process from Windows 7 to Windows 10, if your copy of Windows 7 was activated, Microsoft provided a digital license for Windows 10 without any cost.
--   In the background, the upgrade process runs a file named gatherosstate.exe (available in Windows 10/11 ISO) and it checks the license of the current Windows installation. If it detected that it is activated, it generates a valid GenuineTicket.xml **ticket** which is sent to Microsoft and in return, MS authorizes a license.
--   So, if we can convince the gatherosstate.exe file that the conditions are met for ticket generation by fooling it, it will generate a valid ticket, which can be used to get the valid digital license.
--   How to convince gatherosstate.exe that Windows is activated?  
-    There are two methods for it.  
-    **1-** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file beside gatherosstate.exe:  
-    gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather the system's info. If we place a custom slc.dll file beside gatherosstate.exe, it can send rubbish data to it, then it will simply accept it and generate a valid ticket.  
-    **2-** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file directly so that it doesn't check the system's activation status at all and create a valid ticket.
--   You can find the workings of this old method here: [MAS-Legacy-Methods](https://github.com/massgravel/MAS-Legacy-Methods).
--   Microsoft [made](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) server-side changes to their licensing servers to block the free upgrade, and with that server-side change, this method stopped working. To be clear, only new activation requests coming from new hardware were blocked, already established digital licenses with this method are fine.
+-   During the official upgrade process from Windows 7 to Windows 10, if your copy of Windows 7 was activated, Microsoft provided a digital license for Windows 10 at no cost.
+-   In the background, the upgrade process runs a file named gatherosstate.exe (available in the Windows 10/11 ISO), which checks the license of the current Windows installation. If it detects that the system activated, it generates a valid GenuineTicket.xml ticket. This is sent to Microsoft, and in return, Microsoft authorizes a license.
+-   Therefore, if we can convince gatherosstate.exe that the conditions for ticket generation are met by manipulating it, it will generate a valid ticket that can be used to acquire a digital license.
+-   How do we convince gatherosstate.exe that Windows is activated?  
+    There are two methods to achieve this:  
+    **1.** Place a [custom slc.dll](https://github.com/asdcorp/Integrated_Patcher_3) file alongside gatherosstate.exe:  
+    gatherosstate.exe uses the system's `C:\Windows\System32\slc.dll` file to gather system info. If we place a custom slc.dll file beside gatherosstate.exe, it can send dummy data to the executable. The executable will simply accept this data and generate a valid ticket.  
+    **2.** [Modify](https://github.com/asdcorp/GamersOsState) the gatherosstate.exe file directly so that it skips the system activation check entirely and creates a valid ticket.
+-   Microsoft [made](https://devicepartner.microsoft.com/en-us/communications/comm-windows-ends-installation-path-for-free-windows-7-8-upgrade) server-side changes to their licensing servers to block the free upgrade; consequently, this method stopped working. To be clear, only new activation requests coming from new hardware were blocked; digital licenses already established with this method remain valid.
 
-#### HWID 2 (Currently working) (03 Oct 2023 - Current)
+#### HWID 2 (Oct 03, 2023 - Current)
 
--   When Microsoft stopped the free upgrade, it started requiring a genuine valid key in the ticket to authorize a digital license. In the new method, we use the Installation ID of a genuine, valid key. This gets accepted by the server and allows us to get a digital license for free. Check the manual activation process in below section to know how to make working universal tickets.
+-   When Microsoft stopped the free upgrade, they started requiring a genuine, valid key in the ticket to authorize a digital license. In this new method, we use the Installation ID of a genuine, valid key. This is accepted by the server, allowing us to obtain a digital license for free. Check the manual activation process in the section below to learn how to create working universal tickets.
 
 ------------------------------------------------------------------------
 
-Now a question, can Microsoft block the new requests or revoke already established digital licenses?
+**Can Microsoft block new requests or revoke already established digital licenses?**
 
--   Revoking the licenses would be too extreme and will face many complications and create a risk of voiding valid licenses. However, they can very easily block the new activation requests for new hardware coming from the methods mentioned here.
+-   Revoking licenses would be an extreme measure facing many complications, including the risk of voiding valid licenses. However, Microsoft could easily block new activation requests for new hardware originating from the methods mentioned here.
 
 ------------------------------------------------------------------------
 
@@ -93,22 +92,21 @@ Now a question, can Microsoft block the new requests or revoke already establish
 
 ------------------------------------------------------------------------
 
-## How to remove HWID?
+## How to Remove HWID?
 
--   **HWID (Digital license) activation cannot be removed** because the license is stored in the Microsoft servers and not in the user's system.
--   Microsoft checks the hardware ID (HWID) and if a license is found in their database, the system will automatically activate. This is how the official digital license activation process works.
+-   **HWID (Digital License) activation cannot be removed** because the license is stored on Microsoft servers, not on the user's system.
+-   Microsoft checks the Hardware ID (HWID); if a license is found in their database, the system will automatically activate. This is how the official Digital License activation process works.
 
 **What if you still want to remove it?**
 
--   As explained above, you cannot remove it for your hardware, only major hardware change such as CPU, motherboard can remove the activation.
+-   As explained above, you cannot remove the license for your current hardware. Only a major hardware change, such as replacing the CPU or motherboard, can remove the activation.
 
-**What if you just want to keep Windows in the unactivated stage?**  
-- To do that, you can install the [KMS key](online_kms.md#supported-products) in the Windows settings activation page  
-  Or
-- Change the edition using Change Windows edition option in MAS.  
+**What if you just want to keep Windows in an unactivated state?**  
+- To do this, you can install a [KMS key](online_kms.md#supported-products) on the Windows Activation Settings page.  
+- You can also change the Windows edition using the "Change Windows Edition" option in MAS.  
 - **Note:** 
-  - Windows settings will instantly show that Windows is not activated but it usually takes 3 hours for the Activation Watermark to appear.
-  - These options will simply hide the HWID activation. If you reinstall Windows with the same edition or restore the default generic Retail/OEM keys, the system will automatically activate again if an Internet connection is found.
+  - Windows Settings will instantly show that Windows is not activated, but it usually takes 3 hours for the activation watermark to appear.
+  - These options simply hide the HWID activation. If you reinstall Windows with the same edition or restore the default generic Retail/OEM keys, the system will automatically activate again once an internet connection is established.
 
 ------------------------------------------------------------------------
 
