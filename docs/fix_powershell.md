@@ -1,6 +1,6 @@
 # Fix PowerShell
 
-Scripts may show an error related to Powershell not working.
+Scripts may show an error related to PowerShell not working.
 
 ---
 

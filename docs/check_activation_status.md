@@ -1,6 +1,6 @@
 # Check Activation Status
 
-A robust Windows Powershell script to display the licensing status of Microsoft Windows and Office.
+A robust Windows PowerShell script to display the licensing status of Microsoft Windows and Office.
 
 **Author:** [abbodi1406](https://github.com/abbodi1406)  
 **Github Repo:** https://github.com/gravesoft/CAS  
@@ -26,7 +26,7 @@ Supported products
 Features
 --------
 
-- Require Windows Powershell 2.0 at minimum
+- Require Windows PowerShell 2.0 at minimum
 - Practical replacement for **slmgr.vbs** functions `/dli` `/dlv` `xpr`
 - Shows the activation expiration date for supported products
 - Shows the `ProductKeyChannel` for Windows Vista / 7 / 8 primary installed key (available for uplevel Windows by default)

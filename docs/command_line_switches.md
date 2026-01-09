@@ -2,7 +2,7 @@
 
 ## Switches List
 
--   You can use the switches below in MAS AIO, separate files version and in Powershell one-liner to run in unattended mode.
+-   You can use the switches below in MAS AIO, separate files version and in PowerShell one-liner to run in unattended mode.
 -   If you want to use MAS to pre-activate Windows, check [this](oem-folder.md) page for more details.
 
 ### HWID
@@ -68,7 +68,7 @@ Run operations in silent mode (no output but the CMD window will still appear)
 
 ------------------------------------------------------------------------
 
-## Using in the Powershell One-Liner
+## Using in the PowerShell One-Liner
 
 For **Windows 8** and newer:
 

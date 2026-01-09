@@ -3,36 +3,36 @@
 ## Overview
 
 -   **How to use it?** Instructions can be found [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
--   This activation method can activate all kinds of Office versions on Windows Vista and higher and their Server equivalent except Office UWP apps.
+-   This activation method activates all Office versions on Windows Vista and later (including their Server equivalents), except for Office UWP apps.
 -   This activation method works offline and activates Office permanently.
--   This activation method can survive Office repairs, Office updates, and even Windows major feature upgrades. You do not need to reactivate in these cases.
--   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
--   This activation method does not modify/patch any onboard system files, instead it installs a custom SPPC.dll (open source) file for the activation to work. Check further details in below "How does it work?" section.
+-   This activation method survives Office repairs, updates, and even major Windows feature upgrades. You do not need to reactivate in these cases.
+-   For the Office 365 subscription version, server-side features such as 1TB storage are unavailable. However, most other features, including the 5GB storage provided with a free OneDrive account, function normally.
+-   This activation method does not modify or patch any onboard system files; instead it installs a custom `SPPC.dll` (open source) file to handle activation. See the  "How does it work?" section below for details.
 
 ------------------------------------------------------------------------
 
 ## How does it work?
 
-#### For SPP based Office:
+#### For SPP-based Office:
 
 ![](/img/MAS-before-ohook.svg)
 
--   As illustrated in the above 1st image, in the Official activation process of SPP based Office, Office asks `C:\Windows\System32\sppc.dll` about the activation status and that file asks the same thing to SPP (Software Protection Platform) `C:\Windows\System32\sppsvc.exe` and returns the message back to Office.
+-   As illustrated in the first image above, during the official activation process of SPP-based Office, Office queries `C:\Windows\System32\sppc.dll` regarding activation status. That file then queries the Software Protection Platform (SPP) at `C:\Windows\System32\sppsvc.exe` and returns the status to Office.
 
 ![](/img/MAS-after-ohook.svg)
 
--   As illustrated in the above 2nd image, we modify this behavior by placing a custom `sppc.dll` file in Office folder without touching system's `C:\Windows\System32\sppc.dll` file and that custom file always returns the message that Office is activated. This is how ohook activation works.
--   You can find the source code of ohook custom sppc.dll file [here](https://github.com/asdcorp/ohook).
+-   As illustrated in the second image above, we modify this behavior by placing a custom `sppc.dll` file in the Office folder without altering the system's original `C:\Windows\System32\sppc.dll`. This custom file always returns a message confirming that Office is activated. This is how Ohook activation works.
+-   You can find the source code for the Ohook custom `sppc.dll` file [here](https://github.com/asdcorp/ohook).
 
 ------------------------------------------------------------------------
 
 ## Supported Products
 
-TL;DR all kinds of Office products are supported on Windows Vista and higher and their Server equivalent except Office UWP apps.
+**TL;DR:** All Office products are supported on Windows Vista and later (including Server equivalents), except for Office UWP apps.
 
 ### Office 2010 (14.0)
 
-**Note:** You can use this `FJ44M-DX23P-QRWQ8-RXY39-HFQTC` ltFree OEM key to install any retail version of Office 2010.
+**Note:** You can use the `FJ44M-DX23P-QRWQ8-RXY39-HFQTC` ltFree OEM key to install any retail version of Office 2010.
 
 | Office Version | Office Product                                                      | Blocked keys sourced from the Internet | Key Type |
 |----------------|---------------------------------------------------------------------|----------------------------------------|----------|
@@ -69,7 +69,7 @@ TL;DR all kinds of Office products are supported on Windows Vista and higher and
 | v14.0 (2010)   | VisioSIVL Prem[Pro,Std]                                             | 7PKFT-X2MKQ-GT6X2-8CB2W-CHC9K          | MAK      |
 | v14.0 (2010)   | WordVL                                                              | 6J3XK-DFKGK-X373V-QJHYM-V3FC2          | MAK      |
 
-We couldn't find any keys (blocked/generic doesn't matter) for these Office 2010 products. If you have them, please share with us.
+We couldn't find any keys (blocked or generic) for the following Office 2010 products. If you have them, please share them with us.
 
 ```
 4eaff0d0-c6cb-4187-94f3-c7656d49a0aa    Retail      ExcelR_[HSExcelR]
@@ -79,7 +79,7 @@ db3bbc9c-ce52-41d1-a46f-1a1d68059119    Retail      WordR_[HSWordR]
 dbe3aee0-5183-4ff7-8142-66050173cb01    Retail      SmallBusBasicsR_[SmallBusBasicsMSDNR]
 ```
 
-These installers are not publicly available, so it doesn't matter if we don't have their keys.
+These installers are not publicly available, so missing keys for them is not a major issue.
 
 ```
 19316117-30a8-4773-8fd9-7f7231f4e060    SubPrepid   HomeBusinessSubR
@@ -327,10 +327,10 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
 
 :::info
 
--   For the O365 subscription version, you can't get server side O365 specific features such as 1TB storage in Onedrive. However, almost all other features and 5GB storage in free onedrive account would work fine.
--   Script doesn't convert any product to Volume or vice-versa. All products are activated with their own licence.
--   For Office 2013 and later, key preference is given in this order, Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK
--   For Office 2010, key preference is given in this order, Retail > Volume:MAK
+-   For the Office 365 subscription version, server-side features such as 1TB OneDrive storage are unavailable. However, most other features, including the 5GB storage provided with a free OneDrive account, function normally.
+-   The script does not convert products to Volume or vice-versa. All products are activated with their own license.
+-   For Office 2013 and later, key preference is prioritized in this order: Retail:TB:Sub > Retail > OEM:NONSLP > Volume:MAK > Volume:GVLK.
+-   For Office 2010, key preference is prioritized in this order: Retail > Volume:MAK.
 
 :::
 
@@ -339,63 +339,64 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
 ## Unsupported Products
 
 -   Office UWP (Store apps)  
-    Use TSforge activation option for this.
+    Use the TSforge activation option for this.
 
 ------------------------------------------------------------------------
 
 ## How to remove Ohook?
 
--   In MAS, goto Ohook Activation and apply Uninstall option.
--   After that, In MAS, goto Troubleshoot and apply Fix Licensing option. (Optional)
--   Done.
+1. In MAS, go to **Ohook Activation** and select the **Uninstall** option.
+2. (Optional) After that, go to **Troubleshoot** in MAS and select the **Fix Licensing** option.
+3. Done.
 
 ------------------------------------------------------------------------
 
 ## Custom sppc.dll Info
 
--   Custom sppc.dll source code (Ohook 0.5) is available [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip).
--   SHA-256 checksums:  
+-   Custom `sppc.dll` source code (Ohook 0.5) is available [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip).
+-   **SHA-256 checksums:**  
 ```         
 09865ea5993215965e8f27a74b8a41d15fd0f60f5f404cb7a8b3c7757acdab02 *sppc32.dll
 393a1fa26deb3663854e41f2b687c188a9eacd87b23f17ea09422c4715cb5a9f *sppc64.dll
 ```
--   In MAS AIO version, these 2 files are encoded in base64 to make MAS AIO version. In AIO script, [instructions](https://stackoverflow.com/a/35335273) are mentioned on how to decode files from Base64 format.  
-**How to create identical sppc.dll files from scratch?**  
--   Download ohook 0.5 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip)
--   Extract this zip file to a folder named `C:\ohook`
--   Now download these two compiler archives, [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z)
--   Extract both archives with 7-zip in C drive, so that path would look like this,  
-    `C:\mingw32`
-    `C:\mingw64`
--   Open Powershell as admin and enter below command to set the time and date,  
+-   In the MAS AIO version, these two files are encoded in Base64. The AIO script includes [instructions](https://stackoverflow.com/a/35335273) on how to decode files from Base64 format.  
+
+**How to create identical sppc.dll files from scratch:**
+1. Download the Ohook 0.5 source code file from [here](https://github.com/asdcorp/ohook/archive/refs/tags/0.5.zip).
+2. Extract the zip file to a folder named `C:\ohook`.
+3. Download these two compiler archives: [mingw32](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-i686-posix-dwarf-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z) and [mingw64](https://github.com/brechtsanders/winlibs_mingw/releases/download/11.4.0-11.0.0-ucrt-r1/winlibs-x86_64-posix-seh-gcc-11.4.0-mingw-w64ucrt-11.0.0-r1.7z).
+4. Extract both archives with 7-Zip to the C: drive so the paths look like this:  
+    - `C:\mingw32`
+    - `C:\mingw64`
+5. Open PowerShell as Administrator and enter the command below to set the time and date:  
     `Set-TimeZone -Id 'UTC'; $date=[datetime]'2023/8/7 12:00';while($true){set-date $date; start-sleep -milliseconds 10;}`
--   Now open another window for Powershell and enter below commands to create sppc.dll files,  
+6. Open a second PowerShell window and enter the commands below to compile the `sppc.dll` files:  
     `Set-Location -Path C:\ohook`  
     `C:\mingw64\bin\mingw32-make.exe`
--   Calculate the SHA-256 of the created sppc64.dll and sppc32.dll files using 7-zip or Powershell, it would be same as mentioned above.
--   Done, you can now close Powershell windows and correct the date now.
+7. Calculate the SHA-256 of the created `sppc64.dll` and `sppc32.dll` files using 7-Zip or PowerShell; they should match the checksums mentioned above.
+8. Don. You can now close the PowerShell windows and correct the system date.
 
 ------------------------------------------------------------------------
 
 ## Manual Activation
 
--   Check [here](manual_ohook_activation.md)
+-   See [here](manual_ohook_activation.md).
 
 ------------------------------------------------------------------------
 
 ## Command line Switches
 
--   Check [here](command_line_switches.md).
+-   See [here](command_line_switches.md).
 
 ------------------------------------------------------------------------
 
 ## Setup Preactivate
 
--   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
--   Further read [here](oem-folder.md).
+-   Check the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
+-   For more details, read [here](oem-folder.md).
 
 ------------------------------------------------------------------------
 
 ## Troubleshooting
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

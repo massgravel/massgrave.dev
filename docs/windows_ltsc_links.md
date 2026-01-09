@@ -76,7 +76,7 @@ Applicable on Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
 LTSC editions do not come with store apps pre-installed. To install them, follow the steps below.
 
 - Make sure the Internet is connected.
-- Open Powershell as admin and enter,  
+- Open PowerShell as admin and enter,  
 `wsreset -i`  
 - Wait for a notification to appear that the store app is installed, it may take a few minutes.
 

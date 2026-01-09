@@ -452,8 +452,8 @@ If you don't want the script to convert the Retail Office to Volume, you can tur
 
 ## Setup Preactivate
 
--   Check the Extract OEM option in the MAS `Extras` section if you want pre-activated Windows installation.
--   Further read [here](oem-folder.md).
+-   Check the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
+-   For more details, read [here](oem-folder.md).
 
 ------------------------------------------------------------------------
 

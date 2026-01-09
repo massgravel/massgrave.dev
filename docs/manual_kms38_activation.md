@@ -14,7 +14,7 @@ KMS38 activation is only supported on Windows 10/11 Client and Server editions.
 
 ## Manually Activate Windows
 To manually activate Windows, follow these steps:
--   Open Windows Powershell as administrator and enter the below commands.
+-   Open Windows PowerShell as administrator and enter the below commands.
 -   Install the generic key which matches your Windows edition and version:   
     `slmgr /ipk <key>`  
     *(Refer to the table below for the appropriate key.)*

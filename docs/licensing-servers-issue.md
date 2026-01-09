@@ -15,7 +15,7 @@ We suggest following the below guide only when the script tells you to do so.
 
 ## Firewall / Proxy Reset
 
-- Open Powershell as admin and enter below commands,
+- Open PowerShell as admin and enter below commands,
 
 ```
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyEnable /t REG_DWORD /d 0 /f

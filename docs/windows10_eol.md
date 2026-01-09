@@ -58,10 +58,10 @@ The IoT edition ISO is available in English language only, but don't worry.
 The IoT edition is available in English language only, but don't worry.
 
 - Download Windows 10 Enterprise LTSC 2021 ISO from [here](windows_ltsc_links.md) in the **same Windows language and architecture**. The ISO file does not need to be the IoT version.  
-  - To check the installed Windows architecture, open Powershell as admin and enter,  
+  - To check the installed Windows architecture, open PowerShell as admin and enter,  
 `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
     x64 means 64 Bit, x86 means 32 Bit  
-  - To check the installed Windows Language, open Powershell as admin and enter,  
+  - To check the installed Windows Language, open PowerShell as admin and enter,  
 `dism /english /online /get-intl | find /i "Default system UI language"`
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
@@ -145,10 +145,10 @@ Alternatively, you can install any Windows 11 25H2 (For GAC) or Enterprise LTSC 
 The IoT edition is available in English language only, but don't worry. 
 
 - Download any [Windows 11 25H2](windows_11_links.md) (For GAC) or [Enterprise LTSC 2024](windows_ltsc_links.md) (For LTSC) ISO in the **same Windows language and architecture**. The ISO file does not need to be the IoT version.
-  - To check the installed Windows architecture, open Powershell as admin and enter,  
+  - To check the installed Windows architecture, open PowerShell as admin and enter,  
 `Get-WmiObject -Class Win32_OperatingSystem | Format-List OSArchitecture`  
     x64 means 64 Bit, x86 means 32 Bit  
-  - To check the installed Windows Language, open Powershell as admin and enter,  
+  - To check the installed Windows Language, open PowerShell as admin and enter,  
 `dism /english /online /get-intl | find /i "Default system UI language"`
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
