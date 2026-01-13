@@ -7,10 +7,10 @@ sidebar_label: Windows 7
 All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
-- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
-- **You can permanently activate Windows 7 with TSforge option in MAS.**
-- Ultimate, Professional, Home Premium, Home Basic and Starter ISOs contain all editions except Enterprise but by default they don't appear while installing Windows. You can easily choose any of them while installing and for that you need to delete or edit `sources\ei.cfg` file in the bootable USB or ISO.
-- To get latest updates on Windows 7 install, you can use [Simplix Pack](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc) or activate ESU with TSforge option in MAS.
+- [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- **You can permanently activate Windows 7 using the TSforge option in MAS.**
+- **Note on Editions:** Ultimate, Professional, Home Premium, Home Basic, and Starter ISOs contain all editions (except Enterprise), but the selection menu does not appear by default during installation. To choose a specific edition, you must delete or edit the `sources\ei.cfg` file on your bootable USB or ISO.
+- To get the latest updates for your Windows 7 installation, you can use the [Simplix Pack](https://blog.simplix.info/updatepack7r2/) ([Google Translated page](https://blog-simplix-info.translate.goog/updatepack7r2/?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=sc)) or activate ESU using the TSforge option in MAS.
 
 ---
 
@@ -272,7 +272,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="Windows 7 Professional VL SP1" label="Windows 7 Professional VL SP1" default>
 
 **Windows 7 Professional VL SP1**  
-This version contains only Professional edition index.
+This version contains only the Professional edition index.
 
 | Language                | Arch | Link                                                                                                                                                             |
 | :---------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |

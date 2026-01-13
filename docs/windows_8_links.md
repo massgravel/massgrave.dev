@@ -7,7 +7,7 @@ sidebar_label: Windows 8
 All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
-- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - In the install process of Windows 8 (Core / Pro) ISO, setup will ask to enter the key, you can enter below generic keys for the desired edition.  
   `Windows 8 Core: FB4WR-32NVD-4RW79-XQFWH-CYQG3`  
   `Windows 8 Core N: VDKYM-JNKJ7-DC4X9-BT3QR-JHRDC`  

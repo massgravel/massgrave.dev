@@ -7,7 +7,7 @@ sidebar_label: Office MSI VL
 All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
-- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - This page has links for old MSI Office versions only.
 - To download the **latest Office files from official Microsoft links**, see [this page](office_c2r_links)
 

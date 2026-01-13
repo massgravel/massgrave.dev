@@ -9,7 +9,7 @@ All download links lead to genuine files only.
 ## Notes
 
 - [**FAQ**](genuine-installation-media.md#faq)
-- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
 - Microsoft does not provide monthly updated ISOs for LTSC editions. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 

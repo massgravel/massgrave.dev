@@ -7,7 +7,7 @@ sidebar_label: Windows Vista
 All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
-- [How to ensure that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
+- [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
 - **Windows Vista can be permanently activated with TSforge option in MAS.**
 
 ---

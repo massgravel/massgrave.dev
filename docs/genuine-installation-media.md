@@ -50,7 +50,7 @@ Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.
 
 </details>
 
-#### How to ensure that these files are genuine?
+#### How can I verify that these files are genuine?
 
 <details>
 <summary>Click here for info</summary>
