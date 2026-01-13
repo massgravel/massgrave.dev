@@ -39,7 +39,7 @@ import TabItem from '@theme/TabItem';
     ```
 
     **If you receive a TLS/SSL Error (Older Windows):**  
-    If you are on Windows 7 or an old build of 8/10, run this command *before* the main command:
+    If you are on an old build of Windows 8.1 or 10, run this command *before* the main command:
     ```powershell
     [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
     ```
