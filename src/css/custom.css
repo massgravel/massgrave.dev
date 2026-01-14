@@ -114,6 +114,11 @@
   align-items: center;
   text-align: center;
   margin: .1875em;
+  padding: .75em 1em;
+}
+
+.tabs__item:first-child {
+  margin-left: 0;
 }
 
 .tabs__item--active {
@@ -139,6 +144,11 @@ table {
 
 .pagination-nav {
   display: none;
+}
+
+.launcher-command code[class*='codeBlockLines'] {
+  text-align: center;
+  font-size: 1.1em;
 }
 
 @media(max-width: 996px) {
