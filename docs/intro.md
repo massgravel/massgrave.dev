@@ -146,5 +146,3 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ![MAS Change Windows Edition 3](./assets/MAS_change_office_edition_3.png)
 
 ------------------------------------------------------------------------
-
-Made with Love ❤️
