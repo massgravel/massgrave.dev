@@ -56,10 +56,6 @@ const config = {
       {
         redirects: [
           {
-            from: '/get',
-            to: 'https://massgrave.dev/get.ps1',
-          },
-          {
             from: '/redirect-genuine-installation-media',
             to: '/genuine-installation-media',
           },
