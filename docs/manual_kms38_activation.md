@@ -6,7 +6,7 @@ Check the info [**here**](kms38.md).
 
 :::
 
-This page is intended for users who do not want to use the script for any reason and would rather perform the KMS38 activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
+This page is intended for users who do not want to use the script for any reason and would rather perform the KMS38 activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md).
 
 :::info
 KMS38 activation is only supported on Windows 10/11 Client and Server editions.

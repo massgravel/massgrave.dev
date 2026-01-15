@@ -2,7 +2,7 @@
 
 ## Overview
 
--   **How to use it?** Instructions can be found [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
+-   **How to use it?** Instructions can be found [here](intro.md).
 -   This activation is permanent until a Windows reinstall or a major feature upgrade (not to be confused with small enablement upgrades or monthly cumulative updates).
 -   This activation method doesn't modify any Windows components and doesn't install any new files.
 -   Once the system is activated (with ZeroCID or KMS4k), hardware can be changed arbitrarily without triggering de-activation.

@@ -15,7 +15,7 @@ Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.co
 
 #### Commercial ESU Program (3 Years) ❤️
 
-- You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
+- You can use [TSforge option in MAS](intro.md) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 - If you have any questions, please check the FAQ [here](tsforge.md#windows-esu).
 
 #### Consumer ESU Program (1 Year)
@@ -46,7 +46,7 @@ The IoT edition ISO is available in English language only, but don't worry.
 - Download [Enterprise LTSC 2021](windows_ltsc_links.md) ISO in your desired language. The ISO file does not need to be the IoT version.
 - Install Windows using this [clean installation guide](clean_install_windows).
 - After installing Windows, to change the edition, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in the Windows settings.
-- You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [guide here](intro.md) for activation.
 
 </details>
 
@@ -69,12 +69,12 @@ The IoT edition is available in English language only, but don't worry.
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
 - Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
-- You also need to activate this edition. Follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [**guide here**](intro.md) for activation.
 - That's all.
 
 :::note
 
-These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu).
+These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md).
 
 If you applied the registry command and ran the setup promptly, setup shouldn’t ask you to enter a key. However, if a key is needed, use the keys below:
 
@@ -124,7 +124,7 @@ The IoT edition ISO is available in English language only, but don't worry.
 - Download any [Windows 11 25H2](windows_11_links.md) (For GAC) or [Enterprise LTSC 2024](windows_ltsc_links.md) (For LTSC) ISO in your desired language. The ISO file does not need to be the IoT version.
 - Follow [normal clean installation guide](clean_install_windows) if you are using IoT edition English language ISO.
 - Follow [PID.txt method](clean_install_windows#windows-11-on-unsupported-hardware) to install IoT edition from scratch if you are using Non-IoT ISO.
-- You also need to activate this edition. Follow the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [guide here](intro.md) for activation.
 
 Alternatively, you can install any Windows 11 25H2 (For GAC) or Enterprise LTSC 2024 (For LTSC) ISO file with [Rufus](clean_install_windows) and once the installation is done, you can use the change edition option in MAS to switch the edition to IoT Enterprise and enjoy official support on unsupported hardware.
 
@@ -159,12 +159,12 @@ The IoT edition is available in English language only, but don't worry.
 `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
 - Now quickly go into that DVD drive and run setup.exe, and continue until you reach the final confirmation screen. (Don't delay at this step, otherwise it won't show an option to keep files and apps)
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
-- You also need to activate this edition. Follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu) for activation.
+- You also need to activate this edition. Follow the [**guide here**](intro.md) for activation.
 - That's all.
 
 :::note
 
-These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md#how-to-activate-windows--office--extended-updates-esu).
+These are generic keys, intended for use during edition changes or when running `setup.exe`. For activation, follow the [**guide here**](intro.md).
 
 If you applied the registry command and ran the setup promptly, setup shouldn’t ask you to enter a key. However, if a key is needed, use the keys below:
 

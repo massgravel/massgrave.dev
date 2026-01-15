@@ -2,7 +2,7 @@
 
 ## Overview
 
--   **How to use it?** Instructions can be found [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
+-   **How to use it?** Instructions can be found [here](intro.md).
 -   This activation method supports Windows 10 and 11 only.
 -   This activation method does not store or modify any files on your system.
 -   This activation method provides permanent Windows activation for your system hardware.

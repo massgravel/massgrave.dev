@@ -2,7 +2,7 @@
 
 ## Overview
 
--   **How to use it?** Instructions can be found [here](intro.md#how-to-activate-windows--office--extended-updates-esu).
+-   **How to use it?** Instructions can be found [here](intro.md).
 -   This activation method activates all Office versions on Windows Vista and later (including their Server equivalents), except for Office UWP apps.
 -   This activation method works offline and activates Office permanently.
 -   This activation method survives Office repairs, updates, and even major Windows feature upgrades. You do not need to reactivate in these cases.

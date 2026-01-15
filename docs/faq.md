@@ -5,7 +5,7 @@ title: FAQ
 # Frequently Asked Questions
 
 #### How to use it?
-Check the [guide here](intro.md#how-to-activate-windows--office--extended-updates-esu).
+Check the [guide here](intro.md).
 
 ---
 
@@ -15,7 +15,7 @@ See the [Docs section](hwid.md#how-does-it-work) for details on how the activati
 ---
 
 #### How to activate Windows / Office permanently?
-Choose the green-highlighted options in [MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate Windows or Office.
+Choose the green-highlighted options in [MAS](intro.md) to activate Windows or Office.
 
 ---
 
@@ -31,7 +31,7 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
 
 #### Windows 10 ESU (Extended Security Updates)
 - #### How to receive security updates for Windows 10 after October 2025?
-  You can use [TSforge option in MAS](intro.md#how-to-activate-windows--office--extended-updates-esu) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
+  You can use [TSforge option in MAS](intro.md) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
 - #### How can I check if TSforge ESU is activated?   
   Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
@@ -48,7 +48,7 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
   You can add an exception in your third-party antivirus, or use the [manual activation steps](manual_hwid_activation.md) to avoid any alerts.
 
   > **Note:**  
-  > **Windows Defender** won’t trigger any alerts if you are using the [PowerShell method](intro.md#how-to-activate-windows--office--extended-updates-esu) to launch MAS or the download links listed in Method 2.
+  > **Windows Defender** won’t trigger any alerts if you are using the [PowerShell method](intro.md) to launch MAS or the download links listed in Method 2.
 - #### Will I receive updates? How is it different from an official license?
   MAS does not interfere with Windows or Office updates. It functions in the same way as official licensing methods.
 
@@ -102,7 +102,7 @@ Follow this [guide](bypass_microsoft_geoblocking).
 #### Office is showing: "It looks like your stored credentials are out of date. Please sign in as so we can verify your subscription."
 
 1. Sign out of all accounts in Office (if any are currently signed in).  
-2. Activate Office using the [latest MAS version](intro.md#how-to-activate-windows--office--extended-updates-esu).  
+2. Activate Office using the [latest MAS version](intro.md).  
 3. Sign back into your Office account (if needed).  
 
 Still seeing this message? [Connect with us](troubleshoot.md) for help.

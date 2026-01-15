@@ -3,7 +3,7 @@
 :::danger[Instructions]
 
 - **If the MAS script displays any blue-colored lines, follow the instructions shown there.**   
-- Ensure you are using the [latest MAS version](intro.md#how-to-activate-windows--office--extended-updates-esu).  
+- Ensure you are using the [latest MAS version](intro.md).  
 
 :::
 
