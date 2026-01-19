@@ -1,56 +1,52 @@
 # Windows 10 Updates After End-Of-Life
 
-This document explains how users can receive official updates after the retirement date of Windows 10 on October 14, 2025.  
+Official support for consumer Windows 10 editions ended October 14th 2025. For many, the obvious solution is to upgrade to Windows 11. However, many cannot because their hardware is unsupported. Others simply prefer Windows 10 and wish to remain on it for as long as possible.
 
-For many people, the most obvious solution would be to just upgrade to Windows 11, but they can not because the hardware is not supported for Windows 11. Some users might also not like Windows 11
-and would like to stay on Windows 10 as long as they can.
-
-Here are several solutions for you to choose from; feel free to select the one you prefer the most.
+Here are several solutions; feel free to select the one that best suits your needs.
 
 ---
 
-## Windows 10 ESU updates ❤️
+## Windows 10 ESU Updates ❤️
 
 Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) where users can buy the ESU subscription to receive Windows updates. These updates will begin to roll out in November 2025. 
 
 #### Commercial ESU Program (3 Years) ❤️
 
-- You can use [TSforge option in MAS](intro.md) to activate [3 Years ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
+- You can use the [TSforge option in MAS](intro.md) to activate the [3-Year ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 - If you have any questions, please check the FAQ [here](tsforge.md#windows-esu).
 
 #### Consumer ESU Program (1 Year)
 
-- Microsoft is offering free consumer ESU Program (1 Year) for Windows 10 Home, Professional, Pro Education, or Workstation editions.
-- To get this free ESU, you need to login your Microsoft account and [sync your PC settings](https://support.microsoft.com/windows/deebcba2-5bc0-4e63-279a-329926955708#id0ebd=windows_10). 
+- Microsoft is offering a free Consumer ESU Program (1 Year) for Windows 10 Home, Professional, Pro Education, and Workstation editions.
+- To get this free ESU, you need to log in to your Microsoft account and [sync your PC settings](https://support.microsoft.com/windows/deebcba2-5bc0-4e63-279a-329926955708#id0ebd=windows_10).
 - [More info](https://support.microsoft.com/en-us/windows/windows-10-consumer-extended-security-updates-esu-program-33e17de9-36b3-43bb-874d-6c53d2e4bf42).
 
 ---
 
 ## Windows 10 IoT Enterprise LTSC 2021
 
-Microsoft releases Windows 10/11 in two servicing channels.
+Microsoft releases Windows 10/11 in two servicing channels:
 
-1- GAC (General Availability Channel) (i.e. Home, Pro, Enterprise). It will reach the end of support on [October 14, 2025](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro).  
-2- LTSC (Long-Term Servicing Channel) (i.e. Enterprise LTSC, IoT Enterprise LTSC). Windows 10 Enterprise LTSC 2021 will reach the end of support on [Jan 12, 2027](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021) 
-and Windows 10 IoT Enterprise LTSC 2021 will reach the end of support on [Jan 13, 2032](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) 
+1.  **GAC (General Availability Channel):** (e.g., Home, Pro, Enterprise). This reached the end of support on [October 14th, 2025](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro).
+2.  **LTSC (Long-Term Servicing Channel):** (e.g., Enterprise LTSC, IoT Enterprise LTSC). Windows 10 Enterprise LTSC 2021 will reach the end of support on [Jan 12, 2027](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021), while Windows 10 IoT Enterprise LTSC 2021 will reach the end of support on [Jan 13, 2032](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021).
 
-The solution is simple. You can just use the Official Windows 10 IoT Enterprise LTSC 2021 edition to get updates till Jan 13, 2032.
+The solution is simple: use the official Windows 10 IoT Enterprise LTSC 2021 edition to receive updates until January 13th, 2032.
 
-#### Clean install Windows 10 IoT Enterprise LTSC 2021
+#### Clean Install Windows 10 IoT Enterprise LTSC 2021
 
 <details>
 <summary>Click here for info</summary>
 
-The IoT edition ISO is available in English language only, but don't worry. 
+The IoT edition ISO is technically available in English only, but don't worry.
 
-- Download [Enterprise LTSC 2021](windows_ltsc_links.md) ISO in your desired language. The ISO file does not need to be the IoT version.
+- Download the [Enterprise LTSC 2021](windows_ltsc_links.md) ISO in your desired language. The ISO file does not need to be the IoT version.
 - Install Windows using this [clean installation guide](clean_install_windows).
-- After installing Windows, to change the edition, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in the Windows settings.
+- After installing Windows, change the edition by entering the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in Windows Settings.
 - You also need to activate this edition. Follow the [guide here](intro.md) for activation.
 
 </details>
 
-#### Upgrade Windows 10 Home, Pro, etc editions to Windows 10 IoT Enterprise LTSC 2021 while keeping files and apps
+#### Upgrade Windows 10 Home, Pro etc., to Windows 10 IoT Enterprise LTSC 2021 (Keep Files & Apps)
 
 <details>
 <summary>Click here for info</summary>
