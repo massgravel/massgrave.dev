@@ -97,24 +97,24 @@ Build - 20348.4529 (Dec 2025)
 
 | Language            | Arch | Link                                                                                                                                                           |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/heghivxgdzeb)|
-| German              | x64  | [de-de_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/vrhbjwn4sq78)|
-| English             | x64  | [en-us_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/gc7av6bnndzv)|
-| Spanish             | x64  | [es-es_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/yxgmbihwp5p0)|
-| French              | x64  | [fr-fr_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/5mej8a9l9u9b)|
-| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/yhv8ihuguevo)|
-| Italian             | x64  | [it-it_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/7zg4f0xnyran)|
-| Japanese            | x64  | [ja-jp_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/noh7j1sbdmdf)|
-| Korean              | x64  | [ko-kr_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/h89e0nfz0h5p)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/c3m667mltbdf)|
-| Polish              | x64  | [pl-pl_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/z1b3f5jn39ot)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/cwqfgmf6cnys)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/mjywhlmnbpln)|
-| Russian             | x64  | [ru-ru_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/5nxahbm4xdag)|
-| Swedish             | x64  | [sv-se_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/jtfjrxhyry23)|
-| Turkish             | x64  | [tr-tr_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/izvv0k3q4yhp)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/vd7999imysjf)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_dec_2025_x64_dvd_84450f64.iso](https://buzzheavier.com/u8qutdh2xxtk)|
+| Czech               | x64  | [cs-cz_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/erx7w31osjbn)|
+| German              | x64  | [de-de_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/trmu1hjsswlo)|
+| English             | x64  | [en-us_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/3ru3oklcysud)|
+| Spanish             | x64  | [es-es_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/luercj1glyb7)|
+| French              | x64  | [fr-fr_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/k1c0knqqsw3o)|
+| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/e7f7b8hyepks)|
+| Italian             | x64  | [it-it_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/nozaxb0bdenf)|
+| Japanese            | x64  | [ja-jp_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/l9iqaima1u0u)|
+| Korean              | x64  | [ko-kr_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/ekts4lm76gvf)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/y07h0y5qkyjq)|
+| Polish              | x64  | [pl-pl_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/f1ho9ib2htaw)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/1ojy7pcj0yeh)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/rbveqcqaistu)|
+| Russian             | x64  | [ru-ru_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/6jxlredv3u18)|
+| Swedish             | x64  | [sv-se_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/x0dviw6q54bw)|
+| Turkish             | x64  | [tr-tr_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/0z90lmzc1ics)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/crwb9pmof8d3)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_jan_2026_x64_dvd_5241863a.iso](https://buzzheavier.com/1vwsxvf5sgxz)|
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ Build - 25398.2025 (Dec 2025)
 
 | Language  | Arch | Link                                                                                                                                                                                                             |
 |:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English   | x64  | [en-us_windows_server_version_23h2_updated_dec_2025_x64_dvd_88acb94e.iso](https://buzzheavier.com/e1ddpdjpxi0n)|
+| English   | x64  | [en-us_windows_server_version_23h2_updated_jan_2026_x64_dvd_c280a78e.iso](https://buzzheavier.com/hufh6aa3lftt)|
 | Lang Pack | x64  | [mul_languages_and_optional_features_for_windows_server_version_23h2_x64_dvd_f49e7fd8.iso](https://drive.massgrave.dev/mul_languages_and_optional_features_for_windows_server_version_23h2_x64_dvd_f49e7fd8.iso) |
 
 ------------------------------------------------------------------------
