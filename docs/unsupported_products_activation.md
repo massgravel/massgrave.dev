@@ -10,7 +10,7 @@
 
 ## MS Office For Mac
 
--   Check [here](office_for_mac.md).
+-   See [here](office_for_mac.md).
 
 ------------------------------------------------------------------------
 

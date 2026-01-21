@@ -251,7 +251,7 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 **Windows 10 ARM64 22H2**
 
-Check [here](windows_arm_links.md).
+See [here](windows_arm_links.md).
 
 </TabItem>
 
@@ -259,7 +259,7 @@ Check [here](windows_arm_links.md).
 
 **Windows 10 (IoT) Enterprise LTSC**
 
-Check [here](windows_ltsc_links.md).
+See [here](windows_ltsc_links.md).
 
 </TabItem>
 

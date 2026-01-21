@@ -39,4 +39,4 @@ If you want to manually change the edition instead of using the script, please f
 
 ## Troubleshooting
 
--   Check [here](change_edition_issues.md).
+-   See [here](change_edition_issues.md).

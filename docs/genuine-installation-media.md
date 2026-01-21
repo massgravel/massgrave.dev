@@ -55,7 +55,7 @@ Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.
 <details>
 <summary>Click here for info</summary>
 
-You can check [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine by verifying the checksum available on the official Microsoft website.
+You can see [here](genuine-installation-media.md#verify-authenticity-of-files) on how to be sure that files are genuine by verifying the checksum available on the official Microsoft website.
 
 </details>
 
@@ -153,4 +153,4 @@ import ReactPlayer from 'react-player'
 
 ## Need help?
 
-Check [here](contactus.md).
+See [here](contactus.md).

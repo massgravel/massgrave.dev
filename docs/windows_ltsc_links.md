@@ -649,7 +649,7 @@ It doesn't have the actual IotEnterpriseS edition, it's just EnterpriseS with OE
 
 **Windows 10/11 IoT Enterprise LTSC ARM64**
 
-Check [here](windows_arm_links.md).
+See [here](windows_arm_links.md).
 
 </TabItem>
 </Tabs>

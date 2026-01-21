@@ -5,7 +5,7 @@ To create a pre-activated Windows installation ISO, do the following:
 -   Copy the `$OEM$` folder to the `sources` folder in the Windows installation media (ISO or USB).
 -   The directory will appear like this: `\sources\$OEM$` in your altered ISO or on your bootable USB drive.
 -   Now use this ISO or bootable USB drive to install Windows, it will either already be activated (TSforge) as soon as it boots or will self-activate (HWID or Online KMS) at the first internet contact.
--   You can check [here](intro.md) for activation method details.
+-   You can see [here](intro.md) for activation method details.
 
 :::warning
 

@@ -273,7 +273,7 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 
 **Windows 11 ARM64 25H2**
 
-Check [here](windows_arm_links.md).
+See [here](windows_arm_links.md).
 
 </TabItem>
 
@@ -281,7 +281,7 @@ Check [here](windows_arm_links.md).
 
 **Windows 11 (IoT) Enterprise LTSC 2024**
 
-Check [here](windows_ltsc_links.md).
+See [here](windows_ltsc_links.md).
 
 </TabItem>
 

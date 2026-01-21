@@ -419,13 +419,13 @@ Feel free to contact us in case you have a contradictory point of view.
 ## Office 'Non-genuine' Banner
 
 -   Office Click-to-Run builds (since February 2021) that are activated with KMS check the existence of the KMS server name in the registry.
--   If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly", see [here](/img/office-license-is-not-genuine.png).
+-   If KMS server is not present, a banner is shown in Office programs notifying that "Office isn't licensed properly", see [here](![](./assets/office-license-is-not-genuine.png)).
 -   Therefore in manual mode, `KeyManagementServiceName` value containing a non-existent IP address 10.0.0.10 will be kept in the below registry keys:  
 ```
 HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
 HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform
 ```
--   This is perfectly fine to keep, and it does not affect Windows or Office activation. For more explanation, visit [here](office-license-is-not-genuine.md)
+-   For more details, see [here](office-license-is-not-genuine.md)
 
 ------------------------------------------------------------------------
 
@@ -446,7 +446,7 @@ If you don't want the script to convert the Retail Office to Volume, you can tur
 
 ## Command line Switches
 
--   Check [here](command_line_switches.md).
+-   See [here](command_line_switches.md).
 
 ------------------------------------------------------------------------
 
@@ -459,4 +459,4 @@ If you don't want the script to convert the Retail Office to Volume, you can tur
 
 ## Troubleshooting
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

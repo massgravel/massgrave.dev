@@ -53,6 +53,6 @@ ipconfig /flushdns
 
 :::tip
 
-If HWID activation is still not working then check [here](troubleshoot.md) for help.
+If HWID activation is still not working then see [here](troubleshoot.md) for help.
 
 :::

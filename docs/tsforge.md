@@ -406,7 +406,7 @@ See the [TSforge README](https://github.com/massgravel/TSforge) for information 
 
 ## Command Line Switches
 
--   Check [here](command_line_switches.md).
+-   See [here](command_line_switches.md).
 
 ------------------------------------------------------------------------
 
@@ -419,4 +419,4 @@ See the [TSforge README](https://github.com/massgravel/TSforge) for information 
 
 ## Troubleshooting
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

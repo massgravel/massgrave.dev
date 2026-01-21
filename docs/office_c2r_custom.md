@@ -114,4 +114,4 @@ It will now install Office.
 
 ## Need help?
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

@@ -56,7 +56,7 @@ Microsoft 365 receive regular updates with new features and improvements across 
 -	O365 provides the most and latest features. If you want more apps, choose **O365ProPlusRetail**, and if you want fewer apps, use **O365AppsBasicRetail**.
 :::
 
--   **Need help?** Check [here](troubleshoot.md).
+-   **Need help?** See [here](troubleshoot.md).
 
 ------------------------------------------------------------------------
 

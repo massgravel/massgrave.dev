@@ -1,6 +1,6 @@
 # Ohook
 
-This page is intended for users who do not want to use the script for any reason and would rather perform the Ohook activation process themselves. If you'd like to use a tool for this instead, please check [here](intro.md).
+This page is intended for users who do not want to use the script for any reason and would rather perform the Ohook activation process themselves. If you'd like to use a tool for this instead, please see [here](intro.md).
 
 :::info
 The steps below only apply to Office 16.0 (2016, 2019, 2021 and 365) C2R x64 bit versions running on an x64 bit Windows 8+ machine.  
@@ -200,4 +200,4 @@ To manually activate Office, follow these steps:
 
 ## Troubleshooting
 
-Check [here](troubleshoot.md) for links to our support channels.
+See [here](troubleshoot.md) for links to our support channels.

@@ -54,4 +54,4 @@ The last available build is fixed and won't get any updates. VL (LTSC) channels 
 
 ## Troubleshooting
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

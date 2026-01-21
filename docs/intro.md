@@ -121,7 +121,7 @@ Latest Release: v3.9 (19-Nov-2025)
 | Online KMS      | Windows / Office       | 180 Days (Lifetime with renewal task) | Yes                 |
 
 For more details, see the respective pages in the documentation and the [comparison chart](chart.md).  
-To activate unsupported products such as **Office on Mac**, check [here](unsupported_products_activation.md).
+To activate unsupported products such as **Office on Mac**, see [here](unsupported_products_activation.md).
 
 ------------------------------------------------------------------------
 

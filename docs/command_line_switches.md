@@ -89,7 +89,7 @@ If the above is blocked (by DNS/ISP), try this alternative method (requires **up
 ```
 
 -   Replace `/para` in this command with the switches from the above table. You can also use multiple switches. For example, `/HWID /Ohook`
--   To change the edition through the command line, check [here](change_windows_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
+-   To change the edition through the command line, see [here](change_windows_edition.md#manual-edition-change). We didn't automate it in MAS because it requires a reboot in some cases.
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ If the above is blocked (by DNS/ISP), try this alternative method (requires **up
 
 ## Need help?
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

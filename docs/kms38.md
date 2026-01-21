@@ -177,13 +177,13 @@ If you still wish to use it on older Windows versions or keep it for archival pu
 
 ## Command line Switches
 
--   Check [here](command_line_switches.md).
+-   See [here](command_line_switches.md).
 
 ------------------------------------------------------------------------
 
 ## Manual Activation
 
--   Check [here](manual_kms38_activation.md)
+-   See [here](manual_kms38_activation.md)
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ $xml = @"
 
 ## Troubleshooting
 
--   Check [here](troubleshoot.md).
+-   See [here](troubleshoot.md).

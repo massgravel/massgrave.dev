@@ -1,6 +1,6 @@
 # HWID
 
-This page is for people who do not want to use the script for any reason and would rather perform the HWID activation process themselves. If you'd like to use a tool for this, please check [here](intro.md).
+This page is for people who do not want to use the script for any reason and would rather perform the HWID activation process themselves. If you'd like to use a tool for this, please see [here](intro.md).
 
 :::info
 HWID activation is only supported on Windows 10/11.
@@ -59,4 +59,4 @@ After you have done that, connect to the internet again and Windows should be ac
 
 ## Troubleshooting
 
-Check [here](troubleshoot.md) for links to our support channels.
+See [here](troubleshoot.md) for links to our support channels.
