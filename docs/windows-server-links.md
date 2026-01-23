@@ -93,7 +93,7 @@ zh-tw_windows_server_2025_x64_dvd_6d2c01e3.iso
 
 ## Windows Server 2022
 
-Build - 20348.4529 (Dec 2025)
+Build - 20348.4648 (Jan 2025)
 
 | Language            | Arch | Link                                                                                                                                                           |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -120,7 +120,7 @@ Build - 20348.4529 (Dec 2025)
 
 ## Windows Server 23H2 (No GUI)
 #### (Only English ISO is available)
-Build - 25398.2025 (Dec 2025)
+Build - 25398.2092 (Jan 2025)
 
 | Language  | Arch | Link                                                                                                                                                                                                             |
 |:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -283,4 +283,5 @@ Updated July 2016 (Build - 14393.0)
 | Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso](https://drive.massgrave.dev/tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.iso) |
 | Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.iso) |
 | Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso](https://drive.massgrave.dev/tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.iso) |
+
 
