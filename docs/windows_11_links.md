@@ -130,7 +130,7 @@ Build - 26200.6584 (Sep 2025)
 
 **Windows 11 Consumer 25H2**
 
-Build - 26200.7462 (Dec 2025)  
+Build - 26200.7623 (Jan 2026)  
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -170,15 +170,15 @@ Build - 26200.7462 (Dec 2025)
 | Thai                   | x64  | [th-th_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/ucolvflmz4kg)|
 | Turkish                | x64  | [tr-tr_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/hqdonwoasi9w)| 
 | Ukranian               | x64  | [uk-ua_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/o9au71wwx053)|
-| Chinese-Simplified     | x64  | [zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/dttfbhq5lzee)|
-| Chinese-Traditional    | x64  | [zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/3bfpp53bruu8)|
+| Chinese-Simplified     | x64  | [zh-cn_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/3bfpp53bruu8)|
+| Chinese-Traditional    | x64  | [zh-tw_windows_11_consumer_editions_version_25h2_updated_jan_2026_x64_dvd_fb37d9ae.iso](https://buzzheavier.com/dttfbhq5lzee)|
 
 </TabItem>
 <TabItem value="Windows 11 Business 25H2" label="Windows 11 Business 25H2" default>
 
 **Windows 11 Business 25H2**
 
-Build - 26200.7462 (Dec 2025)  
+Build - 26200.7623 (Jan 2026)  
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -299,3 +299,4 @@ See [here](windows_ltsc_links.md).
 
 </TabItem>
 </Tabs>
+
