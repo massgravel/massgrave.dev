@@ -76,12 +76,6 @@ For **Windows 8** and newer:
 & ([ScriptBlock]::Create((irm https://get.activated.win))) /para
 ```
 
-For **Windows 7** and newer:
-
-```
-& ([ScriptBlock]::Create((New-Object Net.WebClient).DownloadString('https://get.activated.win'))) /para
-```
-
 If the above is blocked (by DNS/ISP), try this alternative method (requires **updated Windows 10 or 11**):
 
 ```
