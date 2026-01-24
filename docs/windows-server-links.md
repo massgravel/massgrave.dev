@@ -17,26 +17,26 @@ All download links lead to genuine files only.
 
 Build - 26100.32230 (Jan 2026)
 
-| Language            | Arch | Link                                                                                                                                                           |
-|:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/225opzi133re)|
-| German              | x64  | [de-de_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/2x4iogm6qyuk)|
-| English             | x64  | [en-us_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/5fuownjvfzwg)|
-| Spanish             | x64  | [es-es_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/dpn4o00xvo7e)|
-| French              | x64  | [fr-fr_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/g3iw49mghzfu)|
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/pzwzp78seies)|
-| Italian             | x64  | [it-it_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/wgwh3nf1c5pl)|
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/7d3n9nm7sso5)|
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/r7a25qedsflc)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/gpen6uw7b2it)|
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/ypgwi12v74ef)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/6izmca5jhvsm)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/65z6k0wf0di4)|
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/888eguprpy20)|
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/plc4n54qvtge)|
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/ilwoih07ufbx)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/w1x8skmkuy3l)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_jan_2026_x64_dvd_c54ab58b.iso](https://buzzheavier.com/cci8r7wj0e7f)|
+| Language            | Arch | Link |
+|:--------------------|:-----|:---|
+| Czech               | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Czech_DC_STD_MLF_RTMUpdJan26_X24-26758.iso](https://buzzheavier.com/225opzi133re) |
+| German              | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_German_DC_STD_MLF_RTMUpdJan26_X24-26762.iso](https://buzzheavier.com/2x4iogm6qyuk) |
+| English             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_English_DC_STD_MLF_RTMUpdJan26_X24-26760.iso](https://buzzheavier.com/5fuownjvfzwg) |
+| Spanish             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Spanish_DC_STD_MLF_RTMUpdJan26_X24-26770.iso](https://buzzheavier.com/dpn4o00xvo7e) |
+| French              | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_French_DC_STD_MLF_RTMUpdJan26_X24-26761.iso](https://buzzheavier.com/g3iw49mghzfu) |
+| Hungarian           | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Hungarian_DC_STD_MLFRTMUpdJan26_X24-26763.iso](https://buzzheavier.com/pzwzp78seies) |
+| Italian             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Italian_DC_STD_MLF_RTMUpdJan26_X24-26764.iso](https://buzzheavier.com/wgwh3nf1c5pl) |
+| Japanese            | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Japanese_DC_STD_MLF_RTMUpdJan26_X24-26765.iso](https://buzzheavier.com/7d3n9nm7sso5) |
+| Korean              | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Korean_DC_STD_MLF_RTMUpdJan26_X24-26766.iso](https://buzzheavier.com/r7a25qedsflc) |
+| Dutch-Netherlands   | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Dutch_DC_STD_MLF_RTMUpdJan26_X24-26759.iso](https://buzzheavier.com/gpen6uw7b2it) |
+| Polish              | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Polish_DC_STD_MLF_RTMUpdJan26_X24-26767.iso](https://buzzheavier.com/ypgwi12v74ef) |
+| Portuguese-Brazil   | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Brazilian_DC_STD_MLFRTMUpdJan26_X24-26755.iso](https://buzzheavier.com/6izmca5jhvsm) |
+| Portuguese-Portugal | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Portuguese_DC_STDMLFRTMUpdJan26_X24-26768.iso](https://buzzheavier.com/65z6k0wf0di4) |
+| Russian             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Russian_DC_STD_MLF_RTMUpdJan26_X24-26769.iso](https://buzzheavier.com/888eguprpy20) |
+| Swedish             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Swedish_DC_STD_MLF_RTMUpdJan26_X24-26771.iso](https://buzzheavier.com/plc4n54qvtge) |
+| Turkish             | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_Turkish_DC_STD_MLF_RTMUpdJan26_X24-26772.iso](https://buzzheavier.com/ilwoih07ufbx) |
+| Chinese-Simplified  | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_ChnSimp_DC_STD_MLF_RTMUpdJan26_X24-26756.iso](https://buzzheavier.com/w1x8skmkuy3l) |
+| Chinese-Traditional | x64  | [SWDVD9_WinSrvSTDCORE2025_24H2.16_64Bit_ChnTrad_DC_STD_MLF_RTMUpdJan26_X24-26757.iso](https://buzzheavier.com/cci8r7wj0e7f) |
 
 ------------------------------------------------------------------------
 
