@@ -2,7 +2,7 @@
 
 :::danger[KMS38 no longer works on Windows builds 26100.7019 and newer.]
 
-Check the info [**here**](kms38.md).
+See [**here**](kms38.md) for more details.
 
 :::
 

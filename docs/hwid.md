@@ -212,7 +212,7 @@ $xml = @"
 
 ## Setup Preactivate
 
--   Check the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
+-   See the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
 -   For more details, read [here](oem-folder.md).
 
 ------------------------------------------------------------------------

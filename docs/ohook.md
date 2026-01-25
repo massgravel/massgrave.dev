@@ -392,7 +392,7 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
 
 ## Setup Preactivate
 
--   Check the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
+-   See the **Extract OEM** option in the MAS `Extras` section if you want a pre-activated Windows installation.
 -   For more details, read [here](oem-folder.md).
 
 ------------------------------------------------------------------------

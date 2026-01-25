@@ -5,7 +5,7 @@ title: FAQ
 # Frequently Asked Questions
 
 #### How to use it?
-Check the [guide here](intro.md).
+See the [guide here](intro.md).
 
 ---
 
@@ -20,12 +20,12 @@ Choose the green-highlighted options in [MAS](intro.md) to activate Windows or O
 ---
 
 #### How to download Windows and Office?
-Check the [downloading page](genuine-installation-media.md) for links.
+See the [downloading page](genuine-installation-media.md) for links.
 
 ---
 
 #### MAS script is not working or activation failed, what should I do?
-Check the [troubleshooting guide](troubleshoot.md) for help.
+See the [troubleshooting guide](troubleshoot.md) for help.
 
 ---
 
@@ -34,7 +34,7 @@ Check the [troubleshooting guide](troubleshoot.md) for help.
   You can use [TSforge option in MAS](intro.md) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
 - #### How can I check if TSforge ESU is activated?   
-  Check the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
+  See the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.
   
 ---
 

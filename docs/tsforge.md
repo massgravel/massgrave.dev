@@ -302,7 +302,7 @@ Windows 10 LTSC 2021 (21H2) and Windows 10 22H2 share the same base build, 19041
 - Script will auto-select the available CSVLK with most KMS Counted IDs.
 - Along with activation it will also charge the host with 25 clients which is a minimum required threshold for a working KMS host.
 - With Windows KMS host, you can activate the KMS client in your network.
-- This option is for the advanced users, you can check the below guides to understand more about it.
+- This option is for the advanced users, you can see the below guides to understand more about it.
 
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-create-host
 
@@ -319,7 +319,7 @@ https://learn.microsoft.com/en-us/windows-server/get-started/kms-create-host
 - To activate an Office KMS host, you will need to download and run the installer for the appropriate license pack.
 - Along with activation it will also charge the host with 25 clients for a working KMS host.
 - With Office KMS host, you can activate the Office KMS client in your network.
-- This option is for the advanced users, you can check the below guides to understand more about it.
+- This option is for the advanced users, you can see the below guides to understand more about it.
 
 https://learn.microsoft.com/en-us/office/volume-license-activation/plan-volume-activation-of-office#key-management-service-kms-activation-of-office
 
@@ -412,7 +412,7 @@ See the [TSforge README](https://github.com/massgravel/TSforge) for information 
 
 ## Setup Preactivation
 
--   Check the Extract OEM option in the MAS Extras section if you want pre-activated Windows installation.
+-   See the Extract OEM option in the MAS Extras section if you want pre-activated Windows installation.
 -   Read more [here](oem-folder.md).
 
 ------------------------------------------------------------------------
