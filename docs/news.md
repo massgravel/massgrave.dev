@@ -1,7 +1,8 @@
 # News
 
-### [24-Jan-26] Added Jan 2026 updated ISOs for Server 2025
-https://massgrave.dev/windows-server-links#windows-server-2025
+### [24-Jan-26] Added Jan 2026 updated ISOs
+Windows 11 25H2 / Server 2025 / Server 2022 / Server 23H2  
+https://massgrave.dev/genuine-installation-media 
 
 ### [27-Dec-25] Deprecated the Gravesoft website
 All of its content has been ported to this site. gravesoft.dev will now redirect to here.
