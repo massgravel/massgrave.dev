@@ -1,41 +1,48 @@
 # In-place Repair Upgrade
 
-(Keeping files and apps)
+(Keeping Files and Apps)
 
 ---
 
-In-place repair upgrade using Windows ISO file is a good way to fix system errors. Here's how you can perform it.
+Performing an in-place repair upgrade using a Windows ISO file is a good way to fix system errors. Here is how to do it.
 
--   Download the Windows ISO, preferably from [MSDL](https://msdl.gravesoft.dev/) (Select the version marked with a ❤️ icon). Make sure you choose the ISO that matches your system’s **language and architecture**.
-    -   To check the installed Windows architecture, open PowerShell as admin and enter,  
+-   [Download the Windows ISO](https://massgrave.dev/genuine-installation-media) that matches your desired version, language, and architecture.
+    -   To check the installed Windows architecture, open PowerShell as administrator and enter:
+        ```powershell
+        (Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Environment").PROCESSOR_ARCHITECTURE
         ```
-		(Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Environment").PROCESSOR_ARCHITECTURE
-		```
-        AMD64/x64 means 64 Bit, x86 means 32 Bit
-    -   To check the installed Windows Language, enter this command,  
+        AMD64/x64 indicates 64-bit; x86 indicates 32-bit.
+    -   To check the installed Windows language, enter this command:
+        ```cmd
+        dism /english /online /get-intl | find /i "Default system UI language"
         ```
-		dism /english /online /get-intl | find /i "Default system UI language"
-		```
-		Alternatively, you can use this command,  
-		```
-		[Globalization.CultureInfo]::GetCultureInfo([Convert]::ToInt32((Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Nls\Language").InstallLanguage, 16)).Name
-		```
-    -   Note: If you are running the Enterprise LTSC edition, you will need to download that edition's ISO file. Don't download Evaluation version, that can't be activated.
--   Right-click on the downloaded ISO file, Open With > Windows Explorer
--   A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
+        Alternatively, use this command:
+        ```powershell
+        [Globalization.CultureInfo]::GetCultureInfo([Convert]::ToInt32((Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Nls\Language").InstallLanguage, 16)).Name
+        ```
+    -   **Note:** If you are running the Enterprise LTSC edition, you must download that specific edition's ISO file. Do not download the Evaluation version, as it cannot be activated.
+-   Right-click the downloaded ISO file and select **Open with > Windows Explorer**.
+-   A new virtual DVD drive will appear in Windows Explorer, which means that the installation image has been mounted successfully.
+
 <details>
   <summary>Click here for info: Windows 11 on Unsupported Hardware</summary>
-- If you're using Windows 11 or upgrading from Windows 10, you may encounter errors due to unsupported hardware.
-- To resolve this, you need to install IoT Enterprise edition which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
-  - To do that, open the command prompt as admin and,
-  - Enter the below command if you are using normal Windows 11 24H2 (or newer) ISO  
-`reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`
-  - Enter the below command if you are using Windows 11 LTSC 2024 ISO  
-`reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`
-- Now quickly run setup.exe as described below.
+
+- If you are using Windows 11 or upgrading from Windows 10, you may encounter errors due to unsupported hardware.
+- To resolve this, you can switch the edition to IoT Enterprise, which is [officially supported](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) on unsupported hardware. 
+  - To do this, open Command Prompt as administrator and run the appropriate command below.
+  - If you are using a standard Windows 11 24H2 (or newer) ISO:
+    ```cmd
+    reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f
+    ```
+  - If you are using the Windows 11 LTSC 2024 ISO:
+    ```cmd
+    reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f
+    ```
+- Proceed immediately to run `setup.exe` as described below.
 </details>
--   Go into that DVD drive and run setup.exe, just continue until you reach the final confirmation screen.
--   Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
+
+-   Open the mounted DVD drive and run `setup.exe`. Continue through the prompts until you reach the final confirmation screen.
+-   Make sure that the final screen displays "**Keep personal files and apps**." Proceed with the installation and wait for completion.
 
 ---
 
@@ -48,6 +55,6 @@ In-place repair upgrade using Windows ISO file is a good way to fix system error
 
 :::tip
 
--   If you are not getting the option to keep files and apps, or the setup is showing any error, you can [connect with us](troubleshoot.md) for help.
+-   If you do not see the option to keep files and apps, or if the setup displays an error, you can [connect with us](troubleshoot.md) for help.
 
 :::
