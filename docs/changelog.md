@@ -2,6 +2,21 @@
 
 ------------------------------------------------------------------------
 
+## 3.10
+**Minor Update**
+
+#### Ohook
+- Now warns the user if Smart App Control is enabled or in evaluation mode, as this has been reported to cause issues with Ohook.
+
+#### TSforge
+- Add support for Server 2016 ESU licenses.
+
+#### All
+- Add a suggestion to perform an in-place repair if license package files are missing.
+- Remove newlines before blue suggestion lines.
+
+------------------------------------------------------------------------
+
 ## 3.9
 
 **Minor Update**

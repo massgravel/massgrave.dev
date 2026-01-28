@@ -89,7 +89,7 @@ import TabItem from '@theme/TabItem';
 
 ## MAS Latest Release
 
-Latest Release: v3.9 (19-Nov-2025)  
+Latest Release: v3.10 (28-Jan-2026)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
@@ -139,8 +139,4 @@ To activate unsupported products such as **Office on Mac**, see [here](unsupport
 
 ![MAS Change Windows Edition](./assets/MAS_change_windows_edition.png)
 
-![MAS Change Windows Edition 1](./assets/MAS_change_office_edition_1.png)
-
-![MAS Change Windows Edition 2](./assets/MAS_change_office_edition_2.png)
-
-![MAS Change Windows Edition 3](./assets/MAS_change_office_edition_3.png)
+![MAS Change Office Edition](./assets/MAS_change_office_edition.png)

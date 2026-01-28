@@ -1,5 +1,8 @@
 # News
 
+### [28-Jan-26] MAS 3.10 is released
+See the changelog [here](changelog.md).
+
 ### [24-Jan-26] Added Jan 2026 updated ISOs
 Windows 11 25H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media 
