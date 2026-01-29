@@ -793,11 +793,7 @@ Available in x86 only.
 </Tabs>
 </TabItem>
 
-<TabItem value="Windows Embedded 7" label="Windows Embedded 7" default>
-
-<Tabs>
-
-<TabItem value="Windows Embedded Standard 7" label="Windows Embedded Standard 7" default>
+<TabItem value="Windows Embedded 7" label="Windows Embedded Standard 7" default>
 
 **Windows Embedded Standard 7**
 
@@ -812,7 +808,5 @@ Use the following product keys during installation to get the full, non-evaluati
 | :---------------------- | :------- | :-------------------------------------------------------------------------------------- |
 | English                 | x32/x64  | [Official Download](https://www.microsoft.com/en-us/download/details.aspx?id=11887)     |
 
-</TabItem>
-</Tabs>
 </TabItem>
 </Tabs>
