@@ -23,11 +23,11 @@ import TabItem from '@theme/TabItem';
   1. Click the **Start Menu**, type `PowerShell`, and open it.
   2. Copy and paste the code below and press **Enter.**
   
-  <span className="launcher-command">
+  <div className="launcher-command">
   ```powershell
   irm https://get.activated.win | iex
   ```
-  </span>
+  </div>
 
   3. In the menu that appears, type the number corresponding to one of the **Green** options.
   

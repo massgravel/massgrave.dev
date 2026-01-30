@@ -146,9 +146,14 @@ table {
   display: none;
 }
 
+.launcher-command {
+  margin-left: 24px; 
+  margin-right: 24px;
+}
+
 .launcher-command code[class*='codeBlockLines'] {
-  text-align: center;
-  font-size: 1.1em;
+  border: 1px solid #ddd;
+  border-left: 4px solid var(--ifm-color-primary-darker);
 }
 
 @media(max-width: 996px) {
