@@ -147,12 +147,12 @@ table {
 }
 
 .launcher-command {
-  margin-left: 24px; 
-  margin-right: 24px;
+  margin-left: calc(var(--ifm-list-margin) - 4px); 
+  margin-right: calc(var(--ifm-list-margin) - 4px);
 }
 
 .launcher-command code[class*='codeBlockLines'] {
-  border: 1px solid #ddd;
+  border: 1px solid var(--ifm-color-emphasis-200);
   border-left: 4px solid var(--ifm-color-primary-darker);
 }
 
