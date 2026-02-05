@@ -374,7 +374,7 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
     `Set-Location -Path C:\ohook`  
     `C:\mingw64\bin\mingw32-make.exe`
 7. Calculate the SHA-256 of the created `sppc64.dll` and `sppc32.dll` files using 7-Zip or PowerShell; they should match the checksums mentioned above.
-8. Don. You can now close the PowerShell windows and correct the system date.
+8. Done. You can now close the PowerShell windows and correct the system date.
 
 ------------------------------------------------------------------------
 
@@ -400,3 +400,4 @@ e98ef0c0-71c4-42ce-8305-287d8721e26c    SubPrepid   ProPlusSubR
 ## Troubleshooting
 
 -   See [here](troubleshoot.md).
+
