@@ -31,7 +31,7 @@ If the script encounters an error during the Windows edition change, follow the 
 ## In-Place Repair Upgrade
 
 -   If none of the solutions worked, please follow the guide below to fix the system corruption.
--   https://gravesoft.dev/in-place_repair_upgrade
+-   https://massgrave.dev/in-place_repair_upgrade
 
 ---
 
