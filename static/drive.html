@@ -29,7 +29,8 @@
                 document.title = filename + ' | MASSGRAVE Drive';
                 document.getElementById('file-title').textContent = '💾 ' + filename;
 
-                const downloadUrl = 'https://archive.isdn.network/windows/' + encodeURIComponent(filename);
+                const baseUrl = atob('aHR0cHM6Ly9hcmNoaXZlLmlzZG4ubmV0d29yay93aW5kb3dzLw');
+                const downloadUrl = baseUrl + encodeURIComponent(filename)
                 document.getElementById('download-form').action = downloadUrl;
             } else {
                 document.getElementById('file-title').textContent = '💾 No file specified';
