@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>MASSGRAVE Drive 💀</title>
+        <link rel="stylesheet" href="css/water.min.css">
+    </head>
+    <body>
+        <h1>📂 MASSGRAVE Drive</h1>
+        <p>Welcome to MASSGRAVE Drive! You can find your requested file below.</p>
+
+        <h2 style="word-break:break-all" id="file-title">💾 Loading...</h2>
+
+        <p>Please click <i>Download file</i> to download the requested file.</p>
+
+        <form method="GET" action="" id="download-form">
+            <button type="submit">Download file</button>
+        </form>
+
+        <footer>© <span id="year"></span> <a href="https://massgrave.dev">MASSGRAVE</a> 💀</footer>
+
+        <script>
+            document.getElementById('year').textContent = new Date().getFullYear();
+
+            const hash = window.location.hash.substring(1);
+            const filename = decodeURIComponent(hash);
+
+            if (filename) {
+                document.title = filename + ' | MASSGRAVE Drive';
+                document.getElementById('file-title').textContent = '💾 ' + filename;
+
+                const downloadUrl = 'https://archive.isdn.network/windows/' + encodeURIComponent(filename);
+                document.getElementById('download-form').action = downloadUrl;
+            } else {
+                document.getElementById('file-title').textContent = '💾 No file specified';
+                document.querySelector('button[type="submit"]').disabled = true;
+            }
+        </script>
+    </body>
+</html>
