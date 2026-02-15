@@ -56,7 +56,7 @@ It will upgrade your eval Windows version to the full version.
 
 GAC means general availability channel, aka normal version.
 
-- Download genuine Windows 10/11 ISO from [MSDL](https://msdl.gravesoft.dev/) in the same Windows language, and architecture.
+- Download genuine Windows 10/11 ISO from [here](genuine-installation-media.md) in the same Windows language, and architecture.
 - Right-click on the downloaded ISO file, Open With > Windows Explorer
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open the command prompt as admin and enter,  

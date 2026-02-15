@@ -6,7 +6,7 @@ Guide on how to backup your data and clean install Windows.
 
 ## Prerequisites
 
-- A genuine Windows ISO file, you can download from https://msdl.gravesoft.dev/
+- A genuine Windows ISO file. You can get one from [here](genuine-installation-media.md).
 - The latest version of Rufus from https://rufus.ie/
 - A minimum 8GB USB drive  
 - Follow this [guide](remove_malware.md) before making a bootable USB if you think the system has malware.

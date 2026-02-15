@@ -6,7 +6,7 @@
 
 Performing an in-place repair upgrade using a Windows ISO file is a good way to fix system errors. Here is how to do it.
 
--   [Download the Windows ISO](https://massgrave.dev/genuine-installation-media) that matches your desired version, language, and architecture.
+-   [Download the Windows ISO](genuine-installation-media.md) that matches your desired version, language, and architecture.
     -   To check the installed Windows architecture, open PowerShell as administrator and enter:
         ```powershell
         (Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Session Manager\Environment").PROCESSOR_ARCHITECTURE
