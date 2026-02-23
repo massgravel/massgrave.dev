@@ -1,6 +1,6 @@
 # Update Windows ISO
 
-Official Windows 10 / 11 ISOs available through public free links on [Microsoft](https://www.microsoft.com/en-us/software-download/) or [MSDL](https://msdl.gravesoft.dev/) do not include the latest monthly updates.  
+Official Windows 10 / 11 ISOs available through public free links on [Microsoft](https://www.microsoft.com/en-us/software-download/) do not include the latest monthly updates.  
 Microsoft usually releases updated ISOs after major feature updates, and the next one typically comes with the following year’s release.
 
 These official ISOs work fine for most users since Windows automatically installs cumulative updates (which include all prior updates).  
@@ -55,7 +55,7 @@ Alternatively, you can find download links [here](genuine-installation-media).
 Follow these steps to manually create an updated Windows ISO:
 
 1. **Download the base ISO**  
-   - Get the official ISO from [MSDL](https://msdl.gravesoft.dev/) or [Microsoft](https://www.microsoft.com/en-us/software-download/) (Download ISO file directly; Media Creation Tool ISOs won’t work here.) or [here](genuine-installation-media).
+   - Get the official ISO from [Microsoft](https://www.microsoft.com/en-us/software-download/) (Download ISO file directly; Media Creation Tool ISOs won’t work here.) or [here](genuine-installation-media).
 
 2. **Download W10UI**  
    - Get [W10UI](https://forums.mydigitallife.net/posts/1216064/).  

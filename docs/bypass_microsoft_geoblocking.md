@@ -13,22 +13,6 @@ Countries with limited Microsoft Store app functionality:
 
 ------------------------------------------------------------------------
 
-## Windows Download
-
-Users from blocked countries may encounter an error when trying to download Windows ISOs from the [official Microsoft page](https://www.microsoft.com/en-us/software-download).
-
-### Error
-
-`We are unable to complete your request at this time. Some users, entities and locations are banned from using this service. For this reason, leveraging anonymous or location hiding technologies when connecting to this service is not generally allowed. If you believe that you encountered this problem in error, please try again. If the problem persists you may contact Microsoft Support – Contact Us page for assistance. Refer to message code 715-123130 and 150506a6-3ed5-4d99-8b41-3d4de0f2620b.`
-
-### Solution
-
-[MSDL](https://msdl.gravesoft.dev/)
-
-It uses shared sessions/proxy to generate official download links.
-
-------------------------------------------------------------------------
-
 ## Office Download
 
 Users from blocked countries may encounter an error when trying to [download](office_c2r_links.md) Office C2R with the online installer or ODT.

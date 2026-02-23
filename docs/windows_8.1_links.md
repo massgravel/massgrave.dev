@@ -35,9 +35,6 @@ import TabItem from '@theme/TabItem';
 
 **Windows 8.1 Core / Pro**
 
-MSDL https://msdl.gravesoft.dev/#52 provides official links directly from Microsoft.  
-Alternatively, you can download from the table below.
-
 | Language                 | Arch | Link                                                                                                                                   |
 | :----------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------- |
 | Arabic                   | x64  | [ar_windows_8.1_with_update_x64_dvd_6051471.iso](pathname:///drive.html#ar_windows_8.1_with_update_x64_dvd_6051471.iso)           |
@@ -293,9 +290,6 @@ Alternatively, you can download from the table below.
 <TabItem value="Windows 8.1 N Core / Pro" label="Windows 8.1 N Core / Pro" default>
 
 **Windows 8.1 N Core / Pro**
-
-MSDL https://msdl.gravesoft.dev/#55 provides official links directly from Microsoft.  
-Alternatively, you can download from the table below.
 
 | Language                 | Arch | Link                                                                                                                                   |
 | :----------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------------------- |

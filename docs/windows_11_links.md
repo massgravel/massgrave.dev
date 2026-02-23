@@ -81,7 +81,7 @@ Build - 26200.6584 (Sep 2025)
 :::info
 
 - **Official Microsoft download links** are provided below.    
-- Available from: [MSDL](https://msdl.gravesoft.dev/), [Microsoft Download](https://www.microsoft.com/en-us/software-download/windows11), MVS, OEM, and official static links.  
+- Available from: [Microsoft Download](https://www.microsoft.com/en-us/software-download/windows11), MVS, OEM, and official static links.  
 - For **MVS ISOs**, download these ISOs and rename them. The checksums between MVS and VLSC ISOs were the same.  
 
 <details>
