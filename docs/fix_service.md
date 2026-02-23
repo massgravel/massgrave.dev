@@ -7,8 +7,7 @@ description: Fix broken services which are required by MAS to work.
 ## Corrupt service - sppsvc
 
 - Follow the steps below only if the script shows that `sppsvc` **service** is corrupt. Do not follow otherwise.
-- Download and extract the `sppsvc` registry [file](https://buzzheavier.com/g0753tthj3ra) (for Windows 10 and Windows 11).
-- Be careful, run these files only if they are matching with your Windows version, if not then ask for help [here](troubleshoot.md).
+- Download and extract the `sppsvc` registry [file](https://buzzheavier.com/g0753tthj3ra).
 - Run the file, restart the system (using the restart button), and try the activation script again.
 - If the issue persists, contact us [here](troubleshoot.md).
 
