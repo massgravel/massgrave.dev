@@ -10,28 +10,51 @@ jobs:
   build:
     name: Build Docusaurus
     runs-on: ubuntu-latest
+
+    concurrency:
+      group: github-pages
+      cancel-in-progress: true
+
+    permissions:
+      contents: read
+
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6.0.2
         with:
-          fetch-depth: 0
-      - uses: actions/setup-node@v4
+          fetch-depth: 1 # We will need to switch this back to 0 if we ever need to use lastUpdated in Docusaurus
+
+      - uses: actions/setup-node@v6.2.0
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Cache Rspack output
+        uses: actions/cache@v5.0.3
+        with:
+          path: node_modules/.cache
+          key: rspack-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          restore-keys: |
+            rspack-${{ hashFiles('package-lock.json') }}-
+            rspack-
+
       - name: Build website
         run: npm run build
 
       - name: Upload Build Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4.0.0
         with:
           path: build
 
   deploy:
     name: Deploy to GitHub Pages
     needs: build
+
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false # deploy-pages seems to not be fully atomic
 
     permissions:
       pages: write
@@ -45,4 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v4.0.5
