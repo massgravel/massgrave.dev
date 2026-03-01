@@ -11,7 +11,7 @@
 -   Download https://github.com/asdcorp/rearm/archive/refs/heads/principalis.zip
 -   Extract this zip file.
 -   Copy `rearm.cmd` file to the root of the C drive, like `C:\rearm.cmd`
--   Open the command prompt as administrator and enter the below command  
+-   Open Command Prompt as administrator and enter the below command  
     `Shutdown /f /r /o /t 0`
 -   After the system restarts, select Troubleshoot > Advanced Options > Command Prompt.
 -   Enter the following command  

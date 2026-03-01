@@ -76,7 +76,7 @@ Applicable on Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
 LTSC editions do not come with store apps pre-installed. To install them, follow the steps below.
 
 - Make sure the Internet is connected.
-- Open PowerShell as admin and enter,  
+- Open PowerShell as administrator and enter:  
 `wsreset -i`  
 - Wait for a notification to appear that the store app is installed, it may take a few minutes.
 
@@ -176,7 +176,7 @@ You might want to check [Windows 10 EOL guide](windows10_eol.md).
 <details>
 <summary>Click here for info</summary>
 
-IoT LTSC edition ISOs are available in English language only. However, you can follow the below steps to clean install it.
+IoT LTSC edition ISOs are only available in English. However, you can follow the below steps to clean install it.
 
 - Download the non-IoT LTSC 2024 ISO in the desired language from the section below.
 - Follow [PID.txt method](clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
@@ -190,7 +190,7 @@ Alternatively, You can install Non-IoT LTSC in another language and later instal
 <details>
 <summary>Click here for info</summary>
 
-IoT LTSC edition ISOs are available in English language only.
+IoT LTSC edition ISOs are only available in English.
 
 When installing Windows 11 IoT Enterprise LTSC 2024 from scratch, one advantage is its relaxed hardware requirements. However, there isn't much benefit to doing the same with the 2021 IoT version, since you can easily change the Windows edition later. Additionally, the PID.txt method for installing the virtual edition from scratch is only applicable to Windows 11 24H2 and later versions. While there are other methods to install from scratch, they are more complex, and the results do not justify the effort.
 

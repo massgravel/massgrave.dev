@@ -98,7 +98,7 @@ https://gist.github.com/WitherOrNot/c34c4c7b893e89ab849ce04e007d89a9
 ## HEVC Video Extensions
 
 -	It's a [paid Microsoft extension](https://apps.microsoft.com/detail/9nmzlz57r3t7) to play High Efficiency Video Coding (HEVC) videos in any video app on your Windows 10/11 device.
--	Microsoft provides digitally signed installers to M365 Admin Center subscribers, you can download them below.
+-	Microsoft provides digitally signed installers to M365 administrator Center subscribers, you can download them below.
 
 Download link: https://buzzheavier.com/ronil20s7z6l
 

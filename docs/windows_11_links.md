@@ -258,7 +258,7 @@ then Windows Setup will apply the OEM key from the motherboard during the final 
 - This behavior is normal and cannot be avoided.
 
 **Fix**  
-After installation, switch the edition by running the following in command prompt as admin.
+After installation, switch the edition by running the following in command prompt as administrator.
 
 ```
 slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD

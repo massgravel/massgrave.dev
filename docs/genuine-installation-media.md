@@ -46,7 +46,7 @@ Activation with [MAS](intro.md) is required after the installation of Office.
 <details>
 <summary>Click here for info</summary>
 
-Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/en-us/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 Admin Center](https://learn.microsoft.com/en-us/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
+Microsoft provides consumer ISOs for free on their [site](https://www.microsoft.com/en-us/software-download), but business, enterprise, and older ISOs are behind paywalls such as [MVS](https://visualstudio.microsoft.com/subscriptions/) and [M365 administrator Center](https://learn.microsoft.com/en-us/licensing/vlsc-faqs-home-page). That's why we need to host files on our servers.
 
 </details>
 

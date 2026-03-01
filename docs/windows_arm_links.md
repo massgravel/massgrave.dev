@@ -132,7 +132,7 @@ Windows 11 Enterprise
 Windows 11 IoT Enterprise  
 Windows 11 IoT Enterprise Subscription  
 
-ARM64 version for IoT Enterprise ISO is available only in English language.  
+The ARM64 version of the IoT Enterprise ISO is only available in English.  
 
 | Language | Arch  | Link |
 |:---------|:------|:---|
@@ -157,7 +157,7 @@ then Windows Setup will apply the OEM key from the motherboard during the final 
 - This behavior is normal and cannot be avoided.
 
 **Fix**  
-After installation, switch the edition by running the following in command prompt as admin.
+After installation, switch the edition by running the following in command prompt as administrator.
 
 ```
 slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
@@ -177,7 +177,7 @@ Windows 11 Enterprise LTSC
 Windows 11 IoT Enterprise LTSC   
 Windows 11 IoT Enterprise Subscription LTSC
 
-ARM64 version for LTSC is available only in English language.  
+The ARM64 version of LTSC is only available in English.  
 
 | Language | Arch  | Link |
 |:---------|:------|:---|
@@ -370,7 +370,7 @@ Build - 19045.5854
 **Windows 10 IoT Enterprise 22H2**  
 **(Not LTSC)**  
 Build - 19045.2006  
-ARM64 version for IoT Enterprise ISO is available only in English language.  
+The ARM64 version of the IoT Enterprise ISO is only available in English.  
 
 | Language | Arch  | Link |
 |:---------|:------|:---|
@@ -394,7 +394,7 @@ then Windows Setup will apply the OEM key from the motherboard during the final 
 - This behavior is normal and cannot be avoided.
 
 **Fix**  
-After installation, switch the edition by running the following in command prompt as admin.
+After installation, switch the edition by running the following in command prompt as administrator.
 
 ```
 slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
@@ -408,7 +408,7 @@ slmgr.vbs /ipk XQQYW-NFFMW-XJPBH-K8732-CKFFD
 **Windows 10 IoT Enterprise LTSC 2021**
 
 Build - 19044.1288  
-ARM64 version for LTSC is available only in English language.  
+The ARM64 version of IoT Enterprise LTSC is only available in English.  
 
 | Language | Arch  | Link                                                                                                                                                             |
 |:---------|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|

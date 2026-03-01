@@ -40,11 +40,11 @@ import TabItem from '@theme/TabItem';
 LTSC means long-term servicing channel. Microsoft provides longer update support for them.
 
 - Download Windows 10/11 Enterprise LTSC ISO from [here](windows_ltsc_links.md) in the same Windows language, and architecture.
-- Right-click on the downloaded ISO file, Open With > Windows Explorer
+- Right-click the downloaded ISO file, **Open With** > **Windows Explorer**
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
-- Now open the command prompt as admin and enter,  
+- Now open Command Prompt as administrator and enter:  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d EnterpriseS /f`  
-  - If you are on Windows 11 with unsupported hardware then enter,  
+  - If you are on Windows 11 with unsupported hardware then enter:  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterpriseS /f`  
 - Go into that DVD drive and run setup.exe, continue until you reach the final confirmation screen.
 - Make sure it says "**Keep personal files and apps**" on the final screen. Then you can continue the process and wait until it is done.
@@ -57,11 +57,11 @@ It will upgrade your eval Windows version to the full version.
 GAC means general availability channel, aka normal version.
 
 - Download genuine Windows 10/11 ISO from [here](genuine-installation-media.md) in the same Windows language, and architecture.
-- Right-click on the downloaded ISO file, Open With > Windows Explorer
+- Right-click the downloaded ISO file, **Open With** > **Windows Explorer**
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
-- Now open the command prompt as admin and enter,  
+- Now open Command Prompt as administrator and enter:  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d Enterprise /f`  
-  - If you are on Windows 11 with unsupported hardware then enter,  
+  - If you are on Windows 11 with unsupported hardware then enter:  
   `reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion" /v EditionID /d IoTEnterprise /f`  
 - Go into that DVD drive and run setup.exe, enter this key if the setup is asking for it `NPPR9-FWDCX-D2C8J-H872K-2YT43`
 - Continue until you reach the final confirmation screen.
@@ -87,7 +87,7 @@ Windows 10/11 Enterprise evaluation version typically comes with a 90-day trial 
 ### Extend 90 days, 2 more times
 
 When the 90-day activation period has expired or is about to expire, you can extend it for 90 days more.  
-Open the command prompt as admin and enter,  
+Open Command Prompt as administrator and enter:  
 `slmgr /rearm`
 
 You can repeat this process 2 times (a total of 270 days of activation).

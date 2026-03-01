@@ -22,7 +22,7 @@ If you want to manually change the edition instead of using the script, please f
 
 ### Windows 10/11
 
--   To view the list of available editions, open the command prompt as admin and enter  
+-   To view the list of available editions, open Command Prompt as administrator and enter  
     `dism /online /english /Get-TargetEditions`
 -   Get a key for the desired edition from [here](hwid.md#supported-products)
 -   If you are upgrading from Home to Pro, you will need to disable the Internet before performing the upgrade.

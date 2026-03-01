@@ -6,7 +6,7 @@ Scripts may show an error related to PowerShell not working.
 
 ## ConstrainedLanguage
 
--  If the script is showing `ConstrainedLanguage` in error output then open the command prompt as admin and enter,
+-  If the script is showing `ConstrainedLanguage` in error output then open Command Prompt as administrator and enter:
 
 ```
 reg delete "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Environment" /v "__PSLockdownPolicy" /f

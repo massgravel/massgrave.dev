@@ -352,7 +352,7 @@ All links given below are official links hosted by Microsoft.
 
  - Office 2010 license installer requires a workaround to install on Windows 10/11/Server 2016-2025:
    - Run the installer, and dismiss the resulting error message.
-   - Launch Command Prompt as Administrator.
+   - Launch Command Prompt as administrator.
    - If you are using 32-bit Windows, run `notepad "%programfiles%\MSECache\OfficeKMS\kms_host.vbs"`.
    - If you are using 64-bit or ARM64 Windows, run `notepad "%programfiles(x86)%\MSECache\OfficeKMS\kms_host.vbs"`
    - Click `Edit > Replace`.

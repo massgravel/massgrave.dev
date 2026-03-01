@@ -8,7 +8,7 @@ All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
--   For x86, SP3 and for x64, SP2 are the last released ISOs available. x64 SP2 version was released in English language only.
+-   For x86, SP3 and for x64, SP2 are the last released ISOs available. x64 SP2 version was only released in English language.
 -   x86 VL ISOs can be activated with the key `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 -   x64 VL ISOs can be activated with the key `VCFQD-V9FX9-46WVH-K3CD4-4J3JM`
 

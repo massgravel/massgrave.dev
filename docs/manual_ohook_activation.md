@@ -13,7 +13,7 @@ To manually activate Office, follow these steps:
 
 -   Download the Ohook sppc.dll files from [here](https://github.com/asdcorp/ohook/releases/download/0.5/ohook_0.5.zip) or compile the sppc.dll files yourself using [this guide](ohook#custom-sppcdll-info).
 -   Create a new folder called `ohook` in the root of your C: drive and extract the zip file to it. The path to the folder should be `C:\ohook`.
--   Open Command Prompt as Administrator and enter the following command to create a symlink of the system's sppc.dll as sppcs.dll in the Office C2R System directory:  
+-   Open Command Prompt as administrator and enter the following command to create a symlink of the system's sppc.dll as sppcs.dll in the Office C2R System directory:  
     `mklink "%ProgramFiles%\Microsoft Office\root\vfs\System\sppcs.dll" "%windir%\System32\sppc.dll"`
 -   Enter the following commands to copy the hook library `sppc64.dll` to the Office C2R system directory:    
     `cd /d C:\ohook`  

@@ -35,7 +35,7 @@ Primarily, it checks the current IP address, and based on that, the above error 
 
 ### Solution 1
 
--   Open command prompt as admin and enter,
+-   Open command prompt as administrator and enter:
 
 ```         
 reg add "HKCU\Software\Microsoft\Office\16.0\Common\ExperimentConfigs\Ecs" /v "CountryCode" /t REG_SZ /d "std::wstring|US" /f
