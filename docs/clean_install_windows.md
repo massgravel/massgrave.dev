@@ -96,15 +96,15 @@ It's highly recommended to backup your critical data on some online drive as wel
   - IoT Enterprise (GAC, General Availability Channel) 
   - IoT Enterprise (LTSC, Long-Term Servicing Channel)
 - Next question, how do we install this edition?  
-  - for GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 25H2 consumer (linked at the top) or business ISO.
-  - for LTSC version, you need to download the full version of LTSC ISO (don't use eval), it doesn't have to be IoT ISO, you can download a normal LTSC ISO in your language.
+  - For GAC version, you don't need IoT Enterprise ISO, you can simply use regular Windows 11 25H2 consumer (linked at the top) or business ISO.
+  - For LTSC version, you need to download the full version of LTSC ISO (don't use eval), it doesn't have to be IoT ISO, you can download a normal LTSC ISO in your language.
   - After flashing the required ISO using Rufus, navigate to the `\sources\` folder on the USB drive and create a file named `PID.txt` (ensure the file extension is correct). Open this file with Notepad and enter the text below.
-    - for GAC version  
+    - **For GAC version**:  
 	  ```
 	  [PID]
 	  Value=XQQYW-NFFMW-XJPBH-K8732-CKFFD
 	  ```
-    - for LTSC version  
+    - **For LTSC version**:  
 	  ```
 	  [PID]
 	  Value=CGK42-GYN6Y-VD22B-BX98W-J8JXD

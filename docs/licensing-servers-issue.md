@@ -33,7 +33,7 @@ netsh int ip reset
 netsh winsock reset
 netsh advfirewall reset
 netsh winhttp reset proxy
-bitsadministrator /util /setieproxy localsystem NO_PROXY RESET
+bitsadmin /util /setieproxy localsystem NO_PROXY RESET
 ipconfig /flushdns
 ```
 

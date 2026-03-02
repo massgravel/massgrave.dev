@@ -145,7 +145,7 @@ The IoT edition ISO is only available in English, but don't worry.
     AMD64/x64 indicates 64-bit; x86 indicates 32-bit.  
   - To check the installed Windows language, open PowerShell as administrator and enter:  
 `dism /english /online /get-intl | find /i "Default system UI language"`
-- Right-click the downloaded ISO file, **Open With** > **Windows Explorer**
+- Right-click the downloaded ISO file and select **Open with** > **Windows Explorer**
 - A new DVD drive will appear in Windows Explorer, which means the installation image has been mounted successfully.
 - Now open Command Prompt as administrator and enter:  
   **for GAC:**  

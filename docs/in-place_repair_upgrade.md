@@ -21,7 +21,7 @@ Performing an in-place repair upgrade using a Windows ISO file is a good way to 
         [Globalization.CultureInfo]::GetCultureInfo([Convert]::ToInt32((Get-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Nls\Language").InstallLanguage, 16)).Name
         ```
     -   **Note:** If you are running the Enterprise LTSC edition, you must download that specific edition's ISO file. Do not download the Evaluation version, as it cannot be activated.
--   Right-click the downloaded ISO file and select **Open with > Windows Explorer**.
+-   Right-click the downloaded ISO file and select **Open with** > **Windows Explorer**
 -   A new virtual DVD drive will appear in Windows Explorer, which means that the installation image has been mounted successfully.
 
 <details>
