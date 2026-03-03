@@ -17,7 +17,7 @@ https://massgrave.dev/blog/briefing
 Windows 11 25H2 / Server 2025 / Server 2022 / Server 23H2  
 https://massgrave.dev/genuine-installation-media 
 
-### [23-Nov-25] WindowsAddict steps down as author
+### [23-Nov-25] WindowsAddict steps down as owner
 Project is now owned and managed by the other members of MASSGRAVE:  
 https://massgrave.dev/credits#massgrave
 
