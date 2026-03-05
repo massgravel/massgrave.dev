@@ -40,7 +40,7 @@ import TabItem from '@theme/TabItem';
 <TabItem value="multiple_partition" label="I have multiple partitions on my drive, like C:\ D:\" default>
 
 - You can copy your data from C drive and paste it into other partitions.
-- Your data is usually located in the below place on the C drive,  
+- Your data is usually located in the place below on the C drive:  
   - Go to this folder `C:\Users` and then select the user account that you are using.
   - Your data is saved in Desktop, Documents, Downloads, Music, Pictures, and Videos folders.
   - Save these folders in another partition to backup.
@@ -49,10 +49,10 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="one_partition" label="I have C:\ drive only" default>
 
-- Your data is usually located in the below place on the C drive,  
+- Your data is usually located in the place below on the C drive:  
   - Go to this folder `C:\Users` and then select the user account that you are using.
   - Your data is saved in Desktop, Documents, Downloads, Music, Pictures, and Videos folders.
-- If you have a **small amount of data** to back up, save it on the below listed online drives or the USB drive after making it bootable with Rufus.
+- If you have a **small amount of data** to back up, save it on the listed online drives below or the USB drive after making it bootable with Rufus.
 - If you have a **large amount of data** that you can't save on an external drive or online drive,  
   - Create another partition using this guide https://youtu.be/_HgjasKuOBw
   - Save your data onto that other newly created partition.

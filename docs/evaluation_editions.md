@@ -54,7 +54,7 @@ It will upgrade your eval Windows version to the full version.
 
 <TabItem value="eval_gac" label="Windows 10/11 Enterprise Evaluation (GAC)" default>
 
-GAC means general availability channel, aka normal version.
+GAC means General Availability Channel, aka normal version.
 
 - Download genuine Windows 10/11 ISO from [here](genuine-installation-media.md) in the same Windows language, and architecture.
 - Right-click the downloaded ISO file and select **Open with** > **Windows Explorer**
@@ -113,7 +113,7 @@ The eval activation for Windows 10 Enterprise LTSC 2021 is not working because o
 Some people suggest installing license files of the full version of Windows Enterprise to activate the evaluation installation.  
 This is not a good idea for many reasons,  
 
-- If you apply this method then the below commands will show errors  
+- If you apply this method then the commands below will show errors  
   `dism /online /english /Get-CurrentEdition`  
   `dism /online /english /Get-TargetEditions`
 - Windows update can't update license files, Microsoft applies policy fixes through Windows updates. For example, 19044.1288 RTM release of IoT enterprise LTSC didn't support sandbox, but with later updates it started supporting it. KMS activation support was enabled with later updates as well. They update license files quite often, it's better to have updated windows and license files.

@@ -31,7 +31,7 @@ See the [troubleshooting guide](troubleshoot.md) for help.
 
 #### Windows 10 ESU (Extended Security Updates)
 - #### How to receive security updates for Windows 10 after October 2025?
-  You can use [TSforge option in MAS](intro.md) to activate 3 Years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
+  You can use [TSforge option in MAS](intro.md) to activate 3 years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
 - #### How can I check if TSforge ESU is activated?   
   See the [TSforge Doc](tsforge.md#windows-10-esu-faq) for details.

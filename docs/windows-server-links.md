@@ -43,7 +43,7 @@ Build - 26100.32370 (Feb 2026)
 Windows Server 2025  
 
 Build - 26100.1742  
-The below ISO links are taken from the Official OEM portal.  
+The ISO links below are taken from the Official OEM portal.  
 **Note: You need to rename extension to .iso after file is downloaded**.  
 
 | Language            | Arch | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -67,7 +67,7 @@ The below ISO links are taken from the Official OEM portal.
 | Chinese-Simplified  | x64  | [X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81954_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-cn.iso_c0a03233-3c87-4c90-9fac-9cbf668255c1?t=fdfcc05d-ef3b-45a4-8f87-cd492f6d10de&P1=102817441905&P2=601&P3=2&P4=phtRoTOxQBx%2bH5nhSijWBQw9deo3wwkODOj9HbwaH1%2fC%2bYTg5C7FrUUduOXIC9TzweFPlCY0YlpXM1ZD%2fj3dYrYwBbRnCeeDOvzHTjIMoZvtjfKHH%2bfI3IdPFJBa6gv5sL69QQFUUmaWqRHCTT81p6IYcNwuwOUrNW9u3BVttXiQNIAX9XrrYbWAHHmfkLW3wR2YdstEsFxF8sIQ4w1V6Znm3B7NO7Rv%2fjk3nyhQ9zzMjZFjdIlkZg4NbAhYE12EZr9pHHR0AHQeW2%2fN%2fVhGjoaYWYjHMTtfNV48EJbeQoQKrrfdLTQ%2fHk6%2bGUxO5D8xCPfkr0vpr7oBo2uICepJ3w%3d%3d)                   |
 | Chinese-Traditional | x64  | [X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso](https://oemsoc.download.prss.microsoft.com/dbazure/X23-81955_26100.1742.240906-0331.ge_release_svc_refresh_SERVER_OEMRET_x64FRE_zh-tw.iso_731ec99c-0ae2-483c-afed-710e3a0750b3?t=c3b71371-8723-4813-a386-bc318bceeb76&P1=102817441907&P2=601&P3=2&P4=KuAEtUuMYLfQx87GAmqpib39D%2btSY5MZeQGwPC05VTmqP%2fsfU7dXKrzBMpuHixmU91%2f1lO%2flfwhkPa9xnm24%2fDP4GyTrKqe3XP44IvPDS%2b4zfL%2fy%2fJhFxnlY8xnXOp%2f8aCQxgJcREil%2f8AlGPnX0%2fe3H12UIqMg84a97IESvHBBarYIvtHl3itix8vlEqC%2fq60EVzQh2jSgr9zBejd2homnuYbgMpgv1LZkN7NDG6zL1%2f8hvnENJ%2bkpK9OZmXNC7e49yJigT%2ffBnnPtTqlDv7qzVEAplS1vc522GMjqJdf4%2bueXjcsZohDHHzparCp5Nxy4kTStUDRL3LqPT5LEcKw%3d%3d)       |
 
-Above OEM files have same checksums as the below MVS files. Only name is changed.  
+Above OEM files have same checksums as the MVS files below. Only name is changed.  
 ```
 cs-cz_windows_server_2025_x64_dvd_4f54e1b0.iso
 de-de_windows_server_2025_x64_dvd_5282a882.iso

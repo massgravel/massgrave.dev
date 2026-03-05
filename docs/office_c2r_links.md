@@ -1,6 +1,6 @@
 # Office C2R Installers
 
-All of the below listed links are original from Microsoft with Retail license and Current update channel.
+All of the listed links below are original from Microsoft with Retail license and Current update channel.
 
 #### General Notes
 

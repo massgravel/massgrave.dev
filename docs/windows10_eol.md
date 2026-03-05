@@ -10,7 +10,7 @@ Here are several solutions; feel free to select the one that best suits your nee
 
 Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) where users can buy the ESU subscription to receive Windows updates. These updates will begin to roll out in November 2025. 
 
-#### Commercial ESU Program (3 Years) ❤️
+#### Commercial ESU Program (3 years) ❤️
 
 - You can use the [TSforge option in MAS](intro.md) to activate the [3-Year ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 - If you have any questions, please see the FAQ [here](tsforge.md#windows-esu).

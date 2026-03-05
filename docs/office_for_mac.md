@@ -190,7 +190,7 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 
 ---
 
-The below activator (serializer) pkg files are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
+The activator (serializer) pkg files below are extracted from the official iso files. These serializer files are only available to [paid subscribers](https://learn.microsoft.com/en-us/microsoft-365-apps/mac/volume-license-serializer), however anyone can activate Office using it. 
 
 | Serializer | Activator | Applicable On |
 |:------------------|:---|:---|

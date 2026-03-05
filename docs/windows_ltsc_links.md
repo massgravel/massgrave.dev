@@ -10,87 +10,87 @@ All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
-- Microsoft provides Evaluation ISO public [links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and can not be activated for more than 90 days. Below listed ISOs are full version that can be activated.
-- Microsoft does not provide monthly updated ISOs for LTSC editions. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
+- Microsoft provides public [Evaluation ISO links](https://www.microsoft.com/en-us/evalcenter) for Windows LTSC releases, but as the name states, those ISOs are for evaluation purposes and cannot be activated for more than 90 days. The ISOs listed below are full versions that can be activated.
+- Microsoft does not provide monthly updated ISOs for LTSC editions. However, you can [manually update the Windows ISO file](update-windows-iso) if needed.
 
 #### What is LTSC, and is it the right choice for you?
 
 <details>
 <summary>Click here for info</summary>
 
-TL;DR if you're uncertain, avoid LTSC and choose the general availability channel and its editions (Home, Pro, Enterprise, etc).
+**TL;DR:** If you're uncertain, avoid LTSC and choose the General Availability Channel and its standard editions (Home, Pro, Enterprise, etc.).
 
 ---
 
-Microsoft releases Windows 10 and 11 through two servicing channels.
+Microsoft releases Windows 10 and 11 through two servicing channels:
 
 1) **GAC** (General Availability Channel)
    - It is intended for both general and enterprise customers.
    - Edition examples include options such as Home, Pro, and Enterprise.
-   - Maximum support on the same build is usually [2 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro) for consumers and [3 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-and-education) for the enterprise. After that, you need to install feature updates.
-   - This is the main servicing channel and other software and games usually follow this channel's life cycle to provide support.
+   - Maximum support on the same build is usually [2 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro) for consumers and [3 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-and-education) for enterprises. After that, you need to install feature updates.
+   - This is the main servicing channel, and other software and games usually follow this channel's lifecycle to provide support.
 2) **LTSC** (Long-Term Servicing Channel)
    - It is designed for devices where functionality and features must remain constant over time, such as medical systems, industrial controllers, and air traffic control devices.
-   - Examples of editions include: Enterprise LTSC and IoT Enterprise LTSC.
-   - Maximum support on the same build is usually [5 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-ltsc-2024) for LTSC and [10 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise-ltsc-2024) for the IoT LTSC.
-   - This is not the main servicing channel and other software and games usually don't follow this channel's life cycle. For example, browsers and games might not provide support for 10 years on same build.
+   - Examples of editions include Enterprise LTSC and IoT Enterprise LTSC.
+   - Maximum support on the same build is usually [5 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-ltsc-2024) for LTSC and [10 years](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise-ltsc-2024) for IoT LTSC.
+   - This is not the main servicing channel, and other software and games usually don't follow this channel's lifecycle. For example, browsers and games might not provide support for 10 years on the same build.
    - It lacks most of the Store (UWP) apps.
 
 ---
 
 **Reasons to use LTSC:**
 
-- You don't like annual Windows feature upgrades.
-- You don't like preinstalled Store (UWP) apps as well.
+- You dislike annual Windows feature upgrades.
+- You prefer not to have preinstalled Store (UWP) apps.
 - You want longer update support for Windows 10.
 
 **Reasons to avoid using LTSC:**  
 
-- As stated above, many games and software might not support LTSC once that same build has reached the end of life in GAC.
-- Games might not work out of the box and you will manually need to install store and Xbox apps.
-- New hardware might not be fully supported by a 2-3 year-old LTSC build (A new version of LTSC is released every 3 years).
-- You might miss new features added in GAC that aren't available in LTSC.
+- Games and software might drop support for LTSC once that same build has reached its end of life in the GAC channel.
+- Some games may require the Microsoft Store and Xbox apps, which you'll need to install manually.
+- New hardware might not be fully supported by a 2-3 year-old LTSC build (a new version of LTSC is released every 3 years).
+- You might miss new features added to GAC that aren't available in LTSC.
 
 ---
 
-**Common misconceptions**
+**Common misconceptions:**
 - LTSC is fast.  
-  It's not fast, although there might be a bit more RAM available because of no store apps running in the background, and you can achieve the same result in GAC channel editions by [turning off](https://www.elevenforum.com/t/enable-or-disable-background-apps-in-windows-11.923/) background apps and startup apps.
+  LTSC is not much faster. There might be slightly less RAM usage because there are no Store apps running in the background, but you can achieve the same result in GAC editions by [turning off](https://www.elevenforum.com/t/enable-or-disable-background-apps-in-windows-11.923/) background apps and startup apps.
   
-- It's more privacy-oriented.  
-  No, [telemetry options](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) are the same as GAC Enterprise.
+- **It's more privacy-oriented.**  
+  No, the [telemetry options](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) are the exact same as in GAC Enterprise.
   
-- IoT LTSC 2021 is the only way to receive security updates for Windows 10 after October 2025.  
-  No, You can [activate ESU](windows10_eol.md) in Windows 10 as well.
+- **IoT LTSC 2021 is the only way to receive security updates for Windows 10 after October 2025.**  
+  No, you can [activate ESU](windows10_eol.md) on Windows 10 as well.
 </details>
 
-#### Microsoft store app installation on LTSC
+#### Microsoft Store App Installation on LTSC
 
 <details>
 <summary>Click here for info</summary>
 
-Applicable on Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
+Applicable to Windows 11 LTSC 2024 and Windows 10 LTSC 2021.
 
 **Microsoft Store**
 
-LTSC editions do not come with store apps pre-installed. To install them, follow the steps below.
+LTSC editions do not come with Store apps preinstalled. To install them, follow the steps below:
 
-- Make sure the Internet is connected.
+- Make sure you are connected to the internet.
 - Open PowerShell as administrator and enter:  
 `wsreset -i`  
-- Wait for a notification to appear that the store app is installed, it may take a few minutes.
+- Wait for a notification to appear indicating that the Store app has been installed; this may take a few minutes.
 
-On Windows 10 2021 LTSC, you might encounter an error indicating that cliprenew.exe cannot be found. This error can be safely ignored.
+On Windows 10 LTSC 2021, you might encounter an error indicating that `cliprenew.exe` cannot be found. This error can be safely ignored.
 
 **App Installer**
 
-This app is very useful; it includes WinGet, enabling easy installation of .appx packages. After installing the Store app, install the App installer from this URL.
+This app is very useful; it includes WinGet, enabling the easy installation of `.appx` packages. After installing the Store app, download and install the App Installer from this URL:
 
 https://apps.microsoft.com/detail/9nblggh4nns1
 
 **It didn't work. What should I do next?**
 
-You can install them using the package provided by abbodi1406.  
+You can install them using the package provided by abbodi1406:  
 https://github.com/stdin82/htfx/releases/tag/v0.0.24
 
 </details>
@@ -110,17 +110,17 @@ import TabItem from '@theme/TabItem';
 
 | Features                               | Enterprise LTSC | IoT Enterprise LTSC / IoT Enterprise Subscription LTSC                                                                                                                                                                                    |
 |:---------------------------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **TPM / Secure Boot / UEFI / 4GB RAM** | All Required    | [Not Required](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) 🎉 <br /> Also not required by [IoT Enterprise 24H2 (Non-LTSC)](windows_11_links.md) |
-| **Update Support**                     | [5 Years (till 2029)](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-ltsc-2024)         | [10 Years (till 2034)](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise-ltsc-2024)                                                                                                                                                                                                                                  |
+| **TPM / Secure Boot / UEFI / 4 GB RAM**| All required    | [Not required](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/Hardware/System_Requirements?tabs=Windows11LTSC#optional-minimum-requirements) 🎉 <br /> Also not required by [IoT Enterprise 24H2 (Non-LTSC)](windows_11_links.md) |
+| **Update Support**                     | [5 years (until 2029)](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-enterprise-ltsc-2024)         | [10 years (until 2034)](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-iot-enterprise-ltsc-2024)                                                                                                                                                                                                                                  |
 | **Digital License (HWID)**             | Not supported   | Supported                                                                                                                                                                                                                                 |
 | **Automatic Device Encryption**        | Enabled         | Disabled                                                                                                                                                                                                                                  |
 | **Reserved Storage Feature**           | Enabled         | Disabled                                                                                                                                                                                                                                  |
 | **2 Simultaneous RDP Sessions**        | No              | Yes                                                                                                                                                                                                                                       |
 
 
-- IoT Enterprise LTSC is a winner.
+- IoT Enterprise LTSC is the better option.
 - The only difference between IoT Enterprise LTSC and IoT Enterprise Subscription LTSC is that the subscription edition supports a subscription license.
-- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key on the activation page in the Windows settings.
+- You can switch between these editions (IoT and Non-IoT Windows Enterprise LTSC) simply by entering the corresponding edition key on the Activation page in Windows Settings.
 
 |                          |                |                               |
 |--------------------------|----------------|-------------------------------|
@@ -134,15 +134,15 @@ import TabItem from '@theme/TabItem';
 
 | Features                     | Enterprise LTSC                                                                                       | IoT Enterprise LTSC                                                                                        |
 |:-----------------------------|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
-| **Update Support**           | [5 Years (till 2027)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021) | [10 Years (till 2032)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) |
+| **Update Support**           | [5 years (until 2027)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-enterprise-ltsc-2021) | [10 years (until 2032)](https://learn.microsoft.com/en-us/lifecycle/products/windows-10-iot-enterprise-ltsc-2021) |
 | **Digital License (HWID)**   | Not supported                                                                                         | Supported                                                                                                  |
 | **Reserved Storage Feature** | Enabled                                                                                               | Disabled                                                                                                   |
-| **KMS License**              | Supported                                                                                             | Support added after the update 19044.2788                                                                  |
+| **KMS License**              | Supported                                                                                             | Support added after update 19044.2788                                                                  |
 | **$OEM$ Folder Support**     | Yes                                                                                                   | No [(More Info)](oem-folder.md)                                                                            |
 
 
-- IoT Enterprise LTSC is a winner.
-- You can change the editions to each other (IoT and Non-IoT Windows Enterprise LTSC) only by inserting the corresponding edition key on the activation page in the Windows settings.
+- IoT Enterprise LTSC is the better option.
+- You can switch between these editions (IoT and Non-IoT Windows Enterprise LTSC) simply by entering the corresponding edition key on the Activation page in Windows Settings.
 
 |                          |                |                               |
 |--------------------------|----------------|-------------------------------|
@@ -155,50 +155,50 @@ import TabItem from '@theme/TabItem';
 <TabItem value="Old Versions" label="Old Versions" default>
 
 
-- There are ISOs available for IoT Enterprise LTSC/LTSB 2019, 2016, and 2015, but they only have the Non-IoT LTSC OEM key (generic, not-activated) preinstalled. The installed key is the only difference. There is no real, different IoT edition available for these versions.
+- There are ISOs available for IoT Enterprise LTSC/LTSB 2019, 2016, and 2015, but they only have the Non-IoT LTSC OEM key (generic, not activated) preinstalled. The installed key is the only difference; there is no distinct IoT edition available for these older versions.
 
 </TabItem>
 </Tabs>
 
 </details>
 
-#### How to upgrade from non-LTSC to LTSC edition while keeping files and apps?
+#### How to upgrade from a non-LTSC to an LTSC edition while keeping files and apps?
 
 <details>
 <summary>Click here for info</summary>
 
-You might want to check [Windows 10 EOL guide](windows10_eol.md).
+You might want to check the [Windows 10 EOL guide](windows10_eol.md).
 
 </details>
 
-#### How to clean install Windows 11 IoT Enterprise LTSC 2024 in Non-English language?
+#### How to clean install Windows 11 IoT Enterprise LTSC 2024 in a non-English language?
 
 <details>
 <summary>Click here for info</summary>
 
-IoT LTSC edition ISOs are only available in English. However, you can follow the below steps to clean install it.
+IoT LTSC edition ISOs are only available in English. However, you can follow the steps below to perform a clean installation:
 
-- Download the non-IoT LTSC 2024 ISO in the desired language from the section below.
-- Follow [PID.txt method](clean_install_windows#windows-11-on-unsupported-hardware) to install IoT version from scratch.
+- Download the non-IoT LTSC 2024 ISO in your desired language from the section below.
+- Follow the [PID.txt method](clean_install_windows#windows-11-on-unsupported-hardware) to install the IoT version from scratch.
 
-Alternatively, You can install Non-IoT LTSC in another language and later install IoT LTSC 2024 key `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` in activation page in Windows settings to change the edition.
+Alternatively, you can install the non-IoT LTSC edition in another language and later enter the IoT LTSC 2024 key `KBN8V-HFGQ4-MGXVD-347P6-PDQGT` on the Activation page in Windows Settings to change the edition.
 
 </details>
 
-#### How to clean install Windows 10 IoT Enterprise LTSC 2021 in Non-English language?
+#### How to clean install Windows 10 IoT Enterprise LTSC 2021 in a non-English Language?
 
 <details>
 <summary>Click here for info</summary>
 
 IoT LTSC edition ISOs are only available in English.
 
-When installing Windows 11 IoT Enterprise LTSC 2024 from scratch, one advantage is its relaxed hardware requirements. However, there isn't much benefit to doing the same with the 2021 IoT version, since you can easily change the Windows edition later. Additionally, the PID.txt method for installing the virtual edition from scratch is only applicable to Windows 11 24H2 and later versions. While there are other methods to install from scratch, they are more complex, and the results do not justify the effort.
+When installing Windows 11 IoT Enterprise LTSC 2024 from scratch, one advantage is its relaxed hardware requirements. However, there isn't much benefit to doing the same with the 2021 IoT version, since you can easily change the Windows edition later. Additionally, the PID.txt method for installing the virtual edition from scratch is only applicable to Windows 11 24H2 and later. While there are other methods to install from scratch, they are more complex, and the results do not justify the effort.
 
 Our recommendation is as follows:
 
-- Download the non-IoT LTSC 2021 ISO in the desired language from the section below.
+- Download the non-IoT LTSC 2021 ISO in your desired language from the section below.
 - Install Windows using this [clean installation guide](clean_install_windows).
-- After installing Windows, to change the edition, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the activation page in the Windows settings.
+- After installing Windows, enter the IoT LTSC 2021 key `QPM6N-7J2WJ-P88HH-P3YRH-YY74H` on the Activation page in Windows Settings to change the edition.
 
 </details>
 
