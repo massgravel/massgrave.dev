@@ -104,9 +104,10 @@ This activation method can activate the following products.
     - **Windows Server 2008** (ServerDatacenter, ServerStandard, ServerEnterprise and their V/Core/VCore variants)
     - **Windows Server 2008 R2** (ServerDatacenter, ServerStandard, ServerEnterprise and their V/Core/VCore variants)
     - **Windows Server 2012** (ServerDatacenter, ServerStandard and their Core variants)
-	- **Windows 8.1** (Enterprise, Professional, EmbeddedIndustry and their E/N variants)
+	  - **Windows 8.1** (Enterprise, Professional, EmbeddedIndustry and their E/N variants)
     - **Windows Server 2012 R2** (ServerDatacenter, ServerStandard and their Core variants)
     - **Windows 10** (Core, CoreCountrySpecific, CoreSingleLanguage, Education, Enterprise, IoTEnterprise, Professional, ProfessionalEducation, ProfessionalWorkstation, ServerRdsh, PPIPro and their N variants)
+    - **Windows Server 2016** (ServerDatacenter, ServerStandard and their Core variants)
   - **8/8.1 APPXLOB**
 	- Client
 	- Embedded Industry
