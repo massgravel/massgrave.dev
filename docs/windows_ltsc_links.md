@@ -54,7 +54,7 @@ Microsoft releases Windows 10 and 11 through two servicing channels:
 ---
 
 **Common misconceptions:**
-- LTSC is fast.  
+- **LTSC is fast.**  
   LTSC is not much faster. There might be slightly less RAM usage because there are no Store apps running in the background, but you can achieve the same result in GAC editions by [turning off](https://www.elevenforum.com/t/enable-or-disable-background-apps-in-windows-11.923/) background apps and startup apps.
   
 - **It's more privacy-oriented.**  
