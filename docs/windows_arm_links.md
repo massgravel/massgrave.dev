@@ -188,7 +188,7 @@ The ARM64 version of LTSC is only available in English.
 
 **Windows 11 Consumer 26H1**  
 
-Build - 28000.1450 (Feb 2026) - Latest
+Build - 28000.1719 (Mar 2026) - Latest
 
 :::warning
 
@@ -202,51 +202,51 @@ For more information, please see Microsoft's [official announcement](https://tec
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                 | ARM64  | [ar-sa_windows_11_consumer_editions_version_26h1_arm64_dvd_06769520.iso](https://buzzheavier.com/78eddnkjgrah)|
-| Bulgarian              | ARM64  | [bg-bg_windows_11_consumer_editions_version_26h1_arm64_dvd_16796017.iso](https://buzzheavier.com/kdvrbpkosr3j)|
-| Czech                  | ARM64  | [cs-cz_windows_11_consumer_editions_version_26h1_arm64_dvd_81fb41cc.iso](https://buzzheavier.com/14yjtkthphh9)|
-| Danish                 | ARM64  | [da-dk_windows_11_consumer_editions_version_26h1_arm64_dvd_26d67ed2.iso](https://buzzheavier.com/duityqr0ki4i)|
-| German                 | ARM64  | [de-de_windows_11_consumer_editions_version_26h1_arm64_dvd_86bba15f.iso](https://buzzheavier.com/m0rjcmt63lwn)|
-| Greek                  | ARM64  | [el-gr_windows_11_consumer_editions_version_26h1_arm64_dvd_1c0194a6.iso](https://buzzheavier.com/ey883mhc5sq9)|
-| English-United Kingdom | ARM64  | [en-gb_windows_11_consumer_editions_version_26h1_arm64_dvd_98335368.iso](https://buzzheavier.com/fidoiwuj884i)|
-| English                | ARM64  | [en-us_windows_11_consumer_editions_version_26h1_arm64_dvd_75375ff3.iso](https://buzzheavier.com/yg4mpz7la2rp)|
-| Spanish                | ARM64  | [es-es_windows_11_consumer_editions_version_26h1_arm64_dvd_10a63796.iso](https://buzzheavier.com/lt3oh4zoggi2)|
-| Spanish-Mexico         | ARM64  | [es-mx_windows_11_consumer_editions_version_26h1_arm64_dvd_54d05e9b.iso](https://buzzheavier.com/wu56pxw7a6cg)|
-| Estonian               | ARM64  | [et-ee_windows_11_consumer_editions_version_26h1_arm64_dvd_d26b3c7a.iso](https://buzzheavier.com/3sd8l7hu2ji4)|
-| Finnish                | ARM64  | [fi-fi_windows_11_consumer_editions_version_26h1_arm64_dvd_41354c76.iso](https://buzzheavier.com/44ol497v6kqe)|
-| French-Canada          | ARM64  | [fr-ca_windows_11_consumer_editions_version_26h1_arm64_dvd_3122f2e0.iso](https://buzzheavier.com/692hpal6uxi2)|
-| French                 | ARM64  | [fr-fr_windows_11_consumer_editions_version_26h1_arm64_dvd_f083df6f.iso](https://buzzheavier.com/1zk6gno5q4rj)|
-| Hebrew                 | ARM64  | [he-il_windows_11_consumer_editions_version_26h1_arm64_dvd_561cfa99.iso](https://buzzheavier.com/9ykdff2v1jo3)|
-| Croatian               | ARM64  | [hr-hr_windows_11_consumer_editions_version_26h1_arm64_dvd_31ec177c.iso](https://buzzheavier.com/bxh7dyxj41vb)|
-| Hungarian              | ARM64  | [hu-hu_windows_11_consumer_editions_version_26h1_arm64_dvd_bf566b90.iso](https://buzzheavier.com/wche087cclif)|
-| Italian                | ARM64  | [it-it_windows_11_consumer_editions_version_26h1_arm64_dvd_f0d89f3b.iso](https://buzzheavier.com/mqdnqljxb0sn)|
-| Japanese               | ARM64  | [ja-jp_windows_11_consumer_editions_version_26h1_arm64_dvd_6bba5050.iso](https://buzzheavier.com/3n74wkhzojwz)|
-| Korean                 | ARM64  | [ko-kr_windows_11_consumer_editions_version_26h1_arm64_dvd_a7a15fe8.iso](https://buzzheavier.com/xepsljv6w70t)|
-| Lithuanian             | ARM64  | [lt-lt_windows_11_consumer_editions_version_26h1_arm64_dvd_7625fdd7.iso](https://buzzheavier.com/qfcdo2grgob7)|
-| Latvian                | ARM64  | [lv-lv_windows_11_consumer_editions_version_26h1_arm64_dvd_d58868dc.iso](https://buzzheavier.com/w8wk83xjw4pz)|
-| Norwegian-Bokmal       | ARM64  | [nb-no_windows_11_consumer_editions_version_26h1_arm64_dvd_90d886e5.iso](https://buzzheavier.com/qh4o1g2jisq0)|
-| Dutch-Netherlands      | ARM64  | [nl-nl_windows_11_consumer_editions_version_26h1_arm64_dvd_a3e107cc.iso](https://buzzheavier.com/jzmw6vevyycs)|
-| Polish                 | ARM64  | [pl-pl_windows_11_consumer_editions_version_26h1_arm64_dvd_2c69347f.iso](https://buzzheavier.com/7k3agg6u10wz)|
-| Portuguese-Brazil      | ARM64  | [pt-br_windows_11_consumer_editions_version_26h1_arm64_dvd_013cc8d1.iso](https://buzzheavier.com/zza7p1c2hn2m)|
-| Portuguese-Portugal    | ARM64  | [pt-pt_windows_11_consumer_editions_version_26h1_arm64_dvd_100f1d83.iso](https://buzzheavier.com/dsdkusntoqgi)|
-| Romanian               | ARM64  | [ro-ro_windows_11_consumer_editions_version_26h1_arm64_dvd_c08b2b81.iso](https://buzzheavier.com/0rv7nj7bsv7d)|
-| Russian                | ARM64  | [ru-ru_windows_11_consumer_editions_version_26h1_arm64_dvd_31c16628.iso](https://buzzheavier.com/s27cl7qw0ps0)|
-| Slovak                 | ARM64  | [sk-sk_windows_11_consumer_editions_version_26h1_arm64_dvd_5cd80d0c.iso](https://buzzheavier.com/qgh4gm9v70td)|
-| Slovenian              | ARM64  | [sl-si_windows_11_consumer_editions_version_26h1_arm64_dvd_1a9dc16e.iso](https://buzzheavier.com/dk5tldtr7l41)|
-| Serbian-Latin          | ARM64  | [sr-latn-rs_windows_11_consumer_editions_version_26h1_arm64_dvd_5f3526c5.iso](https://buzzheavier.com/ein20ab3b1pu)|
-| Swedish                | ARM64  | [sv-se_windows_11_consumer_editions_version_26h1_arm64_dvd_45daceb9.iso](https://buzzheavier.com/ihcyobjcin8j)|
-| Thai                   | ARM64  | [th-th_windows_11_consumer_editions_version_26h1_arm64_dvd_6818b7ac.iso](https://buzzheavier.com/u5lr4mk8n1j1)|
-| Turkish                | ARM64  | [tr-tr_windows_11_consumer_editions_version_26h1_arm64_dvd_6af6cd20.iso](https://buzzheavier.com/ot1skesqxaa2)| 
-| Ukranian               | ARM64  | [uk-ua_windows_11_consumer_editions_version_26h1_arm64_dvd_35844a63.iso](https://buzzheavier.com/ol3cbcks31jx)|
-| Chinese-Simplified     | ARM64  | [zh-cn_windows_11_consumer_editions_version_26h1_arm64_dvd_900d64ce.iso](https://buzzheavier.com/a80m5eb6dlf4)|
-| Chinese-Traditional    | ARM64  | [zh-tw_windows_11_consumer_editions_version_26h1_arm64_dvd_312a48a9.iso](https://buzzheavier.com/wj837etx4ib6)|
+| Arabic                 | ARM64  | [ar-sa_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/2tzkjkow5poq)|
+| Bulgarian              | ARM64  | [bg-bg_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/vw8dmho9nq51)|
+| Czech                  | ARM64  | [cs-cz_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/b2xblab7p5en)|
+| Danish                 | ARM64  | [da-dk_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/310a7hdh2hkc)|
+| German                 | ARM64  | [de-de_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/yxgum6bs2e0a)|
+| Greek                  | ARM64  | [el-gr_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/3vhuje20eho9)|
+| English-United Kingdom | ARM64  | [en-gb_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/29o0p7o1desd)|
+| English                | ARM64  | [en-us_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/4g6e9kvr7alo)|
+| Spanish                | ARM64  | [es-es_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/j7c5hlp78nzb)|
+| Spanish-Mexico         | ARM64  | [es-mx_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/2b6r6mk3f0nx)|
+| Estonian               | ARM64  | [et-ee_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/aafyrifug02d)|
+| Finnish                | ARM64  | [fi-fi_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/4jefc0ryuvl3)|
+| French-Canada          | ARM64  | [fr-ca_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/kw1olsdxodqp)|
+| French                 | ARM64  | [fr-fr_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/1o43c7wev9hc)|
+| Hebrew                 | ARM64  | [he-il_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/mkcaq31knfhb)|
+| Croatian               | ARM64  | [hr-hr_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/k4w3keclao9n)|
+| Hungarian              | ARM64  | [hu-hu_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/qadrocag4mx2)|
+| Italian                | ARM64  | [it-it_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/s58b23f8lb4l)|
+| Japanese               | ARM64  | [ja-jp_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/klewyv8d0qgr)|
+| Korean                 | ARM64  | [ko-kr_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/d7vzsts2oexs)|
+| Lithuanian             | ARM64  | [lt-lt_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/4wg9k2qvd32x)|
+| Latvian                | ARM64  | [lv-lv_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/duboqf5nzvw5)|
+| Norwegian-Bokmal       | ARM64  | [nb-no_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/po87noodxf8v)|
+| Dutch-Netherlands      | ARM64  | [nl-nl_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/kgv7mktk8jlf)|
+| Polish                 | ARM64  | [pl-pl_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/91k3uvvepnlg)|
+| Portuguese-Brazil      | ARM64  | [pt-br_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/ptqdg3mqwnjc)|
+| Portuguese-Portugal    | ARM64  | [pt-pt_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/wyclr1g1ur3n)|
+| Romanian               | ARM64  | [ro-ro_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/wsfeqiqns2eu)|
+| Russian                | ARM64  | [ru-ru_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/f4di1clqwf9a)|
+| Slovak                 | ARM64  | [sk-sk_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/c0nmehl96fcn)|
+| Slovenian              | ARM64  | [sl-si_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/dzs1bnte14je)|
+| Serbian-Latin          | ARM64  | [sr-latn-rs_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/yz03o6bdqpfz)|
+| Swedish                | ARM64  | [sv-se_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/vww9cxh47udx)|
+| Thai                   | ARM64  | [th-th_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/j471k6kfnzrv)|
+| Turkish                | ARM64  | [tr-tr_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/ctfu90p97usd)| 
+| Ukranian               | ARM64  | [uk-ua_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/f30n7kgj68p3)|
+| Chinese-Simplified     | ARM64  | [zh-cn_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/5p1otlbra0cs)|
+| Chinese-Traditional    | ARM64  | [zh-tw_windows_11_consumer_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/obd9hdtc5z0n)|
 
 </TabItem>
 <TabItem value="Windows 11 Business 26H1" label="Windows 11 Business 26H1" default>
 
 **Windows 11 Business 26H1**  
 
-Build - 28000.1450 (Feb 2026) - Latest
+Build - 28000.1719 (Mar 2026) - Latest
 
 :::warning
 
@@ -260,44 +260,44 @@ For more information, please see Microsoft's [official announcement](https://tec
 
 | Language               | Arch | Link                                                                                                                                                                                                                 |
 |:-----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                 | ARM64  | [ar-sa_windows_11_business_editions_version_26h1_arm64_dvd_c4b69d4d.iso](https://buzzheavier.com/emec9bof21qa)|
-| Bulgarian              | ARM64  | [bg-bg_windows_11_business_editions_version_26h1_arm64_dvd_f001bd87.iso](https://buzzheavier.com/smzatvu6bhbe)|
-| Czech                  | ARM64  | [cs-cz_windows_11_business_editions_version_26h1_arm64_dvd_3ccc431c.iso](https://buzzheavier.com/q4l15udnslm3)|
-| Danish                 | ARM64  | [da-dk_windows_11_business_editions_version_26h1_arm64_dvd_d5833a4b.iso](https://buzzheavier.com/oqv9b1wlshcl)|
-| German                 | ARM64  | [de-de_windows_11_business_editions_version_26h1_arm64_dvd_ee927406.iso](https://buzzheavier.com/sxzp8ypu7jz1)|
-| Greek                  | ARM64  | [el-gr_windows_11_business_editions_version_26h1_arm64_dvd_000add9a.iso](https://buzzheavier.com/ietf84vw525v)|
-| English-United Kingdom | ARM64  | [en-gb_windows_11_business_editions_version_26h1_arm64_dvd_9d2c742f.iso](https://buzzheavier.com/z2lxf2fbspej)|
-| English                | ARM64  | [en-us_windows_11_business_editions_version_26h1_arm64_dvd_e4e55671.iso](https://buzzheavier.com/73m224i1k8nq)|
-| Spanish                | ARM64  | [es-es_windows_11_business_editions_version_26h1_arm64_dvd_1d84d69f.iso](https://buzzheavier.com/v42cxz4i25a7)|
-| Spanish-Mexico         | ARM64  | [es-mx_windows_11_business_editions_version_26h1_arm64_dvd_63843ae5.iso](https://buzzheavier.com/4sh00a4gmuq9)|
-| Estonian               | ARM64  | [et-ee_windows_11_business_editions_version_26h1_arm64_dvd_684ba4a9.iso](https://buzzheavier.com/3c88j8ouayjp)|
-| Finnish                | ARM64  | [fi-fi_windows_11_business_editions_version_26h1_arm64_dvd_0135e203.iso](https://buzzheavier.com/wxukh33wab56)|
-| French-Canada          | ARM64  | [fr-ca_windows_11_business_editions_version_26h1_arm64_dvd_9cc0b23a.iso](https://buzzheavier.com/twppzg7msne3)|
-| French                 | ARM64  | [fr-fr_windows_11_business_editions_version_26h1_arm64_dvd_9abe952b.iso](https://buzzheavier.com/ow6vtu96dis8)|
-| Hebrew                 | ARM64  | [he-il_windows_11_business_editions_version_26h1_arm64_dvd_71de45e4.iso](https://buzzheavier.com/nklqe98q9wmy)|
-| Croatian               | ARM64  | [hr-hr_windows_11_business_editions_version_26h1_arm64_dvd_bc65e059.iso](https://buzzheavier.com/1q1ffp8pu3b2)|
-| Hungarian              | ARM64  | [hu-hu_windows_11_business_editions_version_26h1_arm64_dvd_9abeb133.iso](https://buzzheavier.com/64wv91kaizjr)|
-| Italian                | ARM64  | [it-it_windows_11_business_editions_version_26h1_arm64_dvd_6eb5fe21.iso](https://buzzheavier.com/tpkzc4l87btf)|
-| Japanese               | ARM64  | [ja-jp_windows_11_business_editions_version_26h1_arm64_dvd_45015475.iso](https://buzzheavier.com/vp2bqhgpkmbc)|
-| Korean                 | ARM64  | [ko-kr_windows_11_business_editions_version_26h1_arm64_dvd_b0132efb.iso](https://buzzheavier.com/vakpyvcqfjm5)|
-| Lithuanian             | ARM64  | [lt-lt_windows_11_business_editions_version_26h1_arm64_dvd_2bec3cb9.iso](https://buzzheavier.com/w4znwipcp3xk)|
-| Latvian                | ARM64  | [lv-lv_windows_11_business_editions_version_26h1_arm64_dvd_082c8a3c.iso](https://buzzheavier.com/4zexac287qlu)|
-| Norwegian-Bokmal       | ARM64  | [nb-no_windows_11_business_editions_version_26h1_arm64_dvd_06412571.iso](https://buzzheavier.com/5gckg1qw6cj8)|
-| Dutch-Netherlands      | ARM64  | [nl-nl_windows_11_business_editions_version_26h1_arm64_dvd_f9c5d00d.iso](https://buzzheavier.com/ord490rad80r)|
-| Polish                 | ARM64  | [pl-pl_windows_11_business_editions_version_26h1_arm64_dvd_a21b9d40.iso](https://buzzheavier.com/kh6jiy3c0tsj)|
-| Portuguese-Brazil      | ARM64  | [pt-br_windows_11_business_editions_version_26h1_arm64_dvd_24ccb06c.iso](https://buzzheavier.com/bl70s44uyd4y)|
-| Portuguese-Portugal    | ARM64  | [pt-pt_windows_11_business_editions_version_26h1_arm64_dvd_7d280001.iso](https://buzzheavier.com/o0w1rbspe0pg)|
-| Romanian               | ARM64  | [ro-ro_windows_11_business_editions_version_26h1_arm64_dvd_38d6b558.iso](https://buzzheavier.com/vlvostxrztf5)|
-| Russian                | ARM64  | [ru-ru_windows_11_business_editions_version_26h1_arm64_dvd_96451e61.iso](https://buzzheavier.com/r1lng24wu3d5)|
-| Slovak                 | ARM64  | [sk-sk_windows_11_business_editions_version_26h1_arm64_dvd_bc4650d9.iso](https://buzzheavier.com/fyc47l7nvera)|
-| Slovenian              | ARM64  | [sl-si_windows_11_business_editions_version_26h1_arm64_dvd_5edeea01.iso](https://buzzheavier.com/xs5yfrb2q4g2)|
-| Serbian-Latin          | ARM64  | [sr-latn-rs_windows_11_business_editions_version_26h1_arm64_dvd_9fc95b87.iso](https://buzzheavier.com/5fpd8iqsbob7)|
-| Swedish                | ARM64  | [sv-se_windows_11_business_editions_version_26h1_arm64_dvd_8e26f79e.iso](https://buzzheavier.com/p8e3zrykkulg)|
-| Thai                   | ARM64  | [th-th_windows_11_business_editions_version_26h1_arm64_dvd_a5bdde69.iso](https://buzzheavier.com/4qsj3f7h4jqg)|
-| Turkish                | ARM64  | [tr-tr_windows_11_business_editions_version_26h1_arm64_dvd_a96f7580.iso](https://buzzheavier.com/es7yc6axerlk)| 
-| Ukranian               | ARM64  | [uk-ua_windows_11_business_editions_version_26h1_arm64_dvd_20adb328.iso](https://buzzheavier.com/xail3pj66kcf)|
-| Chinese-Simplified     | ARM64  | [zh-cn_windows_11_business_editions_version_26h1_arm64_dvd_06885171.iso](https://buzzheavier.com/u6zzefqgfgiq)|
-| Chinese-Traditional    | ARM64  | [zh-tw_windows_11_business_editions_version_26h1_arm64_dvd_70e0c828.iso](https://buzzheavier.com/il7ys4o90zhl)|
+| Arabic                 | ARM64  | [ar-sa_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/hsol35gnji7x)|
+| Bulgarian              | ARM64  | [bg-bg_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/rokid2u0g5ac)|
+| Czech                  | ARM64  | [cs-cz_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/niqf5xvinehx)|
+| Danish                 | ARM64  | [da-dk_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/am8spnt9d6ys)|
+| German                 | ARM64  | [de-de_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/789o5bi0vk4r)|
+| Greek                  | ARM64  | [el-gr_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/ugl7jt9eoqgc)|
+| English-United Kingdom | ARM64  | [en-gb_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/or6g6trk90sb)|
+| English                | ARM64  | [en-us_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/n83547eefgr1)|
+| Spanish                | ARM64  | [es-es_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/w26p3fq3u665)|
+| Spanish-Mexico         | ARM64  | [es-mx_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/hk14ogvnje48)|
+| Estonian               | ARM64  | [et-ee_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/cj7oraaiti0l)|
+| Finnish                | ARM64  | [fi-fi_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/17unb0kbjssd)|
+| French-Canada          | ARM64  | [fr-ca_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/gjyzhb27frkm)|
+| French                 | ARM64  | [fr-fr_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/gtmag9akvgea)|
+| Hebrew                 | ARM64  | [he-il_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/mnhh3g8l0li2)|
+| Croatian               | ARM64  | [hr-hr_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/uttbjon5a7qj)|
+| Hungarian              | ARM64  | [hu-hu_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/31sy8vp4r00u)|
+| Italian                | ARM64  | [it-it_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/ilq3ngwvsq5m)|
+| Japanese               | ARM64  | [ja-jp_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/96opkutv3hb0)|
+| Korean                 | ARM64  | [ko-kr_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/qm4hyebt6pw6)|
+| Lithuanian             | ARM64  | [lt-lt_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/ydmj2yg2toa5)|
+| Latvian                | ARM64  | [lv-lv_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/lbmee9t3wup5)|
+| Norwegian-Bokmal       | ARM64  | [nb-no_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/d8gsxrgcvpy0)|
+| Dutch-Netherlands      | ARM64  | [nl-nl_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/0m4gf3tt6uck)|
+| Polish                 | ARM64  | [pl-pl_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/7x15yz5bxdhy)|
+| Portuguese-Brazil      | ARM64  | [pt-br_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/259wx8wx29q2)|
+| Portuguese-Portugal    | ARM64  | [pt-pt_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/bopcs8ld172q)|
+| Romanian               | ARM64  | [ro-ro_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/l7765azniux4)|
+| Russian                | ARM64  | [ru-ru_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/bws96f8dnl6g)|
+| Slovak                 | ARM64  | [sk-sk_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/bessxui6xc4y)|
+| Slovenian              | ARM64  | [sl-si_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/o23sh7o04i5i)|
+| Serbian-Latin          | ARM64  | [sr-latn-rs_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/34ymh9nmm357)|
+| Swedish                | ARM64  | [sv-se_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/ct9jzb0k62r5)|
+| Thai                   | ARM64  | [th-th_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/yck84txj5zkx)|
+| Turkish                | ARM64  | [tr-tr_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/099m4qtx320t)| 
+| Ukranian               | ARM64  | [uk-ua_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/87dqqf2pdj0v)|
+| Chinese-Simplified     | ARM64  | [zh-cn_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_d6bda57b.iso](https://buzzheavier.com/t4m6ynw55hfy)|
+| Chinese-Traditional    | ARM64  | [zh-tw_windows_11_business_editions_version_26h1_updated_march_2026_arm64_dvd_f163b1c8.iso](https://buzzheavier.com/hlpvcob6v7rn)|
 
 </TabItem>
 
