@@ -12,7 +12,7 @@ image: /img/blog_card.png
 
 A recent Windows update killed our new activation exploit, [TSforge](https://massgrave.dev/tsforge)... or so we thought. I will break down what went wrong, how we worked around the problem, and in the process, make a point about the apparent decline in Microsoft's code quality control.
 
-<!-- truncate -->
+{/* truncate */}
 
 When we released [TSforge](https://massgrave.dev/tsforge) back in February, it served as an entrypoint for [multiple activation methods](https://massgrave.dev/tsforge#zerocid--kms4k--avma4k). Many [news](https://www.techspot.com/news/106819-hacker-group-releases-updated-tool-activate-almost-all.html) [websites](https://www.androidauthority.com/mas-activate-windows-office-v3-tsforge-3527610/) wrote articles about it on release, giving it a ton of publicity.
 

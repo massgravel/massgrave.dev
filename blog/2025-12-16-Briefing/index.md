@@ -11,7 +11,7 @@ image: /img/blog_card.png
 
 We are constantly looking for ways to improve the reliability, usability, and efficiency of the script, as per our goal of creating the best Windows activator out there. As such, we'd like to announce some changes that we want to make sometime in the future.
 
-<!-- truncate -->
+{/* truncate */}
 
 ## Future Plans
 

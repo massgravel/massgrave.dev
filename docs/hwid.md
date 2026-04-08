@@ -130,7 +130,6 @@ This guide is for manually creating the same kind of tickets used in the MAS scr
 -   Open Windows PowerShell.
 -   Copy the entire block of code below and paste it into PowerShell to generate the `GenuineTicket.xml` file.
 
-<!-- VS Code does syntax highlighting or whatever when I add this which is cool -->
 ```powershell
 function SignProperties {
     param (

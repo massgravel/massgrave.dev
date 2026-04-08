@@ -17,7 +17,7 @@ Edited by May
 
 2025 marks nearly 20 years since the introduction of Windows' current DRM system, the Software Protection Platform (SPP). With it serving as the primary gateway to activation since [early in Windows Vista's development](https://betawiki.net/wiki/Windows_Vista_build_5212_(winmain)), many have come up with clever ways of tricking it, from [resetting grace period timers](https://www.mydigitallife.net/activate-64-bit-windows-vista-ultimate-and-x64-with-timerstop-v2a-crack-plus-2099-trick/) to [emulating KMS servers](https://forums.mydigitallife.net/threads/kmsemulator-kms-client-and-server-emulation-source.41010/) to [hooking bootloaders](https://forums.mydigitallife.net/threads/windows-loader-download.58464/). While all of these systems abuse various activation methods, there has never been an exploit that directly attacked SPP itself... until now.
 
-<!-- truncate -->
+{/* truncate */}
 
 In this blogpost, we introduce [TSforge](https://github.com/massgravel/TSforge), one of our most powerful activation exploits ever. Capable of activating every edition of every version of Windows since Windows 7, as well as every Windows addon and Office version since Office 2013, TSforge is both the most complex and most wide-reaching exploit we've implemented in MAS to date, rivaled only by our ill-fated [Keyhole](https://massgrave.dev/blog/keyhole) exploit. Aside from discussing how TSforge works, I'll also be discussing the wild path we took to discover and understand it, as well as some of the fun things we did with it along the way.
 

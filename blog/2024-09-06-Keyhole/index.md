@@ -19,7 +19,7 @@ In our ongoing work to bypass Windows licensing checks, we occasionally stumble 
 
 One such discovery, which we've named "Keyhole", turned out to be a highly effective DRM bypass. It gave users the ability to license any Microsoft Store app or any modern Windows edition with ease.
 
-<!-- truncate -->
+{/* truncate */}
 
 Following the disclosure of [CVE-2024-38184](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38184) by [Cisco TALOS](https://talosintelligence.com), we have decided to share our findings on Keyhole, which we independently uncovered around the same time it was reported to Microsoft.
 
