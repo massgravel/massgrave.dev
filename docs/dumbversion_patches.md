@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 * **A patch file:** The `.dvp` file you downloaded from our website.
 
 :::info
-For most patches on our site, the required base ISO is the standard **English (`en-us`)** version. The Patcher will fail if you use an incorrect base ISO.
+For most patches on our site, the required base ISO is the standard **English (`en-us`)** version. The Patcher will tell you if you use an incorrect base ISO.
 :::
 
 ## How to Apply a Patch
