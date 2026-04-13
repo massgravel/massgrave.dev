@@ -37,7 +37,12 @@ const sidebars = {
         'office_c2r_links',
         'office_c2r_custom',
         'office_msi_links',
-        'office_for_mac'
+        'office_for_mac',
+        {
+          type: 'html',
+          value: '<hr class="sidebar-hr" />',
+        },
+        'dumbversion_patches'
       ],
     },
     'faq',

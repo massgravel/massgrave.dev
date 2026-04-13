@@ -91,6 +91,15 @@ You can request the file [here](https://discord.gg/FajfGaH3nD).
 
 </details>
 
+#### How do I use DumbVersion Patch (.dvp) files?
+
+<details>
+<summary>Click here for info</summary>
+
+See [this page](dumbversion_patches.md).
+
+</details>
+
 ---
 
 ## Verify Authenticity Of Files
@@ -149,4 +158,4 @@ import ReactPlayer from 'react-player'
 
 ## Need help?
 
-See [here](contactus.md).
+Feel free to [contact us](contactus.md).
