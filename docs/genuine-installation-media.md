@@ -12,6 +12,11 @@
 -  [Windows 10](windows_10_links.md)
 -  [Windows 10 / 11 Enterprise **LTSC**](windows_ltsc_links.md)
 -  [Windows ARM64](windows_arm_links.md)
+-  [Windows 8.1](windows_8.1_links.md)
+-  [Windows 8](windows_8_links.md)
+-  [Windows 7](windows_7_links.md)
+-  [Windows Vista](windows_vista__links.md)
+-  [Windows XP](windows_xp_links.md)
 -  [Windows Server](windows-server-links.md)
 -  [Windows Embedded](windows-embedded-links.md)
 -  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
