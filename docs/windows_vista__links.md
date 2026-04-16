@@ -120,25 +120,6 @@ Where N editions are available only in English language ISOs and Starter edition
 
 </TabItem>
 
-<TabItem value="Windows Vista Business (VL) SP2" label="Windows Vista Business (VL) SP2" default>
-
-**Windows Vista Business (VL) SP2**
-
-| Language | Arch | Link                                                                                                                             |
-| :------- | :--- | :------------------------------------------------------------------------------------------------------------------------------- |
-| English  | x64  | [en_windows_vista_business_sp2_x64_dvd_342327.iso](pathname:///drive.html#en_windows_vista_business_sp2_x64_dvd_342327.iso) |
-| English  | x32  | [en_windows_vista_business_sp2_x86_dvd_342321.iso](pathname:///drive.html#en_windows_vista_business_sp2_x86_dvd_342321.iso) |
-| French   | x64  | [fr_windows_vista_business_sp2_x64_dvd_342350.iso](pathname:///drive.html#fr_windows_vista_business_sp2_x64_dvd_342350.iso) |
-| French   | x32  | [fr_windows_vista_business_sp2_x86_dvd_342343.iso](pathname:///drive.html#fr_windows_vista_business_sp2_x86_dvd_342343.iso) |
-| German   | x64  | [de_windows_vista_business_sp2_x64_dvd_342372.iso](pathname:///drive.html#de_windows_vista_business_sp2_x64_dvd_342372.iso) |
-| German   | x32  | [de_windows_vista_business_sp2_x86_dvd_342366.iso](pathname:///drive.html#de_windows_vista_business_sp2_x86_dvd_342366.iso) |
-| Japanese | x64  | [ja_windows_vista_business_sp2_x64_dvd_342390.iso](pathname:///drive.html#ja_windows_vista_business_sp2_x64_dvd_342390.iso) |
-| Japanese | x32  | [ja_windows_vista_business_sp2_x86_dvd_342388.iso](pathname:///drive.html#ja_windows_vista_business_sp2_x86_dvd_342388.iso) |
-| Spanish  | x64  | [es_windows_vista_business_sp2_x64_dvd_342412.iso](pathname:///drive.html#es_windows_vista_business_sp2_x64_dvd_342412.iso) |
-| Spanish  | x32  | [es_windows_vista_business_sp2_x86_dvd_342405.iso](pathname:///drive.html#es_windows_vista_business_sp2_x86_dvd_342405.iso) |
-
-</TabItem>
-
 <TabItem value="Windows Vista Enterprise SP2" label="Windows Vista Enterprise SP2" default>
 
 **Windows Vista Enterprise SP2**
@@ -227,25 +208,6 @@ Where N editions are available only in English language ISOs and Starter edition
 [What are Windows N, K, and KN editions, and should I use them?](genuine-installation-media.md#what-are-windows-n-k-and-kn-editions-and-should-i-use-them)
 
 <Tabs>
-<TabItem value="Windows Vista Business N (VL) SP2" label="Windows Vista Business N (VL) SP2" default>
-
-**Windows Vista Business N (VL) SP2**
-
-| Language | Arch | Link                                                                                                                                                   |
-| :------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| English  | x64  | [en_windows_vista_business_n_sp2_x64_dvd_342326.iso](pathname:///drive.html#en_windows_vista_business_n_sp2_x64_dvd_342326.iso)                   |
-| English  | x32  | [en_windows_vista_business_n_sp2_x86_dvd_342323.iso](pathname:///drive.html#en_windows_vista_business_n_sp2_x86_dvd_342323.iso)                   |
-| French   | x64  | [fr_windows_vista_business_n_sp2_x64_dvd_342349.iso](pathname:///drive.html#fr_windows_vista_business_n_sp2_x64_dvd_342349.iso)                   |
-| French   | x32  | [fr_windows_vista_business_n_sp2_x86_dvd_342346.iso](pathname:///drive.html#fr_windows_vista_business_n_sp2_x86_dvd_342346.iso)                   |
-| German   | x64  | [de_windows_vista_business_n_sp2_x64_dvd_342370.iso](pathname:///drive.html#de_windows_vista_business_n_sp2_x64_dvd_342370.iso)                   |
-| German   | x32  | [de_windows_vista_business_n_sp2_x86_dvd_342368.iso](pathname:///drive.html#de_windows_vista_business_n_sp2_x86_dvd_342368.iso)                   |
-| Korean   | x64  | [ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso](pathname:///drive.html#ko_windows_vista_business_kn_with_sp2_x64_dvd_x15-40625.iso) |
-| Korean   | x32  | [ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso](pathname:///drive.html#ko_windows_vista_business_kn_with_sp2_x86_dvd_x15-40621.iso) |
-| Spanish  | x64  | [es_windows_vista_business_n_sp2_x64_dvd_342411.iso](pathname:///drive.html#es_windows_vista_business_n_sp2_x64_dvd_342411.iso)                   |
-| Spanish  | x32  | [es_windows_vista_business_n_sp2_x86_dvd_342408.iso](pathname:///drive.html#es_windows_vista_business_n_sp2_x86_dvd_342408.iso)                   |
-
-</TabItem>
-
 <TabItem value="Windows Vista Business N and Home Basic N SP2" label="Windows Vista Business N and Home Basic N SP2" default>
 
 **Windows Vista Business N and Home Basic N SP2**

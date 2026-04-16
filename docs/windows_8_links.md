@@ -34,6 +34,15 @@ import TabItem from '@theme/TabItem';
 
 **Windows 8 Core / Pro**
 
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_8_x64_dvd_915440.iso (Buzzheavier)](https://buzzheavier.com/lllag2h2ucql)<br/>[en_windows_8_x64_dvd_915440.iso (ZeroFS)](https://zerofs.link/f/cY23XCDMAWMRcTTcHrLopD/) |
+| English  | x86  | [en_windows_8_x86_dvd_915417.iso (Buzzheavier)](https://buzzheavier.com/wru8ac6nwk2x)<br/>[en_windows_8_x86_dvd_915417.iso (ZeroFS)](https://zerofs.link/f/WEi562YeU5ETo5AcruC76p/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
 | Language                 | Arch | Link                                                                                                 |
 | :----------------------- | :--- | :--------------------------------------------------------------------------------------------------- |
 | Arabic                   | x64  | [ar_windows_8_x64_dvd_915454.iso](pathname:///drive.html#ar_windows_8_x64_dvd_915454.iso)       |
@@ -53,9 +62,7 @@ import TabItem from '@theme/TabItem';
 | Danish                   | x64  | [da_windows_8_x64_dvd_915408.iso](pathname:///drive.html#da_windows_8_x64_dvd_915408.iso)       |
 | Danish                   | x32  | [da_windows_8_x86_dvd_915475.iso](pathname:///drive.html#da_windows_8_x86_dvd_915475.iso)       |
 | Dutch                    | x64  | [nl_windows_8_x64_dvd_915410.iso](pathname:///drive.html#nl_windows_8_x64_dvd_915410.iso)       |
-| Dutch                    | x32  | [nl_windows_8_x86_dvd_915477.iso](pathname:///drive.html#nl_windows_8_x86_dvd_915477.iso)       |
-| English                  | x64  | [en_windows_8_x64_dvd_915440.iso](pathname:///drive.html#en_windows_8_x64_dvd_915440.iso)       |
-| English                  | x32  | [en_windows_8_x86_dvd_915417.iso](pathname:///drive.html#en_windows_8_x86_dvd_915417.iso)       |
+| Dutch                    | x32  | [nl_windows_8_x86_dvd_915477.iso](pathname:///drive.html#nl_windows_8_x86_dvd_915477.iso)       |     |
 | English - United Kingdom | x64  | [en-gb_windows_8_x64_dvd_915412.iso](pathname:///drive.html#en-gb_windows_8_x64_dvd_915412.iso) |
 | English - United Kingdom | x32  | [en-gb_windows_8_x86_dvd_915479.iso](pathname:///drive.html#en-gb_windows_8_x86_dvd_915479.iso) |
 | Estonian                 | x64  | [et_windows_8_x64_dvd_916115.iso](pathname:///drive.html#et_windows_8_x64_dvd_916115.iso)       |
@@ -113,92 +120,18 @@ import TabItem from '@theme/TabItem';
 
 </TabItem>
 
-<TabItem value="Windows 8 Professional (VL)" label="Windows 8 Professional (VL)" default>
-
-**Windows 8 Professional (VL)**
-
-| Language                 | Arch | Link                                                                                                               |
-| :----------------------- | :--- | :----------------------------------------------------------------------------------------------------------------- |
-| Arabic                   | x64  | [ar_windows_8_pro_vl_x64_dvd_917695.iso](pathname:///drive.html#ar_windows_8_pro_vl_x64_dvd_917695.iso)       |
-| Arabic                   | x32  | [ar_windows_8_pro_vl_x86_dvd_917826.iso](pathname:///drive.html#ar_windows_8_pro_vl_x86_dvd_917826.iso)       |
-| Bulgarian                | x64  | [bg_windows_8_pro_vl_x64_dvd_917696.iso](pathname:///drive.html#bg_windows_8_pro_vl_x64_dvd_917696.iso)       |
-| Bulgarian                | x32  | [bg_windows_8_pro_vl_x86_dvd_917827.iso](pathname:///drive.html#bg_windows_8_pro_vl_x86_dvd_917827.iso)       |
-| Chinese - Hong Kong SAR  | x64  | [hk_windows_8_pro_vl_x64_dvd_917781.iso](pathname:///drive.html#hk_windows_8_pro_vl_x64_dvd_917781.iso)       |
-| Chinese - Hong Kong SAR  | x32  | [hk_windows_8_pro_vl_x86_dvd_917722.iso](pathname:///drive.html#hk_windows_8_pro_vl_x86_dvd_917722.iso)       |
-| Chinese - Simplified     | x64  | [cn_windows_8_pro_vl_x64_dvd_917773.iso](pathname:///drive.html#cn_windows_8_pro_vl_x64_dvd_917773.iso)       |
-| Chinese - Simplified     | x32  | [cn_windows_8_pro_vl_x86_dvd_917720.iso](pathname:///drive.html#cn_windows_8_pro_vl_x86_dvd_917720.iso)       |
-| Chinese - Traditional    | x64  | [tw_windows_8_pro_vl_x64_dvd_917788.iso](pathname:///drive.html#tw_windows_8_pro_vl_x64_dvd_917788.iso)       |
-| Chinese - Traditional    | x32  | [tw_windows_8_pro_vl_x86_dvd_917724.iso](pathname:///drive.html#tw_windows_8_pro_vl_x86_dvd_917724.iso)       |
-| Croatian                 | x64  | [hr_windows_8_pro_vl_x64_dvd_917934.iso](pathname:///drive.html#hr_windows_8_pro_vl_x64_dvd_917934.iso)       |
-| Croatian                 | x32  | [hr_windows_8_pro_vl_x86_dvd_918144.iso](pathname:///drive.html#hr_windows_8_pro_vl_x86_dvd_918144.iso)       |
-| Czech                    | x64  | [cs_windows_8_pro_vl_x64_dvd_917697.iso](pathname:///drive.html#cs_windows_8_pro_vl_x64_dvd_917697.iso)       |
-| Czech                    | x32  | [cs_windows_8_pro_vl_x86_dvd_917828.iso](pathname:///drive.html#cs_windows_8_pro_vl_x86_dvd_917828.iso)       |
-| Danish                   | x64  | [da_windows_8_pro_vl_x64_dvd_917698.iso](pathname:///drive.html#da_windows_8_pro_vl_x64_dvd_917698.iso)       |
-| Danish                   | x32  | [da_windows_8_pro_vl_x86_dvd_917829.iso](pathname:///drive.html#da_windows_8_pro_vl_x86_dvd_917829.iso)       |
-| Dutch                    | x64  | [nl_windows_8_pro_vl_x64_dvd_917936.iso](pathname:///drive.html#nl_windows_8_pro_vl_x64_dvd_917936.iso)       |
-| Dutch                    | x32  | [nl_windows_8_pro_vl_x86_dvd_918145.iso](pathname:///drive.html#nl_windows_8_pro_vl_x86_dvd_918145.iso)       |
-| English                  | x64  | [en_windows_8_pro_vl_x64_dvd_917699.iso](pathname:///drive.html#en_windows_8_pro_vl_x64_dvd_917699.iso)       |
-| English                  | x32  | [en_windows_8_pro_vl_x86_dvd_917830.iso](pathname:///drive.html#en_windows_8_pro_vl_x86_dvd_917830.iso)       |
-| English - United Kingdom | x64  | [en-gb_windows_8_pro_vl_x64_dvd_917700.iso](pathname:///drive.html#en-gb_windows_8_pro_vl_x64_dvd_917700.iso) |
-| English - United Kingdom | x32  | [en-gb_windows_8_pro_vl_x86_dvd_917831.iso](pathname:///drive.html#en-gb_windows_8_pro_vl_x86_dvd_917831.iso) |
-| Estonian                 | x64  | [et_windows_8_pro_vl_x64_dvd_917938.iso](pathname:///drive.html#et_windows_8_pro_vl_x64_dvd_917938.iso)       |
-| Estonian                 | x32  | [et_windows_8_pro_vl_x86_dvd_918146.iso](pathname:///drive.html#et_windows_8_pro_vl_x86_dvd_918146.iso)       |
-| Finnish                  | x64  | [fi_windows_8_pro_vl_x64_dvd_917940.iso](pathname:///drive.html#fi_windows_8_pro_vl_x64_dvd_917940.iso)       |
-| Finnish                  | x32  | [fi_windows_8_pro_vl_x86_dvd_918147.iso](pathname:///drive.html#fi_windows_8_pro_vl_x86_dvd_918147.iso)       |
-| French                   | x64  | [fr_windows_8_pro_vl_x64_dvd_917942.iso](pathname:///drive.html#fr_windows_8_pro_vl_x64_dvd_917942.iso)       |
-| French                   | x32  | [fr_windows_8_pro_vl_x86_dvd_918148.iso](pathname:///drive.html#fr_windows_8_pro_vl_x86_dvd_918148.iso)       |
-| German                   | x64  | [de_windows_8_pro_vl_x64_dvd_917701.iso](pathname:///drive.html#de_windows_8_pro_vl_x64_dvd_917701.iso)       |
-| German                   | x32  | [de_windows_8_pro_vl_x86_dvd_917832.iso](pathname:///drive.html#de_windows_8_pro_vl_x86_dvd_917832.iso)       |
-| Greek                    | x64  | [el_windows_8_pro_vl_x64_dvd_917702.iso](pathname:///drive.html#el_windows_8_pro_vl_x64_dvd_917702.iso)       |
-| Greek                    | x32  | [el_windows_8_pro_vl_x86_dvd_917833.iso](pathname:///drive.html#el_windows_8_pro_vl_x86_dvd_917833.iso)       |
-| Hebrew                   | x64  | [he_windows_8_pro_vl_x64_dvd_917944.iso](pathname:///drive.html#he_windows_8_pro_vl_x64_dvd_917944.iso)       |
-| Hebrew                   | x32  | [he_windows_8_pro_vl_x86_dvd_918149.iso](pathname:///drive.html#he_windows_8_pro_vl_x86_dvd_918149.iso)       |
-| Hungarian                | x64  | [hu_windows_8_pro_vl_x64_dvd_917946.iso](pathname:///drive.html#hu_windows_8_pro_vl_x64_dvd_917946.iso)       |
-| Hungarian                | x32  | [hu_windows_8_pro_vl_x86_dvd_918150.iso](pathname:///drive.html#hu_windows_8_pro_vl_x86_dvd_918150.iso)       |
-| Italian                  | x64  | [it_windows_8_pro_vl_x64_dvd_917948.iso](pathname:///drive.html#it_windows_8_pro_vl_x64_dvd_917948.iso)       |
-| Italian                  | x32  | [it_windows_8_pro_vl_x86_dvd_918151.iso](pathname:///drive.html#it_windows_8_pro_vl_x86_dvd_918151.iso)       |
-| Japanese                 | x64  | [ja_windows_8_pro_vl_x64_dvd_917950.iso](pathname:///drive.html#ja_windows_8_pro_vl_x64_dvd_917950.iso)       |
-| Japanese                 | x32  | [ja_windows_8_pro_vl_x86_dvd_918152.iso](pathname:///drive.html#ja_windows_8_pro_vl_x86_dvd_918152.iso)       |
-| Korean                   | x64  | [ko_windows_8_pro_vl_x64_dvd_917952.iso](pathname:///drive.html#ko_windows_8_pro_vl_x64_dvd_917952.iso)       |
-| Korean                   | x32  | [ko_windows_8_pro_vl_x86_dvd_918153.iso](pathname:///drive.html#ko_windows_8_pro_vl_x86_dvd_918153.iso)       |
-| Latvian                  | x64  | [lv_windows_8_pro_vl_x64_dvd_917953.iso](pathname:///drive.html#lv_windows_8_pro_vl_x64_dvd_917953.iso)       |
-| Latvian                  | x32  | [lv_windows_8_pro_vl_x86_dvd_918154.iso](pathname:///drive.html#lv_windows_8_pro_vl_x86_dvd_918154.iso)       |
-| Lithuanian               | x64  | [lt_windows_8_pro_vl_x64_dvd_917954.iso](pathname:///drive.html#lt_windows_8_pro_vl_x64_dvd_917954.iso)       |
-| Lithuanian               | x32  | [lt_windows_8_pro_vl_x86_dvd_918155.iso](pathname:///drive.html#lt_windows_8_pro_vl_x86_dvd_918155.iso)       |
-| Norwegian                | x64  | [no_windows_8_pro_vl_x64_dvd_917955.iso](pathname:///drive.html#no_windows_8_pro_vl_x64_dvd_917955.iso)       |
-| Norwegian                | x32  | [no_windows_8_pro_vl_x86_dvd_918156.iso](pathname:///drive.html#no_windows_8_pro_vl_x86_dvd_918156.iso)       |
-| Polish                   | x64  | [pl_windows_8_pro_vl_x64_dvd_917956.iso](pathname:///drive.html#pl_windows_8_pro_vl_x64_dvd_917956.iso)       |
-| Polish                   | x32  | [pl_windows_8_pro_vl_x86_dvd_918157.iso](pathname:///drive.html#pl_windows_8_pro_vl_x86_dvd_918157.iso)       |
-| Portuguese - Brazil      | x64  | [pt_windows_8_pro_vl_x64_dvd_922087.iso](pathname:///drive.html#pt_windows_8_pro_vl_x64_dvd_922087.iso)       |
-| Portuguese - Brazil      | x32  | [pt_windows_8_pro_vl_x86_dvd_918158.iso](pathname:///drive.html#pt_windows_8_pro_vl_x86_dvd_918158.iso)       |
-| Portuguese - Portugal    | x64  | [pp_windows_8_pro_vl_x64_dvd_917795.iso](pathname:///drive.html#pp_windows_8_pro_vl_x64_dvd_917795.iso)       |
-| Portuguese - Portugal    | x32  | [pp_windows_8_pro_vl_x86_dvd_918159.iso](pathname:///drive.html#pp_windows_8_pro_vl_x86_dvd_918159.iso)       |
-| Romanian                 | x64  | [ro_windows_8_pro_vl_x64_dvd_917803.iso](pathname:///drive.html#ro_windows_8_pro_vl_x64_dvd_917803.iso)       |
-| Romanian                 | x32  | [ro_windows_8_pro_vl_x86_dvd_918160.iso](pathname:///drive.html#ro_windows_8_pro_vl_x86_dvd_918160.iso)       |
-| Russian                  | x64  | [ru_windows_8_pro_vl_x64_dvd_917810.iso](pathname:///drive.html#ru_windows_8_pro_vl_x64_dvd_917810.iso)       |
-| Russian                  | x32  | [ru_windows_8_pro_vl_x86_dvd_918161.iso](pathname:///drive.html#ru_windows_8_pro_vl_x86_dvd_918161.iso)       |
-| Serbian                  | x64  | [sr_windows_8_pro_vl_x64_dvd_917818.iso](pathname:///drive.html#sr_windows_8_pro_vl_x64_dvd_917818.iso)       |
-| Serbian                  | x32  | [sr_windows_8_pro_vl_x86_dvd_917726.iso](pathname:///drive.html#sr_windows_8_pro_vl_x86_dvd_917726.iso)       |
-| Slovak                   | x64  | [sk_windows_8_pro_vl_x64_dvd_917821.iso](pathname:///drive.html#sk_windows_8_pro_vl_x64_dvd_917821.iso)       |
-| Slovak                   | x32  | [sk_windows_8_pro_vl_x86_dvd_918162.iso](pathname:///drive.html#sk_windows_8_pro_vl_x86_dvd_918162.iso)       |
-| Slovenian                | x64  | [sl_windows_8_pro_vl_x64_dvd_917822.iso](pathname:///drive.html#sl_windows_8_pro_vl_x64_dvd_917822.iso)       |
-| Slovenian                | x32  | [sl_windows_8_pro_vl_x86_dvd_917728.iso](pathname:///drive.html#sl_windows_8_pro_vl_x86_dvd_917728.iso)       |
-| Spanish                  | x64  | [es_windows_8_pro_vl_x64_dvd_922088.iso](pathname:///drive.html#es_windows_8_pro_vl_x64_dvd_922088.iso)       |
-| Spanish                  | x32  | [es_windows_8_pro_vl_x86_dvd_917834.iso](pathname:///drive.html#es_windows_8_pro_vl_x86_dvd_917834.iso)       |
-| Swedish                  | x64  | [sv_windows_8_pro_vl_x64_dvd_917823.iso](pathname:///drive.html#sv_windows_8_pro_vl_x64_dvd_917823.iso)       |
-| Swedish                  | x32  | [sv_windows_8_pro_vl_x86_dvd_917729.iso](pathname:///drive.html#sv_windows_8_pro_vl_x86_dvd_917729.iso)       |
-| Thai                     | x64  | [th_windows_8_pro_vl_x64_dvd_917835.iso](pathname:///drive.html#th_windows_8_pro_vl_x64_dvd_917835.iso)       |
-| Thai                     | x32  | [th_windows_8_pro_vl_x86_dvd_917745.iso](pathname:///drive.html#th_windows_8_pro_vl_x86_dvd_917745.iso)       |
-| Turkish                  | x64  | [tr_windows_8_pro_vl_x64_dvd_917824.iso](pathname:///drive.html#tr_windows_8_pro_vl_x64_dvd_917824.iso)       |
-| Turkish                  | x32  | [tr_windows_8_pro_vl_x86_dvd_917731.iso](pathname:///drive.html#tr_windows_8_pro_vl_x86_dvd_917731.iso)       |
-| Ukrainian                | x64  | [uk_windows_8_pro_vl_x64_dvd_917825.iso](pathname:///drive.html#uk_windows_8_pro_vl_x64_dvd_917825.iso)       |
-| Ukrainian                | x32  | [uk_windows_8_pro_vl_x86_dvd_917737.iso](pathname:///drive.html#uk_windows_8_pro_vl_x86_dvd_917737.iso)       |
-
-</TabItem>
-
 <TabItem value="Windows 8 Enterprise" label="Windows 8 Enterprise" default>
 
 **Windows 8 Enterprise**
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso (Buzzheavier)](https://buzzheavier.com/lllag2h2ucql)<br/>[en_windows_8_enterprise_x64_dvd_917522.iso (ZeroFS)](https://zerofs.link/f/cY23XCDMAWMRcTTcHrLopD/) |
+| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/wru8ac6nwk2x)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://zerofs.link/f/WEi562YeU5ETo5AcruC76p/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                 | Arch | Link                                                                                                                       |
 | :----------------------- | :--- | :------------------------------------------------------------------------------------------------------------------------- |
@@ -220,8 +153,6 @@ import TabItem from '@theme/TabItem';
 | Danish                   | x32  | [da_windows_8_enterprise_x86_dvd_917586.iso](pathname:///drive.html#da_windows_8_enterprise_x86_dvd_917586.iso)       |
 | Dutch                    | x64  | [nl_windows_8_enterprise_x64_dvd_917912.iso](pathname:///drive.html#nl_windows_8_enterprise_x64_dvd_917912.iso)       |
 | Dutch                    | x32  | [nl_windows_8_enterprise_x86_dvd_917668.iso](pathname:///drive.html#nl_windows_8_enterprise_x86_dvd_917668.iso)       |
-| English                  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso](pathname:///drive.html#en_windows_8_enterprise_x64_dvd_917522.iso)       |
-| English                  | x32  | [en_windows_8_enterprise_x86_dvd_917587.iso](pathname:///drive.html#en_windows_8_enterprise_x86_dvd_917587.iso)       |
 | English - United Kingdom | x64  | [en-gb_windows_8_enterprise_x64_dvd_922086.iso](pathname:///drive.html#en-gb_windows_8_enterprise_x64_dvd_922086.iso) |
 | English - United Kingdom | x32  | [en-gb_windows_8_enterprise_x86_dvd_917588.iso](pathname:///drive.html#en-gb_windows_8_enterprise_x86_dvd_917588.iso) |
 | Estonian                 | x64  | [et_windows_8_enterprise_x64_dvd_917913.iso](pathname:///drive.html#et_windows_8_enterprise_x64_dvd_917913.iso)       |
@@ -343,65 +274,6 @@ import TabItem from '@theme/TabItem';
 | Spanish                  | x32  | [es_windows_8_n_x86_dvd_916114.iso](pathname:///drive.html#es_windows_8_n_x86_dvd_916114.iso)       |
 | Swedish                  | x64  | [sv_windows_8_n_x64_dvd_916074.iso](pathname:///drive.html#sv_windows_8_n_x64_dvd_916074.iso)       |
 | Swedish                  | x32  | [sv_windows_8_n_x86_dvd_917542.iso](pathname:///drive.html#sv_windows_8_n_x86_dvd_917542.iso)       |
-
-</TabItem>
-
-<TabItem value="Windows 8 Professional N (VL)" label="Windows 8 Professional N (VL)" default>
-
-**Windows 8 Professional N (VL)**
-
-| Language                 | Arch | Link                                                                                                                   |
-| :----------------------- | :--- | :--------------------------------------------------------------------------------------------------------------------- |
-| Bulgarian                | x64  | [bg_windows_8_pro_n_vl_x64_dvd_918670.iso](pathname:///drive.html#bg_windows_8_pro_n_vl_x64_dvd_918670.iso)       |
-| Bulgarian                | x32  | [bg_windows_8_pro_n_vl_x86_dvd_918874.iso](pathname:///drive.html#bg_windows_8_pro_n_vl_x86_dvd_918874.iso)       |
-| Croatian                 | x64  | [hr_windows_8_pro_n_vl_x64_dvd_918672.iso](pathname:///drive.html#hr_windows_8_pro_n_vl_x64_dvd_918672.iso)       |
-| Croatian                 | x32  | [hr_windows_8_pro_n_vl_x86_dvd_918678.iso](pathname:///drive.html#hr_windows_8_pro_n_vl_x86_dvd_918678.iso)       |
-| Czech                    | x64  | [cs_windows_8_pro_n_vl_x64_dvd_918674.iso](pathname:///drive.html#cs_windows_8_pro_n_vl_x64_dvd_918674.iso)       |
-| Czech                    | x32  | [cs_windows_8_pro_n_vl_x86_dvd_918875.iso](pathname:///drive.html#cs_windows_8_pro_n_vl_x86_dvd_918875.iso)       |
-| Danish                   | x64  | [da_windows_8_pro_n_vl_x64_dvd_918675.iso](pathname:///drive.html#da_windows_8_pro_n_vl_x64_dvd_918675.iso)       |
-| Danish                   | x32  | [da_windows_8_pro_n_vl_x86_dvd_918876.iso](pathname:///drive.html#da_windows_8_pro_n_vl_x86_dvd_918876.iso)       |
-| Dutch                    | x64  | [nl_windows_8_pro_n_vl_x64_dvd_918806.iso](pathname:///drive.html#nl_windows_8_pro_n_vl_x64_dvd_918806.iso)       |
-| Dutch                    | x32  | [nl_windows_8_pro_n_vl_x86_dvd_918680.iso](pathname:///drive.html#nl_windows_8_pro_n_vl_x86_dvd_918680.iso)       |
-| English                  | x64  | [en_windows_8_pro_n_vl_x64_dvd_918677.iso](pathname:///drive.html#en_windows_8_pro_n_vl_x64_dvd_918677.iso)       |
-| English                  | x32  | [en_windows_8_pro_n_vl_x86_dvd_918877.iso](pathname:///drive.html#en_windows_8_pro_n_vl_x86_dvd_918877.iso)       |
-| English - United Kingdom | x64  | [en-gb_windows_8_pro_n_vl_x64_dvd_918679.iso](pathname:///drive.html#en-gb_windows_8_pro_n_vl_x64_dvd_918679.iso) |
-| English - United Kingdom | x32  | [en-gb_windows_8_pro_n_vl_x86_dvd_918878.iso](pathname:///drive.html#en-gb_windows_8_pro_n_vl_x86_dvd_918878.iso) |
-| Estonian                 | x64  | [et_windows_8_pro_n_vl_x64_dvd_918681.iso](pathname:///drive.html#et_windows_8_pro_n_vl_x64_dvd_918681.iso)       |
-| Estonian                 | x32  | [et_windows_8_pro_n_vl_x86_dvd_918879.iso](pathname:///drive.html#et_windows_8_pro_n_vl_x86_dvd_918879.iso)       |
-| Finnish                  | x64  | [fi_windows_8_pro_n_vl_x64_dvd_918683.iso](pathname:///drive.html#fi_windows_8_pro_n_vl_x64_dvd_918683.iso)       |
-| Finnish                  | x32  | [fi_windows_8_pro_n_vl_x86_dvd_918682.iso](pathname:///drive.html#fi_windows_8_pro_n_vl_x86_dvd_918682.iso)       |
-| French                   | x64  | [fr_windows_8_pro_n_vl_x64_dvd_918685.iso](pathname:///drive.html#fr_windows_8_pro_n_vl_x64_dvd_918685.iso)       |
-| French                   | x32  | [fr_windows_8_pro_n_vl_x86_dvd_918684.iso](pathname:///drive.html#fr_windows_8_pro_n_vl_x86_dvd_918684.iso)       |
-| German                   | x64  | [de_windows_8_pro_n_vl_x64_dvd_918687.iso](pathname:///drive.html#de_windows_8_pro_n_vl_x64_dvd_918687.iso)       |
-| German                   | x32  | [de_windows_8_pro_n_vl_x86_dvd_918880.iso](pathname:///drive.html#de_windows_8_pro_n_vl_x86_dvd_918880.iso)       |
-| Greek                    | x64  | [el_windows_8_pro_n_vl_x64_dvd_918689.iso](pathname:///drive.html#el_windows_8_pro_n_vl_x64_dvd_918689.iso)       |
-| Greek                    | x32  | [el_windows_8_pro_n_vl_x86_dvd_918881.iso](pathname:///drive.html#el_windows_8_pro_n_vl_x86_dvd_918881.iso)       |
-| Hungarian                | x64  | [hu_windows_8_pro_n_vl_x64_dvd_918817.iso](pathname:///drive.html#hu_windows_8_pro_n_vl_x64_dvd_918817.iso)       |
-| Hungarian                | x32  | [hu_windows_8_pro_n_vl_x86_dvd_918686.iso](pathname:///drive.html#hu_windows_8_pro_n_vl_x86_dvd_918686.iso)       |
-| Italian                  | x64  | [it_windows_8_pro_n_vl_x64_dvd_918828.iso](pathname:///drive.html#it_windows_8_pro_n_vl_x64_dvd_918828.iso)       |
-| Italian                  | x32  | [it_windows_8_pro_n_vl_x86_dvd_918688.iso](pathname:///drive.html#it_windows_8_pro_n_vl_x86_dvd_918688.iso)       |
-| Korean                   | x64  | [ko_windows_8_pro_n_vl_x64_dvd_918839.iso](pathname:///drive.html#ko_windows_8_pro_n_vl_x64_dvd_918839.iso)       |
-| Korean                   | x32  | [ko_windows_8_pro_n_vl_x86_dvd_918690.iso](pathname:///drive.html#ko_windows_8_pro_n_vl_x86_dvd_918690.iso)       |
-| Latvian                  | x64  | [lv_windows_8_pro_n_vl_x64_dvd_918847.iso](pathname:///drive.html#lv_windows_8_pro_n_vl_x64_dvd_918847.iso)       |
-| Latvian                  | x32  | [lv_windows_8_pro_n_vl_x86_dvd_918692.iso](pathname:///drive.html#lv_windows_8_pro_n_vl_x86_dvd_918692.iso)       |
-| Lithuanian               | x64  | [lt_windows_8_pro_n_vl_x64_dvd_918858.iso](pathname:///drive.html#lt_windows_8_pro_n_vl_x64_dvd_918858.iso)       |
-| Lithuanian               | x32  | [lt_windows_8_pro_n_vl_x86_dvd_918693.iso](pathname:///drive.html#lt_windows_8_pro_n_vl_x86_dvd_918693.iso)       |
-| Norwegian                | x64  | [no_windows_8_pro_n_vl_x64_dvd_918865.iso](pathname:///drive.html#no_windows_8_pro_n_vl_x64_dvd_918865.iso)       |
-| Norwegian                | x32  | [no_windows_8_pro_n_vl_x86_dvd_918694.iso](pathname:///drive.html#no_windows_8_pro_n_vl_x86_dvd_918694.iso)       |
-| Polish                   | x64  | [pl_windows_8_pro_n_vl_x64_dvd_918868.iso](pathname:///drive.html#pl_windows_8_pro_n_vl_x64_dvd_918868.iso)       |
-| Polish                   | x32  | [pl_windows_8_pro_n_vl_x86_dvd_918695.iso](pathname:///drive.html#pl_windows_8_pro_n_vl_x86_dvd_918695.iso)       |
-| Portuguese - Portugal    | x64  | [pp_windows_8_pro_n_vl_x64_dvd_918869.iso](pathname:///drive.html#pp_windows_8_pro_n_vl_x64_dvd_918869.iso)       |
-| Portuguese - Portugal    | x32  | [pp_windows_8_pro_n_vl_x86_dvd_918696.iso](pathname:///drive.html#pp_windows_8_pro_n_vl_x86_dvd_918696.iso)       |
-| Romanian                 | x64  | [ro_windows_8_pro_n_vl_x64_dvd_918870.iso](pathname:///drive.html#ro_windows_8_pro_n_vl_x64_dvd_918870.iso)       |
-| Romanian                 | x32  | [ro_windows_8_pro_n_vl_x86_dvd_918697.iso](pathname:///drive.html#ro_windows_8_pro_n_vl_x86_dvd_918697.iso)       |
-| Slovak                   | x64  | [sk_windows_8_pro_n_vl_x64_dvd_918871.iso](pathname:///drive.html#sk_windows_8_pro_n_vl_x64_dvd_918871.iso)       |
-| Slovak                   | x32  | [sk_windows_8_pro_n_vl_x86_dvd_918698.iso](pathname:///drive.html#sk_windows_8_pro_n_vl_x86_dvd_918698.iso)       |
-| Slovenian                | x64  | [sl_windows_8_pro_n_vl_x64_dvd_918872.iso](pathname:///drive.html#sl_windows_8_pro_n_vl_x64_dvd_918872.iso)       |
-| Slovenian                | x32  | [sl_windows_8_pro_n_vl_x86_dvd_918699.iso](pathname:///drive.html#sl_windows_8_pro_n_vl_x86_dvd_918699.iso)       |
-| Spanish                  | x64  | [es_windows_8_pro_n_vl_x64_dvd_918691.iso](pathname:///drive.html#es_windows_8_pro_n_vl_x64_dvd_918691.iso)       |
-| Spanish                  | x32  | [es_windows_8_pro_n_vl_x86_dvd_918882.iso](pathname:///drive.html#es_windows_8_pro_n_vl_x86_dvd_918882.iso)       |
-| Swedish                  | x64  | [sv_windows_8_pro_n_vl_x64_dvd_918873.iso](pathname:///drive.html#sv_windows_8_pro_n_vl_x64_dvd_918873.iso)       |
-| Swedish                  | x32  | [sv_windows_8_pro_n_vl_x86_dvd_918700.iso](pathname:///drive.html#sv_windows_8_pro_n_vl_x86_dvd_918700.iso)       |
 
 </TabItem>
 

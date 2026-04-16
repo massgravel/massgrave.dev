@@ -152,3 +152,162 @@ Updated November 2022 (Build - 17763.3650)
 | Turkish             | x64  | [tr-tr_windows_server_2019_x64_dvd_b51af600.iso](https://buzzheavier.com/9ahy6190d6tu) |
 | Chinese-Simplified  | x64  | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://buzzheavier.com/sqddwet2qb3j) |
 | Chinese-Traditional | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://buzzheavier.com/iou6g468c7qf) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2016
+
+Updated February 2018 (Build - 14393.1884)
+
+The below file is a **full** ISO image.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_server_2016_vl_x64_dvd_11636701.iso (Buzzheavier)](https://buzzheavier.com/8z7837t3v61l)<br/>[en_windows_server_2016_vl_x64_dvd_11636701.iso (ZeroFS)](https://zerofs.link/f/CeffHhzEur8RUSm8AR75Sk/) |
+
+The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language            | Arch | Link |
+|:--------------------|:-----|:---|
+| Chinese-Simplified  | x64  | [cn_windows_server_2016_vl_x64_dvd_11636695.dvp](https://zerofs.link/f/BXEHAbq87CbpadbVc5Pw8s/) |
+| Czech               | x64  | [cs_windows_server_2016_vl_x64_dvd_11636699.dvp](https://zerofs.link/f/UjkFoqWxaxhFfAGhexABsw/) |
+| Chinese-Traditional | x64  | [ct_windows_server_2016_vl_x64_dvd_11636717.dvp](https://zerofs.link/f/MUFciDCHmVMhRkPSHx8H5Z/) |
+| German              | x64  | [de_windows_server_2016_vl_x64_dvd_11636696.dvp](https://zerofs.link/f/H8M9hm56iKvYmdf6KX5NGp/) |
+| Spanish             | x64  | [es_windows_server_2016_vl_x64_dvd_11636712.dvp](https://zerofs.link/f/RUe8M6j2BF48BvX4NtZzP6/) |
+| French              | x64  | [fr_windows_server_2016_vl_x64_dvd_11636729.dvp](https://zerofs.link/f/hSUZkejDgscmT2Fq88Xyzo/) |
+| Hungarian           | x64  | [hu_windows_server_2016_vl_x64_dvd_11636720.dvp](https://zerofs.link/f/CX2fddUKtSUZzBfsBnKdMh/) |
+| Italian             | x64  | [it_windows_server_2016_vl_x64_dvd_11636710.dvp](https://zerofs.link/f/izz92oBNYMcaox6NKJFX4Z/) |
+| Japanese            | x64  | [ja_windows_server_2016_vl_x64_dvd_11645964.dvp](https://zerofs.link/f/At44pLYWaWt7kzFsgA5vHY/) |
+| Korean              | x64  | [ko_windows_server_2016_vl_x64_dvd_11636709.dvp](https://zerofs.link/f/7ezZLCK2gAay5cBE8xSBTh/) |
+| Dutch               | x64  | [nl_windows_server_2016_vl_x64_dvd_11636731.dvp](https://zerofs.link/f/kNcSoBze6BZx6o5XHuEATR/) |
+| Polish              | x64  | [pl_windows_server_2016_vl_x64_dvd_11636719.dvp](https://zerofs.link/f/nxv4iVEnsM8tFJ5ktumFTA/) |
+| Portuguese-Portugal | x64  | [pp_windows_server_2016_vl_x64_dvd_11637454.dvp](https://zerofs.link/f/XDP5TNxSqqGegYEEXtfMbV/) |
+| Portuguese-Brazil   | x64  | [pt_windows_server_2016_vl_x64_dvd_11636697.dvp](https://zerofs.link/f/cFDiBbWQih5JqapzeWRSKK/) |
+| Russian             | x64  | [ru_windows_server_2016_vl_x64_dvd_11636694.dvp](https://zerofs.link/f/3mfVmoBBiTKNjiqBKGok2A/) |
+| Swedish             | x64  | [sv_windows_server_2016_vl_x64_dvd_11636706.dvp](https://zerofs.link/f/ea7mLB5SJdx7uFKWBsyHxz/) |
+| Turkish             | x64  | [tr_windows_server_2016_vl_x64_dvd_11636725.dvp](https://zerofs.link/f/ZcD4qJj4Mmx2pDu2MzYRHp/) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2012 R2
+
+(Build - 9600.17415)
+
+The below file is a **full** ISO image.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (Buzzheavier)](https://buzzheavier.com/kyuqt9v2erqr)<br/>[en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (ZeroFS)](https://zerofs.link/f/YCy5wupEE7tx9mdBWYDprN/) |
+
+The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language              | Arch | Link |
+|:----------------------|:-----|:---|
+| Chinese-Simplified    | x64  | [cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.dvp](https://zerofs.link/f/EckFrTWwH8sRE2KqrjQ56y/) |
+| Czech                 | x64  | [cs_windows_server_2012_r2_vl_with_update_x64_dvd_6052752.dvp](https://zerofs.link/f/Xkyt5jpuasDLk6ezQV5cEq/) |
+| German                | x64  | [de_windows_server_2012_r2_vl_with_update_x64_dvd_6052780.dvp](https://zerofs.link/f/dVkokRZ3vgaSJkmJgVdWYd/) |
+| Spanish               | x64  | [es_windows_server_2012_r2_vl_with_update_x64_dvd_6052831.dvp](https://zerofs.link/f/hBh3HxbqSWhmTEtSUv7kzW/) |
+| French                | x64  | [fr_windows_server_2012_r2_vl_with_update_x64_dvd_6052772.dvp](https://zerofs.link/f/eHBNgWqgi55hAY3Zy5AbW3/) |
+| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2012_r2_vl_with_update_x64_dvd_6052739.dvp](https://zerofs.link/f/Bp3Cef9jDaX6YoQ44CZkpL/) |
+| Hungarian             | x64  | [hu_windows_server_2012_r2_vl_with_update_x64_dvd_6052786.dvp](https://zerofs.link/f/R3eXpRzkujnnaQVwQn4AEv/) |
+| Italian               | x64  | [it_windows_server_2012_r2_vl_with_update_x64_dvd_6052792.dvp](https://zerofs.link/f/fk85EFVToT5cafjZvfjHbn/) |
+| Japanese              | x64  | [ja_windows_server_2012_r2_vl_with_update_x64_dvd_6052800.dvp](https://zerofs.link/f/Q33eDvSF8GXiVJaLwXbxoA/) |
+| Korean                | x64  | [ko_windows_server_2012_r2_vl_with_update_x64_dvd_6052806.dvp](https://zerofs.link/f/REAftW53S3FMrf6rLvEps5/) |
+| Dutch                 | x64  | [nl_windows_server_2012_r2_vl_with_update_x64_dvd_6052760.dvp](https://zerofs.link/f/fz3r8q6DPj5p4othLb2Qo9/) |
+| Polish                | x64  | [pl_windows_server_2012_r2_vl_with_update_x64_dvd_6052815.dvp](https://zerofs.link/f/cA3FNF3cVGPJnEn2EdNZRH/) |
+| Portuguese-Portugal   | x64  | [pp_windows_server_2012_r2_vl_with_update_x64_dvd_6052823.dvp](https://zerofs.link/f/Kfcp5NTNamKvGyR3Rqaqxd/) |
+| Portuguese-Brazil     | x64  | [pt_windows_server_2012_r2_vl_with_update_x64_dvd_6052819.dvp](https://zerofs.link/f/mJoeF6ASJ6r3S99wP6KuWj/) |
+| Russian               | x64  | [ru_windows_server_2012_r2_vl_with_update_x64_dvd_6052827.dvp](https://zerofs.link/f/HfwMtQmgPk8uoe7YazPqHA/) |
+| Swedish               | x64  | [sv_windows_server_2012_r2_vl_with_update_x64_dvd_6052835.dvp](https://zerofs.link/f/24czHogadqPhbLsH5AqHkL/) |
+| Turkish               | x64  | [tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.dvp](https://zerofs.link/f/jN4mPUFU8kxkkEGYeHteEo/) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.dvp](https://zerofs.link/f/QidsN77iNTxN2rohUExRac/) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2008 R2 SP1
+
+(Build - 7601.17514)
+
+The below file is a **full** ISO image.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  |  |
+
+The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language              | Arch | Link |
+|:----------------------|:-----|:---|
+| Chinese-Simplified    | x64  | cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.iso |
+| Czech                 | x64  | cs_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617402.iso |
+| German                | x64  | de_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617404.iso |
+| English               | x64  | en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso |
+| Spanish               | x64  | es_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617410.iso |
+| French                | x64  | fr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617392.iso |
+| Chinese-Hong Kong SAR | x64  | hk_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617386.iso |
+| Hungarian             | x64  | hu_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617415.iso |
+| Italian               | x64  | it_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_619596.iso |
+| Japanese              | x64  | ja_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_631466.iso |
+| Korean                | x64  | ko_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617409.iso |
+| Dutch                 | x64  | nl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617395.iso |
+| Polish                | x64  | pl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617397.iso |
+| Portuguese-Portugal   | x64  | pp_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617411.iso |
+| Portuguese-Brazil     | x64  | pt_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617394.iso |
+| Russian               | x64  | ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.iso |
+| Swedish               | x64  | sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.iso |
+| Turkish               | x64  | tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.iso |
+| Chinese-Traditional   | x64  | tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso |
+
+------------------------------------------------------------------------
+
+## Windows Server 2008 SP2
+
+(Build - 6002.18005)
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_server_2008_with_sp2_x64_dvd_342336.iso (Buzzheavier)](https://buzzheavier.com/ris1mwjm0t3f)<br/>[en_windows_server_2008_with_sp2_x64_dvd_342336.iso (ZeroFS)](https://zerofs.link/f/FkEcRe8zD93LDYYVy3Yw9b/) |
+| English  | x86  | [en_windows_server_2008_with_sp2_x86_dvd_342333.iso (Buzzheavier)](https://buzzheavier.com/c54iv572pqdg)<br/>[en_windows_server_2008_with_sp2_x86_dvd_342333.iso (ZeroFS)](https://zerofs.link/f/GeErce9kaXKCJznsZf5EeH/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language              | Arch | Link |
+|:----------------------|:-----|:---|
+| Chinese-Simplified    | x64  | [cn_windows_server_2008_with_sp2_x64_dvd_x15-41319.dvp](https://zerofs.link/f/mricZEZhJEVHCsWF2Yx8re/) |
+| Chinese-Simplified    | x86  | [cn_windows_server_2008_with_sp2_x86_dvd_x15-41045.dvp](https://zerofs.link/f/eUMEQPfRAtAzcdgpQZEGEM/) |
+| Czech                 | x64  | [cs_windows_server_2008_with_sp2_x64_dvd_x15-41331.dvp](https://zerofs.link/f/UqgTs8wAHSURbLMXBhsSJM/) |
+| Czech                 | x86  | [cs_windows_server_2008_with_sp2_x86_dvd_x15-41057.dvp](https://zerofs.link/f/j7vnvS8WiJqYE5WT6xExwF/) |
+| German                | x64  | [de_windows_server_2008_with_sp2_x64_dvd_342381.dvp](https://zerofs.link/f/CdUM5XLfCcYxtvhJnbgYPZ/) |
+| German                | x86  | [de_windows_server_2008_with_sp2_x86_dvd_342378.dvp](https://zerofs.link/f/Vvhq9KUoh3zvJfsjWkxwpB/) |
+| Spanish               | x64  | [es_windows_server_2008_with_sp2_x64_dvd_342419.dvp](https://zerofs.link/f/B9xQATugEXZLyiCZobX4FB/) |
+| Spanish               | x86  | [es_windows_server_2008_with_sp2_x86_dvd_342416.dvp](https://zerofs.link/f/E4qfwiQZMkd8WV5XsW9TZL/) |
+| French                | x64  | [fr_windows_server_2008_with_sp2_x64_dvd_342359.dvp](https://zerofs.link/f/Ya9yv8SbLRa3beLtUCzY3W/) |
+| French                | x86  | [fr_windows_server_2008_with_sp2_x86_dvd_342356.dvp](https://zerofs.link/f/TPzZkj8GUwhhPyg5WYiJWr/) |
+| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2008_with_sp2_x64_dvd_x15-41327.dvp](https://zerofs.link/f/TEXcd5vvMVg82bnvPtr6AU/) |
+| Chinese-Hong Kong SAR | x86  | [hk_windows_server_2008_with_sp2_x86_dvd_x15-41053.dvp](https://zerofs.link/f/6uZzpzpv2MaPAudteJHjkP/) |
+| Hungarian             | x64  | [hu_windows_server_2008_with_sp2_x64_dvd_x15-41339.dvp](https://zerofs.link/f/noxT6RzCuCRX6VrmbqnzZc/) |
+| Hungarian             | x86  | [hu_windows_server_2008_with_sp2_x86_dvd_x15-41065.dvp](https://zerofs.link/f/nEMhg8TgYoMHtPcNJrcZwF/) |
+| Italian               | x64  | [it_windows_server_2008_with_sp2_x64_dvd_x15-41343.dvp](https://zerofs.link/f/NoFmycjqEbUPRn8u4wnmfC/) |
+| Italian               | x86  | [it_windows_server_2008_with_sp2_x86_dvd_x15-41069.dvp](https://zerofs.link/f/3ETQy84hyyrhhgHKyEMzGS/) |
+| Japanese              | x64  | [ja_windows_server_2008_with_sp2_x64_dvd_342397.dvp](https://zerofs.link/f/CPdQVctDVQTXEokr2viAcr/) |
+| Japanese              | x86  | [ja_windows_server_2008_with_sp2_x86_dvd_342394.dvp](https://zerofs.link/f/H7HC5RLVuXx3peYqAyLRoZ/) |
+| Korean                | x64  | [ko_windows_server_2008_with_sp2_x64_dvd_x15-41347.dvp](https://zerofs.link/f/EmUXPiD3X3S4y5Gfs92RHp/) |
+| Korean                | x86  | [ko_windows_server_2008_with_sp2_x86_dvd_x15-41073.dvp](https://zerofs.link/f/S2M6gtCGzkAP6uSFPNGceC/) |
+| Dutch                 | x64  | [nl_windows_server_2008_with_sp2_x64_dvd_x15-41335.dvp](https://zerofs.link/f/BikHdYWGPaA7z2XoqVnsWa/) |
+| Dutch                 | x86  | [nl_windows_server_2008_with_sp2_x86_dvd_x15-41061.dvp](https://zerofs.link/f/39uXeRRebhwmUW725L9qix/) |
+| Polish                | x64  | [pl_windows_server_2008_with_sp2_x64_dvd_x15-41351.dvp](https://zerofs.link/f/Lg5nDhrvZ8oRnvoNKDFVn7/) |
+| Polish                | x86  | [pl_windows_server_2008_with_sp2_x86_dvd_x15-41077.dvp](https://zerofs.link/f/3rd8ZadLDSwioibaVNDQbx/) |
+| Portuguese-Portugal   | x64  | [pp_windows_server_2008_with_sp2_x64_dvd_x15-41355.dvp](https://zerofs.link/f/kC4jhtkvU3NdVY7RkS2eQ9/) |
+| Portuguese-Portugal   | x86  | [pp_windows_server_2008_with_sp2_x86_dvd_x15-41081.dvp](https://zerofs.link/f/R5ztxYYNHHKLgZrSuxPnBd/) |
+| Portuguese-Brazil     | x64  | [pt_windows_server_2008_with_sp2_x64_dvd_x15-41315.dvp](https://zerofs.link/f/UtkeDbF33AUzLHrdsHH96Q/) |
+| Portuguese-Brazil     | x86  | [pt_windows_server_2008_with_sp2_x86_dvd_x15-41041.dvp](https://zerofs.link/f/Dfo5JyS7xuX4FHeeJn47dJ/) |
+| Russian               | x64  | [ru_windows_server_2008_with_sp2_x64_dvd_x15-41359.dvp](https://zerofs.link/f/fx2YcjGSTy836XvhJSvASn/) |
+| Russian               | x86  | [ru_windows_server_2008_with_sp2_x86_dvd_x15-41085.dvp](https://zerofs.link/f/NZxXosmtE55NPVQcxyjJBy/) |
+| Swedish               | x64  | [sv_windows_server_2008_with_sp2_x64_dvd_x15-41363.dvp](https://zerofs.link/f/FrQhR8mqAPTfsbFLhYRTxv/) |
+| Swedish               | x86  | [sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.dvp](https://zerofs.link/f/nae9ZEkQbj57t6GG5cnxFT/) |
+| Turkish               | x64  | [tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.dvp](https://zerofs.link/f/GqW9JCczjKn4MzMQSAR9xx/) |
+| Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.dvp](https://zerofs.link/f/9nVioQWHTfSATZuaVY4xHZ/) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.dvp](https://zerofs.link/f/UgDK7E6zpnHsWxepsLLZxH/) |
+| Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.dvp](https://zerofs.link/f/SWkvKtomErn69vJgCW7AGb/) |

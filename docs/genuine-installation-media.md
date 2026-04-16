@@ -18,7 +18,6 @@
 -  [Windows Vista](windows_vista__links.md)
 -  [Windows XP](windows_xp_links.md)
 -  [Windows Server](windows-server-links.md)
--  [Windows Embedded](windows-embedded-links.md)
 -  Windows Insider [10-11](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso) - [Server](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewserver) / [Registration](https://www.microsoft.com/en-us/windowsinsider/getting-started) is needed to download.
 
 ## Download Office
