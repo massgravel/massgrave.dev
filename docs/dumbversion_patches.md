@@ -16,15 +16,15 @@ Before you begin, make sure you have the following:
 * **A patch file:** The `.dvp` file you downloaded from our website.
 
 :::info
-For most patches on our site, the required base ISO is the standard **English (`en-us`)** version that matches the architecture of the patch. The Patcher will tell you if you use an incorrect base ISO.      
+For most patches on our site, the required base ISO is the standard **English (`en-us`)** version that matches the architecture of the patch. The Patcher will tell you if you are using an incorrect base ISO.      
 :::
 
 ## How to Apply a Patch
 
-1. **Create a new, empty folder and place all of the downloaded files inside it.** The Patcher executable, any amount of base ISOs, and any amount of `.dvp` files.
+1. **Create a new, empty folder and place all of the downloaded files inside it:** the patcher executable, any amount of base ISOs, and any amount of `.dvp` files.
 
 2. **Execute the DumbVersion Patcher.** It will scan the folder and automatically detect both the ISOs and the patch files.     
-    *(You can also drag-and-drop files on top of it if you want to process multiple patches.)*
+    *(If you want to process multiple patches, you can also drag-and-drop `.dvp` files onto the patcher.)*
 
 3. **Wait for the Patcher to complete.** The Patcher will process the files and generate new ISOs in the same folder.
 
