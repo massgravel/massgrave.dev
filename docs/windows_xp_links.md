@@ -22,7 +22,7 @@ The file below is a **full** ISO image.
 |:---------|:-----|:---|
 | English  | x86  | [en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (Buzzheavier)](https://buzzheavier.com/nar2zwokpo9t)<br/>[en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (ZeroFS)](https://zerofs.link/f/3puGRgtQNZXzMYRTnMCNTH/) |
 
-The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                                                                   |
 |:------------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
