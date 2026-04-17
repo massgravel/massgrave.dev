@@ -278,20 +278,20 @@ The files below are **DVP patches** that use the above ISO images for their resp
 | Chinese-Simplified    | x86  | [cn_windows_server_2008_with_sp2_x86_dvd_x15-41045.dvp](https://zerofs.link/f/eUMEQPfRAtAzcdgpQZEGEM/) |
 | Czech                 | x64  | [cs_windows_server_2008_with_sp2_x64_dvd_x15-41331.dvp](https://zerofs.link/f/UqgTs8wAHSURbLMXBhsSJM/) |
 | Czech                 | x86  | [cs_windows_server_2008_with_sp2_x86_dvd_x15-41057.dvp](https://zerofs.link/f/j7vnvS8WiJqYE5WT6xExwF/) |
-| German                | x64  | [de_windows_server_2008_with_sp2_x64_dvd_342381.dvp](https://zerofs.link/f/CdUM5XLfCcYxtvhJnbgYPZ/) |
-| German                | x86  | [de_windows_server_2008_with_sp2_x86_dvd_342378.dvp](https://zerofs.link/f/Vvhq9KUoh3zvJfsjWkxwpB/) |
-| Spanish               | x64  | [es_windows_server_2008_with_sp2_x64_dvd_342419.dvp](https://zerofs.link/f/B9xQATugEXZLyiCZobX4FB/) |
-| Spanish               | x86  | [es_windows_server_2008_with_sp2_x86_dvd_342416.dvp](https://zerofs.link/f/E4qfwiQZMkd8WV5XsW9TZL/) |
-| French                | x64  | [fr_windows_server_2008_with_sp2_x64_dvd_342359.dvp](https://zerofs.link/f/Ya9yv8SbLRa3beLtUCzY3W/) |
-| French                | x86  | [fr_windows_server_2008_with_sp2_x86_dvd_342356.dvp](https://zerofs.link/f/TPzZkj8GUwhhPyg5WYiJWr/) |
+| German                | x64  | [de_windows_server_2008_with_sp2_x64_dvd_342381.dvp](https://zerofs.link/f/CdUM5XLfCcYxtvhJnbgYPZ/)    |
+| German                | x86  | [de_windows_server_2008_with_sp2_x86_dvd_342378.dvp](https://zerofs.link/f/Vvhq9KUoh3zvJfsjWkxwpB/)    |
+| Spanish               | x64  | [es_windows_server_2008_with_sp2_x64_dvd_342419.dvp](https://zerofs.link/f/B9xQATugEXZLyiCZobX4FB/)    |
+| Spanish               | x86  | [es_windows_server_2008_with_sp2_x86_dvd_342416.dvp](https://zerofs.link/f/E4qfwiQZMkd8WV5XsW9TZL/)    |
+| French                | x64  | [fr_windows_server_2008_with_sp2_x64_dvd_342359.dvp](https://zerofs.link/f/Ya9yv8SbLRa3beLtUCzY3W/)    |
+| French                | x86  | [fr_windows_server_2008_with_sp2_x86_dvd_342356.dvp](https://zerofs.link/f/TPzZkj8GUwhhPyg5WYiJWr/)    |
 | Chinese-Hong Kong SAR | x64  | [hk_windows_server_2008_with_sp2_x64_dvd_x15-41327.dvp](https://zerofs.link/f/TEXcd5vvMVg82bnvPtr6AU/) |
 | Chinese-Hong Kong SAR | x86  | [hk_windows_server_2008_with_sp2_x86_dvd_x15-41053.dvp](https://zerofs.link/f/6uZzpzpv2MaPAudteJHjkP/) |
 | Hungarian             | x64  | [hu_windows_server_2008_with_sp2_x64_dvd_x15-41339.dvp](https://zerofs.link/f/noxT6RzCuCRX6VrmbqnzZc/) |
 | Hungarian             | x86  | [hu_windows_server_2008_with_sp2_x86_dvd_x15-41065.dvp](https://zerofs.link/f/nEMhg8TgYoMHtPcNJrcZwF/) |
 | Italian               | x64  | [it_windows_server_2008_with_sp2_x64_dvd_x15-41343.dvp](https://zerofs.link/f/NoFmycjqEbUPRn8u4wnmfC/) |
 | Italian               | x86  | [it_windows_server_2008_with_sp2_x86_dvd_x15-41069.dvp](https://zerofs.link/f/3ETQy84hyyrhhgHKyEMzGS/) |
-| Japanese              | x64  | [ja_windows_server_2008_with_sp2_x64_dvd_342397.dvp](https://zerofs.link/f/CPdQVctDVQTXEokr2viAcr/) |
-| Japanese              | x86  | [ja_windows_server_2008_with_sp2_x86_dvd_342394.dvp](https://zerofs.link/f/H7HC5RLVuXx3peYqAyLRoZ/) |
+| Japanese              | x64  | [ja_windows_server_2008_with_sp2_x64_dvd_342397.dvp](https://zerofs.link/f/CPdQVctDVQTXEokr2viAcr/)    |
+| Japanese              | x86  | [ja_windows_server_2008_with_sp2_x86_dvd_342394.dvp](https://zerofs.link/f/H7HC5RLVuXx3peYqAyLRoZ/)    |
 | Korean                | x64  | [ko_windows_server_2008_with_sp2_x64_dvd_x15-41347.dvp](https://zerofs.link/f/EmUXPiD3X3S4y5Gfs92RHp/) |
 | Korean                | x86  | [ko_windows_server_2008_with_sp2_x86_dvd_x15-41073.dvp](https://zerofs.link/f/S2M6gtCGzkAP6uSFPNGceC/) |
 | Dutch                 | x64  | [nl_windows_server_2008_with_sp2_x64_dvd_x15-41335.dvp](https://zerofs.link/f/BikHdYWGPaA7z2XoqVnsWa/) |
@@ -310,3 +310,197 @@ The files below are **DVP patches** that use the above ISO images for their resp
 | Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.dvp](https://zerofs.link/f/9nVioQWHTfSATZuaVY4xHZ/) |
 | Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.dvp](https://zerofs.link/f/UgDK7E6zpnHsWxepsLLZxH/) |
 | Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.dvp](https://zerofs.link/f/SWkvKtomErn69vJgCW7AGb/) |
+
+------------------------------------------------------------------------
+
+## Windows Server 2003 R2 SP2
+
+(Build - 3790.3959)
+
+<Tabs>
+<TabItem value="Windows Server 2003 R2 SP2" label="Windows Server 2003 R2 SP2" default>
+
+<Tabs>
+
+<TabItem value="Windows Server 2003 R2 Datacenter SP2" label="Windows Server 2003 R2 Datacenter SP2" default>
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (Buzzheavier)](https://buzzheavier.com/qdrfjz1jz9a7)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (ZeroFS)](https://zerofs.link/f/YJj7u9tLGFsKvV2JedzFju/)         |
+| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (Buzzheavier)](https://buzzheavier.com/8es5k6oihzt6)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (ZeroFS)](https://zerofs.link/f/3kQksSB2tDmNZFj997huWM/)         |
+| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (Buzzheavier)](https://buzzheavier.com/9z73qrzdj87n)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (ZeroFS)](https://zerofs.link/f/7FLyvJpN6ZQNr2XbGTHfoN/) |
+| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (Buzzheavier)](https://buzzheavier.com/h3ufrx79pltw)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (ZeroFS)](https://zerofs.link/f/JvueA3pE6X4VdQwwwXat5f/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language                | Arch | Link                                                                                                                                             |
+| :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46628.dvp](https://zerofs.link/f/ny3784xUYybzfacNYTykTX/)           |
+| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49315.dvp](https://zerofs.link/f/D9n6jBsLpsX3oPWTWULbUk/)           |
+| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47450.dvp](https://zerofs.link/f/AQcKi95QrYVgqPPhEnqvtF/)       |
+| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62768.dvp](https://zerofs.link/f/AD2ERRAs9Qnh5hxgt5pVAC/)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46636.dvp](https://zerofs.link/f/cB6rFehW8iq7wViP9KqW9u/)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49317.dvp](https://zerofs.link/f/TYFcsktFvmPX7VVF4sPUwv/)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47466.dvp](https://zerofs.link/f/nrS4gYZ2hHBh6WWPTcTGCv/)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62767.dvp](https://zerofs.link/f/gFaoQeGngvDPh6LzDwWPNs/)       |
+| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46624.dvp](https://zerofs.link/f/8jp7TmD7ZUZZtUGRsCnNiu/)           |
+| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49319.dvp](https://zerofs.link/f/Nj6cEzBuXJGKihpqvPGcV3/)           |
+| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47438.dvp](https://zerofs.link/f/RPMyBrcMiPqzPw2LVorgP5/)       |
+| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62766.dvp](https://zerofs.link/f/dxTyBcGJ8NoumkUBH9MtiS/)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46632.dvp](https://zerofs.link/f/aJ7MJzv8YoY4sQdJGFS8or/)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49316.dvp](https://zerofs.link/f/2rne8WES8qFAYDKUPLKPTe/)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc1_dvd_x13-66824.dvp](https://zerofs.link/f/Fj8VK5iA8rK3nFaqo2EBMM/) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc2_cd_x13-49385.dvp](https://zerofs.link/f/TDBRBD2wi2vJ7T5UMdGsYZ/)  |
+
+</TabItem>
+
+<TabItem value="Windows Server 2003 R2 Enterprise SP2" label="Windows Server 2003 R2 Enterprise SP2" default>
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (Buzzheavier)](https://buzzheavier.com/9k2o022l4t82)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (ZeroFS)](https://zerofs.link/f/n5pEw9qP95wwM4FeZPLbgn/)         |
+| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (Buzzheavier)](https://buzzheavier.com/gtn3i1acwjqr)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (ZeroFS)](https://zerofs.link/f/3iDg8UXbs7LxHUEsisrDM2/)         |
+| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (Buzzheavier)](https://buzzheavier.com/mkm78rqxwnbc)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (ZeroFS)](https://zerofs.link/f/5yU7Wy5qsXaB8JdfsRs3JQ/) |
+| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (Buzzheavier)](https://buzzheavier.com/ndxk8ve0fooy)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (ZeroFS)](https://zerofs.link/f/RHwKs8qdM7qTisE8Xp4LR8/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language                | Arch | Link                                                                                                                                             |
+| :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46428.dvp](https://zerofs.link/f/UKxpw523pJGxoxzVjiXUBA/)           |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-27638.dvp](https://zerofs.link/f/k6ypeRRdL7RdMmzsFqTmBX/)           |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47307.dvp](https://zerofs.link/f/BVongagmjEELGkSCdawh56/)       |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-30863.dvp](https://zerofs.link/f/Jtiy7NhfS76eqX6uYDUe2U/)       |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46432.dvp](https://zerofs.link/f/W2xvy5fu5QUeTTh4XNuq8t/)           |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13895.dvp](https://zerofs.link/f/j78ZDgDcKnkgBjedv7aqhh/)           |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47314.dvp](https://zerofs.link/f/catM9RxGeNWbzmEFQZzotR/)       |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-35321.dvp](https://zerofs.link/f/XdFtFd29A6HA8f2PVracBz/)       |
+| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46444.dvp](https://zerofs.link/f/jvLnEoG38wMvN7yePoRq38/)           |
+| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38995.dvp](https://zerofs.link/f/e3zczV2cbbLNxyPhN3WxDv/)           |
+| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46456.dvp](https://zerofs.link/f/9aYVdgBu3AanA4aj7o42Hp/)           |
+| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12133.dvp](https://zerofs.link/f/BpwvKEmVYHEXVhCK9rgB8j/)           |
+| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48622.dvp](https://zerofs.link/f/5o63CWopajfyhVGRbDBMXC/)       |
+| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18830.dvp](https://zerofs.link/f/KL9GN74mqu5enWcEjEnZa6/)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46488.dvp](https://zerofs.link/f/NnY7DaKjEeb9VuQwXTZ9vc/)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12164.dvp](https://zerofs.link/f/T9rYuhos4NesDr57XqWuTD/)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48642.dvp](https://zerofs.link/f/Xr9Gu6XQ5u2ykpwkkibNxY/)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18843.dvp](https://zerofs.link/f/5YyK8iY6sABF4yW3nb9F9a/)       |
+| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46452.dvp](https://zerofs.link/f/CAX6kxgpizigfzuzshgEMs/)           |
+| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12148.dvp](https://zerofs.link/f/cDyFp36WF3QJkrRzkG4Aoc/)           |
+| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48618.dvp](https://zerofs.link/f/XitWCQsBbrEHxW7oYhwbVf/)       |
+| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18818.dvp](https://zerofs.link/f/Hu2YDShXFijwUF7JnELhZw/)       |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46540.dvp](https://zerofs.link/f/jpQvqCrRSpyHW6C6mn9mjn/)           |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13679.dvp](https://zerofs.link/f/53Tcmzbf3bbXYugidaxr7H/)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46460.dvp](https://zerofs.link/f/FUpSzC5zYAbbY48jSTcJVG/)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38994.dvp](https://zerofs.link/f/RMKQMGnMDDDevinqecf4SP/)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46464.dvp](https://zerofs.link/f/6hghhPEzngmnqeGEHeC2Ma/)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-29180.dvp](https://zerofs.link/f/W8Dj4vPcxmnKxeFwomhm9i/)           |
+| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48626.dvp](https://zerofs.link/f/KcLR7JM9TRxLE8JgRhWzz6/)       |
+| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-29203.dvp](https://zerofs.link/f/FfZoxewKtZaYkehR6SiruB/)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46468.dvp](https://zerofs.link/f/ddas6S4K9m3VQjxvxKTL5T/)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-41712.dvp](https://zerofs.link/f/b9pPGYMBCPNiE7NQ3AC4nT/)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc1_dvd_x13-66816.dvp](https://zerofs.link/f/cfHrkf8HMc4Gcs9dBFo8Et/) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc2_cd_x13-41718.dvp](https://zerofs.link/f/hXFL53ThKbTnggTh2HctwY/)  |
+| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48634.dvp](https://zerofs.link/f/Cndt8NKYPNkqamax9vJbWY/)       |
+| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28746.dvp](https://zerofs.link/f/dsVNCku9CmxmjZ2SBhCP7m/)       |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46448.dvp](https://zerofs.link/f/5JPydCnJ7aEpF24o52QLUc/)           |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38996.dvp](https://zerofs.link/f/fsStsQsxoFznvtAHjk4Qaj/)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46476.dvp](https://zerofs.link/f/CL76bBdhcjZf7B3aqzbWTH/)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38991.dvp](https://zerofs.link/f/MqbwuQ7ZftAitv2Vw4RG8K/)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46480.dvp](https://zerofs.link/f/AvkL9mT2HiSx9Kpcijguew/)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38989.dvp](https://zerofs.link/f/64sumydQoi7sZmMrW5Us7Z/)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46484.dvp](https://zerofs.link/f/GGYAfm9zt63cV6L95CHS2j/)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38990.dvp](https://zerofs.link/f/EkRnCaa6bAzKyympnm5p43/)           |
+| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48638.dvp](https://zerofs.link/f/VY3xWptPhXTGbrhzNwxz9v/)       |
+| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-40440.dvp](https://zerofs.link/f/T69HvJNbvusR8CvwHKGrBu/)       |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46492.dvp](https://zerofs.link/f/hybqzJ6yLJsCGVoUyg2upR/)           |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38992.dvp](https://zerofs.link/f/4Ruv5zk7CmGmgg5qiaCTSN/)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46496.dvp](https://zerofs.link/f/T7G5aYwb9zX8CsMBnjgr4v/)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38993.dvp](https://zerofs.link/f/eNQoepxHdUwStPkfeSL5RL/)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46436.dvp](https://zerofs.link/f/k32GdFwWHKJxDDQusBPzhB/)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13678.dvp](https://zerofs.link/f/3eDw23eSoe7QBhv8vPhesz/)           |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47321.dvp](https://zerofs.link/f/Y79kK4rXAoT2DrKtnoVTKf/)       |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28745.dvp](https://zerofs.link/f/d6dVjTMmRFuLVeNcW78LUw/)       |
+
+</TabItem>
+
+<TabItem value="Windows Server 2003 R2 Standard SP2" label="Windows Server 2003 R2 Standard SP2" default>
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (Buzzheavier)](https://buzzheavier.com/lexu5gxk38kx)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (ZeroFS)](https://zerofs.link/f/YtWQkstesE39cE2yKK7Vz8/)           |
+| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (Buzzheavier)](https://buzzheavier.com/x61527gl3b2q)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (ZeroFS)](https://zerofs.link/f/CXv9qzuo6m7iN8LBAMXCiT/)         |
+| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (Buzzheavier)](https://buzzheavier.com/3ccju6b17gkj)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (ZeroFS)](https://zerofs.link/f/Ao4j4cBFg97NrEvNq7tz2E/) |
+| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (Buzzheavier)](https://buzzheavier.com/7i3r93cwaqbf)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (ZeroFS)](https://zerofs.link/f/fjXFfWrPZsZqcmt4y7KSM8/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language                | Arch | Link                                                                                                                                             |
+| :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46528.dvp](https://zerofs.link/f/HyKXpuZPNxjfXDVNgY42Tn/)           |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-27857.dvp](https://zerofs.link/f/CVyFFfi2DKgLbZbp66tRW9/)           |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47353.dvp](https://zerofs.link/f/DpdWdrWYK3gy2bkHFVpnWx/)       |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-32642.dvp](https://zerofs.link/f/WLZj6NmXhi2ykSNv2ZQjHk/)       |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46532.dvp](https://zerofs.link/f/Lj8C5uHpuwnykyi8ZMcDk8/)           |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13942.dvp](https://zerofs.link/f/PRkZu6gHGcATtPHGZx8uCG/)           |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47363.dvp](https://zerofs.link/f/PSgeWmeazap9KMbKCVcMX4/)       |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28819.dvp](https://zerofs.link/f/JPoaHNBeeXX7EbdDmj8VHG/)       |
+| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46544.dvp](https://zerofs.link/f/4dpSRXSuJWWQMtoDUHm9wx/)           |
+| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40657.dvp](https://zerofs.link/f/KsCgnNqxKXcymWJLtayw7H/)           |
+| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46556.dvp](https://zerofs.link/f/Mwa65umzxnSDK9BA3xqH7W/)           |
+| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12185.dvp](https://zerofs.link/f/Pd7HH6EHfDeVfFbJC7VVPv/)           |
+| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47718.dvp](https://zerofs.link/f/gBNaUakCXec8CcoAaXrFHN/)       |
+| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20479.dvp](https://zerofs.link/f/Yt5v7CE8F5cyyaJaAwb5cB/)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46588.dvp](https://zerofs.link/f/bAnYpimtWUPXdFPQ8xRZv2/)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12300.dvp](https://zerofs.link/f/DNfE5vgQ23thESXW5paNFo/)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47652.dvp](https://zerofs.link/f/e5FAivdBRXkh7igpkGxGzL/)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20488.dvp](https://zerofs.link/f/9Epynnm4ZmRAd3z6SqMD6V/)       |
+| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46552.dvp](https://zerofs.link/f/h7Ndyv6hLCYLZtccndzi3j/)           |
+| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12291.dvp](https://zerofs.link/f/NW2jGo8dHtZyDsv6i5Wmkf/)           |
+| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47708.dvp](https://zerofs.link/f/FbKJ3RpoTA7MrjDDreeB3f/)       |
+| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20455.dvp](https://zerofs.link/f/cxVnuK5njSXg5TuZGEdiGX/)       |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46440.dvp](https://zerofs.link/f/awLfofFmMeUEtyVkKGSe2N/)           |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13943.dvp](https://zerofs.link/f/HgDhmg6ejNte6n5t5qFWkC/)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46560.dvp](https://zerofs.link/f/S9QRg446esicD8ch4X7LEm/)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40660.dvp](https://zerofs.link/f/AFh2bZYdaqFDmFKUYQYCvm/)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46564.dvp](https://zerofs.link/f/8azY2aSsSWxoPvU5MqbWg6/)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-29193.dvp](https://zerofs.link/f/cXoSqMtYy2xgzSgf3ZGkik/)           |
+| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47386.dvp](https://zerofs.link/f/CzbiXQFX2CzhHBcAck5bSm/)       |
+| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-29791.dvp](https://zerofs.link/f/L3csBr5unUnUbQ46oDggZm/)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46568.dvp](https://zerofs.link/f/CzSAKTvXqbDTqjfXJk9wuU/)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-41709.dvp](https://zerofs.link/f/62yG6ga2gDHPU6qmBBEmKM/)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc1_dvd_x13-66820.dvp](https://zerofs.link/f/h7eCNYoaWJauEW6gTkqJUM/) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc2_cd_x13-41715.dvp](https://zerofs.link/f/USQxKk6NN3t37Cf2VPhFgz/)  |
+| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47636.dvp](https://zerofs.link/f/jo5gF2yncRbVdWoisVU3PX/)       |
+| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28821.dvp](https://zerofs.link/f/jPTef7qpuKoo34yhavvFud/)       |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46548.dvp](https://zerofs.link/f/eZxJSRJFY6Ne4rsbD2TPT9/)           |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40655.dvp](https://zerofs.link/f/QbgxSwVztiNuCDmyUhcrBZ/)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46576.dvp](https://zerofs.link/f/4w43KnMnwcG3krQJbgkd7W/)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40654.dvp](https://zerofs.link/f/UJf55JCY7UeDK6Xu2pBqKG/)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46580.dvp](https://zerofs.link/f/LcQxs64gadhXVZGpf88TaG/)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40653.dvp](https://zerofs.link/f/UYqb6rVrFvkkc8sBhZaqUw/)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46584.dvp](https://zerofs.link/f/U5whjiJjn3o2nVAGD2azzW/)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40656.dvp](https://zerofs.link/f/DDxfcntXyzPPgC4yF9T8W8/)           |
+| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-48326.dvp](https://zerofs.link/f/a3STk6yAJWjNh4hkxaWh4T/)       |
+| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-40704.dvp](https://zerofs.link/f/9iACDh2cZJirhLZ4G3au64/)       |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46592.dvp](https://zerofs.link/f/U5whjiJjn3o2nVAGD2azzW/)           |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40658.dvp](https://zerofs.link/f/kxMXr9fh9bKAdWnwb2hawt/)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46596.dvp](https://zerofs.link/f/hhXc8o5A2SCrQd3qXQg7dB/)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40659.dvp](https://zerofs.link/f/3QHaStUDSbkcaRYD4PEzBd/)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46536.dvp](https://zerofs.link/f/5446gUezqiXJgbdNjPw4te/)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13941.dvp](https://zerofs.link/f/GHBebqpPAqqzwNrSvLri2C/)           |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47698.dvp](https://zerofs.link/f/DZX8ixVMvytH3mfu3XBq2t/)       |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28820.dvp](https://zerofs.link/f/frVSuNd4boaNr3jx5NnJ4b/)       |
+
+</TabItem>
+
+</Tabs>
+
+</TabItem>
+</Tabs>

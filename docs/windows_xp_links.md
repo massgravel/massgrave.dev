@@ -16,6 +16,14 @@ All download links lead to genuine files only.
 
 ## Windows XP SP3 VL (x86)
 
+The file below is a **full** ISO image.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x86  | [en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (Buzzheavier)](https://buzzheavier.com/nar2zwokpo9t)<br/>[en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (ZeroFS)](https://zerofs.link/f/3puGRgtQNZXzMYRTnMCNTH/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
 | Language                | Arch | Link                                                                                                                                                                                   |
 |:------------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Arabic                  | x86  | [ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.dvp](https://zerofs.link/f/3DxFG3YJypP6ogxBmbHpQm/)      |
@@ -49,4 +57,4 @@ All download links lead to genuine files only.
 
 | Language | Arch | Link                                                                                                                   |
 |:---------|:-----|:-----------------------------------------------------------------------------------------------------------------------|
-| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso](https://buzzheavier.com/akh52ycfxwfy) |
+| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (Buzzheavier)](https://buzzheavier.com/akh52ycfxwfy)<br/>[en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (ZeroFS)](https://zerofs.link/f/JZ4Zf3toxjujtbAkYaeFr4/) |

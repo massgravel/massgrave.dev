@@ -369,7 +369,7 @@ Use the following product keys during installation to get the full, non-evaluati
 
 | Language                | Arch     | Link                                                                                    |
 | :---------------------- | :------- | :-------------------------------------------------------------------------------------- |
-| English                 | x32/x64  | [Official Download](https://www.microsoft.com/en-us/download/details.aspx?id=37019)     |
+| English                 | x86/x64  | [Official Download](https://www.microsoft.com/en-us/download/details.aspx?id=37019)     |
 
 </TabItem>
 </Tabs>
