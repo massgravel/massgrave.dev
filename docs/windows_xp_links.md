@@ -16,33 +16,32 @@ All download links lead to genuine files only.
 
 ## Windows XP SP3 VL (x86)
 
-| Language              | Arch | Link                                                                                                                                                                                   |
-|:----------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                | x86  | [ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.iso](pathname:///drive.html#ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.iso)           |
-| Czech                 | x86  | [cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso](pathname:///drive.html#cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso)           |
-| Danish                | x86  | [da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.iso](pathname:///drive.html#da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.iso)           |
-| German                | x86  | [de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.iso](pathname:///drive.html#de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.iso)           |
-| Greek                 | x86  | [el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso](pathname:///drive.html#el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso)           |
-| English               | x86  | [en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso](pathname:///drive.html#en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso)           |
-| Spanish               | x86  | [es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.iso](pathname:///drive.html#es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.iso)           |
-| Finnish               | x86  | [fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.iso](pathname:///drive.html#fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.iso)           |
-| French                | x86  | [fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.iso](pathname:///drive.html#fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.iso)           |
-| Hebrew                | x86  | [he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.iso](pathname:///drive.html#he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.iso)           |
-| Hungarian             | x86  | [hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso](pathname:///drive.html#hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso)           |
-| Italian               | x86  | [it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso](pathname:///drive.html#it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso)           |
-| Japanese              | x86  | [ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso](pathname:///drive.html#ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso)         |
-| Korean                | x86  | [ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.iso](pathname:///drive.html#ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.iso)       |
-| Dutch                 | x86  | [nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso](pathname:///drive.html#nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso)           |
-| Norwegian             | x86  | [no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso](pathname:///drive.html#no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso)           |
-| Polish                | x86  | [pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso](pathname:///drive.html#pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso)           |
-| Portuguese-Brazil     | x86  | [pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.iso](pathname:///drive.html#pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.iso)     |
-| Portuguese-Portugal   | x86  | [pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.iso](pathname:///drive.html#pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.iso)     |
-| Russian               | x86  | [ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.iso](pathname:///drive.html#ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.iso)           |
-| Swedish               | x86  | [sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso](pathname:///drive.html#sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso)           |
-| Turkish               | x86  | [tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso](pathname:///drive.html#tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso)           |
-| zh-hans               | x86  | [zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso](pathname:///drive.html#zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso) |
-| Chinese-Hong Kong SAR | x86  | [zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso](pathname:///drive.html#zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso)     |
-| Chinese-Traditional   | x86  | [zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso](pathname:///drive.html#zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso)     |
+| Language                | Arch | Link                                                                                                                                                                                   |
+|:------------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arabic                  | x86  | [ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.dvp](https://zerofs.link/f/3DxFG3YJypP6ogxBmbHpQm/)      |
+| Czech                   | x86  | [cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.dvp](https://zerofs.link/f/QhQra33wXaUY5tKjVtixVq/)      |
+| Danish                  | x86  | [da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.dvp](https://zerofs.link/f/grLSUo6u4d3atPS8ruPsgv/)      |
+| German                  | x86  | [de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.dvp](https://zerofs.link/f/Hvf2TVBfXcJLbj9iKwLPYM/)      |
+| Greek                   | x86  | [el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.dvp](https://zerofs.link/f/K8T2RWTwNAJQ2QTS7mHSUG/)      |
+| Spanish                 | x86  | [es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.dvp](https://zerofs.link/f/fwAAHKz3yMGj7JELayBSrq/)      |
+| Finnish                 | x86  | [fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.dvp](https://zerofs.link/f/QeJvuzyDeKw9pk4UXdSCMP/)      |
+| French                  | x86  | [fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.dvp](https://zerofs.link/f/cqPuW2UuXGvvN5sbShgGmg/)      |
+| Hebrew                  | x86  | [he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.dvp](https://zerofs.link/f/o4ACReL28XicXXapfCEtjw/)      |
+| Hungarian               | x86  | [hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.dvp](https://zerofs.link/f/FmoBoxtE8WrkzdKG34MLGM/)      |
+| Italian                 | x86  | [it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.dvp](https://zerofs.link/f/eXzPaYwXjCJGxm7yfqkkPb/)      |
+| Japanese                | x86  | [ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.dvp](https://zerofs.link/f/guGF3aN7s3pXiKCZdQ7XrR/)     |
+| Korean                  | x86  | [ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.dvp](https://zerofs.link/f/miAzJQVk9jKLmDLXKwstoC/)    |
+| Dutch                   | x86  | [nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.dvp](https://zerofs.link/f/h37KyGUJHKD28r4gUgCDL9/)      |
+| Norwegian               | x86  | [no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.dvp](https://zerofs.link/f/8HwKyFYtgNn4hxGVo78pxf/)      |
+| Polish                  | x86  | [pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.dvp](https://zerofs.link/f/NMyxz6i2Y6wW9sQZD239kA/)      |
+| Portuguese-Brazil       | x86  | [pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.dvp](https://zerofs.link/f/Gew4Z8WCk6HatZpG5erWCr/)   |
+| Portuguese-Portugal     | x86  | [pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.dvp](https://zerofs.link/f/8UNAFsnhwtwmmAa2DiA85c/)   |
+| Russian                 | x86  | [ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.dvp](https://zerofs.link/f/KEDNL7dzdLGizzecsJhvKo/)      |
+| Swedish                 | x86  | [sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.dvp](https://zerofs.link/f/64bkMockrhrGnswa34dwXq/)      |
+| Turkish                 | x86  | [tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.dvp](https://zerofs.link/f/mVwVVP9dfsiNbdd3SiRwZV/)      |
+| Chinese - Simplified    | x86  | [zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.dvp](https://zerofs.link/f/4CytXDG9qrWUTkg6c3V4WZ/) |
+| Chinese - Hong Kong SAR | x86  | [zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.dvp](https://zerofs.link/f/KebdRySiZDYW5Jx9AsZLiF/)   |
+| Chinese - Traditional   | x86  | [zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.dvp](https://zerofs.link/f/Ni8nu6DxoQwDV4cnyzmCa8/)   |
 
 ------------------------------------------------------------------------
 
@@ -50,4 +49,4 @@ All download links lead to genuine files only.
 
 | Language | Arch | Link                                                                                                                   |
 |:---------|:-----|:-----------------------------------------------------------------------------------------------------------------------|
-| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso](pathname:///drive.html#en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso) |
+| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso](https://buzzheavier.com/akh52ycfxwfy) |
