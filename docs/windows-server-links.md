@@ -324,6 +324,8 @@ The files below are **DVP patches** that use the above ISO images for their resp
 
 <TabItem value="Windows Server 2003 R2 Datacenter SP2" label="Windows Server 2003 R2 Datacenter SP2" default>
 
+**Windows Server 2003 R2 Datacenter SP2**
+
 The files below are **full** ISO images.
 
 | Language | Arch | Link |
@@ -357,6 +359,8 @@ The files below are **DVP patches** that use the above ISO images for their resp
 </TabItem>
 
 <TabItem value="Windows Server 2003 R2 Enterprise SP2" label="Windows Server 2003 R2 Enterprise SP2" default>
+
+**Windows Server 2003 R2 Enterprise SP2**
 
 The files below are **full** ISO images.
 
@@ -429,6 +433,8 @@ The files below are **DVP patches** that use the above ISO images for their resp
 </TabItem>
 
 <TabItem value="Windows Server 2003 R2 Standard SP2" label="Windows Server 2003 R2 Standard SP2" default>
+
+**Windows Server 2003 R2 Standard SP2**
 
 The files below are **full** ISO images.
 
