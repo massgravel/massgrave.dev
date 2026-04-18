@@ -317,6 +317,9 @@ The files below are **DVP patches** that use the above ISO images for their resp
 
 (Build - 3790.3959)
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 <Tabs>
 <TabItem value="Windows Server 2003 R2 SP2" label="Windows Server 2003 R2 SP2" default>
 
