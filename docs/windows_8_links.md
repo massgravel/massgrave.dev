@@ -129,7 +129,7 @@ The files below are **full** ISO images.
 | Language | Arch | Link |
 |:---------|:-----|:---|
 | English  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso (Buzzheavier)](https://buzzheavier.com/6bxw5yuk6bg6)<br/>[en_windows_8_enterprise_x64_dvd_917522.iso (ZeroFS)](https://zerofs.link/f/MAFHujRyawGN3XfStnJ8TK/) |
-| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://zerofs.link/f/NhcnaspAtwW3STSzWq6B2f/) |
+| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://zerofs.link/f/gUnX35NSviygfsmqWNpYza/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
