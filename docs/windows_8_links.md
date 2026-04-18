@@ -129,7 +129,7 @@ The files below are **full** ISO images.
 | Language | Arch | Link |
 |:---------|:-----|:---|
 | English  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso (Buzzheavier)](https://buzzheavier.com/6bxw5yuk6bg6)<br/>[en_windows_8_enterprise_x64_dvd_917522.iso (ZeroFS)](https://zerofs.link/f/MAFHujRyawGN3XfStnJ8TK/) |
-| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://zerofs.link/f/ZshGKUuYiVzd5qSJAHYmbp/) |
+| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://zerofs.link/f/NhcnaspAtwW3STSzWq6B2f/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
@@ -292,7 +292,7 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_8_enterprise_n_x64_dvd_918052.iso (Buzzheavier)](https://buzzheavier.com/7bjgfilvpdef)<br/>[en_windows_8_enterprise_n_x64_dvd_918052.iso (ZeroFS)](https://zerofs.link/f/iGbV29mvqpAHgk8nfpvJKL/) |
+| English  | x64  | [en_windows_8_enterprise_n_x64_dvd_918052.iso (Buzzheavier)](https://buzzheavier.com/7bjgfilvpdef) |
 | English  | x86  | [en_windows_8_enterprise_n_x86_dvd_918707.iso (Buzzheavier)](https://buzzheavier.com/m0vr4tqeklo2)<br/>[en_windows_8_enterprise_n_x86_dvd_918707.iso (ZeroFS)](https://zerofs.link/f/Fh4NukTdRMh5K2f2CNtTRW/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
