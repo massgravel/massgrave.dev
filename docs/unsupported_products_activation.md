@@ -22,6 +22,14 @@
 
 ------------------------------------------------------------------------
 
+## Windows Server 2003 R2 VL SP2
+
+-   Download Windows Server 2003 R2 VL SP2 - [Link](windows-server-links.md)
+-	32-bit (x86) Windows Server 2003 R2 VL SP2 ISO Activation key - `VV7KW-R29XM-YWDVF-BT8Q2-R767M`
+-	64-bit (x64) Windows Server 2003 R2 VL SP2 ISO Activation key - `PPJ3X-CGY6Y-7GFTJ-QXRRM-P3GBB`
+
+------------------------------------------------------------------------
+
 ## Office 2010 on Windows XP / Server 2003
 
 - [Office 2010 Installer.](office_msi_links.md)  
