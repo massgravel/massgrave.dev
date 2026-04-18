@@ -16,7 +16,7 @@
 
 ## Windows XP Pro VL
 
--  Download Windows XP Pro VL ISO.
+-   Download Windows XP Pro VL - [Link](windows_xp_links.md)
 -	32-bit (x86) Windows XP Pro VL SP3 ISO Activation key - `XCYBK-2B3KV-G8T8F-WXJM7-WCTYT`
 -	64-bit (x64) Windows XP Pro VL SP2 ISO Activation key - `VCFQD-V9FX9-46WVH-K3CD4-4J3JM`
 

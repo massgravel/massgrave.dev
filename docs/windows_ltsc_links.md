@@ -372,6 +372,287 @@ Windows 10 IoT Enterprise LTSC
 | Chinese-Traditional    | x86  | [zh-tw_windows_10_enterprise_ltsc_2021_x86_dvd_03be1c20.iso](https://buzzheavier.com/zi31zh84xltm) |
 
 </TabItem>
+<TabItem value="Windows 10 LTSC 2019" label="Windows 10 LTSC 2019" default>
+
+**Windows 10 Enterprise LTSC 2019**
+
+(Build - 17763.316)
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso (Buzzheavier)](https://buzzheavier.com/kmr0i1zoz8g8)<br/>[en_windows_10_enterprise_ltsc_2019_x64_dvd_5795bb03.iso (ZeroFS)](https://zerofs.link/f/gw2CD6ponn7Sy29DjwgZCL/) |
+| English  | x86  | [en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso (Buzzheavier)](https://buzzheavier.com/9es30p2w8fsb)<br/>[en_windows_10_enterprise_ltsc_2019_x86_dvd_892869c9.iso (ZeroFS)](https://zerofs.link/f/55qDeErhGjLPSvDPKmsyD2/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language               | Arch | Link                                                                                                                                                   |
+|:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arabic                 | x64  | [ar_windows_10_enterprise_ltsc_2019_x64_dvd_a1f42c56.dvp](https://zerofs.link/f/TUoZmmAWNqkhUNrz2bR8ra/) |
+| Arabic                 | x86  | [ar_windows_10_enterprise_ltsc_2019_x86_dvd_8faea15c.dvp](https://zerofs.link/f/mH8vMkWBWSBBD5Jg9Usxxz/) |
+| Bulgarian              | x64  | [bg_windows_10_enterprise_ltsc_2019_x64_dvd_65c7e0c3.dvp](https://zerofs.link/f/CpRKbHCZzZNBV4RZ2zMJse/) |
+| Bulgarian              | x86  | [bg_windows_10_enterprise_ltsc_2019_x86_dvd_73c555b7.dvp](https://zerofs.link/f/jUjx2uxqdboZiuAE5Qukk6/) |
+| Chinese-Simplified     | x64  | [cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.dvp](https://zerofs.link/f/WWTGvSR5Hx97GcKFjYeVuv/) |
+| Chinese-Simplified     | x86  | [cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.dvp](https://zerofs.link/f/QHesRjae84XkU4puD7j5JR/) |
+| Czech                  | x64  | [cs_windows_10_enterprise_ltsc_2019_x64_dvd_b15b47cf.dvp](https://zerofs.link/f/29vKYQ5GtMPb5Pek2k7WV5/) |
+| Czech                  | x86  | [cs_windows_10_enterprise_ltsc_2019_x86_dvd_b3b102f8.dvp](https://zerofs.link/f/5JDkgN7ei57EsgyyqXbxPF/) |
+| Chinese-Traditional    | x64  | [ct_windows_10_enterprise_ltsc_2019_x64_dvd_c301154f.dvp](https://zerofs.link/f/7cowMFgBt7PXwT2eWwYerQ/) |
+| Chinese-Traditional    | x86  | [ct_windows_10_enterprise_ltsc_2019_x86_dvd_9096dec8.dvp](https://zerofs.link/f/nn5JhCHigFFgMWz5BXZ8y5/) |
+| Danish                 | x64  | [da_windows_10_enterprise_ltsc_2019_x64_dvd_772bd569.dvp](https://zerofs.link/f/ajKUDumtU2DnJzuZdg8iUS/) |
+| Danish                 | x86  | [da_windows_10_enterprise_ltsc_2019_x86_dvd_54ea3b7c.dvp](https://zerofs.link/f/T2AZokqB35HoGsz3gKpun2/) |
+| German                 | x64  | [de_windows_10_enterprise_ltsc_2019_x64_dvd_34efbe54.dvp](https://zerofs.link/f/MvypRKv7B2oQjjTgGRQr7P/) |
+| German                 | x86  | [de_windows_10_enterprise_ltsc_2019_x86_dvd_b003dc50.dvp](https://zerofs.link/f/EKoobhosmyFyBteScGuEAp/) |
+| Greek                  | x64  | [el_windows_10_enterprise_ltsc_2019_x64_dvd_25ea66b9.dvp](https://zerofs.link/f/gUeLL9zcxxgxZHZchzu2GL/) |
+| Greek                  | x86  | [el_windows_10_enterprise_ltsc_2019_x86_dvd_d8746855.dvp](https://zerofs.link/f/WixxM3FsgPSzotXdHfdmar/) |
+| English-United Kingdom | x64  | [en-uk_windows_10_enterprise_ltsc_2019_x64_dvd_723dfbc1.dvp](https://zerofs.link/f/gKgvs9hFgxue3JmL6B7kwR/) |
+| English-United Kingdom | x86  | [en-uk_windows_10_enterprise_ltsc_2019_x86_dvd_ae3afea1.dvp](https://zerofs.link/f/BvMa6ikes5VzkYPmHUsjta/) |
+| Spanish                | x64  | [es_windows_10_enterprise_ltsc_2019_x64_dvd_44a5b896.dvp](https://zerofs.link/f/AzticgQfhGtnNChVcoXPpt/) |
+| Spanish                | x86  | [es_windows_10_enterprise_ltsc_2019_x86_dvd_84f6ff1d.dvp](https://zerofs.link/f/XePumRDJHJwEiB2QMtucCJ/) |
+| Spanish-Mexico         | x64  | [es-mx_windows_10_enterprise_ltsc_2019_x64_dvd_686cdfbe.dvp](https://zerofs.link/f/9S79CYL2ti4sKGm8NChQTb/) |
+| Spanish-Mexico         | x86  | [es-mx_windows_10_enterprise_ltsc_2019_x86_dvd_a706f07d.dvp](https://zerofs.link/f/cRxNEDAeecNcEpBWTzyDTU/) |
+| Estonian               | x64  | [et_windows_10_enterprise_ltsc_2019_x64_dvd_509e0d4c.dvp](https://zerofs.link/f/keSxGX3mxs9eTyAEoghWRJ/) |
+| Estonian               | x86  | [et_windows_10_enterprise_ltsc_2019_x86_dvd_56908605.dvp](https://zerofs.link/f/7TwJPujYZ47C2qNGss4rkX/) |
+| Finnish                | x64  | [fi_windows_10_enterprise_ltsc_2019_x64_dvd_8e6aaf2c.dvp](https://zerofs.link/f/AvVZGAXqtSyXN5ZGUoC6mr/) |
+| Finnish                | x86  | [fi_windows_10_enterprise_ltsc_2019_x86_dvd_8016a99b.dvp](https://zerofs.link/f/5CQesSXpURD94kYivmcXyw/) |
+| French                 | x64  | [fr_windows_10_enterprise_ltsc_2019_x64_dvd_d64b363d.dvp](https://zerofs.link/f/dCh57vSg3xssnrWdKBcTdP/) |
+| French                 | x86  | [fr_windows_10_enterprise_ltsc_2019_x86_dvd_6718a277.dvp](https://zerofs.link/f/Ju2b2EA2XAvPpmBs6YXgBB/) |
+| French-Canada          | x64  | [fr-ca_windows_10_enterprise_ltsc_2019_x64_dvd_a77dd2c4.dvp](https://zerofs.link/f/V8e3NLBuTgT9tSGrjjEeTe/) |
+| French-Canada          | x86  | [fr-ca_windows_10_enterprise_ltsc_2019_x86_dvd_21e007a6.dvp](https://zerofs.link/f/hPBfCKsdqeRyyYyK6fiaVx/) |
+| Hebrew                 | x64  | [he_windows_10_enterprise_ltsc_2019_x64_dvd_a5032f00.dvp](https://zerofs.link/f/Bh568PthTbMbGizQvvnTPk/) |
+| Hebrew                 | x86  | [he_windows_10_enterprise_ltsc_2019_x86_dvd_e35105b4.dvp](https://zerofs.link/f/StiR6a9FYdxQm5R7Ajc7rN/) |
+| Croatian               | x64  | [hr_windows_10_enterprise_ltsc_2019_x64_dvd_0154a57e.dvp](https://zerofs.link/f/RyAJQbQzKcpJzVZBCSESLM/) |
+| Croatian               | x86  | [hr_windows_10_enterprise_ltsc_2019_x86_dvd_978cda23.dvp](https://zerofs.link/f/BSFLcZgpCHPqsM6Ssf8zVX/) |
+| Hungarian              | x64  | [hu_windows_10_enterprise_ltsc_2019_x64_dvd_7afb1447.dvp](https://zerofs.link/f/e9gzJNKyx7pPjaStH5zNiW/) |
+| Hungarian              | x86  | [hu_windows_10_enterprise_ltsc_2019_x86_dvd_c59bde73.dvp](https://zerofs.link/f/EhED7vNxfW9uKe7TFvv4o6/) |
+| Italian                | x64  | [it_windows_10_enterprise_ltsc_2019_x64_dvd_e8629a2f.dvp](https://zerofs.link/f/MaUMRxiYKuTQD5HxxUwSNy/) |
+| Italian                | x86  | [it_windows_10_enterprise_ltsc_2019_x86_dvd_0908d54b.dvp](https://zerofs.link/f/h8XZspnUR2kdi4vVyu9p43/) |
+| Japanese               | x64  | [ja_windows_10_enterprise_ltsc_2019_x64_dvd_c67b830b.dvp](https://zerofs.link/f/YAeYyeBm7MSXgGMnWhPh4f/) |
+| Japanese               | x86  | [ja_windows_10_enterprise_ltsc_2019_x86_dvd_72e8b031.dvp](https://zerofs.link/f/3D9uTopNi47FgfHQGV5EfD/) |
+| Korean                 | x64  | [ko_windows_10_enterprise_ltsc_2019_x64_dvd_67887e3e.dvp](https://zerofs.link/f/eF77BHNzixcL3joyrHLS94/) |
+| Korean                 | x86  | [ko_windows_10_enterprise_ltsc_2019_x86_dvd_4df783b1.dvp](https://zerofs.link/f/33hrkPdBzQuTraN44TQFMG/) |
+| Lithuanian             | x64  | [lt_windows_10_enterprise_ltsc_2019_x64_dvd_5f505ee8.dvp](https://zerofs.link/f/KUn57gkp4BusYCGREVrYcb/) |
+| Lithuanian             | x86  | [lt_windows_10_enterprise_ltsc_2019_x86_dvd_d3df66d2.dvp](https://zerofs.link/f/L2CeZyxEHsrJQ4JtnuRNaQ/) |
+| Latvian                | x64  | [lv_windows_10_enterprise_ltsc_2019_x64_dvd_410d73cd.dvp](https://zerofs.link/f/DdbvE7MPigvPW3CXFzDvg7/) |
+| Latvian                | x86  | [lv_windows_10_enterprise_ltsc_2019_x86_dvd_c4ab014e.dvp](https://zerofs.link/f/m25di2Z4iLRYha6N6SD8ur/) |
+| Norwegian-Bokmal       | x64  | [nb_windows_10_enterprise_ltsc_2019_x64_dvd_512b1b80.dvp](https://zerofs.link/f/MGRukSvXbEtiDGfBkeqEqG/) |
+| Norwegian-Bokmal       | x86  | [nb_windows_10_enterprise_ltsc_2019_x86_dvd_4411d908.dvp](https://zerofs.link/f/LjwLEnBr8CwgG7R3asUvr6/) |
+| Dutch                  | x64  | [nl_windows_10_enterprise_ltsc_2019_x64_dvd_6b4c874e.dvp](https://zerofs.link/f/GWHP5V8gr7LXiXLX63pt2q/) |
+| Dutch                  | x86  | [nl_windows_10_enterprise_ltsc_2019_x86_dvd_7de5cbe9.dvp](https://zerofs.link/f/JB5istnagVGVpq8hNuJ4JW/) |
+| Polish                 | x64  | [pl_windows_10_enterprise_ltsc_2019_x64_dvd_e896167a.dvp](https://zerofs.link/f/DGMAKJvDHQm3Tk22nrknsL/) |
+| Polish                 | x86  | [pl_windows_10_enterprise_ltsc_2019_x86_dvd_83c5bbde.dvp](https://zerofs.link/f/ShyfvNHj84wcua5aRjgqLs/) |
+| Portuguese-Portugal    | x64  | [pp_windows_10_enterprise_ltsc_2019_x64_dvd_c8d2470d.dvp](https://zerofs.link/f/hG4aerisrkdmeaGjqCbRxx/) |
+| Portuguese-Portugal    | x86  | [pp_windows_10_enterprise_ltsc_2019_x86_dvd_206310fd.dvp](https://zerofs.link/f/ASyStYeHjDp7xs4PdrY7xj/) |
+| Portuguese-Brazil      | x64  | [pt_windows_10_enterprise_ltsc_2019_x64_dvd_d43dcbad.dvp](https://zerofs.link/f/SkRCGLHjMCtWthKoNdz5Ds/) |
+| Portuguese-Brazil      | x86  | [pt_windows_10_enterprise_ltsc_2019_x86_dvd_208df283.dvp](https://zerofs.link/f/ZszrmJLLztaA5YNegCCPXP/) |
+| Romanian               | x64  | [ro_windows_10_enterprise_ltsc_2019_x64_dvd_47b6116b.dvp](https://zerofs.link/f/WZWEKkaeZXjCrnVsbNDKAj/) |
+| Romanian               | x86  | [ro_windows_10_enterprise_ltsc_2019_x86_dvd_d1a09b2f.dvp](https://zerofs.link/f/heGKxY2QxJoZfFqVeP3aim/) |
+| Russian                | x64  | [ru_windows_10_enterprise_ltsc_2019_x64_dvd_78e7853a.dvp](https://zerofs.link/f/Jc2QB9ce6aHbZmTbEPspFt/) |
+| Russian                | x86  | [ru_windows_10_enterprise_ltsc_2019_x86_dvd_196b5dad.dvp](https://zerofs.link/f/FbzxZL6KouSLqEiSVcBd9A/) |
+| Slovak                 | x64  | [sk_windows_10_enterprise_ltsc_2019_x64_dvd_47437358.dvp](https://zerofs.link/f/enP83EydB6Fc9Jeapsp8FZ/) |
+| Slovak                 | x86  | [sk_windows_10_enterprise_ltsc_2019_x86_dvd_dede1f66.dvp](https://zerofs.link/f/c8a7SAUw6V8M5JWNUEyg5V/) |
+| Slovenian              | x64  | [sl_windows_10_enterprise_ltsc_2019_x64_dvd_05f349aa.dvp](https://zerofs.link/f/DFqBCg5DKUiqzjNP75JiWU/) |
+| Slovenian              | x86  | [sl_windows_10_enterprise_ltsc_2019_x86_dvd_3b3b7261.dvp](https://zerofs.link/f/ax2cgb78bNAvHMxWFCGxk2/) |
+| Serbian-Latin          | x64  | [sr_windows_10_enterprise_ltsc_2019_x64_dvd_8b47ec8a.dvp](https://zerofs.link/f/LqTkHRcc4m53vUv2ZjUP25/) |
+| Serbian-Latin          | x86  | [sr_windows_10_enterprise_ltsc_2019_x86_dvd_973a9911.dvp](https://zerofs.link/f/Uk5hF5JiEt294Qw6XMhKFB/) |
+| Swedish                | x64  | [sv_windows_10_enterprise_ltsc_2019_x64_dvd_4b25e231.dvp](https://zerofs.link/f/bQE8PY4c2a83nxXXz5oNLu/) |
+| Swedish                | x86  | [sv_windows_10_enterprise_ltsc_2019_x86_dvd_5618a7ff.dvp](https://zerofs.link/f/JMiBrLjtWxUrjq4gE64pLp/) |
+| Thai                   | x64  | [th_windows_10_enterprise_ltsc_2019_x64_dvd_ae87916a.dvp](https://zerofs.link/f/WcB26oRUgAcsC8wNJcqRFR/) |
+| Thai                   | x86  | [th_windows_10_enterprise_ltsc_2019_x86_dvd_5e37c638.dvp](https://zerofs.link/f/TA9EYhFbDXWihS264ZPuLc/) |
+| Turkish                | x64  | [tr_windows_10_enterprise_ltsc_2019_x64_dvd_f2b90518.dvp](https://zerofs.link/f/VAFFHiLudDuruyQMFpHVjW/) |
+| Turkish                | x86  | [tr_windows_10_enterprise_ltsc_2019_x86_dvd_1d5513a0.dvp](https://zerofs.link/f/PkARuG3Y4zfwdRneNpjqXP/) |
+| Ukrainian              | x64  | [uk_windows_10_enterprise_ltsc_2019_x64_dvd_d40a905a.dvp](https://zerofs.link/f/RgBcHAowTSfLwSMNBnYsmK/) |
+| Ukrainian              | x86  | [uk_windows_10_enterprise_ltsc_2019_x86_dvd_e3b4eb4d.dvp](https://zerofs.link/f/49vR8Uyyk3hxjzbUsrWynU/) |
+
+</TabItem>
+<TabItem value="Windows 10 LTSB 2016" label="Windows 10 LTSB 2016" default>
+
+**Windows 10 Enterprise LTSB 2016**
+
+(Build - 14393)
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso (Buzzheavier)](https://buzzheavier.com/ae46jbvqybiz)<br/>[en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483.iso (ZeroFS)](https://zerofs.link/f/XHs8rriNmsL9nrScLjuXBg/) |
+| English  | x86  | [en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso (Buzzheavier)](https://buzzheavier.com/kym06wh8mo3o)<br/>[en_windows_10_enterprise_2016_ltsb_x86_dvd_9060010.iso (ZeroFS)](https://zerofs.link/f/hMHK8cq6x526r53iCqq4Tc/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language               | Arch | Link                                                                                                                                                   |
+|:-----------------------|:-----|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Arabic                 | x64  | [ar_windows_10_enterprise_2016_ltsb_x64_dvd_9059481.dvp](https://zerofs.link/f/bpN7ENbsWqwjGfKjbcQeh8/) |
+| Arabic                 | x86  | [ar_windows_10_enterprise_2016_ltsb_x86_dvd_9060006.dvp](https://zerofs.link/f/8BgRmsyg9pGYXxERji3Zry/) |
+| Bulgarian              | x64  | [bg_windows_10_enterprise_2016_ltsb_x64_dvd_9060109.dvp](https://zerofs.link/f/CWuX3LKciDgdWLtZroBiwB/) |
+| Bulgarian              | x86  | [bg_windows_10_enterprise_2016_ltsb_x86_dvd_9060079.dvp](https://zerofs.link/f/a8seuKt26zGusid7wvQmeJ/) |
+| Chinese-Simplified     | x64  | [cn_windows_10_enterprise_2016_ltsb_x64_dvd_9060409.dvp](https://zerofs.link/f/G33MiwRgLVQEPpEexZQ5Tu/) |
+| Chinese-Simplified     | x86  | [cn_windows_10_enterprise_2016_ltsb_x86_dvd_9057089.dvp](https://zerofs.link/f/KXH5HeoL7yJ9mtoqp3oC2n/) |
+| Czech                  | x64  | [cs_windows_10_enterprise_2016_ltsb_x64_dvd_9058277.dvp](https://zerofs.link/f/CAUJbfmbJNdc2nv3wBVPzj/) |
+| Czech                  | x86  | [cs_windows_10_enterprise_2016_ltsb_x86_dvd_9058253.dvp](https://zerofs.link/f/8bCEr9kqDYZauD3rQvHoPK/) |
+| Chinese-Traditional    | x64  | [ct_windows_10_enterprise_2016_ltsb_x64_dvd_9057374.dvp](https://zerofs.link/f/6uarymTk7PAUSGVweW4K2M/) |
+| Chinese-Traditional    | x86  | [ct_windows_10_enterprise_2016_ltsb_x86_dvd_9057437.dvp](https://zerofs.link/f/Qmgvc6f7EhRN53BpKo4e89/) |
+| Danish                 | x64  | [da_windows_10_enterprise_2016_ltsb_x64_dvd_9058601.dvp](https://zerofs.link/f/exftUJ6ohxNwZ9DJZFRV3a/) |
+| Danish                 | x86  | [da_windows_10_enterprise_2016_ltsb_x86_dvd_9058895.dvp](https://zerofs.link/f/CpzNzaJfnnqpStocBY9seS/) |
+| German                 | x64  | [de_windows_10_enterprise_2016_ltsb_x64_dvd_9058605.dvp](https://zerofs.link/f/hcN3bATYjFz4wuWs9WzivN/) |
+| German                 | x86  | [de_windows_10_enterprise_2016_ltsb_x86_dvd_9058899.dvp](https://zerofs.link/f/9dAKfsvn5GEt3ZCjyXauJ2/) |
+| Greek                  | x64  | [el_windows_10_enterprise_2016_ltsb_x64_dvd_9059317.dvp](https://zerofs.link/f/EjzVK7mJ39prKGbRydnAFs/) |
+| Greek                  | x86  | [el_windows_10_enterprise_2016_ltsb_x86_dvd_9059530.dvp](https://zerofs.link/f/GNfNKfpjtdTeUAQG99X3Dk/) |
+| English-United Kingdom | x64  | [en-gb_windows_10_enterprise_2016_ltsb_x64_dvd_9060114.dvp](https://zerofs.link/f/5KVyj3oyb2pPYvucZFJfe7/) |
+| English-United Kingdom | x86  | [en-gb_windows_10_enterprise_2016_ltsb_x86_dvd_9060085.dvp](https://zerofs.link/f/XjZ6DGNvsrD5vhQqijWGnm/) |
+| Spanish                | x64  | [es_windows_10_enterprise_2016_ltsb_x64_dvd_9059485.dvp](https://zerofs.link/f/Zq5FmJQprNDKaNDRKhXoJE/) |
+| Spanish                | x86  | [es_windows_10_enterprise_2016_ltsb_x86_dvd_9060020.dvp](https://zerofs.link/f/LhDheZ6hgFg8diPtsht9xm/) |
+| Spanish-Mexico         | x64  | [es-mx_windows_10_enterprise_2016_ltsb_x64_dvd_9060115.dvp](https://zerofs.link/f/jPW6BtBBhwT2nd54viqTTr/) |
+| Spanish-Mexico         | x86  | [es-mx_windows_10_enterprise_2016_ltsb_x86_dvd_9060090.dvp](https://zerofs.link/f/YzJrXHZ9GiwfXv4qgNVCef/) |
+| Estonian               | x64  | [et_windows_10_enterprise_2016_ltsb_x64_dvd_9060433.dvp](https://zerofs.link/f/QmDMTDSjzWS7Fgz3Cs5vjB/) |
+| Estonian               | x86  | [et_windows_10_enterprise_2016_ltsb_x86_dvd_9057091.dvp](https://zerofs.link/f/BsebQLB3DCaTNyR6WMNmTH/) |
+| Finnish                | x64  | [fi_windows_10_enterprise_2016_ltsb_x64_dvd_9057376.dvp](https://zerofs.link/f/ZjtNeaUtrGZZKbgaRvGQBF/) |
+| Finnish                | x86  | [fi_windows_10_enterprise_2016_ltsb_x86_dvd_9057439.dvp](https://zerofs.link/f/MUPpLPNUx7vj97csMjNgoL/) |
+| French                 | x64  | [fr_windows_10_enterprise_2016_ltsb_x64_dvd_9057871.dvp](https://zerofs.link/f/GZQzJNYpw95HpuR4hgsKJA/) |
+| French                 | x86  | [fr_windows_10_enterprise_2016_ltsb_x86_dvd_9058127.dvp](https://zerofs.link/f/dMq7HdYUiZLNcdzLAEEKbC/) |
+| French-Canada          | x64  | [fr-ca_windows_10_enterprise_2016_ltsb_x64_dvd_9058278.dvp](https://zerofs.link/f/P5HSsFtdhsiBhxqpbFdDr6/) |
+| French-Canada          | x86  | [fr-ca_windows_10_enterprise_2016_ltsb_x86_dvd_9058259.dvp](https://zerofs.link/f/EYGr5R3rMCYYAQ2udJHyEz/) |
+| Hebrew                 | x64  | [he_windows_10_enterprise_2016_ltsb_x64_dvd_9059484.dvp](https://zerofs.link/f/n7TN97PEcpmLifZNxNZ4Te/) |
+| Hebrew                 | x86  | [he_windows_10_enterprise_2016_ltsb_x86_dvd_9060012.dvp](https://zerofs.link/f/9xubx3NLyjQYA9e9gMrF5o/) |
+| Croatian               | x64  | [hr_windows_10_enterprise_2016_ltsb_x64_dvd_9057884.dvp](https://zerofs.link/f/ZrrtEBLKD4wjRui2Gmz7dE/) |
+| Croatian               | x86  | [hr_windows_10_enterprise_2016_ltsb_x86_dvd_9058120.dvp](https://zerofs.link/f/AWbUMuHnrHGBebezEHVatr/) |
+| Hungarian              | x64  | [hu_windows_10_enterprise_2016_ltsb_x64_dvd_9060111.dvp](https://zerofs.link/f/3isLsUjhc3hLegDz5dxapB/) |
+| Hungarian              | x86  | [hu_windows_10_enterprise_2016_ltsb_x86_dvd_9060087.dvp](https://zerofs.link/f/Xi9jsNRZpvN2G5EBeAFwge/) |
+| Italian                | x64  | [it_windows_10_enterprise_2016_ltsb_x64_dvd_9060446.dvp](https://zerofs.link/f/cKsjSp77m6EMkvWoHFwiKY/) |
+| Italian                | x86  | [it_windows_10_enterprise_2016_ltsb_x86_dvd_9057094.dvp](https://zerofs.link/f/mzEypSeR5DW6MdBqHqxAdS/) |
+| Japanese               | x64  | [ja_windows_10_enterprise_2016_ltsb_x64_dvd_9057377.dvp](https://zerofs.link/f/M2s2PkUhdrmRH7sdNNvYmw/) |
+| Japanese               | x86  | [ja_windows_10_enterprise_2016_ltsb_x86_dvd_9057438.dvp](https://zerofs.link/f/d4hju36ypxnDoE3NWW3wwv/) |
+| Korean                 | x64  | [ko_windows_10_enterprise_2016_ltsb_x64_dvd_9057889.dvp](https://zerofs.link/f/AWMCckCNPjj5SiJh9GiM9q/) |
+| Korean                 | x86  | [ko_windows_10_enterprise_2016_ltsb_x86_dvd_9058162.dvp](https://zerofs.link/f/FyYZ6dxbQZZ3aL2GVGZy4K/) |
+| Lithuanian             | x64  | [lt_windows_10_enterprise_2016_ltsb_x64_dvd_9058606.dvp](https://zerofs.link/f/HVhhyLYuCAbewpgEGJvc7m/) |
+| Lithuanian             | x86  | [lt_windows_10_enterprise_2016_ltsb_x86_dvd_9058906.dvp](https://zerofs.link/f/nwQjHET2abX3AguXmTycgj/) |
+| Latvian                | x64  | [lv_windows_10_enterprise_2016_ltsb_x64_dvd_9058289.dvp](https://zerofs.link/f/7kxQjPhcvheWVWLyZgmdU6/) |
+| Latvian                | x86  | [lv_windows_10_enterprise_2016_ltsb_x86_dvd_9058263.dvp](https://zerofs.link/f/Zahjz9Bxmxbg49yMyHr9Pk/) |
+| Norwegian-Bokmal       | x64  | [nb_windows_10_enterprise_2016_ltsb_x64_dvd_9059319.dvp](https://zerofs.link/f/cG2GLGwbQQPMzE9zsQ9zWd/) |
+| Norwegian-Bokmal       | x86  | [nb_windows_10_enterprise_2016_ltsb_x86_dvd_9059535.dvp](https://zerofs.link/f/F39RhLFUHjumHqjzbiRakD/) |
+| Dutch                  | x64  | [nl_windows_10_enterprise_2016_ltsb_x64_dvd_9059312.dvp](https://zerofs.link/f/LqDjmdgBt2TpGoiWfCvT69/) |
+| Dutch                  | x86  | [nl_windows_10_enterprise_2016_ltsb_x86_dvd_9059526.dvp](https://zerofs.link/f/39pa38LXdTWgPrDcad5NJ8/) |
+| Polish                 | x64  | [pl_windows_10_enterprise_2016_ltsb_x64_dvd_9059490.dvp](https://zerofs.link/f/RwfiGHmDjK3RQszEsMSaMa/) |
+| Polish                 | x86  | [pl_windows_10_enterprise_2016_ltsb_x86_dvd_9060015.dvp](https://zerofs.link/f/kwsnyWfCZhEKEjgLEkFBQF/) |
+| Portuguese-Portugal    | x64  | [pp_windows_10_enterprise_2016_ltsb_x64_dvd_9060465.dvp](https://zerofs.link/f/3unXhKBhHiVSDMbeLfySZZ/) |
+| Portuguese-Portugal    | x86  | [pp_windows_10_enterprise_2016_ltsb_x86_dvd_9057097.dvp](https://zerofs.link/f/JHAE8vPZYzGvPRKYNBJndt/) |
+| Portuguese-Brazil      | x64  | [pt_windows_10_enterprise_2016_ltsb_x64_dvd_9060113.dvp](https://zerofs.link/f/kiEw3Yz2YrBVDegWxSYJVQ/) |
+| Portuguese-Brazil      | x86  | [pt_windows_10_enterprise_2016_ltsb_x86_dvd_9060088.dvp](https://zerofs.link/f/STGiA6NsgcnQc5kwivC7Yb/) |
+| Romanian               | x64  | [ro_windows_10_enterprise_2016_ltsb_x64_dvd_9057388.dvp](https://zerofs.link/f/kverAFrqCfRSSeiBCHnnXp/) |
+| Romanian               | x86  | [ro_windows_10_enterprise_2016_ltsb_x86_dvd_9057443.dvp](https://zerofs.link/f/iYoNnWCCGi3vHHf79583ew/) |
+| Russian                | x64  | [ru_windows_10_enterprise_2016_ltsb_x64_dvd_9057886.dvp](https://zerofs.link/f/HcHX8Q7nGBcqvo36JHbh6S/) |
+| Russian                | x86  | [ru_windows_10_enterprise_2016_ltsb_x86_dvd_9058173.dvp](https://zerofs.link/f/bj75TBqJiPSHsDHwG7C3L6/) |
+| Slovak                 | x64  | [sk_windows_10_enterprise_2016_ltsb_x64_dvd_9058612.dvp](https://zerofs.link/f/hcf53xyQfeA3ogmDTFk5dg/) |
+| Slovak                 | x86  | [sk_windows_10_enterprise_2016_ltsb_x86_dvd_9058908.dvp](https://zerofs.link/f/bdcbem6iNAaGYfhznxDTbh/) |
+| Slovenian              | x64  | [sl_windows_10_enterprise_2016_ltsb_x64_dvd_9059321.dvp](https://zerofs.link/f/NbJSZnTaB5CnYLMUs8gFzA/) |
+| Slovenian              | x86  | [sl_windows_10_enterprise_2016_ltsb_x86_dvd_9059531.dvp](https://zerofs.link/f/e2wFoSbzqUyreLvDofYBNi/) |
+| Serbian-Latin          | x64  | [sr-latn_windows_10_enterprise_2016_ltsb_x64_dvd_9058293.dvp](https://zerofs.link/f/68wieKZVBf6XWXiAJhnjtw/) |
+| Serbian-Latin          | x86  | [sr-latn_windows_10_enterprise_2016_ltsb_x86_dvd_9058276.dvp](https://zerofs.link/f/nwcct765Exahswun8j9tHV/) |
+| Swedish                | x64  | [sv_windows_10_enterprise_2016_ltsb_x64_dvd_9060456.dvp](https://zerofs.link/f/WQbrrhRUvQA3zkfyxKsDav/) |
+| Swedish                | x86  | [sv_windows_10_enterprise_2016_ltsb_x86_dvd_9057114.dvp](https://zerofs.link/f/UoP7FuZ3omKfxdMivmX5e3/) |
+| Thai                   | x64  | [th_windows_10_enterprise_2016_ltsb_x64_dvd_9057403.dvp](https://zerofs.link/f/cKHchenEhM3YAR2Prmqv3e/) |
+| Thai                   | x86  | [th_windows_10_enterprise_2016_ltsb_x86_dvd_9057441.dvp](https://zerofs.link/f/k7tx9VTXKgwi2FUWazWX3k/) |
+| Turkish                | x64  | [tr_windows_10_enterprise_2016_ltsb_x64_dvd_9057891.dvp](https://zerofs.link/f/ZtmE7ApGDV3fbvWSemrfBh/) |
+| Turkish                | x86  | [tr_windows_10_enterprise_2016_ltsb_x86_dvd_9058186.dvp](https://zerofs.link/f/AHVjP34AWVE8phUfATF862/) |
+| Ukrainian              | x64  | [uk_windows_10_enterprise_2016_ltsb_x64_dvd_9058295.dvp](https://zerofs.link/f/LFns3PsWujuJtPX2A23Fis/) |
+| Ukrainian              | x86  | [uk_windows_10_enterprise_2016_ltsb_x86_dvd_9058286.dvp](https://zerofs.link/f/XdnSW37Do5LBJKKkEcLV69/) |
+
+</TabItem>
+<TabItem value="Windows 10 LTSB 2015" label="Windows 10 LTSB 2015" default>
+
+**Windows 10 Enterprise LTSB 2015**
+
+(Build - 10240)
+
+The files below are **full** ISO images.
+
+| Language | Arch | Link |
+|:---------|:-----|:---|
+| English  | x64  | [en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso (Buzzheavier)](https://buzzheavier.com/bmfv0akebifm)<br/>[en_windows_10_enterprise_2015_ltsb_x64_dvd_6848446.iso (ZeroFS)](https://zerofs.link/f/YvdhXKwaKL7mfEfEFMfi7x/) |
+| English  | x86  | [en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso (Buzzheavier)](https://buzzheavier.com/gp4u6hbn0yvg)<br/>[en_windows_10_enterprise_2015_ltsb_x86_dvd_6848454.iso (ZeroFS)](https://zerofs.link/f/CcM6Fs3NAhuCuNajb6U8ya/) |
+
+The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
+
+| Language               | Arch | Link |
+|:-----------------------|:-----|:---|
+| Arabic                 | x64  | [ar_windows_10_enterprise_2015_ltsb_x64_dvd_6848420.dvp](https://zerofs.link/f/SyhXVTQJ8TxGdWfu8LRTgE/) |
+| Arabic                 | x86  | [ar_windows_10_enterprise_2015_ltsb_x86_dvd_6848421.dvp](https://zerofs.link/f/ez6e7T8EFHn59SM34FRxTD/) |
+| Bulgarian              | x64  | [bg_windows_10_enterprise_2015_ltsb_x64_dvd_6848422.dvp](https://zerofs.link/f/X5RkYWyiBxQnnL4Y2J3Qye/) |
+| Bulgarian              | x86  | [bg_windows_10_enterprise_2015_ltsb_x86_dvd_6848424.dvp](https://zerofs.link/f/53Yqn7pkVkXtspbcp5s642/) |
+| Chinese-Simplified     | x64  | [cn_windows_10_enterprise_2015_ltsb_x64_dvd_6848425.dvp](https://zerofs.link/f/eDatJMWb7uhGgfkMJt2ydF/) |
+| Chinese-Simplified     | x86  | [cn_windows_10_enterprise_2015_ltsb_x86_dvd_6848426.dvp](https://zerofs.link/f/EvNMzPERuZfa8W2BCDagVC/) |
+| Czech                  | x64  | [cs_windows_10_enterprise_2015_ltsb_x64_dvd_6848435.dvp](https://zerofs.link/f/ioXusnLonpdvgQ2wd5zTqB/) |
+| Czech                  | x86  | [cs_windows_10_enterprise_2015_ltsb_x86_dvd_6848437.dvp](https://zerofs.link/f/8AbJkRj73sQP5ZEEnaAqk9/) |
+| Danish                 | x64  | [da_windows_10_enterprise_2015_ltsb_x64_dvd_6848440.dvp](https://zerofs.link/f/4aPpuVCHcQFMk34AuYproF/) |
+| Danish                 | x86  | [da_windows_10_enterprise_2015_ltsb_x86_dvd_6848441.dvp](https://zerofs.link/f/ArTER7sqnZM542Ubs3YC9W/) |
+| German                 | x64  | [de_windows_10_enterprise_2015_ltsb_x64_dvd_6848473.dvp](https://zerofs.link/f/NgarYVkJZLmgaRAgMtYfrr/) |
+| German                 | x86  | [de_windows_10_enterprise_2015_ltsb_x86_dvd_6848474.dvp](https://zerofs.link/f/7c3KfeVjL9By8tPQY5o8Ji/) |
+| Greek                  | x64  | [el_windows_10_enterprise_2015_ltsb_x64_dvd_6848475.dvp](https://zerofs.link/f/aiTDHjXmj9hMhLWCqQacih/) |
+| Greek                  | x86  | [el_windows_10_enterprise_2015_ltsb_x86_dvd_6848476.dvp](https://zerofs.link/f/223XJwrCFKrg9ZrFSeriqU/) |
+| English-United Kingdom | x64  | [en-gb_windows_10_enterprise_2015_ltsb_x64_dvd_6848456.dvp](https://zerofs.link/f/4u3JPuevjJYiYL9CzxJHE9/) |
+| English-United Kingdom | x86  | [en-gb_windows_10_enterprise_2015_ltsb_x86_dvd_6848457.dvp](https://zerofs.link/f/nfnvJY34S4xumKywkwp3MN/) |
+| Spanish                | x64  | [es_windows_10_enterprise_2015_ltsb_x64_dvd_6850876.dvp](https://zerofs.link/f/8cVhdUhdVwwGmFbTo7hqLi/) |
+| Spanish                | x86  | [es_windows_10_enterprise_2015_ltsb_x86_dvd_6850896.dvp](https://zerofs.link/f/4KABUCN86KJXkrToKB9QRz/) |
+| Spanish-Mexico         | x64  | [es-mx_windows_10_enterprise_2015_ltsb_x64_dvd_6850897.dvp](https://zerofs.link/f/Agr5vZNMk4z82mdeENC35H/) |
+| Spanish-Mexico         | x86  | [es-mx_windows_10_enterprise_2015_ltsb_x86_dvd_6850898.dvp](https://zerofs.link/f/Q9pdwosqA9Vxve4SL58byB/) |
+| Estonian               | x64  | [et_windows_10_enterprise_2015_ltsb_x64_dvd_6848458.dvp](https://zerofs.link/f/9vRUAWJcsvpBoqwmARLm5a/) |
+| Estonian               | x86  | [et_windows_10_enterprise_2015_ltsb_x86_dvd_6848460.dvp](https://zerofs.link/f/TZ8GXecA3BGENT4kxwmXHn/) |
+| Finnish                | x64  | [fi_windows_10_enterprise_2015_ltsb_x64_dvd_6848462.dvp](https://zerofs.link/f/VnYAoQJfrtLMcLRix28opX/) |
+| Finnish                | x86  | [fi_windows_10_enterprise_2015_ltsb_x86_dvd_6848464.dvp](https://zerofs.link/f/Xui5ThkP22hw9Rujcrsiau/) |
+| French                 | x64  | [fr_windows_10_enterprise_2015_ltsb_x64_dvd_6848466.dvp](https://zerofs.link/f/dEiLBMeCFgMrdPXLQWBqZV/) |
+| French                 | x86  | [fr_windows_10_enterprise_2015_ltsb_x86_dvd_6848468.dvp](https://zerofs.link/f/8oCS9gwvwx6Q7YsT8NoTs6/) |
+| French-Canada          | x64  | [fr-ca_windows_10_enterprise_2015_ltsb_x64_dvd_6848470.dvp](https://zerofs.link/f/gKodfYzx8wjUAHcJLKmmMF/) |
+| French-Canada          | x86  | [fr-ca_windows_10_enterprise_2015_ltsb_x86_dvd_6848472.dvp](https://zerofs.link/f/hxqxuYb6iQZKUxGA7Ytcj4/) |
+| Hebrew                 | x64  | [he_windows_10_enterprise_2015_ltsb_x64_dvd_6848477.dvp](https://zerofs.link/f/CexvqYoFTaJmXtYMHVTauB/) |
+| Hebrew                 | x86  | [he_windows_10_enterprise_2015_ltsb_x86_dvd_6850760.dvp](https://zerofs.link/f/UbsyPjbwBUzgEXhLYpPatW/) |
+| Chinese-Hong Kong SAR  | x64  | [hk_windows_10_enterprise_2015_ltsb_x64_dvd_6848427.dvp](https://zerofs.link/f/cMi2g4iUfkUrddpzPTZD3m/) |
+| Chinese-Hong Kong SAR  | x86  | [hk_windows_10_enterprise_2015_ltsb_x86_dvd_6848428.dvp](https://zerofs.link/f/LikZ37JRLjR8DXXqwNyBpU/) |
+| Croatian               | x64  | [hr_windows_10_enterprise_2015_ltsb_x64_dvd_6848433.dvp](https://zerofs.link/f/CaGJykF8GUcTVM9WysrFoS/) |
+| Croatian               | x86  | [hr_windows_10_enterprise_2015_ltsb_x86_dvd_6848434.dvp](https://zerofs.link/f/HbKsCtmtEgY3equRmLEJaF/) |
+| Hungarian              | x64  | [hu_windows_10_enterprise_2015_ltsb_x64_dvd_6850770.dvp](https://zerofs.link/f/TCZRCghQHtgyL2qjqhTipi/) |
+| Hungarian              | x86  | [hu_windows_10_enterprise_2015_ltsb_x86_dvd_6850771.dvp](https://zerofs.link/f/jZj5xt4uwqJ8uhHh7nVXch/) |
+| Italian                | x64  | [it_windows_10_enterprise_2015_ltsb_x64_dvd_6850772.dvp](https://zerofs.link/f/CQzwLfUsJris7RCxpTh6cR/) |
+| Italian                | x86  | [it_windows_10_enterprise_2015_ltsb_x86_dvd_6850773.dvp](https://zerofs.link/f/E9wGU2zGNwXPCYQwTizPva/) |
+| Japanese               | x64  | [ja_windows_10_enterprise_2015_ltsb_x64_dvd_6850774.dvp](https://zerofs.link/f/ekg6WvTL35YzqragKQCTGf/) |
+| Japanese               | x86  | [ja_windows_10_enterprise_2015_ltsb_x86_dvd_6850775.dvp](https://zerofs.link/f/FwHAzAeyVyKkH8BrQXoVJm/) |
+| Korean                 | x64  | [ko_windows_10_enterprise_2015_ltsb_x64_dvd_6850776.dvp](https://zerofs.link/f/WJLQsuUggfxxUYULUeZcrF/) |
+| Korean                 | x86  | [ko_windows_10_enterprise_2015_ltsb_x86_dvd_6850777.dvp](https://zerofs.link/f/QDzVevy2mmJD2qwaGk3ZaN/) |
+| Lithuanian             | x64  | [lt_windows_10_enterprise_2015_ltsb_x64_dvd_6850780.dvp](https://zerofs.link/f/UQBYfCBG3FXSMpJe7JJ89i/) |
+| Lithuanian             | x86  | [lt_windows_10_enterprise_2015_ltsb_x86_dvd_6850781.dvp](https://zerofs.link/f/Fh8pc7ChGN8pHRzAfRKMRD/) |
+| Latvian                | x64  | [lv_windows_10_enterprise_2015_ltsb_x64_dvd_6850778.dvp](https://zerofs.link/f/5xmicfrhU6aSw8Mkf94zwM/) |
+| Latvian                | x86  | [lv_windows_10_enterprise_2015_ltsb_x86_dvd_6850779.dvp](https://zerofs.link/f/LCCPh67FdSavSs79Pvfo7c/) |
+| Norwegian-Bokmal       | x64  | [nb_windows_10_enterprise_2015_ltsb_x64_dvd_6850782.dvp](https://zerofs.link/f/3zSpVazHHMRKEMW6MyXJaS/) |
+| Norwegian-Bokmal       | x86  | [nb_windows_10_enterprise_2015_ltsb_x86_dvd_6850783.dvp](https://zerofs.link/f/Ja7ESEDvu2Kz7FhsXYV2Hf/) |
+| Dutch                  | x64  | [nl_windows_10_enterprise_2015_ltsb_x64_dvd_6848442.dvp](https://zerofs.link/f/R37h7hGBADff3X7AAQD3PQ/) |
+| Dutch                  | x86  | [nl_windows_10_enterprise_2015_ltsb_x86_dvd_6848443.dvp](https://zerofs.link/f/7jxiWaZeKZoZTYcouVS5Hr/) |
+| Polish                 | x64  | [pl_windows_10_enterprise_2015_ltsb_x64_dvd_6850784.dvp](https://zerofs.link/f/TZfsyCAXgScokXu6qes7WY/) |
+| Polish                 | x86  | [pl_windows_10_enterprise_2015_ltsb_x86_dvd_6850785.dvp](https://zerofs.link/f/93VUk5DXnAjTWeRXgR8kHm/) |
+| Portuguese-Portugal    | x64  | [pp_windows_10_enterprise_2015_ltsb_x64_dvd_6850808.dvp](https://zerofs.link/f/fo9HXRZ74HQGhx5TfahsKd/) |
+| Portuguese-Portugal    | x86  | [pp_windows_10_enterprise_2015_ltsb_x86_dvd_6850818.dvp](https://zerofs.link/f/inS63E2q36gBpRVWutRe2E/) |
+| Portuguese-Brazil      | x64  | [pt_windows_10_enterprise_2015_ltsb_x64_dvd_6850787.dvp](https://zerofs.link/f/KL8KFV75iVpQUFyvUq8AEZ/) |
+| Portuguese-Brazil      | x86  | [pt_windows_10_enterprise_2015_ltsb_x86_dvd_6850798.dvp](https://zerofs.link/f/exDcqhWFb4veAvfYFDUgJX/) |
+| Romanian               | x64  | [ro_windows_10_enterprise_2015_ltsb_x64_dvd_6850828.dvp](https://zerofs.link/f/BtsGr78uG3xSZSnEgSjBmW/) |
+| Romanian               | x86  | [ro_windows_10_enterprise_2015_ltsb_x86_dvd_6850837.dvp](https://zerofs.link/f/RwmSJUNxrE8WJwQYhMUWs4/) |
+| Russian                | x64  | [ru_windows_10_enterprise_2015_ltsb_x64_dvd_6850847.dvp](https://zerofs.link/f/aFhTihWiHRR2xM2eDRyZYS/) |
+| Russian                | x86  | [ru_windows_10_enterprise_2015_ltsb_x86_dvd_6850858.dvp](https://zerofs.link/f/2wPmfUGUyEZtZTcVzCbmpH/) |
+| Slovak                 | x64  | [sk_windows_10_enterprise_2015_ltsb_x64_dvd_6850870.dvp](https://zerofs.link/f/bJJo9yZe55LL6LFhuzTkiU/) |
+| Slovak                 | x86  | [sk_windows_10_enterprise_2015_ltsb_x86_dvd_6850871.dvp](https://zerofs.link/f/PVeaEckZFKMcMDVtuQmHs9/) |
+| Slovenian              | x64  | [sl_windows_10_enterprise_2015_ltsb_x64_dvd_6850872.dvp](https://zerofs.link/f/ifgj7quuMQrEVUiDmyrHEm/) |
+| Slovenian              | x86  | [sl_windows_10_enterprise_2015_ltsb_x86_dvd_6850873.dvp](https://zerofs.link/f/kJbZqmW2fSa3p4gEA7cBth/) |
+| Serbian-Latin          | x64  | [sr-latn_windows_10_enterprise_2015_ltsb_x64_dvd_6850868.dvp](https://zerofs.link/f/JPVpWG3dx4FewnaANrk4cM/) |
+| Serbian-Latin          | x86  | [sr-latn_windows_10_enterprise_2015_ltsb_x86_dvd_6850869.dvp](https://zerofs.link/f/6eHevB5BzUjGW462WxoZbd/) |
+| Swedish                | x64  | [sv_windows_10_enterprise_2015_ltsb_x64_dvd_6850899.dvp](https://zerofs.link/f/nZfTHFNaiPmjrkmRdwqGuJ/) |
+| Swedish                | x86  | [sv_windows_10_enterprise_2015_ltsb_x86_dvd_6850900.dvp](https://zerofs.link/f/CBRbmSDbQPg4pTdEwETKS4/) |
+| Thai                   | x64  | [th_windows_10_enterprise_2015_ltsb_x64_dvd_6850901.dvp](https://zerofs.link/f/FxesMdNPAeYzT4dV2NeFvk/) |
+| Thai                   | x86  | [th_windows_10_enterprise_2015_ltsb_x86_dvd_6850902.dvp](https://zerofs.link/f/e5nEMWztXzMtikDzBbdZXq/) |
+| Turkish                | x64  | [tr_windows_10_enterprise_2015_ltsb_x64_dvd_6850904.dvp](https://zerofs.link/f/XVtehEnQ8xU5H6UsDdwChx/) |
+| Turkish                | x86  | [tr_windows_10_enterprise_2015_ltsb_x86_dvd_6850915.dvp](https://zerofs.link/f/J6Yxd6LM86xdHJWGvFT7yc/) |
+| Chinese-Traditional    | x64  | [tw_windows_10_enterprise_2015_ltsb_x64_dvd_6848430.dvp](https://zerofs.link/f/8SgWFgfiYt6EjyTVyio6GT/) |
+| Chinese-Traditional    | x86  | [tw_windows_10_enterprise_2015_ltsb_x86_dvd_6848432.dvp](https://zerofs.link/f/U6TAZYJDf5HTFgH346BZcc/) |
+| Ukrainian              | x64  | [uk_windows_10_enterprise_2015_ltsb_x64_dvd_6850925.dvp](https://zerofs.link/f/SFYLah8Lo5FLwvtbxiwzgP/) |
+| Ukrainian              | x86  | [uk_windows_10_enterprise_2015_ltsb_x86_dvd_6850935.dvp](https://zerofs.link/f/BmiWhsq2J492aeU4nxepTX/) |
+
+</TabItem>
 
 <TabItem value="Windows LTSC ARM64" label="Windows LTSC ARM64" default>
 

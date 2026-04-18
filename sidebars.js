@@ -23,13 +23,17 @@ const sidebars = {
         'windows_11_links',
         'windows_10_links',
         'windows_ltsc_links',
+        'windows_arm_links',
+        'windows-server-links',
         {
           type: 'html',
           value: '<hr class="sidebar-hr" />',
         },
-        'windows_arm_links',
-        'windows-server-links',
-        'windows-embedded-links',
+        'windows_8.1_links',
+        'windows_8_links',
+        'windows_7_links',
+        'windows_vista__links',
+        'windows_xp_links',
         {
           type: 'html',
           value: '<hr class="sidebar-hr" />',
@@ -37,7 +41,12 @@ const sidebars = {
         'office_c2r_links',
         'office_c2r_custom',
         'office_msi_links',
-        'office_for_mac'
+        'office_for_mac',
+        {
+          type: 'html',
+          value: '<hr class="sidebar-hr" />',
+        },
+        'dumbversion_patches'
       ],
     },
     'faq',
