@@ -62,7 +62,7 @@ The files below are **DVP patches** that use the above ISO images for their resp
 | English - United Kingdom | x64  | [en-gb_windows_8_x64_dvd_915412.dvp](https://zerofs.link/f/H9ov82QxbaPTQoSZqkur7B/) |
 | English - United Kingdom | x86  | [en-gb_windows_8_x86_dvd_915479.dvp](https://zerofs.link/f/DFaQiEQAsRqxzuSjHcDywC/) |
 | Spanish                  | x64  | [es_windows_8_x64_dvd_915404.dvp](https://zerofs.link/f/BV3tZUdGWwUmZ6bWhkuPED/)    |
-| Spanish                  | x86  | [es_windows_8_x86_dvd\_\_915471.dvp](https://zerofs.link/f/HbBnkANUWCj2YqL82w3euW/) |
+| Spanish                  | x86  | [es_windows_8_x86_dvd_915471.dvp](https://zerofs.link/f/HbBnkANUWCj2YqL82w3euW/) |
 | Estonian                 | x64  | [et_windows_8_x64_dvd_916115.dvp](https://zerofs.link/f/6K72yajCHpX5BcRrvWwhdM/)    |
 | Estonian                 | x86  | [et_windows_8_x86_dvd_915503.dvp](https://zerofs.link/f/T6NDQMFNTK7sng5Dav9VTE/)    |
 | Finnish                  | x64  | [fi_windows_8_x64_dvd_915415.dvp](https://zerofs.link/f/NmupQYbBePemtxkKd2NzXz/)    |
