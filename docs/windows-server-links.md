@@ -15,28 +15,28 @@ All download links lead to genuine files only.
 
 ## Windows Server 2025
 
-Build - 26100.32522 (Mar 2026)
+Build - 26100.32690 (Apr 2026)
 
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/glv6dsbglpun)|
-| German              | x64  | [de-de_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/az2w4ztini0p)|
-| English             | x64  | [en-us_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/x7gy80unhgk7)|
-| Spanish             | x64  | [es-es_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/95byq3yf5l5j)|
-| French              | x64  | [fr-fr_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/56rrojpgm9zo)|
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/ce5wor77ne86)|
-| Italian             | x64  | [it-it_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/ybm8btt90db5)|
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/olesvfkrnl6z)|
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/y3ox3h6uzkv2)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/akv8dpbmyhp1)|
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/ioinvj1l15p2)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/06m8oumq4veb)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/ndfjlupau2ae)|
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/m46do66un7r3)|
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/gmu1t34r5iq1)|
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/p159utbrk29j)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/axfemj87miyf)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_march_2026_x64_dvd_8e06425a.iso](https://buzzheavier.com/0drhwwv2v8p9)|
+| Czech               | x64  | [cs-cz_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/nKukCvwZcBZ4c4KgVaxKA9/)|
+| German              | x64  | [de-de_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/QxyQ87NL6pALBPKvTkVfZs/)|
+| English             | x64  | [en-us_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/5JM8KTwqpco68rMTNTSMff/)|
+| Spanish             | x64  | [es-es_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/Xm5tXwJ6CAEKE8cr4QaTFd/)|
+| French              | x64  | [fr-fr_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/QR992y4okptM9rWmmzn35X/)|
+| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/aNdH8Te9tGgyCK8GropyTC/)|
+| Italian             | x64  | [it-it_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/Wb42ymoahpv7qEpCTBzHTn/)|
+| Japanese            | x64  | [ja-jp_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/mG3xFrc4gqTqyAsWS5B6vX/)|
+| Korean              | x64  | [ko-kr_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/nQ8yLD7okdJmBsbQFvdKCf/)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/KANGt2ZYfHkbmcsoczsqa9/)|
+| Polish              | x64  | [pl-pl_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/5nYCrm8SmtkbcGoWhCWtou/)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/C8hjm2vgFyTFSfCwt8AXB6/)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/BtWLH3i6sa27gjBsQ3HEia/)|
+| Russian             | x64  | [ru-ru_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/gftaKUPtBGXw8KYiKgZ8EE/)|
+| Swedish             | x64  | [sv-se_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/2P22LGW5kUrHNafJRizztW/)|
+| Turkish             | x64  | [tr-tr_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/CF2SMQZJXyULzGdpS5FUTs/)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/VevZJt9pRcSqwkbUDxjkCc/)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_april_2026_x64_dvd_225d826d.iso](https://zerofs.link/f/8qAVm78t5vkBiv3xxM5qdw/)|
 
 ------------------------------------------------------------------------
 
@@ -93,38 +93,38 @@ zh-tw_windows_server_2025_x64_dvd_6d2c01e3.iso
 
 ## Windows Server 2022
 
-Build - 20348.4893 (Mar 2026)
+Build - 20348.5020 (Apr 2026)
 
 | Language            | Arch | Link                                                                                                                                                           |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/6vkl5cczkgt2)|
-| German              | x64  | [de-de_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/zt4lgkzx79fx)|
-| English             | x64  | [en-us_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/mqkzecgxo6ll)|
-| Spanish             | x64  | [es-es_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/11ppqdevgt83)|
-| French              | x64  | [fr-fr_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/31zqcne5uhft)|
-| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/gl7zgbwnq1eu)|
-| Italian             | x64  | [it-it_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/lecfw3w1audw)|
-| Japanese            | x64  | [ja-jp_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/tjeyz83q5ocs)|
-| Korean              | x64  | [ko-kr_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/810c9zyamsm1)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/he7hqe81tfih)|
-| Polish              | x64  | [pl-pl_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/wbq4pgimjari)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/lxzkahav3okd)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/qkb04o39zotz)|
-| Russian             | x64  | [ru-ru_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/4lpb5bs8badd)|
-| Swedish             | x64  | [sv-se_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/57axipha09t5)|
-| Turkish             | x64  | [tr-tr_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/58qbwxlm387v)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/16v5sl3ttkzo)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_march_2026_x64_dvd_3f772967.iso](https://buzzheavier.com/y9c7kyvkhw2o)|
+| Czech               | x64  | [cs-cz_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/YA8YYXyPbwjQSt5zJQWRvQ/)|
+| German              | x64  | [de-de_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/NmBowZwJyAgTedACMyvy4U/)|
+| English             | x64  | [en-us_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/gRGNUXPeDxH3FBAxeXdRDJ/)|
+| Spanish             | x64  | [es-es_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/cD37DZ7mieKYtQVyvJhAtt/)|
+| French              | x64  | [fr-fr_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/UBkp2Unb9Jj3k4NdZLnv6R/)|
+| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/MfjwjZzuQy4JKuGDsw7wKF/)|
+| Italian             | x64  | [it-it_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/fwp8Bvb9w2T8RHxSMYLEqy/)|
+| Japanese            | x64  | [ja-jp_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/RrdyMe6E4KxBtqWKDAzfKw/)|
+| Korean              | x64  | [ko-kr_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/ZAhJqVgd3drRZcht7jQU7j/)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/NPxBXwngB3sP89F773HiMR/)|
+| Polish              | x64  | [pl-pl_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/GMmMNsrEjUCNpg2mpHHbw9/)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/8BmB3fYHRqQkgQjeax5z3Q/)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/YapBgjBiLSgVZMZpUCHpBa/)|
+| Russian             | x64  | [ru-ru_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/iLXdKnjkP3yzr5RFZvfXas/)|
+| Swedish             | x64  | [sv-se_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/Gh7DSzwkuRVUEfJe49demt/)|
+| Turkish             | x64  | [tr-tr_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/67Gk67pZf7e5QxDjQXzCaA/)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/iABXHeDefqrVrs5k3g9Wvd/)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_april_2026_x64_dvd_a4d60e24.iso](https://zerofs.link/f/4DSxynFWnT9JTMyrhY7tce/)|
 
 ------------------------------------------------------------------------
 
 ## Windows Server 23H2 (No GUI)
 #### (Only English ISO is available)
-Build - 25398.2207 (Mar 2026)
+Build - 25398.2274 (Apr 2026)
 
 | Language  | Arch | Link                                                                                                                                                                                                             |
 |:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English   | x64  | [en-us_windows_server_version_23h2_updated_march_2026_x64_dvd_6234309e.iso](https://buzzheavier.com/qrhosh3cl8j4)|
+| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2026_x64_dvd_2a1af4bb.iso](https://zerofs.link/f/WtbqXMkiwKuT6DZwJ8mVBf/)|
 
 ------------------------------------------------------------------------
 
