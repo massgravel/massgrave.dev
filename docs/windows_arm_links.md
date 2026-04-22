@@ -268,17 +268,17 @@ For more information, please see Microsoft's [official announcement](https://tec
 | Greek                  | ARM64  | [el-gr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/kRBTuDZUjw2LnnLN4jCYBs/)|
 | English-United Kingdom | ARM64  | [en-gb_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/UEVPhYQPgrYTPS85siwSkr/)|
 | English                | ARM64  | [en-us_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/n8FhxtPQ7UpkyZ8eFCagK3/)|
-| Spanish                | ARM64  | [en-us_windows_11_consumer_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/cgSF8MLJT9HgDqKPnTdXnv/)|
-| Spanish-Mexico         | ARM64  | [es-es_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/WobuHHaDrSDnzPZ2zF6AUx/)|
-| Estonian               | ARM64  | [es-mx_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/ZTLFDKWpPaZny3KYNBAnBv/)|
-| Finnish                | ARM64  | [et-ee_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/XyxVYhSdK2ytuHBe8xiEde/)|
-| French-Canada          | ARM64  | [fi-fi_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/WwGnSMum2e9hAvnvgy96dW/)|
-| French                 | ARM64  | [fr-ca_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/So9XoPDBFv6PU4YHnBLPUg/)|
-| Hebrew                 | ARM64  | [fr-fr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/c347jnRqBkRRypNoFfCGc4/)|
-| Croatian               | ARM64  | [he-il_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/9pfhFzMoQduaHLicZGCsat/)|
-| Hungarian              | ARM64  | [hr-hr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/S49hRg4hVaQHstivfy4CKa/)|
-| Italian                | ARM64  | [hu-hu_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/kEUjSnPRgTURXBkicAtaH9/)|
-| Japanese               | ARM64  | [it-it_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/ZSwvYbwDGmKdPKE2SpxhHc/)|
+| Spanish                | ARM64  | [es-es_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/WobuHHaDrSDnzPZ2zF6AUx/)|
+| Spanish-Mexico         | ARM64  | [es-mx_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/ZTLFDKWpPaZny3KYNBAnBv/)|
+| Estonian               | ARM64  | [et-ee_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/XyxVYhSdK2ytuHBe8xiEde/)|
+| Finnish                | ARM64  | [fi-fi_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/WwGnSMum2e9hAvnvgy96dW/)|
+| French-Canada          | ARM64  | [fr-ca_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/So9XoPDBFv6PU4YHnBLPUg/)|
+| French                 | ARM64  | [fr-fr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/c347jnRqBkRRypNoFfCGc4/)|
+| Hebrew                 | ARM64  | [he-il_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/9pfhFzMoQduaHLicZGCsat/)|
+| Croatian               | ARM64  | [hr-hr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/S49hRg4hVaQHstivfy4CKa/)|
+| Hungarian              | ARM64  | [hu-hu_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/kEUjSnPRgTURXBkicAtaH9/)|
+| Italian                | ARM64  | [it-it_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/ZSwvYbwDGmKdPKE2SpxhHc/)|
+| Japanese               | ARM64  | [ja-jp_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/fGzYU9sWKdDxceEvZBxYxW/)|
 | Korean                 | ARM64  | [ko-kr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/CTsyMGKSE5RKKsQvcyJrom/)|
 | Lithuanian             | ARM64  | [lt-lt_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/SygGUttkemah3zzD9GgpaW/)|
 | Latvian                | ARM64  | [lv-lv_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/mi3cS5XnnoKGYKCgXN82qA/)|
@@ -294,7 +294,7 @@ For more information, please see Microsoft's [official announcement](https://tec
 | Serbian-Latin          | ARM64  | [sr-latn-rs_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/DckMFKJgv9sA4o2oXFcKfU/)|
 | Swedish                | ARM64  | [sv-se_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/A9LhLreFhMpSPfE2U3FiKf/)|
 | Thai                   | ARM64  | [th-th_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/etTpFjj3sXvoqpFZxL9j7Z/)|
-| Turkish                | ARM64  | [tr-tr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/Q9jDwQsYNeZPWF9DwtnCfp/)| 
+| Turkish                | ARM64  | [tr-tr_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/Q9jDwQsYNeZPWF9DwtnCfp/)|
 | Ukranian               | ARM64  | [uk-ua_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_69ae07e3.iso](https://zerofs.link/f/AyHAQjFvi6Rv6PCpQWErxz/)|
 | Chinese-Simplified     | ARM64  | [zh-cn_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/VbLTg5MRH9z6c3tiu2V4te/)|
 | Chinese-Traditional    | ARM64  | [zh-tw_windows_11_business_editions_version_26h1_updated_april_2026_arm64_dvd_ac820afd.iso](https://zerofs.link/f/d2JeburrrJ3zw563BB4vwU/)|
