@@ -108,7 +108,7 @@ It will now install Office.
 
 ## Alternative Methods
 
--   [Office Tool Plus](http://otp.landian.vip/)
+-   [Office Tool Plus](https://otp.landian.vip/)
 
 ---
 
