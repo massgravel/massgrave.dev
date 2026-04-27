@@ -50,7 +50,7 @@ This didn't make a lot of sense. Why would Microsoft make such an incomplete, ef
 
 ## Context
 
-:::tip What is ZeroCID?
+:::tip[What is ZeroCID?]
 ZeroCID is an activation method that abuses the caching mechanism of Microsoft's legitimate "phone activation" system. 
 
 It works by creating fake cache entries that trick the Software Protection Platform (SPP) into granting activation without performing the actual cryptographic validation of the Confirmation ID (CID).
@@ -76,7 +76,7 @@ This known, predictable behavior was our baseline when developing the activation
 
 On the next day, [WitherOrNot](https://github.com/WitherOrNot) began looking into what happened, mostly by trying to figure out what code was changed in SPP in 27802 compared to the previous build. Around the same time, [asdcorp](https://github.com/asdcorp) also started looking into the incident and began inspecting the trusted store on the new build, trying to see if data was being stored differently.
 
-:::tip What is the trusted store?
+:::tip[What is the trusted store?]
 The trusted store is a file created by SPP using a proprietary format. It's designed to securely store important activation-related data and prevent users from modifying the information inside of it. However, TSforge makes it possible to easily modify the trusted store according to our needs.
 :::
 
