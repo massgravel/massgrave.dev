@@ -2,6 +2,18 @@
 
 ------------------------------------------------------------------------
 
+## 3.11
+**Minor Update**
+
+#### Change Office Edition
+- Added OutlookForWindows in app selection menu, thanks to @WindowsAddict
+
+#### TSforge
+- Added support for Server 2012 Year 4 and Year 5 ESU licenses
+- Added support for Windows 10 LTSB 2016 ESU licenses
+
+------------------------------------------------------------------------
+
 ## 3.10
 **Minor Update**
 
