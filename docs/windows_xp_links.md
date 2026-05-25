@@ -20,36 +20,36 @@ The file below is a **full** ISO image.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x86  | [en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (Buzzheavier)](https://buzzheavier.com/nar2zwokpo9t)<br/>[en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (ZeroFS)](https://zerofs.link/f/3puGRgtQNZXzMYRTnMCNTH/) |
+| English  | x86  | [en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (Buzzheavier)](https://buzzheavier.com/nar2zwokpo9t)<br/>[en_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73974.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                                                                   |
 |:------------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Arabic                  | x86  | [ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.dvp](https://zerofs.link/f/3DxFG3YJypP6ogxBmbHpQm/)      |
-| Czech                   | x86  | [cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.dvp](https://zerofs.link/f/QhQra33wXaUY5tKjVtixVq/)      |
-| Danish                  | x86  | [da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.dvp](https://zerofs.link/f/grLSUo6u4d3atPS8ruPsgv/)      |
-| German                  | x86  | [de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.dvp](https://zerofs.link/f/Hvf2TVBfXcJLbj9iKwLPYM/)      |
-| Greek                   | x86  | [el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.dvp](https://zerofs.link/f/K8T2RWTwNAJQ2QTS7mHSUG/)      |
-| Spanish                 | x86  | [es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.dvp](https://zerofs.link/f/fwAAHKz3yMGj7JELayBSrq/)      |
-| Finnish                 | x86  | [fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.dvp](https://zerofs.link/f/QeJvuzyDeKw9pk4UXdSCMP/)      |
-| French                  | x86  | [fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.dvp](https://zerofs.link/f/cqPuW2UuXGvvN5sbShgGmg/)      |
-| Hebrew                  | x86  | [he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.dvp](https://zerofs.link/f/o4ACReL28XicXXapfCEtjw/)      |
-| Hungarian               | x86  | [hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.dvp](https://zerofs.link/f/FmoBoxtE8WrkzdKG34MLGM/)      |
-| Italian                 | x86  | [it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.dvp](https://zerofs.link/f/eXzPaYwXjCJGxm7yfqkkPb/)      |
-| Japanese                | x86  | [ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.dvp](https://zerofs.link/f/guGF3aN7s3pXiKCZdQ7XrR/)     |
-| Korean                  | x86  | [ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.dvp](https://zerofs.link/f/miAzJQVk9jKLmDLXKwstoC/)    |
-| Dutch                   | x86  | [nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.dvp](https://zerofs.link/f/h37KyGUJHKD28r4gUgCDL9/)      |
-| Norwegian               | x86  | [no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.dvp](https://zerofs.link/f/8HwKyFYtgNn4hxGVo78pxf/)      |
-| Polish                  | x86  | [pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.dvp](https://zerofs.link/f/NMyxz6i2Y6wW9sQZD239kA/)      |
-| Portuguese-Brazil       | x86  | [pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.dvp](https://zerofs.link/f/Gew4Z8WCk6HatZpG5erWCr/)   |
-| Portuguese-Portugal     | x86  | [pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.dvp](https://zerofs.link/f/8UNAFsnhwtwmmAa2DiA85c/)   |
-| Russian                 | x86  | [ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.dvp](https://zerofs.link/f/KEDNL7dzdLGizzecsJhvKo/)      |
-| Swedish                 | x86  | [sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.dvp](https://zerofs.link/f/64bkMockrhrGnswa34dwXq/)      |
-| Turkish                 | x86  | [tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.dvp](https://zerofs.link/f/mVwVVP9dfsiNbdd3SiRwZV/)      |
-| Chinese - Simplified    | x86  | [zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.dvp](https://zerofs.link/f/4CytXDG9qrWUTkg6c3V4WZ/) |
-| Chinese - Hong Kong SAR | x86  | [zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.dvp](https://zerofs.link/f/KebdRySiZDYW5Jx9AsZLiF/)   |
-| Chinese - Traditional   | x86  | [zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.dvp](https://zerofs.link/f/Ni8nu6DxoQwDV4cnyzmCa8/)   |
+| Arabic                  | x86  | [ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.dvp](https://massgrave.dev/download_unavailable)      |
+| Czech                   | x86  | [cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.dvp](https://massgrave.dev/download_unavailable)      |
+| Danish                  | x86  | [da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.dvp](https://massgrave.dev/download_unavailable)      |
+| German                  | x86  | [de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.dvp](https://massgrave.dev/download_unavailable)      |
+| Greek                   | x86  | [el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.dvp](https://massgrave.dev/download_unavailable)      |
+| Spanish                 | x86  | [es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.dvp](https://massgrave.dev/download_unavailable)      |
+| Finnish                 | x86  | [fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.dvp](https://massgrave.dev/download_unavailable)      |
+| French                  | x86  | [fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.dvp](https://massgrave.dev/download_unavailable)      |
+| Hebrew                  | x86  | [he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.dvp](https://massgrave.dev/download_unavailable)      |
+| Hungarian               | x86  | [hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.dvp](https://massgrave.dev/download_unavailable)      |
+| Italian                 | x86  | [it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.dvp](https://massgrave.dev/download_unavailable)      |
+| Japanese                | x86  | [ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.dvp](https://massgrave.dev/download_unavailable)     |
+| Korean                  | x86  | [ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.dvp](https://massgrave.dev/download_unavailable)    |
+| Dutch                   | x86  | [nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.dvp](https://massgrave.dev/download_unavailable)      |
+| Norwegian               | x86  | [no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.dvp](https://massgrave.dev/download_unavailable)      |
+| Polish                  | x86  | [pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.dvp](https://massgrave.dev/download_unavailable)      |
+| Portuguese-Brazil       | x86  | [pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.dvp](https://massgrave.dev/download_unavailable)   |
+| Portuguese-Portugal     | x86  | [pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.dvp](https://massgrave.dev/download_unavailable)   |
+| Russian                 | x86  | [ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.dvp](https://massgrave.dev/download_unavailable)      |
+| Swedish                 | x86  | [sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.dvp](https://massgrave.dev/download_unavailable)      |
+| Turkish                 | x86  | [tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.dvp](https://massgrave.dev/download_unavailable)      |
+| Chinese - Simplified    | x86  | [zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese - Hong Kong SAR | x86  | [zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.dvp](https://massgrave.dev/download_unavailable)   |
+| Chinese - Traditional   | x86  | [zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.dvp](https://massgrave.dev/download_unavailable)   |
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ The files below are **DVP patches** that use the above ISO image as a source. Se
 
 | Language | Arch | Link                                                                                                                   |
 |:---------|:-----|:-----------------------------------------------------------------------------------------------------------------------|
-| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (Buzzheavier)](https://buzzheavier.com/akh52ycfxwfy)<br/>[en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (ZeroFS)](https://zerofs.link/f/JZ4Zf3toxjujtbAkYaeFr4/) |
+| English  | x64  | [en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (Buzzheavier)](https://buzzheavier.com/akh52ycfxwfy)<br/>[en_win_xp_pro_x64_with_sp2_vl_x13-41611.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
