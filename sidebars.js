@@ -46,7 +46,8 @@ const sidebars = {
           type: 'html',
           value: '<hr class="sidebar-hr" />',
         },
-        'dumbversion_patches'
+        'dumbversion_patches',
+        'download_unavailable'
       ],
     },
     'faq',

@@ -38,85 +38,85 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_8_x64_dvd_915440.iso (Buzzheavier)](https://buzzheavier.com/dn0bb0ozyxup)<br/>[en_windows_8_x64_dvd_915440.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
-| English  | x86  | [en_windows_8_x86_dvd_915417.iso (Buzzheavier)](https://buzzheavier.com/4uh1amj718hl)<br/>[en_windows_8_x86_dvd_915417.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_windows_8_x64_dvd_915440.iso (Buzzheavier)](https://buzzheavier.com/dn0bb0ozyxup)<br/>[en_windows_8_x64_dvd_915440.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_windows_8_x86_dvd_915417.iso (Buzzheavier)](https://buzzheavier.com/4uh1amj718hl)<br/>[en_windows_8_x86_dvd_915417.iso (ZeroFS)](download_unavailable.md) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                 | Arch | Link                                                                                                                                             |
 | :----------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                   | x64  | [ar_windows_8_x64_dvd_915454.dvp](https://massgrave.dev/download_unavailable)    |
-| Arabic                   | x86  | [ar_windows_8_x86_dvd_915428.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x64  | [bg_windows_8_x64_dvd_915455.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x86  | [bg_windows_8_x86_dvd_915445.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Simplified     | x64  | [cn_windows_8_x64_dvd_915407.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Simplified     | x86  | [cn_windows_8_x86_dvd_915414.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x64  | [cs_windows_8_x64_dvd_915456.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x86  | [cs_windows_8_x86_dvd_915447.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x64  | [da_windows_8_x64_dvd_915408.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x86  | [da_windows_8_x86_dvd_915475.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x64  | [de_windows_8_x64_dvd_915409.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x86  | [de_windows_8_x86_dvd_915423.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x64  | [el_windows_8_x64_dvd_915418.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x86  | [el_windows_8_x86_dvd_915483.dvp](https://massgrave.dev/download_unavailable)    |
-| English - United Kingdom | x64  | [en-gb_windows_8_x64_dvd_915412.dvp](https://massgrave.dev/download_unavailable) |
-| English - United Kingdom | x86  | [en-gb_windows_8_x86_dvd_915479.dvp](https://massgrave.dev/download_unavailable) |
-| Spanish                  | x64  | [es_windows_8_x64_dvd_915404.dvp](https://massgrave.dev/download_unavailable)    |
-| Spanish                  | x86  | [es_windows_8_x86_dvd\_\_915471.dvp](https://massgrave.dev/download_unavailable) |
-| Estonian                 | x64  | [et_windows_8_x64_dvd_916115.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x86  | [et_windows_8_x86_dvd_915503.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x64  | [fi_windows_8_x64_dvd_915415.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x86  | [fi_windows_8_x86_dvd_915481.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x64  | [fr_windows_8_x64_dvd_916083.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x86  | [fr_windows_8_x86_dvd_915420.dvp](https://massgrave.dev/download_unavailable)    |
-| Hebrew                   | x64  | [he_windows_8_x64_dvd_915421.dvp](https://massgrave.dev/download_unavailable)    |
-| Hebrew                   | x86  | [he_windows_8_x86_dvd_915485.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Hong Kong SAR  | x64  | [hk_windows_8_x64_dvd_915430.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Hong Kong SAR  | x86  | [hk_windows_8_x86_dvd_915528.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x64  | [hr_windows_8_x64_dvd_915406.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x86  | [hr_windows_8_x86_dvd_915473.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x64  | [hu_windows_8_x64_dvd_915424.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x86  | [hu_windows_8_x86_dvd_915487.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x64  | [it_windows_8_x64_dvd_915427.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x86  | [it_windows_8_x86_dvd_915489.dvp](https://massgrave.dev/download_unavailable)    |
-| Japanese                 | x64  | [ja_windows_8_x64_dvd_915411.dvp](https://massgrave.dev/download_unavailable)    |
-| Japanese                 | x86  | [ja_windows_8_x86_dvd_915426.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x64  | [ko_windows_8_x64_dvd_915402.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x86  | [ko_windows_8_x86_dvd_915465.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x64  | [lt_windows_8_x64_dvd_915431.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x86  | [lt_windows_8_x86_dvd_915493.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x64  | [lv_windows_8_x64_dvd_915429.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x86  | [lv_windows_8_x86_dvd_915491.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x64  | [nl_windows_8_x64_dvd_915410.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x86  | [nl_windows_8_x86_dvd_915477.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x64  | [no_windows_8_x64_dvd_915434.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x86  | [no_windows_8_x86_dvd_915495.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x64  | [pl_windows_8_x64_dvd_915436.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x86  | [pl_windows_8_x86_dvd_915497.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x64  | [pp_windows_8_x64_dvd_915432.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x86  | [pp_windows_8_x86_dvd_915499.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Brazil      | x64  | [pt_windows_8_x64_dvd_915416.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Brazil      | x86  | [pt_windows_8_x86_dvd_915467.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x64  | [ro_windows_8_x64_dvd_915435.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x86  | [ro_windows_8_x86_dvd_915501.dvp](https://massgrave.dev/download_unavailable)    |
-| Russian                  | x64  | [ru_windows_8_x64_dvd_915419.dvp](https://massgrave.dev/download_unavailable)    |
-| Russian                  | x86  | [ru_windows_8_x86_dvd_915469.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x64  | [sk_windows_8_x64_dvd_915438.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x86  | [sk_windows_8_x86_dvd_915502.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x64  | [sl_windows_8_x64_dvd_922085.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x86  | [sl_windows_8_x86_dvd_915542.dvp](https://massgrave.dev/download_unavailable)    |
-| Serbian                  | x64  | [sr_windows_8_x64_dvd_922084.dvp](https://massgrave.dev/download_unavailable)    |
-| Serbian                  | x86  | [sr_windows_8_x86_dvd_915536.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x64  | [sv_windows_8_x64_dvd_915422.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x86  | [sv_windows_8_x86_dvd_915514.dvp](https://massgrave.dev/download_unavailable)    |
-| Thai                     | x64  | [th_windows_8_x64_dvd_915441.dvp](https://massgrave.dev/download_unavailable)    |
-| Thai                     | x86  | [th_windows_8_x86_dvd_915550.dvp](https://massgrave.dev/download_unavailable)    |
-| Turkish                  | x64  | [tr_windows_8_x64_dvd_915425.dvp](https://massgrave.dev/download_unavailable)    |
-| Turkish                  | x86  | [tr_windows_8_x86_dvd_915522.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Traditional    | x64  | [tw_windows_8_x64_dvd_915413.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Traditional    | x86  | [tw_windows_8_x86_dvd_915507.dvp](https://massgrave.dev/download_unavailable)    |
-| Ukranian                 | x64  | [uk_windows_8_x64_dvd_915443.dvp](https://massgrave.dev/download_unavailable)    |
-| Ukranian                 | x86  | [uk_windows_8_x86_dvd_915556.dvp](https://massgrave.dev/download_unavailable)    |
+| Arabic                   | x64  | [ar_windows_8_x64_dvd_915454.dvp](download_unavailable.md)    |
+| Arabic                   | x86  | [ar_windows_8_x86_dvd_915428.dvp](download_unavailable.md)    |
+| Bulgarian                | x64  | [bg_windows_8_x64_dvd_915455.dvp](download_unavailable.md)    |
+| Bulgarian                | x86  | [bg_windows_8_x86_dvd_915445.dvp](download_unavailable.md)    |
+| Chinese - Simplified     | x64  | [cn_windows_8_x64_dvd_915407.dvp](download_unavailable.md)    |
+| Chinese - Simplified     | x86  | [cn_windows_8_x86_dvd_915414.dvp](download_unavailable.md)    |
+| Czech                    | x64  | [cs_windows_8_x64_dvd_915456.dvp](download_unavailable.md)    |
+| Czech                    | x86  | [cs_windows_8_x86_dvd_915447.dvp](download_unavailable.md)    |
+| Danish                   | x64  | [da_windows_8_x64_dvd_915408.dvp](download_unavailable.md)    |
+| Danish                   | x86  | [da_windows_8_x86_dvd_915475.dvp](download_unavailable.md)    |
+| German                   | x64  | [de_windows_8_x64_dvd_915409.dvp](download_unavailable.md)    |
+| German                   | x86  | [de_windows_8_x86_dvd_915423.dvp](download_unavailable.md)    |
+| Greek                    | x64  | [el_windows_8_x64_dvd_915418.dvp](download_unavailable.md)    |
+| Greek                    | x86  | [el_windows_8_x86_dvd_915483.dvp](download_unavailable.md)    |
+| English - United Kingdom | x64  | [en-gb_windows_8_x64_dvd_915412.dvp](download_unavailable.md) |
+| English - United Kingdom | x86  | [en-gb_windows_8_x86_dvd_915479.dvp](download_unavailable.md) |
+| Spanish                  | x64  | [es_windows_8_x64_dvd_915404.dvp](download_unavailable.md)    |
+| Spanish                  | x86  | [es_windows_8_x86_dvd\_\_915471.dvp](download_unavailable.md) |
+| Estonian                 | x64  | [et_windows_8_x64_dvd_916115.dvp](download_unavailable.md)    |
+| Estonian                 | x86  | [et_windows_8_x86_dvd_915503.dvp](download_unavailable.md)    |
+| Finnish                  | x64  | [fi_windows_8_x64_dvd_915415.dvp](download_unavailable.md)    |
+| Finnish                  | x86  | [fi_windows_8_x86_dvd_915481.dvp](download_unavailable.md)    |
+| French                   | x64  | [fr_windows_8_x64_dvd_916083.dvp](download_unavailable.md)    |
+| French                   | x86  | [fr_windows_8_x86_dvd_915420.dvp](download_unavailable.md)    |
+| Hebrew                   | x64  | [he_windows_8_x64_dvd_915421.dvp](download_unavailable.md)    |
+| Hebrew                   | x86  | [he_windows_8_x86_dvd_915485.dvp](download_unavailable.md)    |
+| Chinese - Hong Kong SAR  | x64  | [hk_windows_8_x64_dvd_915430.dvp](download_unavailable.md)    |
+| Chinese - Hong Kong SAR  | x86  | [hk_windows_8_x86_dvd_915528.dvp](download_unavailable.md)    |
+| Croatian                 | x64  | [hr_windows_8_x64_dvd_915406.dvp](download_unavailable.md)    |
+| Croatian                 | x86  | [hr_windows_8_x86_dvd_915473.dvp](download_unavailable.md)    |
+| Hungarian                | x64  | [hu_windows_8_x64_dvd_915424.dvp](download_unavailable.md)    |
+| Hungarian                | x86  | [hu_windows_8_x86_dvd_915487.dvp](download_unavailable.md)    |
+| Italian                  | x64  | [it_windows_8_x64_dvd_915427.dvp](download_unavailable.md)    |
+| Italian                  | x86  | [it_windows_8_x86_dvd_915489.dvp](download_unavailable.md)    |
+| Japanese                 | x64  | [ja_windows_8_x64_dvd_915411.dvp](download_unavailable.md)    |
+| Japanese                 | x86  | [ja_windows_8_x86_dvd_915426.dvp](download_unavailable.md)    |
+| Korean                   | x64  | [ko_windows_8_x64_dvd_915402.dvp](download_unavailable.md)    |
+| Korean                   | x86  | [ko_windows_8_x86_dvd_915465.dvp](download_unavailable.md)    |
+| Lithuanian               | x64  | [lt_windows_8_x64_dvd_915431.dvp](download_unavailable.md)    |
+| Lithuanian               | x86  | [lt_windows_8_x86_dvd_915493.dvp](download_unavailable.md)    |
+| Latvian                  | x64  | [lv_windows_8_x64_dvd_915429.dvp](download_unavailable.md)    |
+| Latvian                  | x86  | [lv_windows_8_x86_dvd_915491.dvp](download_unavailable.md)    |
+| Dutch                    | x64  | [nl_windows_8_x64_dvd_915410.dvp](download_unavailable.md)    |
+| Dutch                    | x86  | [nl_windows_8_x86_dvd_915477.dvp](download_unavailable.md)    |
+| Norwegian                | x64  | [no_windows_8_x64_dvd_915434.dvp](download_unavailable.md)    |
+| Norwegian                | x86  | [no_windows_8_x86_dvd_915495.dvp](download_unavailable.md)    |
+| Polish                   | x64  | [pl_windows_8_x64_dvd_915436.dvp](download_unavailable.md)    |
+| Polish                   | x86  | [pl_windows_8_x86_dvd_915497.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x64  | [pp_windows_8_x64_dvd_915432.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x86  | [pp_windows_8_x86_dvd_915499.dvp](download_unavailable.md)    |
+| Portuguese - Brazil      | x64  | [pt_windows_8_x64_dvd_915416.dvp](download_unavailable.md)    |
+| Portuguese - Brazil      | x86  | [pt_windows_8_x86_dvd_915467.dvp](download_unavailable.md)    |
+| Romanian                 | x64  | [ro_windows_8_x64_dvd_915435.dvp](download_unavailable.md)    |
+| Romanian                 | x86  | [ro_windows_8_x86_dvd_915501.dvp](download_unavailable.md)    |
+| Russian                  | x64  | [ru_windows_8_x64_dvd_915419.dvp](download_unavailable.md)    |
+| Russian                  | x86  | [ru_windows_8_x86_dvd_915469.dvp](download_unavailable.md)    |
+| Slovak                   | x64  | [sk_windows_8_x64_dvd_915438.dvp](download_unavailable.md)    |
+| Slovak                   | x86  | [sk_windows_8_x86_dvd_915502.dvp](download_unavailable.md)    |
+| Slovenian                | x64  | [sl_windows_8_x64_dvd_922085.dvp](download_unavailable.md)    |
+| Slovenian                | x86  | [sl_windows_8_x86_dvd_915542.dvp](download_unavailable.md)    |
+| Serbian                  | x64  | [sr_windows_8_x64_dvd_922084.dvp](download_unavailable.md)    |
+| Serbian                  | x86  | [sr_windows_8_x86_dvd_915536.dvp](download_unavailable.md)    |
+| Swedish                  | x64  | [sv_windows_8_x64_dvd_915422.dvp](download_unavailable.md)    |
+| Swedish                  | x86  | [sv_windows_8_x86_dvd_915514.dvp](download_unavailable.md)    |
+| Thai                     | x64  | [th_windows_8_x64_dvd_915441.dvp](download_unavailable.md)    |
+| Thai                     | x86  | [th_windows_8_x86_dvd_915550.dvp](download_unavailable.md)    |
+| Turkish                  | x64  | [tr_windows_8_x64_dvd_915425.dvp](download_unavailable.md)    |
+| Turkish                  | x86  | [tr_windows_8_x86_dvd_915522.dvp](download_unavailable.md)    |
+| Chinese - Traditional    | x64  | [tw_windows_8_x64_dvd_915413.dvp](download_unavailable.md)    |
+| Chinese - Traditional    | x86  | [tw_windows_8_x86_dvd_915507.dvp](download_unavailable.md)    |
+| Ukranian                 | x64  | [uk_windows_8_x64_dvd_915443.dvp](download_unavailable.md)    |
+| Ukranian                 | x86  | [uk_windows_8_x86_dvd_915556.dvp](download_unavailable.md)    |
 
 </TabItem>
 
@@ -128,85 +128,85 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso (Buzzheavier)](https://buzzheavier.com/6bxw5yuk6bg6)<br/>[en_windows_8_enterprise_x64_dvd_917522.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
-| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_windows_8_enterprise_x64_dvd_917522.iso (Buzzheavier)](https://buzzheavier.com/6bxw5yuk6bg6)<br/>[en_windows_8_enterprise_x64_dvd_917522.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_windows_8_enterprise_x86_dvd_917587.iso (Buzzheavier)](https://buzzheavier.com/b34rdhgintdi)<br/>[en_windows_8_enterprise_x86_dvd_917587.iso (ZeroFS)](download_unavailable.md) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                 | Arch | Link                                                                                                                                             |
 | :----------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                   | x64  | [ar_windows_8_enterprise_x64_dvd_917516.dvp](https://massgrave.dev/download_unavailable)    |
-| Arabic                   | x86  | [ar_windows_8_enterprise_x86_dvd_917584.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x64  | [bg_windows_8_enterprise_x64_dvd_917528.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x86  | [bg_windows_8_enterprise_x86_dvd_917592.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Simplified     | x64  | [cn_windows_8_enterprise_x64_dvd_917570.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Simplified     | x86  | [cn_windows_8_enterprise_x86_dvd_917682.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x64  | [cs_windows_8_enterprise_x64_dvd_917518.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x86  | [cs_windows_8_enterprise_x86_dvd_917585.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x64  | [da_windows_8_enterprise_x64_dvd_917520.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x86  | [da_windows_8_enterprise_x86_dvd_917586.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x64  | [de_windows_8_enterprise_x64_dvd_917524.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x86  | [de_windows_8_enterprise_x86_dvd_917589.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x64  | [el_windows_8_enterprise_x64_dvd_917526.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x86  | [el_windows_8_enterprise_x86_dvd_917590.dvp](https://massgrave.dev/download_unavailable)    |
-| English - United Kingdom | x64  | [en-gb_windows_8_enterprise_x64_dvd_922086.dvp](https://massgrave.dev/download_unavailable) |
-| English - United Kingdom | x86  | [en-gb_windows_8_enterprise_x86_dvd_917588.dvp](https://massgrave.dev/download_unavailable) |
-| Spanish                  | x64  | [es_windows_8_enterprise_x64_dvd_917926.dvp](https://massgrave.dev/download_unavailable)    |
-| Spanish                  | x86  | [es_windows_8_enterprise_x86_dvd_917591.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x64  | [et_windows_8_enterprise_x64_dvd_917913.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x86  | [et_windows_8_enterprise_x86_dvd_917669.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x64  | [fi_windows_8_enterprise_x64_dvd_917914.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x86  | [fi_windows_8_enterprise_x86_dvd_917670.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x64  | [fr_windows_8_enterprise_x64_dvd_917915.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x86  | [fr_windows_8_enterprise_x86_dvd_917671.dvp](https://massgrave.dev/download_unavailable)    |
-| Hebrew                   | x64  | [he_windows_8_enterprise_x64_dvd_917916.dvp](https://massgrave.dev/download_unavailable)    |
-| Hebrew                   | x86  | [he_windows_8_enterprise_x86_dvd_917672.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Hong Kong SAR  | x64  | [hk_windows_8_enterprise_x64_dvd_917571.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Hong Kong SAR  | x86  | [hk_windows_8_enterprise_x86_dvd_917684.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x64  | [hr_windows_8_enterprise_x64_dvd_917911.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x86  | [hr_windows_8_enterprise_x86_dvd_917667.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x64  | [hu_windows_8_enterprise_x64_dvd_917917.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x86  | [hu_windows_8_enterprise_x86_dvd_917673.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x64  | [it_windows_8_enterprise_x64_dvd_917918.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x86  | [it_windows_8_enterprise_x86_dvd_917674.dvp](https://massgrave.dev/download_unavailable)    |
-| Japanese                 | x64  | [ja_windows_8_enterprise_x64_dvd_917919.dvp](https://massgrave.dev/download_unavailable)    |
-| Japanese                 | x86  | [ja_windows_8_enterprise_x86_dvd_917675.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x64  | [ko_windows_8_enterprise_x64_dvd_917920.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x86  | [ko_windows_8_enterprise_x86_dvd_917676.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x64  | [lt_windows_8_enterprise_x64_dvd_917922.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x86  | [lt_windows_8_enterprise_x86_dvd_917678.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x64  | [lv_windows_8_enterprise_x64_dvd_917921.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x86  | [lv_windows_8_enterprise_x86_dvd_917677.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x64  | [nl_windows_8_enterprise_x64_dvd_917912.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x86  | [nl_windows_8_enterprise_x86_dvd_917668.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x64  | [no_windows_8_enterprise_x64_dvd_917923.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x86  | [no_windows_8_enterprise_x86_dvd_917679.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x64  | [pl_windows_8_enterprise_x64_dvd_917924.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x86  | [pl_windows_8_enterprise_x86_dvd_917680.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x64  | [pp_windows_8_enterprise_x64_dvd_917574.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x86  | [pp_windows_8_enterprise_x86_dvd_917683.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Brazil      | x64  | [pt_windows_8_enterprise_x64_dvd_917925.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Brazil      | x86  | [pt_windows_8_enterprise_x86_dvd_917681.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x64  | [ro_windows_8_enterprise_x64_dvd_917575.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x86  | [ro_windows_8_enterprise_x86_dvd_917685.dvp](https://massgrave.dev/download_unavailable)    |
-| Russian                  | x64  | [ru_windows_8_enterprise_x64_dvd_917576.dvp](https://massgrave.dev/download_unavailable)    |
-| Russian                  | x86  | [ru_windows_8_enterprise_x86_dvd_917687.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x64  | [sk_windows_8_enterprise_x64_dvd_917578.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x86  | [sk_windows_8_enterprise_x86_dvd_917689.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x64  | [sl_windows_8_enterprise_x64_dvd_917579.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x86  | [sl_windows_8_enterprise_x86_dvd_917691.dvp](https://massgrave.dev/download_unavailable)    |
-| Serbian                  | x64  | [sr_windows_8_enterprise_x64_dvd_917577.dvp](https://massgrave.dev/download_unavailable)    |
-| Serbian                  | x86  | [sr_windows_8_enterprise_x86_dvd_917688.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x64  | [sv_windows_8_enterprise_x64_dvd_917580.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x86  | [sv_windows_8_enterprise_x86_dvd_917690.dvp](https://massgrave.dev/download_unavailable)    |
-| Thai                     | x64  | [th_windows_8_enterprise_x64_dvd_917581.dvp](https://massgrave.dev/download_unavailable)    |
-| Thai                     | x86  | [th_windows_8_enterprise_x86_dvd_917692.dvp](https://massgrave.dev/download_unavailable)    |
-| Turkish                  | x64  | [tr_windows_8_enterprise_x64_dvd_917582.dvp](https://massgrave.dev/download_unavailable)    |
-| Turkish                  | x86  | [tr_windows_8_enterprise_x86_dvd_917693.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Traditional    | x64  | [tw_windows_8_enterprise_x64_dvd_917573.dvp](https://massgrave.dev/download_unavailable)    |
-| Chinese - Traditional    | x86  | [tw_windows_8_enterprise_x86_dvd_917686.dvp](https://massgrave.dev/download_unavailable)    |
-| Ukranian                 | x64  | [uk_windows_8_enterprise_x64_dvd_917583.dvp](https://massgrave.dev/download_unavailable)    |
-| Ukranian                 | x86  | [uk_windows_8_enterprise_x86_dvd_917694.dvp](https://massgrave.dev/download_unavailable)    |
+| Arabic                   | x64  | [ar_windows_8_enterprise_x64_dvd_917516.dvp](download_unavailable.md)    |
+| Arabic                   | x86  | [ar_windows_8_enterprise_x86_dvd_917584.dvp](download_unavailable.md)    |
+| Bulgarian                | x64  | [bg_windows_8_enterprise_x64_dvd_917528.dvp](download_unavailable.md)    |
+| Bulgarian                | x86  | [bg_windows_8_enterprise_x86_dvd_917592.dvp](download_unavailable.md)    |
+| Chinese - Simplified     | x64  | [cn_windows_8_enterprise_x64_dvd_917570.dvp](download_unavailable.md)    |
+| Chinese - Simplified     | x86  | [cn_windows_8_enterprise_x86_dvd_917682.dvp](download_unavailable.md)    |
+| Czech                    | x64  | [cs_windows_8_enterprise_x64_dvd_917518.dvp](download_unavailable.md)    |
+| Czech                    | x86  | [cs_windows_8_enterprise_x86_dvd_917585.dvp](download_unavailable.md)    |
+| Danish                   | x64  | [da_windows_8_enterprise_x64_dvd_917520.dvp](download_unavailable.md)    |
+| Danish                   | x86  | [da_windows_8_enterprise_x86_dvd_917586.dvp](download_unavailable.md)    |
+| German                   | x64  | [de_windows_8_enterprise_x64_dvd_917524.dvp](download_unavailable.md)    |
+| German                   | x86  | [de_windows_8_enterprise_x86_dvd_917589.dvp](download_unavailable.md)    |
+| Greek                    | x64  | [el_windows_8_enterprise_x64_dvd_917526.dvp](download_unavailable.md)    |
+| Greek                    | x86  | [el_windows_8_enterprise_x86_dvd_917590.dvp](download_unavailable.md)    |
+| English - United Kingdom | x64  | [en-gb_windows_8_enterprise_x64_dvd_922086.dvp](download_unavailable.md) |
+| English - United Kingdom | x86  | [en-gb_windows_8_enterprise_x86_dvd_917588.dvp](download_unavailable.md) |
+| Spanish                  | x64  | [es_windows_8_enterprise_x64_dvd_917926.dvp](download_unavailable.md)    |
+| Spanish                  | x86  | [es_windows_8_enterprise_x86_dvd_917591.dvp](download_unavailable.md)    |
+| Estonian                 | x64  | [et_windows_8_enterprise_x64_dvd_917913.dvp](download_unavailable.md)    |
+| Estonian                 | x86  | [et_windows_8_enterprise_x86_dvd_917669.dvp](download_unavailable.md)    |
+| Finnish                  | x64  | [fi_windows_8_enterprise_x64_dvd_917914.dvp](download_unavailable.md)    |
+| Finnish                  | x86  | [fi_windows_8_enterprise_x86_dvd_917670.dvp](download_unavailable.md)    |
+| French                   | x64  | [fr_windows_8_enterprise_x64_dvd_917915.dvp](download_unavailable.md)    |
+| French                   | x86  | [fr_windows_8_enterprise_x86_dvd_917671.dvp](download_unavailable.md)    |
+| Hebrew                   | x64  | [he_windows_8_enterprise_x64_dvd_917916.dvp](download_unavailable.md)    |
+| Hebrew                   | x86  | [he_windows_8_enterprise_x86_dvd_917672.dvp](download_unavailable.md)    |
+| Chinese - Hong Kong SAR  | x64  | [hk_windows_8_enterprise_x64_dvd_917571.dvp](download_unavailable.md)    |
+| Chinese - Hong Kong SAR  | x86  | [hk_windows_8_enterprise_x86_dvd_917684.dvp](download_unavailable.md)    |
+| Croatian                 | x64  | [hr_windows_8_enterprise_x64_dvd_917911.dvp](download_unavailable.md)    |
+| Croatian                 | x86  | [hr_windows_8_enterprise_x86_dvd_917667.dvp](download_unavailable.md)    |
+| Hungarian                | x64  | [hu_windows_8_enterprise_x64_dvd_917917.dvp](download_unavailable.md)    |
+| Hungarian                | x86  | [hu_windows_8_enterprise_x86_dvd_917673.dvp](download_unavailable.md)    |
+| Italian                  | x64  | [it_windows_8_enterprise_x64_dvd_917918.dvp](download_unavailable.md)    |
+| Italian                  | x86  | [it_windows_8_enterprise_x86_dvd_917674.dvp](download_unavailable.md)    |
+| Japanese                 | x64  | [ja_windows_8_enterprise_x64_dvd_917919.dvp](download_unavailable.md)    |
+| Japanese                 | x86  | [ja_windows_8_enterprise_x86_dvd_917675.dvp](download_unavailable.md)    |
+| Korean                   | x64  | [ko_windows_8_enterprise_x64_dvd_917920.dvp](download_unavailable.md)    |
+| Korean                   | x86  | [ko_windows_8_enterprise_x86_dvd_917676.dvp](download_unavailable.md)    |
+| Lithuanian               | x64  | [lt_windows_8_enterprise_x64_dvd_917922.dvp](download_unavailable.md)    |
+| Lithuanian               | x86  | [lt_windows_8_enterprise_x86_dvd_917678.dvp](download_unavailable.md)    |
+| Latvian                  | x64  | [lv_windows_8_enterprise_x64_dvd_917921.dvp](download_unavailable.md)    |
+| Latvian                  | x86  | [lv_windows_8_enterprise_x86_dvd_917677.dvp](download_unavailable.md)    |
+| Dutch                    | x64  | [nl_windows_8_enterprise_x64_dvd_917912.dvp](download_unavailable.md)    |
+| Dutch                    | x86  | [nl_windows_8_enterprise_x86_dvd_917668.dvp](download_unavailable.md)    |
+| Norwegian                | x64  | [no_windows_8_enterprise_x64_dvd_917923.dvp](download_unavailable.md)    |
+| Norwegian                | x86  | [no_windows_8_enterprise_x86_dvd_917679.dvp](download_unavailable.md)    |
+| Polish                   | x64  | [pl_windows_8_enterprise_x64_dvd_917924.dvp](download_unavailable.md)    |
+| Polish                   | x86  | [pl_windows_8_enterprise_x86_dvd_917680.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x64  | [pp_windows_8_enterprise_x64_dvd_917574.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x86  | [pp_windows_8_enterprise_x86_dvd_917683.dvp](download_unavailable.md)    |
+| Portuguese - Brazil      | x64  | [pt_windows_8_enterprise_x64_dvd_917925.dvp](download_unavailable.md)    |
+| Portuguese - Brazil      | x86  | [pt_windows_8_enterprise_x86_dvd_917681.dvp](download_unavailable.md)    |
+| Romanian                 | x64  | [ro_windows_8_enterprise_x64_dvd_917575.dvp](download_unavailable.md)    |
+| Romanian                 | x86  | [ro_windows_8_enterprise_x86_dvd_917685.dvp](download_unavailable.md)    |
+| Russian                  | x64  | [ru_windows_8_enterprise_x64_dvd_917576.dvp](download_unavailable.md)    |
+| Russian                  | x86  | [ru_windows_8_enterprise_x86_dvd_917687.dvp](download_unavailable.md)    |
+| Slovak                   | x64  | [sk_windows_8_enterprise_x64_dvd_917578.dvp](download_unavailable.md)    |
+| Slovak                   | x86  | [sk_windows_8_enterprise_x86_dvd_917689.dvp](download_unavailable.md)    |
+| Slovenian                | x64  | [sl_windows_8_enterprise_x64_dvd_917579.dvp](download_unavailable.md)    |
+| Slovenian                | x86  | [sl_windows_8_enterprise_x86_dvd_917691.dvp](download_unavailable.md)    |
+| Serbian                  | x64  | [sr_windows_8_enterprise_x64_dvd_917577.dvp](download_unavailable.md)    |
+| Serbian                  | x86  | [sr_windows_8_enterprise_x86_dvd_917688.dvp](download_unavailable.md)    |
+| Swedish                  | x64  | [sv_windows_8_enterprise_x64_dvd_917580.dvp](download_unavailable.md)    |
+| Swedish                  | x86  | [sv_windows_8_enterprise_x86_dvd_917690.dvp](download_unavailable.md)    |
+| Thai                     | x64  | [th_windows_8_enterprise_x64_dvd_917581.dvp](download_unavailable.md)    |
+| Thai                     | x86  | [th_windows_8_enterprise_x86_dvd_917692.dvp](download_unavailable.md)    |
+| Turkish                  | x64  | [tr_windows_8_enterprise_x64_dvd_917582.dvp](download_unavailable.md)    |
+| Turkish                  | x86  | [tr_windows_8_enterprise_x86_dvd_917693.dvp](download_unavailable.md)    |
+| Chinese - Traditional    | x64  | [tw_windows_8_enterprise_x64_dvd_917573.dvp](download_unavailable.md)    |
+| Chinese - Traditional    | x86  | [tw_windows_8_enterprise_x86_dvd_917686.dvp](download_unavailable.md)    |
+| Ukranian                 | x64  | [uk_windows_8_enterprise_x64_dvd_917583.dvp](download_unavailable.md)    |
+| Ukranian                 | x86  | [uk_windows_8_enterprise_x86_dvd_917694.dvp](download_unavailable.md)    |
 
 </TabItem>
 
@@ -226,61 +226,61 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_8_n_x64_dvd_916091.iso (Buzzheavier)](https://buzzheavier.com/g3slbxmeqvst)<br/>[en_windows_8_n_x64_dvd_916091.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
-| English  | x86  | [en_windows_8_n_x86_dvd_916097.iso (Buzzheavier)](https://buzzheavier.com/hzg39m6vtfzz)<br/>[en_windows_8_n_x86_dvd_916097.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_windows_8_n_x64_dvd_916091.iso (Buzzheavier)](https://buzzheavier.com/g3slbxmeqvst)<br/>[en_windows_8_n_x64_dvd_916091.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_windows_8_n_x86_dvd_916097.iso (Buzzheavier)](https://buzzheavier.com/hzg39m6vtfzz)<br/>[en_windows_8_n_x86_dvd_916097.iso (ZeroFS)](download_unavailable.md) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                 | Arch | Link                                                                                                                                             |
 | :----------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bulgarian                | x64  | [bg_windows_8_n_x64_dvd_916085.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x86  | [bg_windows_8_n_x86_dvd_916076.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x64  | [cs_windows_8_n_x64_dvd_916087.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x86  | [cs_windows_8_n_x86_dvd_916080.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x64  | [da_windows_8_n_x64_dvd_916089.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x86  | [da_windows_8_n_x86_dvd_916082.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x64  | [de_windows_8_n_x64_dvd_916095.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x86  | [de_windows_8_n_x86_dvd_916101.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x64  | [el_windows_8_n_x64_dvd_915805.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x86  | [el_windows_8_n_x86_dvd_916092.dvp](https://massgrave.dev/download_unavailable)    |
-| English - United Kingdom | x64  | [en-gb_windows_8_n_x64_dvd_915799.dvp](https://massgrave.dev/download_unavailable) |
-| English - United Kingdom | x86  | [en-gb_windows_8_n_x86_dvd_916086.dvp](https://massgrave.dev/download_unavailable) |
-| Spanish                  | x64  | [es_windows_8_n_x64_dvd_915818.dvp](https://massgrave.dev/download_unavailable)    |
-| Spanish                  | x86  | [es_windows_8_n_x86_dvd_916114.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x64  | [et_windows_8_n_x64_dvd_915801.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x86  | [et_windows_8_n_x86_dvd_916088.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x64  | [fi_windows_8_n_x64_dvd_915803.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x86  | [fi_windows_8_n_x86_dvd_916090.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x64  | [fr_windows_8_n_x64_dvd_916093.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x86  | [fr_windows_8_n_x86_dvd_916099.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x64  | [hr_windows_8_n_x64_dvd_915795.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x86  | [hr_windows_8_n_x86_dvd_916078.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x64  | [hu_windows_8_n_x64_dvd_915807.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x86  | [hu_windows_8_n_x86_dvd_916094.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x64  | [it_windows_8_n_x64_dvd_915809.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x86  | [it_windows_8_n_x86_dvd_916096.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x64  | [ko_windows_8_n_x64_dvd_915811.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x86  | [ko_windows_8_n_x86_dvd_916098.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x64  | [lt_windows_8_n_x64_dvd_915813.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x86  | [lt_windows_8_n_x86_dvd_916102.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x64  | [lv_windows_8_n_x64_dvd_915812.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x86  | [lv_windows_8_n_x86_dvd_916100.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x64  | [nl_windows_8_n_x64_dvd_915797.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x86  | [nl_windows_8_n_x86_dvd_916084.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x64  | [no_windows_8_n_x64_dvd_915814.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x86  | [no_windows_8_n_x86_dvd_916104.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x64  | [pl_windows_8_n_x64_dvd_915815.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x86  | [pl_windows_8_n_x86_dvd_916106.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x64  | [pp_windows_8_n_x64_dvd_915816.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x86  | [pp_windows_8_n_x86_dvd_916109.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x64  | [ro_windows_8_n_x64_dvd_915817.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x86  | [ro_windows_8_n_x86_dvd_916112.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x64  | [sk_windows_8_n_x64_dvd_916070.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x86  | [sk_windows_8_n_x86_dvd_917540.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x64  | [sl_windows_8_n_x64_dvd_916072.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x86  | [sl_windows_8_n_x86_dvd_917541.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x64  | [sv_windows_8_n_x64_dvd_916074.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x86  | [sv_windows_8_n_x86_dvd_917542.dvp](https://massgrave.dev/download_unavailable)    |
+| Bulgarian                | x64  | [bg_windows_8_n_x64_dvd_916085.dvp](download_unavailable.md)    |
+| Bulgarian                | x86  | [bg_windows_8_n_x86_dvd_916076.dvp](download_unavailable.md)    |
+| Czech                    | x64  | [cs_windows_8_n_x64_dvd_916087.dvp](download_unavailable.md)    |
+| Czech                    | x86  | [cs_windows_8_n_x86_dvd_916080.dvp](download_unavailable.md)    |
+| Danish                   | x64  | [da_windows_8_n_x64_dvd_916089.dvp](download_unavailable.md)    |
+| Danish                   | x86  | [da_windows_8_n_x86_dvd_916082.dvp](download_unavailable.md)    |
+| German                   | x64  | [de_windows_8_n_x64_dvd_916095.dvp](download_unavailable.md)    |
+| German                   | x86  | [de_windows_8_n_x86_dvd_916101.dvp](download_unavailable.md)    |
+| Greek                    | x64  | [el_windows_8_n_x64_dvd_915805.dvp](download_unavailable.md)    |
+| Greek                    | x86  | [el_windows_8_n_x86_dvd_916092.dvp](download_unavailable.md)    |
+| English - United Kingdom | x64  | [en-gb_windows_8_n_x64_dvd_915799.dvp](download_unavailable.md) |
+| English - United Kingdom | x86  | [en-gb_windows_8_n_x86_dvd_916086.dvp](download_unavailable.md) |
+| Spanish                  | x64  | [es_windows_8_n_x64_dvd_915818.dvp](download_unavailable.md)    |
+| Spanish                  | x86  | [es_windows_8_n_x86_dvd_916114.dvp](download_unavailable.md)    |
+| Estonian                 | x64  | [et_windows_8_n_x64_dvd_915801.dvp](download_unavailable.md)    |
+| Estonian                 | x86  | [et_windows_8_n_x86_dvd_916088.dvp](download_unavailable.md)    |
+| Finnish                  | x64  | [fi_windows_8_n_x64_dvd_915803.dvp](download_unavailable.md)    |
+| Finnish                  | x86  | [fi_windows_8_n_x86_dvd_916090.dvp](download_unavailable.md)    |
+| French                   | x64  | [fr_windows_8_n_x64_dvd_916093.dvp](download_unavailable.md)    |
+| French                   | x86  | [fr_windows_8_n_x86_dvd_916099.dvp](download_unavailable.md)    |
+| Croatian                 | x64  | [hr_windows_8_n_x64_dvd_915795.dvp](download_unavailable.md)    |
+| Croatian                 | x86  | [hr_windows_8_n_x86_dvd_916078.dvp](download_unavailable.md)    |
+| Hungarian                | x64  | [hu_windows_8_n_x64_dvd_915807.dvp](download_unavailable.md)    |
+| Hungarian                | x86  | [hu_windows_8_n_x86_dvd_916094.dvp](download_unavailable.md)    |
+| Italian                  | x64  | [it_windows_8_n_x64_dvd_915809.dvp](download_unavailable.md)    |
+| Italian                  | x86  | [it_windows_8_n_x86_dvd_916096.dvp](download_unavailable.md)    |
+| Korean                   | x64  | [ko_windows_8_n_x64_dvd_915811.dvp](download_unavailable.md)    |
+| Korean                   | x86  | [ko_windows_8_n_x86_dvd_916098.dvp](download_unavailable.md)    |
+| Lithuanian               | x64  | [lt_windows_8_n_x64_dvd_915813.dvp](download_unavailable.md)    |
+| Lithuanian               | x86  | [lt_windows_8_n_x86_dvd_916102.dvp](download_unavailable.md)    |
+| Latvian                  | x64  | [lv_windows_8_n_x64_dvd_915812.dvp](download_unavailable.md)    |
+| Latvian                  | x86  | [lv_windows_8_n_x86_dvd_916100.dvp](download_unavailable.md)    |
+| Dutch                    | x64  | [nl_windows_8_n_x64_dvd_915797.dvp](download_unavailable.md)    |
+| Dutch                    | x86  | [nl_windows_8_n_x86_dvd_916084.dvp](download_unavailable.md)    |
+| Norwegian                | x64  | [no_windows_8_n_x64_dvd_915814.dvp](download_unavailable.md)    |
+| Norwegian                | x86  | [no_windows_8_n_x86_dvd_916104.dvp](download_unavailable.md)    |
+| Polish                   | x64  | [pl_windows_8_n_x64_dvd_915815.dvp](download_unavailable.md)    |
+| Polish                   | x86  | [pl_windows_8_n_x86_dvd_916106.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x64  | [pp_windows_8_n_x64_dvd_915816.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x86  | [pp_windows_8_n_x86_dvd_916109.dvp](download_unavailable.md)    |
+| Romanian                 | x64  | [ro_windows_8_n_x64_dvd_915817.dvp](download_unavailable.md)    |
+| Romanian                 | x86  | [ro_windows_8_n_x86_dvd_916112.dvp](download_unavailable.md)    |
+| Slovak                   | x64  | [sk_windows_8_n_x64_dvd_916070.dvp](download_unavailable.md)    |
+| Slovak                   | x86  | [sk_windows_8_n_x86_dvd_917540.dvp](download_unavailable.md)    |
+| Slovenian                | x64  | [sl_windows_8_n_x64_dvd_916072.dvp](download_unavailable.md)    |
+| Slovenian                | x86  | [sl_windows_8_n_x86_dvd_917541.dvp](download_unavailable.md)    |
+| Swedish                  | x64  | [sv_windows_8_n_x64_dvd_916074.dvp](download_unavailable.md)    |
+| Swedish                  | x86  | [sv_windows_8_n_x86_dvd_917542.dvp](download_unavailable.md)    |
 
 </TabItem>
 
@@ -293,60 +293,60 @@ The files below are **full** ISO images.
 | Language | Arch | Link |
 |:---------|:-----|:---|
 | English  | x64  | [en_windows_8_enterprise_n_x64_dvd_918052.iso (Buzzheavier)](https://buzzheavier.com/7bjgfilvpdef) |
-| English  | x86  | [en_windows_8_enterprise_n_x86_dvd_918707.iso (Buzzheavier)](https://buzzheavier.com/m0vr4tqeklo2)<br/>[en_windows_8_enterprise_n_x86_dvd_918707.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x86  | [en_windows_8_enterprise_n_x86_dvd_918707.iso (Buzzheavier)](https://buzzheavier.com/m0vr4tqeklo2)<br/>[en_windows_8_enterprise_n_x86_dvd_918707.iso (ZeroFS)](download_unavailable.md) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                 | Arch | Link                                                                                                                                             |
 | :----------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bulgarian                | x64  | [bg_windows_8_enterprise_n_x64_dvd_917959.dvp](https://massgrave.dev/download_unavailable)    |
-| Bulgarian                | x86  | [bg_windows_8_enterprise_n_x86_dvd_918702.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x64  | [cs_windows_8_enterprise_n_x64_dvd_917960.dvp](https://massgrave.dev/download_unavailable)    |
-| Czech                    | x86  | [cs_windows_8_enterprise_n_x86_dvd_918704.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x64  | [da_windows_8_enterprise_n_x64_dvd_917961.dvp](https://massgrave.dev/download_unavailable)    |
-| Danish                   | x86  | [da_windows_8_enterprise_n_x86_dvd_918705.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x64  | [de_windows_8_enterprise_n_x64_dvd_917975.dvp](https://massgrave.dev/download_unavailable)    |
-| German                   | x86  | [de_windows_8_enterprise_n_x86_dvd_918732.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x64  | [el_windows_8_enterprise_n_x64_dvd_918057.dvp](https://massgrave.dev/download_unavailable)    |
-| Greek                    | x86  | [el_windows_8_enterprise_n_x86_dvd_918714.dvp](https://massgrave.dev/download_unavailable)    |
-| English - United Kingdom | x64  | [en-gb_windows_8_enterprise_n_x64_dvd_918053.dvp](https://massgrave.dev/download_unavailable) |
-| English - United Kingdom | x86  | [en-gb_windows_8_enterprise_n_x86_dvd_918708.dvp](https://massgrave.dev/download_unavailable) |
-| Spanish                  | x64  | [es_windows_8_enterprise_n_x64_dvd_918069.dvp](https://massgrave.dev/download_unavailable)    |
-| Spanish                  | x86  | [es_windows_8_enterprise_n_x86_dvd_918730.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x64  | [et_windows_8_enterprise_n_x64_dvd_918054.dvp](https://massgrave.dev/download_unavailable)    |
-| Estonian                 | x86  | [et_windows_8_enterprise_n_x86_dvd_918709.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x64  | [fi_windows_8_enterprise_n_x64_dvd_918055.dvp](https://massgrave.dev/download_unavailable)    |
-| Finnish                  | x86  | [fi_windows_8_enterprise_n_x86_dvd_918711.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x64  | [fr_windows_8_enterprise_n_x64_dvd_918056.dvp](https://massgrave.dev/download_unavailable)    |
-| French                   | x86  | [fr_windows_8_enterprise_n_x86_dvd_918712.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x64  | [hr_windows_8_enterprise_n_x64_dvd_918050.dvp](https://massgrave.dev/download_unavailable)    |
-| Croatian                 | x86  | [hr_windows_8_enterprise_n_x86_dvd_918703.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x64  | [hu_windows_8_enterprise_n_x64_dvd_918058.dvp](https://massgrave.dev/download_unavailable)    |
-| Hungarian                | x86  | [hu_windows_8_enterprise_n_x86_dvd_918716.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x64  | [it_windows_8_enterprise_n_x64_dvd_918059.dvp](https://massgrave.dev/download_unavailable)    |
-| Italian                  | x86  | [it_windows_8_enterprise_n_x86_dvd_918718.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x64  | [ko_windows_8_enterprise_n_x64_dvd_918060.dvp](https://massgrave.dev/download_unavailable)    |
-| Korean                   | x86  | [ko_windows_8_enterprise_n_x86_dvd_918720.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x64  | [lt_windows_8_enterprise_n_x64_dvd_918062.dvp](https://massgrave.dev/download_unavailable)    |
-| Lithuanian               | x86  | [lt_windows_8_enterprise_n_x86_dvd_918724.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x64  | [lv_windows_8_enterprise_n_x64_dvd_918061.dvp](https://massgrave.dev/download_unavailable)    |
-| Latvian                  | x86  | [lv_windows_8_enterprise_n_x86_dvd_918722.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x64  | [nl_windows_8_enterprise_n_x64_dvd_918051.dvp](https://massgrave.dev/download_unavailable)    |
-| Dutch                    | x86  | [nl_windows_8_enterprise_n_x86_dvd_918706.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x64  | [no_windows_8_enterprise_n_x64_dvd_918063.dvp](https://massgrave.dev/download_unavailable)    |
-| Norwegian                | x86  | [no_windows_8_enterprise_n_x86_dvd_918726.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x64  | [pl_windows_8_enterprise_n_x64_dvd_918064.dvp](https://massgrave.dev/download_unavailable)    |
-| Polish                   | x86  | [pl_windows_8_enterprise_n_x86_dvd_918728.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x64  | [pp_windows_8_enterprise_n_x64_dvd_918065.dvp](https://massgrave.dev/download_unavailable)    |
-| Portuguese - Portugal    | x86  | [pp_windows_8_enterprise_n_x86_dvd_918660.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x64  | [ro_windows_8_enterprise_n_x64_dvd_918066.dvp](https://massgrave.dev/download_unavailable)    |
-| Romanian                 | x86  | [ro_windows_8_enterprise_n_x86_dvd_918662.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x64  | [sk_windows_8_enterprise_n_x64_dvd_918067.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovak                   | x86  | [sk_windows_8_enterprise_n_x86_dvd_918664.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x64  | [sl_windows_8_enterprise_n_x64_dvd_918068.dvp](https://massgrave.dev/download_unavailable)    |
-| Slovenian                | x86  | [sl_windows_8_enterprise_n_x86_dvd_918666.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x64  | [sv_windows_8_enterprise_n_x64_dvd_918701.dvp](https://massgrave.dev/download_unavailable)    |
-| Swedish                  | x86  | [sv_windows_8_enterprise_n_x86_dvd_918668.dvp](https://massgrave.dev/download_unavailable)    |
+| Bulgarian                | x64  | [bg_windows_8_enterprise_n_x64_dvd_917959.dvp](download_unavailable.md)    |
+| Bulgarian                | x86  | [bg_windows_8_enterprise_n_x86_dvd_918702.dvp](download_unavailable.md)    |
+| Czech                    | x64  | [cs_windows_8_enterprise_n_x64_dvd_917960.dvp](download_unavailable.md)    |
+| Czech                    | x86  | [cs_windows_8_enterprise_n_x86_dvd_918704.dvp](download_unavailable.md)    |
+| Danish                   | x64  | [da_windows_8_enterprise_n_x64_dvd_917961.dvp](download_unavailable.md)    |
+| Danish                   | x86  | [da_windows_8_enterprise_n_x86_dvd_918705.dvp](download_unavailable.md)    |
+| German                   | x64  | [de_windows_8_enterprise_n_x64_dvd_917975.dvp](download_unavailable.md)    |
+| German                   | x86  | [de_windows_8_enterprise_n_x86_dvd_918732.dvp](download_unavailable.md)    |
+| Greek                    | x64  | [el_windows_8_enterprise_n_x64_dvd_918057.dvp](download_unavailable.md)    |
+| Greek                    | x86  | [el_windows_8_enterprise_n_x86_dvd_918714.dvp](download_unavailable.md)    |
+| English - United Kingdom | x64  | [en-gb_windows_8_enterprise_n_x64_dvd_918053.dvp](download_unavailable.md) |
+| English - United Kingdom | x86  | [en-gb_windows_8_enterprise_n_x86_dvd_918708.dvp](download_unavailable.md) |
+| Spanish                  | x64  | [es_windows_8_enterprise_n_x64_dvd_918069.dvp](download_unavailable.md)    |
+| Spanish                  | x86  | [es_windows_8_enterprise_n_x86_dvd_918730.dvp](download_unavailable.md)    |
+| Estonian                 | x64  | [et_windows_8_enterprise_n_x64_dvd_918054.dvp](download_unavailable.md)    |
+| Estonian                 | x86  | [et_windows_8_enterprise_n_x86_dvd_918709.dvp](download_unavailable.md)    |
+| Finnish                  | x64  | [fi_windows_8_enterprise_n_x64_dvd_918055.dvp](download_unavailable.md)    |
+| Finnish                  | x86  | [fi_windows_8_enterprise_n_x86_dvd_918711.dvp](download_unavailable.md)    |
+| French                   | x64  | [fr_windows_8_enterprise_n_x64_dvd_918056.dvp](download_unavailable.md)    |
+| French                   | x86  | [fr_windows_8_enterprise_n_x86_dvd_918712.dvp](download_unavailable.md)    |
+| Croatian                 | x64  | [hr_windows_8_enterprise_n_x64_dvd_918050.dvp](download_unavailable.md)    |
+| Croatian                 | x86  | [hr_windows_8_enterprise_n_x86_dvd_918703.dvp](download_unavailable.md)    |
+| Hungarian                | x64  | [hu_windows_8_enterprise_n_x64_dvd_918058.dvp](download_unavailable.md)    |
+| Hungarian                | x86  | [hu_windows_8_enterprise_n_x86_dvd_918716.dvp](download_unavailable.md)    |
+| Italian                  | x64  | [it_windows_8_enterprise_n_x64_dvd_918059.dvp](download_unavailable.md)    |
+| Italian                  | x86  | [it_windows_8_enterprise_n_x86_dvd_918718.dvp](download_unavailable.md)    |
+| Korean                   | x64  | [ko_windows_8_enterprise_n_x64_dvd_918060.dvp](download_unavailable.md)    |
+| Korean                   | x86  | [ko_windows_8_enterprise_n_x86_dvd_918720.dvp](download_unavailable.md)    |
+| Lithuanian               | x64  | [lt_windows_8_enterprise_n_x64_dvd_918062.dvp](download_unavailable.md)    |
+| Lithuanian               | x86  | [lt_windows_8_enterprise_n_x86_dvd_918724.dvp](download_unavailable.md)    |
+| Latvian                  | x64  | [lv_windows_8_enterprise_n_x64_dvd_918061.dvp](download_unavailable.md)    |
+| Latvian                  | x86  | [lv_windows_8_enterprise_n_x86_dvd_918722.dvp](download_unavailable.md)    |
+| Dutch                    | x64  | [nl_windows_8_enterprise_n_x64_dvd_918051.dvp](download_unavailable.md)    |
+| Dutch                    | x86  | [nl_windows_8_enterprise_n_x86_dvd_918706.dvp](download_unavailable.md)    |
+| Norwegian                | x64  | [no_windows_8_enterprise_n_x64_dvd_918063.dvp](download_unavailable.md)    |
+| Norwegian                | x86  | [no_windows_8_enterprise_n_x86_dvd_918726.dvp](download_unavailable.md)    |
+| Polish                   | x64  | [pl_windows_8_enterprise_n_x64_dvd_918064.dvp](download_unavailable.md)    |
+| Polish                   | x86  | [pl_windows_8_enterprise_n_x86_dvd_918728.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x64  | [pp_windows_8_enterprise_n_x64_dvd_918065.dvp](download_unavailable.md)    |
+| Portuguese - Portugal    | x86  | [pp_windows_8_enterprise_n_x86_dvd_918660.dvp](download_unavailable.md)    |
+| Romanian                 | x64  | [ro_windows_8_enterprise_n_x64_dvd_918066.dvp](download_unavailable.md)    |
+| Romanian                 | x86  | [ro_windows_8_enterprise_n_x86_dvd_918662.dvp](download_unavailable.md)    |
+| Slovak                   | x64  | [sk_windows_8_enterprise_n_x64_dvd_918067.dvp](download_unavailable.md)    |
+| Slovak                   | x86  | [sk_windows_8_enterprise_n_x86_dvd_918664.dvp](download_unavailable.md)    |
+| Slovenian                | x64  | [sl_windows_8_enterprise_n_x64_dvd_918068.dvp](download_unavailable.md)    |
+| Slovenian                | x86  | [sl_windows_8_enterprise_n_x86_dvd_918666.dvp](download_unavailable.md)    |
+| Swedish                  | x64  | [sv_windows_8_enterprise_n_x64_dvd_918701.dvp](download_unavailable.md)    |
+| Swedish                  | x86  | [sv_windows_8_enterprise_n_x86_dvd_918668.dvp](download_unavailable.md)    |
 
 </TabItem>
 </Tabs>
