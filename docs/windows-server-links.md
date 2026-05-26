@@ -19,24 +19,24 @@ Build - 26100.32860 (May 2026)
 
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| German              | x64  | [de-de_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| English             | x64  | [en-us_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Spanish             | x64  | [es-es_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| French              | x64  | [fr-fr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Italian             | x64  | [it-it_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](download_unavailable.md)|
+| Czech               | x64  | [cs-cz_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| German              | x64  | [de-de_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| English             | x64  | [en-us_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Spanish             | x64  | [es-es_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| French              | x64  | [fr-fr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Italian             | x64  | [it-it_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Japanese            | x64  | [ja-jp_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Korean              | x64  | [ko-kr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Polish              | x64  | [pl-pl_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Russian             | x64  | [ru-ru_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Swedish             | x64  | [sv-se_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Turkish             | x64  | [tr-tr_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_may_2026_x64_dvd_adcb5eb0.iso](https://massgrave.dev/download_unavailable)|
 
 ------------------------------------------------------------------------
 
@@ -97,24 +97,24 @@ Build - 20348.5139 (May 2026)
 
 | Language            | Arch | Link                                                                                                                                                           |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| German              | x64  | [de-de_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| English             | x64  | [en-us_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Spanish             | x64  | [es-es_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| French              | x64  | [fr-fr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Italian             | x64  | [it-it_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Japanese            | x64  | [ja-jp_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Korean              | x64  | [ko-kr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Polish              | x64  | [pl-pl_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Russian             | x64  | [ru-ru_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Swedish             | x64  | [sv-se_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Turkish             | x64  | [tr-tr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](download_unavailable.md)|
+| Czech               | x64  | [cs-cz_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| German              | x64  | [de-de_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| English             | x64  | [en-us_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Spanish             | x64  | [es-es_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| French              | x64  | [fr-fr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Italian             | x64  | [it-it_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Japanese            | x64  | [ja-jp_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Korean              | x64  | [ko-kr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Polish              | x64  | [pl-pl_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Russian             | x64  | [ru-ru_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Swedish             | x64  | [sv-se_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Turkish             | x64  | [tr-tr_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_may_2026_x64_dvd_c4723e47.iso](https://massgrave.dev/download_unavailable)|
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ Build - 25398.2274 (Apr 2026)
 
 | Language  | Arch | Link                                                                                                                                                                                                             |
 |:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2026_x64_dvd_2a1af4bb.iso](download_unavailable.md)|
+| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2026_x64_dvd_2a1af4bb.iso](https://massgrave.dev/download_unavailable)|
 
 ------------------------------------------------------------------------
 
@@ -163,29 +163,29 @@ The below file is a **full** ISO image.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_server_2016_vl_x64_dvd_11636701.iso (Buzzheavier)](https://buzzheavier.com/8z7837t3v61l)<br/>[en_windows_server_2016_vl_x64_dvd_11636701.iso (ZeroFS)](download_unavailable.md) |
+| English  | x64  | [en_windows_server_2016_vl_x64_dvd_11636701.iso (Buzzheavier)](https://buzzheavier.com/8z7837t3v61l)<br/>[en_windows_server_2016_vl_x64_dvd_11636701.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
-| Chinese-Simplified  | x64  | [cn_windows_server_2016_vl_x64_dvd_11636695.dvp](download_unavailable.md) |
-| Czech               | x64  | [cs_windows_server_2016_vl_x64_dvd_11636699.dvp](download_unavailable.md) |
-| Chinese-Traditional | x64  | [ct_windows_server_2016_vl_x64_dvd_11636717.dvp](download_unavailable.md) |
-| German              | x64  | [de_windows_server_2016_vl_x64_dvd_11636696.dvp](download_unavailable.md) |
-| Spanish             | x64  | [es_windows_server_2016_vl_x64_dvd_11636712.dvp](download_unavailable.md) |
-| French              | x64  | [fr_windows_server_2016_vl_x64_dvd_11636729.dvp](download_unavailable.md) |
-| Hungarian           | x64  | [hu_windows_server_2016_vl_x64_dvd_11636720.dvp](download_unavailable.md) |
-| Italian             | x64  | [it_windows_server_2016_vl_x64_dvd_11636710.dvp](download_unavailable.md) |
-| Japanese            | x64  | [ja_windows_server_2016_vl_x64_dvd_11645964.dvp](download_unavailable.md) |
-| Korean              | x64  | [ko_windows_server_2016_vl_x64_dvd_11636709.dvp](download_unavailable.md) |
-| Dutch               | x64  | [nl_windows_server_2016_vl_x64_dvd_11636731.dvp](download_unavailable.md) |
-| Polish              | x64  | [pl_windows_server_2016_vl_x64_dvd_11636719.dvp](download_unavailable.md) |
-| Portuguese-Portugal | x64  | [pp_windows_server_2016_vl_x64_dvd_11637454.dvp](download_unavailable.md) |
-| Portuguese-Brazil   | x64  | [pt_windows_server_2016_vl_x64_dvd_11636697.dvp](download_unavailable.md) |
-| Russian             | x64  | [ru_windows_server_2016_vl_x64_dvd_11636694.dvp](download_unavailable.md) |
-| Swedish             | x64  | [sv_windows_server_2016_vl_x64_dvd_11636706.dvp](download_unavailable.md) |
-| Turkish             | x64  | [tr_windows_server_2016_vl_x64_dvd_11636725.dvp](download_unavailable.md) |
+| Chinese-Simplified  | x64  | [cn_windows_server_2016_vl_x64_dvd_11636695.dvp](https://massgrave.dev/download_unavailable) |
+| Czech               | x64  | [cs_windows_server_2016_vl_x64_dvd_11636699.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Traditional | x64  | [ct_windows_server_2016_vl_x64_dvd_11636717.dvp](https://massgrave.dev/download_unavailable) |
+| German              | x64  | [de_windows_server_2016_vl_x64_dvd_11636696.dvp](https://massgrave.dev/download_unavailable) |
+| Spanish             | x64  | [es_windows_server_2016_vl_x64_dvd_11636712.dvp](https://massgrave.dev/download_unavailable) |
+| French              | x64  | [fr_windows_server_2016_vl_x64_dvd_11636729.dvp](https://massgrave.dev/download_unavailable) |
+| Hungarian           | x64  | [hu_windows_server_2016_vl_x64_dvd_11636720.dvp](https://massgrave.dev/download_unavailable) |
+| Italian             | x64  | [it_windows_server_2016_vl_x64_dvd_11636710.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese            | x64  | [ja_windows_server_2016_vl_x64_dvd_11645964.dvp](https://massgrave.dev/download_unavailable) |
+| Korean              | x64  | [ko_windows_server_2016_vl_x64_dvd_11636709.dvp](https://massgrave.dev/download_unavailable) |
+| Dutch               | x64  | [nl_windows_server_2016_vl_x64_dvd_11636731.dvp](https://massgrave.dev/download_unavailable) |
+| Polish              | x64  | [pl_windows_server_2016_vl_x64_dvd_11636719.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Portugal | x64  | [pp_windows_server_2016_vl_x64_dvd_11637454.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Brazil   | x64  | [pt_windows_server_2016_vl_x64_dvd_11636697.dvp](https://massgrave.dev/download_unavailable) |
+| Russian             | x64  | [ru_windows_server_2016_vl_x64_dvd_11636694.dvp](https://massgrave.dev/download_unavailable) |
+| Swedish             | x64  | [sv_windows_server_2016_vl_x64_dvd_11636706.dvp](https://massgrave.dev/download_unavailable) |
+| Turkish             | x64  | [tr_windows_server_2016_vl_x64_dvd_11636725.dvp](https://massgrave.dev/download_unavailable) |
 
 ------------------------------------------------------------------------
 
@@ -197,30 +197,30 @@ The below file is a **full** ISO image.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (Buzzheavier)](https://buzzheavier.com/kyuqt9v2erqr)<br/>[en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (ZeroFS)](download_unavailable.md) |
+| English  | x64  | [en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (Buzzheavier)](https://buzzheavier.com/kyuqt9v2erqr)<br/>[en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language              | Arch | Link |
 |:----------------------|:-----|:---|
-| Chinese-Simplified    | x64  | [cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.dvp](download_unavailable.md) |
-| Czech                 | x64  | [cs_windows_server_2012_r2_vl_with_update_x64_dvd_6052752.dvp](download_unavailable.md) |
-| German                | x64  | [de_windows_server_2012_r2_vl_with_update_x64_dvd_6052780.dvp](download_unavailable.md) |
-| Spanish               | x64  | [es_windows_server_2012_r2_vl_with_update_x64_dvd_6052831.dvp](download_unavailable.md) |
-| French                | x64  | [fr_windows_server_2012_r2_vl_with_update_x64_dvd_6052772.dvp](download_unavailable.md) |
-| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2012_r2_vl_with_update_x64_dvd_6052739.dvp](download_unavailable.md) |
-| Hungarian             | x64  | [hu_windows_server_2012_r2_vl_with_update_x64_dvd_6052786.dvp](download_unavailable.md) |
-| Italian               | x64  | [it_windows_server_2012_r2_vl_with_update_x64_dvd_6052792.dvp](download_unavailable.md) |
-| Japanese              | x64  | [ja_windows_server_2012_r2_vl_with_update_x64_dvd_6052800.dvp](download_unavailable.md) |
-| Korean                | x64  | [ko_windows_server_2012_r2_vl_with_update_x64_dvd_6052806.dvp](download_unavailable.md) |
-| Dutch                 | x64  | [nl_windows_server_2012_r2_vl_with_update_x64_dvd_6052760.dvp](download_unavailable.md) |
-| Polish                | x64  | [pl_windows_server_2012_r2_vl_with_update_x64_dvd_6052815.dvp](download_unavailable.md) |
-| Portuguese-Portugal   | x64  | [pp_windows_server_2012_r2_vl_with_update_x64_dvd_6052823.dvp](download_unavailable.md) |
-| Portuguese-Brazil     | x64  | [pt_windows_server_2012_r2_vl_with_update_x64_dvd_6052819.dvp](download_unavailable.md) |
-| Russian               | x64  | [ru_windows_server_2012_r2_vl_with_update_x64_dvd_6052827.dvp](download_unavailable.md) |
-| Swedish               | x64  | [sv_windows_server_2012_r2_vl_with_update_x64_dvd_6052835.dvp](download_unavailable.md) |
-| Turkish               | x64  | [tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.dvp](download_unavailable.md) |
-| Chinese-Traditional   | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.dvp](download_unavailable.md) |
+| Chinese-Simplified    | x64  | [cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.dvp](https://massgrave.dev/download_unavailable) |
+| Czech                 | x64  | [cs_windows_server_2012_r2_vl_with_update_x64_dvd_6052752.dvp](https://massgrave.dev/download_unavailable) |
+| German                | x64  | [de_windows_server_2012_r2_vl_with_update_x64_dvd_6052780.dvp](https://massgrave.dev/download_unavailable) |
+| Spanish               | x64  | [es_windows_server_2012_r2_vl_with_update_x64_dvd_6052831.dvp](https://massgrave.dev/download_unavailable) |
+| French                | x64  | [fr_windows_server_2012_r2_vl_with_update_x64_dvd_6052772.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2012_r2_vl_with_update_x64_dvd_6052739.dvp](https://massgrave.dev/download_unavailable) |
+| Hungarian             | x64  | [hu_windows_server_2012_r2_vl_with_update_x64_dvd_6052786.dvp](https://massgrave.dev/download_unavailable) |
+| Italian               | x64  | [it_windows_server_2012_r2_vl_with_update_x64_dvd_6052792.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese              | x64  | [ja_windows_server_2012_r2_vl_with_update_x64_dvd_6052800.dvp](https://massgrave.dev/download_unavailable) |
+| Korean                | x64  | [ko_windows_server_2012_r2_vl_with_update_x64_dvd_6052806.dvp](https://massgrave.dev/download_unavailable) |
+| Dutch                 | x64  | [nl_windows_server_2012_r2_vl_with_update_x64_dvd_6052760.dvp](https://massgrave.dev/download_unavailable) |
+| Polish                | x64  | [pl_windows_server_2012_r2_vl_with_update_x64_dvd_6052815.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Portugal   | x64  | [pp_windows_server_2012_r2_vl_with_update_x64_dvd_6052823.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Brazil     | x64  | [pt_windows_server_2012_r2_vl_with_update_x64_dvd_6052819.dvp](https://massgrave.dev/download_unavailable) |
+| Russian               | x64  | [ru_windows_server_2012_r2_vl_with_update_x64_dvd_6052827.dvp](https://massgrave.dev/download_unavailable) |
+| Swedish               | x64  | [sv_windows_server_2012_r2_vl_with_update_x64_dvd_6052835.dvp](https://massgrave.dev/download_unavailable) |
+| Turkish               | x64  | [tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.dvp](https://massgrave.dev/download_unavailable) |
 
 ------------------------------------------------------------------------
 
@@ -232,30 +232,30 @@ The below file is a **full** ISO image.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso (Buzzheavier)](https://buzzheavier.com/2wb9iq4819ev)<br/>[en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso (ZeroFS)](download_unavailable.md) |
+| English  | x64  | [en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso (Buzzheavier)](https://buzzheavier.com/2wb9iq4819ev)<br/>[en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Chinese - Simplified    | x64  | [cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.dvp](download_unavailable.md) |
-| Czech                   | x64  | [cs_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617402.dvp](download_unavailable.md) |
-| German                  | x64  | [de_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617404.dvp](download_unavailable.md) |
-| Spanish                 | x64  | [es_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617410.dvp](download_unavailable.md) |
-| French                  | x64  | [fr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617392.dvp](download_unavailable.md) |
-| Chinese - Hong Kong SAR | x64  | [hk_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617386.dvp](download_unavailable.md) |
-| Hungarian               | x64  | [hu_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617415.dvp](download_unavailable.md) |
-| Italian                 | x64  | [it_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_619596.dvp](download_unavailable.md) |
-| Japanese                | x64  | [ja_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_631466.dvp](download_unavailable.md) |
-| Korean                  | x64  | [ko_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617409.dvp](download_unavailable.md) |
-| Dutch                   | x64  | [nl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617395.dvp](download_unavailable.md) |
-| Polish                  | x64  | [pl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617397.dvp](download_unavailable.md) |
-| Portuguese - Portugal   | x64  | [pp_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617411.dvp](download_unavailable.md) |
-| Portuguese - Brazil     | x64  | [pt_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617394.dvp](download_unavailable.md) |
-| Russian                 | x64  | [ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.dvp](download_unavailable.md) |
-| Swedish                 | x64  | [sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.dvp](download_unavailable.md) |
-| Turkish                 | x64  | [tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.dvp](download_unavailable.md) |
-| Chinese - Traditional   | x64  | [tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.dvp](download_unavailable.md) |
+| Chinese - Simplified    | x64  | [cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.dvp](https://massgrave.dev/download_unavailable) |
+| Czech                   | x64  | [cs_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617402.dvp](https://massgrave.dev/download_unavailable) |
+| German                  | x64  | [de_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617404.dvp](https://massgrave.dev/download_unavailable) |
+| Spanish                 | x64  | [es_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617410.dvp](https://massgrave.dev/download_unavailable) |
+| French                  | x64  | [fr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617392.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese - Hong Kong SAR | x64  | [hk_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617386.dvp](https://massgrave.dev/download_unavailable) |
+| Hungarian               | x64  | [hu_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617415.dvp](https://massgrave.dev/download_unavailable) |
+| Italian                 | x64  | [it_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_619596.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese                | x64  | [ja_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_631466.dvp](https://massgrave.dev/download_unavailable) |
+| Korean                  | x64  | [ko_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617409.dvp](https://massgrave.dev/download_unavailable) |
+| Dutch                   | x64  | [nl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617395.dvp](https://massgrave.dev/download_unavailable) |
+| Polish                  | x64  | [pl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617397.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese - Portugal   | x64  | [pp_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617411.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese - Brazil     | x64  | [pt_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617394.dvp](https://massgrave.dev/download_unavailable) |
+| Russian                 | x64  | [ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.dvp](https://massgrave.dev/download_unavailable) |
+| Swedish                 | x64  | [sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.dvp](https://massgrave.dev/download_unavailable) |
+| Turkish                 | x64  | [tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese - Traditional   | x64  | [tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.dvp](https://massgrave.dev/download_unavailable) |
 
 ------------------------------------------------------------------------
 
@@ -267,49 +267,49 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_server_2008_with_sp2_x64_dvd_342336.iso (Buzzheavier)](https://buzzheavier.com/ris1mwjm0t3f)<br/>[en_windows_server_2008_with_sp2_x64_dvd_342336.iso (ZeroFS)](download_unavailable.md) |
-| English  | x86  | [en_windows_server_2008_with_sp2_x86_dvd_342333.iso (Buzzheavier)](https://buzzheavier.com/c54iv572pqdg)<br/>[en_windows_server_2008_with_sp2_x86_dvd_342333.iso (ZeroFS)](download_unavailable.md) |
+| English  | x64  | [en_windows_server_2008_with_sp2_x64_dvd_342336.iso (Buzzheavier)](https://buzzheavier.com/ris1mwjm0t3f)<br/>[en_windows_server_2008_with_sp2_x64_dvd_342336.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x86  | [en_windows_server_2008_with_sp2_x86_dvd_342333.iso (Buzzheavier)](https://buzzheavier.com/c54iv572pqdg)<br/>[en_windows_server_2008_with_sp2_x86_dvd_342333.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language              | Arch | Link |
 |:----------------------|:-----|:---|
-| Chinese-Simplified    | x64  | [cn_windows_server_2008_with_sp2_x64_dvd_x15-41319.dvp](download_unavailable.md) |
-| Chinese-Simplified    | x86  | [cn_windows_server_2008_with_sp2_x86_dvd_x15-41045.dvp](download_unavailable.md) |
-| Czech                 | x64  | [cs_windows_server_2008_with_sp2_x64_dvd_x15-41331.dvp](download_unavailable.md) |
-| Czech                 | x86  | [cs_windows_server_2008_with_sp2_x86_dvd_x15-41057.dvp](download_unavailable.md) |
-| German                | x64  | [de_windows_server_2008_with_sp2_x64_dvd_342381.dvp](download_unavailable.md)    |
-| German                | x86  | [de_windows_server_2008_with_sp2_x86_dvd_342378.dvp](download_unavailable.md)    |
-| Spanish               | x64  | [es_windows_server_2008_with_sp2_x64_dvd_342419.dvp](download_unavailable.md)    |
-| Spanish               | x86  | [es_windows_server_2008_with_sp2_x86_dvd_342416.dvp](download_unavailable.md)    |
-| French                | x64  | [fr_windows_server_2008_with_sp2_x64_dvd_342359.dvp](download_unavailable.md)    |
-| French                | x86  | [fr_windows_server_2008_with_sp2_x86_dvd_342356.dvp](download_unavailable.md)    |
-| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2008_with_sp2_x64_dvd_x15-41327.dvp](download_unavailable.md) |
-| Chinese-Hong Kong SAR | x86  | [hk_windows_server_2008_with_sp2_x86_dvd_x15-41053.dvp](download_unavailable.md) |
-| Hungarian             | x64  | [hu_windows_server_2008_with_sp2_x64_dvd_x15-41339.dvp](download_unavailable.md) |
-| Hungarian             | x86  | [hu_windows_server_2008_with_sp2_x86_dvd_x15-41065.dvp](download_unavailable.md) |
-| Italian               | x64  | [it_windows_server_2008_with_sp2_x64_dvd_x15-41343.dvp](download_unavailable.md) |
-| Italian               | x86  | [it_windows_server_2008_with_sp2_x86_dvd_x15-41069.dvp](download_unavailable.md) |
-| Japanese              | x64  | [ja_windows_server_2008_with_sp2_x64_dvd_342397.dvp](download_unavailable.md)    |
-| Japanese              | x86  | [ja_windows_server_2008_with_sp2_x86_dvd_342394.dvp](download_unavailable.md)    |
-| Korean                | x64  | [ko_windows_server_2008_with_sp2_x64_dvd_x15-41347.dvp](download_unavailable.md) |
-| Korean                | x86  | [ko_windows_server_2008_with_sp2_x86_dvd_x15-41073.dvp](download_unavailable.md) |
-| Dutch                 | x64  | [nl_windows_server_2008_with_sp2_x64_dvd_x15-41335.dvp](download_unavailable.md) |
-| Dutch                 | x86  | [nl_windows_server_2008_with_sp2_x86_dvd_x15-41061.dvp](download_unavailable.md) |
-| Polish                | x64  | [pl_windows_server_2008_with_sp2_x64_dvd_x15-41351.dvp](download_unavailable.md) |
-| Polish                | x86  | [pl_windows_server_2008_with_sp2_x86_dvd_x15-41077.dvp](download_unavailable.md) |
-| Portuguese-Portugal   | x64  | [pp_windows_server_2008_with_sp2_x64_dvd_x15-41355.dvp](download_unavailable.md) |
-| Portuguese-Portugal   | x86  | [pp_windows_server_2008_with_sp2_x86_dvd_x15-41081.dvp](download_unavailable.md) |
-| Portuguese-Brazil     | x64  | [pt_windows_server_2008_with_sp2_x64_dvd_x15-41315.dvp](download_unavailable.md) |
-| Portuguese-Brazil     | x86  | [pt_windows_server_2008_with_sp2_x86_dvd_x15-41041.dvp](download_unavailable.md) |
-| Russian               | x64  | [ru_windows_server_2008_with_sp2_x64_dvd_x15-41359.dvp](download_unavailable.md) |
-| Russian               | x86  | [ru_windows_server_2008_with_sp2_x86_dvd_x15-41085.dvp](download_unavailable.md) |
-| Swedish               | x64  | [sv_windows_server_2008_with_sp2_x64_dvd_x15-41363.dvp](download_unavailable.md) |
-| Swedish               | x86  | [sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.dvp](download_unavailable.md) |
-| Turkish               | x64  | [tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.dvp](download_unavailable.md) |
-| Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.dvp](download_unavailable.md) |
-| Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.dvp](download_unavailable.md) |
-| Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.dvp](download_unavailable.md) |
+| Chinese-Simplified    | x64  | [cn_windows_server_2008_with_sp2_x64_dvd_x15-41319.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Simplified    | x86  | [cn_windows_server_2008_with_sp2_x86_dvd_x15-41045.dvp](https://massgrave.dev/download_unavailable) |
+| Czech                 | x64  | [cs_windows_server_2008_with_sp2_x64_dvd_x15-41331.dvp](https://massgrave.dev/download_unavailable) |
+| Czech                 | x86  | [cs_windows_server_2008_with_sp2_x86_dvd_x15-41057.dvp](https://massgrave.dev/download_unavailable) |
+| German                | x64  | [de_windows_server_2008_with_sp2_x64_dvd_342381.dvp](https://massgrave.dev/download_unavailable)    |
+| German                | x86  | [de_windows_server_2008_with_sp2_x86_dvd_342378.dvp](https://massgrave.dev/download_unavailable)    |
+| Spanish               | x64  | [es_windows_server_2008_with_sp2_x64_dvd_342419.dvp](https://massgrave.dev/download_unavailable)    |
+| Spanish               | x86  | [es_windows_server_2008_with_sp2_x86_dvd_342416.dvp](https://massgrave.dev/download_unavailable)    |
+| French                | x64  | [fr_windows_server_2008_with_sp2_x64_dvd_342359.dvp](https://massgrave.dev/download_unavailable)    |
+| French                | x86  | [fr_windows_server_2008_with_sp2_x86_dvd_342356.dvp](https://massgrave.dev/download_unavailable)    |
+| Chinese-Hong Kong SAR | x64  | [hk_windows_server_2008_with_sp2_x64_dvd_x15-41327.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Hong Kong SAR | x86  | [hk_windows_server_2008_with_sp2_x86_dvd_x15-41053.dvp](https://massgrave.dev/download_unavailable) |
+| Hungarian             | x64  | [hu_windows_server_2008_with_sp2_x64_dvd_x15-41339.dvp](https://massgrave.dev/download_unavailable) |
+| Hungarian             | x86  | [hu_windows_server_2008_with_sp2_x86_dvd_x15-41065.dvp](https://massgrave.dev/download_unavailable) |
+| Italian               | x64  | [it_windows_server_2008_with_sp2_x64_dvd_x15-41343.dvp](https://massgrave.dev/download_unavailable) |
+| Italian               | x86  | [it_windows_server_2008_with_sp2_x86_dvd_x15-41069.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese              | x64  | [ja_windows_server_2008_with_sp2_x64_dvd_342397.dvp](https://massgrave.dev/download_unavailable)    |
+| Japanese              | x86  | [ja_windows_server_2008_with_sp2_x86_dvd_342394.dvp](https://massgrave.dev/download_unavailable)    |
+| Korean                | x64  | [ko_windows_server_2008_with_sp2_x64_dvd_x15-41347.dvp](https://massgrave.dev/download_unavailable) |
+| Korean                | x86  | [ko_windows_server_2008_with_sp2_x86_dvd_x15-41073.dvp](https://massgrave.dev/download_unavailable) |
+| Dutch                 | x64  | [nl_windows_server_2008_with_sp2_x64_dvd_x15-41335.dvp](https://massgrave.dev/download_unavailable) |
+| Dutch                 | x86  | [nl_windows_server_2008_with_sp2_x86_dvd_x15-41061.dvp](https://massgrave.dev/download_unavailable) |
+| Polish                | x64  | [pl_windows_server_2008_with_sp2_x64_dvd_x15-41351.dvp](https://massgrave.dev/download_unavailable) |
+| Polish                | x86  | [pl_windows_server_2008_with_sp2_x86_dvd_x15-41077.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Portugal   | x64  | [pp_windows_server_2008_with_sp2_x64_dvd_x15-41355.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Portugal   | x86  | [pp_windows_server_2008_with_sp2_x86_dvd_x15-41081.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Brazil     | x64  | [pt_windows_server_2008_with_sp2_x64_dvd_x15-41315.dvp](https://massgrave.dev/download_unavailable) |
+| Portuguese-Brazil     | x86  | [pt_windows_server_2008_with_sp2_x86_dvd_x15-41041.dvp](https://massgrave.dev/download_unavailable) |
+| Russian               | x64  | [ru_windows_server_2008_with_sp2_x64_dvd_x15-41359.dvp](https://massgrave.dev/download_unavailable) |
+| Russian               | x86  | [ru_windows_server_2008_with_sp2_x86_dvd_x15-41085.dvp](https://massgrave.dev/download_unavailable) |
+| Swedish               | x64  | [sv_windows_server_2008_with_sp2_x64_dvd_x15-41363.dvp](https://massgrave.dev/download_unavailable) |
+| Swedish               | x86  | [sv_windows_server_2008_with_sp2_x86_dvd_x15-41089.dvp](https://massgrave.dev/download_unavailable) |
+| Turkish               | x64  | [tr_windows_server_2008_with_sp2_x64_dvd_x15-41367.dvp](https://massgrave.dev/download_unavailable) |
+| Turkish               | x86  | [tr_windows_server_2008_with_sp2_x86_dvd_x15-41093.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.dvp](https://massgrave.dev/download_unavailable) |
+| Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.dvp](https://massgrave.dev/download_unavailable) |
 
 ------------------------------------------------------------------------
 
@@ -333,31 +333,31 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (Buzzheavier)](https://buzzheavier.com/qdrfjz1jz9a7)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (ZeroFS)](download_unavailable.md)         |
-| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (Buzzheavier)](https://buzzheavier.com/8es5k6oihzt6)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (ZeroFS)](download_unavailable.md)         |
-| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (Buzzheavier)](https://buzzheavier.com/9z73qrzdj87n)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (ZeroFS)](download_unavailable.md) |
-| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (Buzzheavier)](https://buzzheavier.com/h3ufrx79pltw)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (Buzzheavier)](https://buzzheavier.com/qdrfjz1jz9a7)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46616.iso (ZeroFS)](https://massgrave.dev/download_unavailable)         |
+| English  | x86  | [en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (Buzzheavier)](https://buzzheavier.com/8es5k6oihzt6)<br/>[en_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49318.iso (ZeroFS)](https://massgrave.dev/download_unavailable)         |
+| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (Buzzheavier)](https://buzzheavier.com/9z73qrzdj87n)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47474.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (Buzzheavier)](https://buzzheavier.com/h3ufrx79pltw)<br/>[en_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-49386.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46628.dvp](download_unavailable.md)           |
-| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49315.dvp](download_unavailable.md)           |
-| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47450.dvp](download_unavailable.md)       |
-| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62768.dvp](download_unavailable.md)       |
-| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46636.dvp](download_unavailable.md)           |
-| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49317.dvp](download_unavailable.md)           |
-| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47466.dvp](download_unavailable.md)       |
-| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62767.dvp](download_unavailable.md)       |
-| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46624.dvp](download_unavailable.md)           |
-| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49319.dvp](download_unavailable.md)           |
-| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47438.dvp](download_unavailable.md)       |
-| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62766.dvp](download_unavailable.md)       |
-| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46632.dvp](download_unavailable.md)           |
-| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49316.dvp](download_unavailable.md)           |
-| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc1_dvd_x13-66824.dvp](download_unavailable.md) |
-| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc2_cd_x13-49385.dvp](download_unavailable.md)  |
+| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46628.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x86  | [de_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49315.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47450.dvp](https://massgrave.dev/download_unavailable)       |
+| German                  | x64  | [de_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62768.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46636.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49317.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47466.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62767.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46624.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x86  | [fr_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49319.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd1_x13-47438.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x64  | [fr_win_srv_2003_r2_datacenter_x64_with_sp2_vl_cd2_x13-62766.dvp](https://massgrave.dev/download_unavailable)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd1_x13-46632.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_datacenter_with_sp2_vl_cd2_x13-49316.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc1_dvd_x13-66824.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_datacenter_x64_with_sp2_vl_disc2_cd_x13-49385.dvp](https://massgrave.dev/download_unavailable)  |
 
 </TabItem>
 
@@ -369,69 +369,69 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (Buzzheavier)](https://buzzheavier.com/9k2o022l4t82)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (ZeroFS)](download_unavailable.md)         |
-| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (Buzzheavier)](https://buzzheavier.com/gtn3i1acwjqr)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (ZeroFS)](download_unavailable.md)         |
-| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (Buzzheavier)](https://buzzheavier.com/mkm78rqxwnbc)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (ZeroFS)](download_unavailable.md) |
-| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (Buzzheavier)](https://buzzheavier.com/ndxk8ve0fooy)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (Buzzheavier)](https://buzzheavier.com/9k2o022l4t82)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-48610.iso (ZeroFS)](https://massgrave.dev/download_unavailable)         |
+| English  | x86  | [en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (Buzzheavier)](https://buzzheavier.com/gtn3i1acwjqr)<br/>[en_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-68584.iso (ZeroFS)](https://massgrave.dev/download_unavailable)         |
+| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (Buzzheavier)](https://buzzheavier.com/mkm78rqxwnbc)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48614.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (Buzzheavier)](https://buzzheavier.com/ndxk8ve0fooy)<br/>[en_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-68588.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46428.dvp](download_unavailable.md)           |
-| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-27638.dvp](download_unavailable.md)           |
-| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47307.dvp](download_unavailable.md)       |
-| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-30863.dvp](download_unavailable.md)       |
-| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46432.dvp](download_unavailable.md)           |
-| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13895.dvp](download_unavailable.md)           |
-| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47314.dvp](download_unavailable.md)       |
-| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-35321.dvp](download_unavailable.md)       |
-| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46444.dvp](download_unavailable.md)           |
-| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38995.dvp](download_unavailable.md)           |
-| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46456.dvp](download_unavailable.md)           |
-| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12133.dvp](download_unavailable.md)           |
-| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48622.dvp](download_unavailable.md)       |
-| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18830.dvp](download_unavailable.md)       |
-| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46488.dvp](download_unavailable.md)           |
-| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12164.dvp](download_unavailable.md)           |
-| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48642.dvp](download_unavailable.md)       |
-| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18843.dvp](download_unavailable.md)       |
-| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46452.dvp](download_unavailable.md)           |
-| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12148.dvp](download_unavailable.md)           |
-| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48618.dvp](download_unavailable.md)       |
-| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18818.dvp](download_unavailable.md)       |
-| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46540.dvp](download_unavailable.md)           |
-| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13679.dvp](download_unavailable.md)           |
-| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46460.dvp](download_unavailable.md)           |
-| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38994.dvp](download_unavailable.md)           |
-| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46464.dvp](download_unavailable.md)           |
-| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-29180.dvp](download_unavailable.md)           |
-| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48626.dvp](download_unavailable.md)       |
-| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-29203.dvp](download_unavailable.md)       |
-| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46468.dvp](download_unavailable.md)           |
-| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-41712.dvp](download_unavailable.md)           |
-| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc1_dvd_x13-66816.dvp](download_unavailable.md) |
-| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc2_cd_x13-41718.dvp](download_unavailable.md)  |
-| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48634.dvp](download_unavailable.md)       |
-| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28746.dvp](download_unavailable.md)       |
-| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46448.dvp](download_unavailable.md)           |
-| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38996.dvp](download_unavailable.md)           |
-| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46476.dvp](download_unavailable.md)           |
-| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38991.dvp](download_unavailable.md)           |
-| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46480.dvp](download_unavailable.md)           |
-| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38989.dvp](download_unavailable.md)           |
-| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46484.dvp](download_unavailable.md)           |
-| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38990.dvp](download_unavailable.md)           |
-| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48638.dvp](download_unavailable.md)       |
-| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-40440.dvp](download_unavailable.md)       |
-| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46492.dvp](download_unavailable.md)           |
-| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38992.dvp](download_unavailable.md)           |
-| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46496.dvp](download_unavailable.md)           |
-| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38993.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46436.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13678.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47321.dvp](download_unavailable.md)       |
-| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28745.dvp](download_unavailable.md)       |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46428.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-27638.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47307.dvp](https://massgrave.dev/download_unavailable)       |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-30863.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46432.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13895.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47314.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-35321.dvp](https://massgrave.dev/download_unavailable)       |
+| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46444.dvp](https://massgrave.dev/download_unavailable)           |
+| Czech                   | x86  | [cs_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38995.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46456.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x86  | [de_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12133.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48622.dvp](https://massgrave.dev/download_unavailable)       |
+| German                  | x64  | [de_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18830.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46488.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12164.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48642.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18843.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46452.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x86  | [fr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-12148.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48618.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x64  | [fr_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-18818.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46540.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13679.dvp](https://massgrave.dev/download_unavailable)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46460.dvp](https://massgrave.dev/download_unavailable)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38994.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46464.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-29180.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48626.dvp](https://massgrave.dev/download_unavailable)       |
+| Italian                 | x64  | [it_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-29203.dvp](https://massgrave.dev/download_unavailable)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46468.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-41712.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc1_dvd_x13-66816.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_enterprise_x64_with_sp2_vl_disc2_cd_x13-41718.dvp](https://massgrave.dev/download_unavailable)  |
+| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48634.dvp](https://massgrave.dev/download_unavailable)       |
+| Korean                  | x64  | [ko_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28746.dvp](https://massgrave.dev/download_unavailable)       |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46448.dvp](https://massgrave.dev/download_unavailable)           |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38996.dvp](https://massgrave.dev/download_unavailable)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46476.dvp](https://massgrave.dev/download_unavailable)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38991.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46480.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38989.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46484.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38990.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-48638.dvp](https://massgrave.dev/download_unavailable)       |
+| Russian                 | x64  | [ru_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-40440.dvp](https://massgrave.dev/download_unavailable)       |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46492.dvp](https://massgrave.dev/download_unavailable)           |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38992.dvp](https://massgrave.dev/download_unavailable)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46496.dvp](https://massgrave.dev/download_unavailable)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-38993.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd1_x13-46436.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_enterprise_with_sp2_vl_cd2_x13-13678.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd1_x13-47321.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_enterprise_x64_with_sp2_vl_cd2_x13-28745.dvp](https://massgrave.dev/download_unavailable)       |
 
 </TabItem>
 
@@ -443,69 +443,69 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (Buzzheavier)](https://buzzheavier.com/lexu5gxk38kx)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (ZeroFS)](download_unavailable.md)           |
-| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (Buzzheavier)](https://buzzheavier.com/x61527gl3b2q)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (ZeroFS)](download_unavailable.md)         |
-| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (Buzzheavier)](https://buzzheavier.com/3ccju6b17gkj)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (ZeroFS)](download_unavailable.md) |
-| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (Buzzheavier)](https://buzzheavier.com/7i3r93cwaqbf)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (ZeroFS)](download_unavailable.md) |
+| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (Buzzheavier)](https://buzzheavier.com/lexu5gxk38kx)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd1x13-46600.iso (ZeroFS)](https://massgrave.dev/download_unavailable)           |
+| English  | x86  | [en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (Buzzheavier)](https://buzzheavier.com/x61527gl3b2q)<br/>[en_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-68583.iso (ZeroFS)](https://massgrave.dev/download_unavailable)         |
+| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (Buzzheavier)](https://buzzheavier.com/3ccju6b17gkj)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47808.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
+| English  | x64  | [en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (Buzzheavier)](https://buzzheavier.com/7i3r93cwaqbf)<br/>[en_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-68587.iso (ZeroFS)](https://massgrave.dev/download_unavailable) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46528.dvp](download_unavailable.md)           |
-| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-27857.dvp](download_unavailable.md)           |
-| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47353.dvp](download_unavailable.md)       |
-| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-32642.dvp](download_unavailable.md)       |
-| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46532.dvp](download_unavailable.md)           |
-| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13942.dvp](download_unavailable.md)           |
-| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47363.dvp](download_unavailable.md)       |
-| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28819.dvp](download_unavailable.md)       |
-| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46544.dvp](download_unavailable.md)           |
-| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40657.dvp](download_unavailable.md)           |
-| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46556.dvp](download_unavailable.md)           |
-| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12185.dvp](download_unavailable.md)           |
-| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47718.dvp](download_unavailable.md)       |
-| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20479.dvp](download_unavailable.md)       |
-| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46588.dvp](download_unavailable.md)           |
-| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12300.dvp](download_unavailable.md)           |
-| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47652.dvp](download_unavailable.md)       |
-| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20488.dvp](download_unavailable.md)       |
-| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46552.dvp](download_unavailable.md)           |
-| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12291.dvp](download_unavailable.md)           |
-| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47708.dvp](download_unavailable.md)       |
-| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20455.dvp](download_unavailable.md)       |
-| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46440.dvp](download_unavailable.md)           |
-| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13943.dvp](download_unavailable.md)           |
-| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46560.dvp](download_unavailable.md)           |
-| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40660.dvp](download_unavailable.md)           |
-| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46564.dvp](download_unavailable.md)           |
-| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-29193.dvp](download_unavailable.md)           |
-| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47386.dvp](download_unavailable.md)       |
-| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-29791.dvp](download_unavailable.md)       |
-| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46568.dvp](download_unavailable.md)           |
-| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-41709.dvp](download_unavailable.md)           |
-| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc1_dvd_x13-66820.dvp](download_unavailable.md) |
-| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc2_cd_x13-41715.dvp](download_unavailable.md)  |
-| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47636.dvp](download_unavailable.md)       |
-| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28821.dvp](download_unavailable.md)       |
-| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46548.dvp](download_unavailable.md)           |
-| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40655.dvp](download_unavailable.md)           |
-| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46576.dvp](download_unavailable.md)           |
-| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40654.dvp](download_unavailable.md)           |
-| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46580.dvp](download_unavailable.md)           |
-| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40653.dvp](download_unavailable.md)           |
-| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46584.dvp](download_unavailable.md)           |
-| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40656.dvp](download_unavailable.md)           |
-| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-48326.dvp](download_unavailable.md)       |
-| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-40704.dvp](download_unavailable.md)       |
-| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46592.dvp](download_unavailable.md)           |
-| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40658.dvp](download_unavailable.md)           |
-| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46596.dvp](download_unavailable.md)           |
-| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40659.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46536.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13941.dvp](download_unavailable.md)           |
-| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47698.dvp](download_unavailable.md)       |
-| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28820.dvp](download_unavailable.md)       |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46528.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Brazil     | x86  | [br_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-27857.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47353.dvp](https://massgrave.dev/download_unavailable)       |
+| Portuguese - Brazil     | x64  | [br_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-32642.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46532.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Simplified    | x86  | [cn_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13942.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47363.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Simplified    | x64  | [cn_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28819.dvp](https://massgrave.dev/download_unavailable)       |
+| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46544.dvp](https://massgrave.dev/download_unavailable)           |
+| Czech                   | x86  | [cs_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40657.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46556.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x86  | [de_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12185.dvp](https://massgrave.dev/download_unavailable)           |
+| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47718.dvp](https://massgrave.dev/download_unavailable)       |
+| German                  | x64  | [de_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20479.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46588.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x86  | [es_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12300.dvp](https://massgrave.dev/download_unavailable)           |
+| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47652.dvp](https://massgrave.dev/download_unavailable)       |
+| Spanish                 | x64  | [es_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20488.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46552.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x86  | [fr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-12291.dvp](https://massgrave.dev/download_unavailable)           |
+| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47708.dvp](https://massgrave.dev/download_unavailable)       |
+| French                  | x64  | [fr_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-20455.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46440.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Hong Kong SAR | x86  | [hk_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13943.dvp](https://massgrave.dev/download_unavailable)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46560.dvp](https://massgrave.dev/download_unavailable)           |
+| Hungarian               | x86  | [hu_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40660.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46564.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x86  | [it_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-29193.dvp](https://massgrave.dev/download_unavailable)           |
+| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47386.dvp](https://massgrave.dev/download_unavailable)       |
+| Italian                 | x64  | [it_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-29791.dvp](https://massgrave.dev/download_unavailable)       |
+| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46568.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x86  | [ja_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-41709.dvp](https://massgrave.dev/download_unavailable)           |
+| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc1_dvd_x13-66820.dvp](https://massgrave.dev/download_unavailable) |
+| Japanese                | x64  | [ja_win_srv_2003_r2_standard_x64_with_sp2_vl_disc2_cd_x13-41715.dvp](https://massgrave.dev/download_unavailable)  |
+| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47636.dvp](https://massgrave.dev/download_unavailable)       |
+| Korean                  | x64  | [ko_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28821.dvp](https://massgrave.dev/download_unavailable)       |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46548.dvp](https://massgrave.dev/download_unavailable)           |
+| Dutch                   | x86  | [nl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40655.dvp](https://massgrave.dev/download_unavailable)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46576.dvp](https://massgrave.dev/download_unavailable)           |
+| Polish                  | x86  | [pl_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40654.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46580.dvp](https://massgrave.dev/download_unavailable)           |
+| Portuguese - Portugal   | x86  | [pt_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40653.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46584.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x86  | [ru_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40656.dvp](https://massgrave.dev/download_unavailable)           |
+| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-48326.dvp](https://massgrave.dev/download_unavailable)       |
+| Russian                 | x64  | [ru_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-40704.dvp](https://massgrave.dev/download_unavailable)       |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46592.dvp](https://massgrave.dev/download_unavailable)           |
+| Swedish                 | x86  | [sv_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40658.dvp](https://massgrave.dev/download_unavailable)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46596.dvp](https://massgrave.dev/download_unavailable)           |
+| Turkish                 | x86  | [tr_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-40659.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd1_x13-46536.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x86  | [zh_win_srv_2003_r2_standard_with_sp2_vl_cd2_x13-13941.dvp](https://massgrave.dev/download_unavailable)           |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd1_x13-47698.dvp](https://massgrave.dev/download_unavailable)       |
+| Chinese - Traditional   | x64  | [zh_win_srv_2003_r2_standard_x64_with_sp2_vl_cd2_x13-28820.dvp](https://massgrave.dev/download_unavailable)       |
 
 </TabItem>
 
