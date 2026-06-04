@@ -40,7 +40,7 @@ See the [troubleshooting guide](troubleshoot.md) for help.
 
 #### Is MAS safe?
 - #### How can I know if there is any malware?
-  MAS is fully [open-source](intro.md#mas-latest-release), with over 150K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself, or ask ChatGPT for help if you don’t understand something in the scripts.  
+  MAS is fully [open-source](intro.md#mas-latest-release), with over 150K stars on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) and millions of users worldwide. You can open the batch files in Notepad to review the code yourself, or ask others who have already reviewed the code.  
   You can also perform the activation manually, see [this page](manual_hwid_activation.md) for instructions.
 
 - #### Why is my antivirus flagging the MAS script as a virus or Trojan?
