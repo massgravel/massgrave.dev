@@ -47,7 +47,7 @@ import TabItem from '@theme/TabItem';
     ```
 
     **Still not working?**
-    You need to use a VPN like [Cloudflare One](https://one.one.one.one) or follow method 2 instead.
+    You need to use a VPN like [Cloudflare WARP](https://one.one.one.one) or follow method 2 instead.
   </details>
 
   </TabItem>
