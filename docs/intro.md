@@ -45,6 +45,9 @@ import TabItem from '@theme/TabItem';
     ```powershell
     [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
     ```
+
+    **Still not working?**
+    You need to use a VPN like [Cloudflare One](https://one.one.one.one) or follow method 2 instead.
   </details>
 
   </TabItem>
