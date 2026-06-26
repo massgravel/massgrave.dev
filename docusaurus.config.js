@@ -119,41 +119,6 @@ const config = {
             position: 'left',
             label: 'Troubleshoot',
           },
-          {
-            type: 'dropdown',
-            label: 'More',
-            position: 'left',
-            items: [
-              {
-                label: 'Docs',
-                to: '/hwid',
-              },
-              {
-                label: 'Manual Activation',
-                to: '/manual_hwid_activation'
-              },
-              {
-                label: 'Guides',
-                to: '/guide_links',
-              },
-              {
-                label: 'Unsupported Products Activation',
-                to: '/unsupported_products_activation',
-              },
-              {
-                to: '/news',
-                label: 'News',
-              },
-              {
-                label: 'MAS Changelog',
-                to: '/changelog',
-              },
-              {
-                label: 'Credits',
-                to: '/credits',
-              },
-            ],
-          },
           { to: '/blog', label: 'Blog', position: 'right' },
           {
             to: '/contactus',

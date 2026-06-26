@@ -64,21 +64,12 @@ import TabItem from '@theme/TabItem';
   </TabItem>
 </Tabs>
 
----
-
 :::tip
 
 - Some ISPs/DNS providers block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.  
 - **Having trouble?** Connect with us [here](troubleshoot.md).
 
 :::
-
----
-
-- To activate additional products such as **Office for macOS, Visual Studio, RDS CALs, and Windows XP**, see [here](unsupported_products_activation.md).
-- To run the scripts in unattended mode, see [here](command_line_switches.md).
-
----
 
 :::note
 
