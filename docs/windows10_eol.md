@@ -15,9 +15,10 @@ Microsoft announced [Extended Security Updates (ESU)](https://learn.microsoft.co
 - You can use the [TSforge option in MAS](intro.md) to activate the [3-Year ESU](https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates) (Oct 2025 to Oct 2028).
 - If you have any questions, please see the FAQ [here](tsforge.md#windows-esu).
 
-#### Consumer ESU Program (1 Year)
+#### Consumer ESU Program (2 Years)
 
-- Microsoft is offering a free Consumer ESU Program (1 Year) for Windows 10 Home, Professional, Pro Education, and Workstation editions.
+- Microsoft is offering a free Consumer ESU Program (2 Years) for Windows 10 Home, Professional, Pro Education, and Workstation editions.
+- This program originally lasted until 2026, but it has since been extended to end on October 12, 2027.
 - To get this free ESU, you need to log in to your Microsoft account and [sync your PC settings](https://support.microsoft.com/windows/deebcba2-5bc0-4e63-279a-329926955708#id0ebd=windows_10).
 - [More info](https://support.microsoft.com/en-us/windows/windows-10-consumer-extended-security-updates-esu-program-33e17de9-36b3-43bb-874d-6c53d2e4bf42).
 
