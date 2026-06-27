@@ -15,7 +15,7 @@ Edited by May
 
 ## Introduction
 
-2025 marks nearly 20 years since the introduction of Windows' current DRM system, the Software Protection Platform (SPP). With it serving as the primary gateway to activation since [early in Windows Vista's development](https://betawiki.net/wiki/Windows_Vista_build_5212_(winmain)), many have come up with clever ways of tricking it, from [resetting grace period timers](https://www.mydigitallife.net/activate-64-bit-windows-vista-ultimate-and-x64-with-timerstop-v2a-crack-plus-2099-trick/) to [emulating KMS servers](https://forums.mydigitallife.net/threads/kmsemulator-kms-client-and-server-emulation-source.41010/) to [hooking bootloaders](https://forums.mydigitallife.net/threads/windows-loader-download.58464/). While all of these systems abuse various activation methods, there has never been an exploit that directly attacked SPP itself... until now.
+2026 marks nearly 21 years since the introduction of Windows' current DRM system, the Software Protection Platform (SPP). With it serving as the primary gateway to activation since [early in Windows Vista's development](https://betawiki.net/wiki/Windows_Vista_build_5212_(winmain)), many have come up with clever ways of tricking it, from [resetting grace period timers](https://www.mydigitallife.net/activate-64-bit-windows-vista-ultimate-and-x64-with-timerstop-v2a-crack-plus-2099-trick/) to [emulating KMS servers](https://forums.mydigitallife.net/threads/kmsemulator-kms-client-and-server-emulation-source.41010/) to [hooking bootloaders](https://forums.mydigitallife.net/threads/windows-loader-download.58464/). While all of these systems abuse various activation methods, there has never been an exploit that directly attacked SPP itself... until now.
 
 {/* truncate */}
 
