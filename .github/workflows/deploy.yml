@@ -13,7 +13,7 @@ jobs:
 
     concurrency:
       group: github-pages
-      cancel-in-progress: true
+      cancel-in-progress: 
 
     permissions:
       contents: read
