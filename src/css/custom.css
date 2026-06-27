@@ -166,19 +166,22 @@ html .theme-doc-sidebar-container {
 }
 
 .menu__link,
-.menu__list-item-collapsible {
+.menu__list-item-collapsible,
+.menu__caret {
   border-radius: 12px;
   transition: background-color var(--ifm-transition-fast), color var(--ifm-transition-fast);
 }
 
 .menu__link:hover,
-.menu__list-item-collapsible:hover {
+.menu__list-item-collapsible:hover,
+.menu__caret:hover {
   background-color: rgba(164, 59, 141, 0.07);
   color: var(--ifm-color-primary-dark);
 }
 
 [data-theme='dark'] .menu__link:hover,
-[data-theme='dark'] .menu__list-item-collapsible:hover {
+[data-theme='dark'] .menu__list-item-collapsible:hover,
+.menu__caret:hover {
   background-color: rgba(230, 133, 208, 0.10);
   color: var(--ifm-color-primary-lightest);
 }
