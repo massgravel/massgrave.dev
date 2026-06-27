@@ -37,7 +37,6 @@
 }
 
 html {
-  scroll-behavior: smooth;
   scrollbar-color: var(--ifm-color-primary-light) transparent;
   text-rendering: optimizeLegibility;
 }
@@ -65,7 +64,7 @@ summary:focus-visible {
   background-image: url('/img/bg.png');
   background-size: cover;
   background-color: #000;
-  box-shadow: 0 0 10px #0006;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.25);
 }
 
 .navbar__brand {
@@ -92,7 +91,6 @@ summary:focus-visible {
 .navbar__inner .navbar__item:hover,
 .navbar__inner .clean-btn:hover {
   background-color: rgba(164, 59, 141, 0.15);
-  color: var(--ifm-color-primary-lightest);
 }
 
 [data-theme='dark'] .navbar__inner .navbar__item:hover,
@@ -102,7 +100,6 @@ summary:focus-visible {
 
 .navbar__inner .navbar__item.navbar__link--active {
   background-color: rgba(164, 59, 141, 0.25);
-  color: var(--ifm-color-primary-lightest);
 }
 
 [data-theme='dark'] .navbar__inner .navbar__item.navbar__link--active {
@@ -212,14 +209,14 @@ html .theme-doc-sidebar-container {
 
 .tabs__item--active {
   background-color: var(--ifm-color-primary-darkest);
-  border-color: var(--ifm-color-primary);
+  border-color: transparent;
   color: #fff;
   text-shadow: 1px 1px 0 #0006;
 }
 
 .tabs__item--active:hover {
   background-color: var(--ifm-color-primary-darkest);
-  border-color: var(--ifm-color-primary-light);
+  border-color: transparent;
 }
 
 table {
