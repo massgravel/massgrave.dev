@@ -229,24 +229,30 @@ table {
 
 .markdown h1,
 .markdown h2,
-.markdown h3 {
+.markdown h3,
+.markdown h4 {
   letter-spacing: -0.035em;
   text-wrap: balance;
 }
 
 .markdown h1 {
   margin-bottom: 1.1rem;
-  font-size: 3.5rem;
-  line-height: 0.94;
+  font-size: 2.5rem;
+  line-height: 1.1;
 }
 
 .markdown h2 {
   margin-top: 2.2rem;
+  font-size: 1.75rem;
 }
 
 .markdown h3 {
   color: var(--ifm-color-primary-darkest);
-  font-size: clamp(1.45rem, 2.6vw, 2rem);
+  font-size: 1.35rem;
+}
+
+.markdown h4 {
+  font-size: 1.1rem;
 }
 
 [data-theme='dark'] .markdown h3 {
