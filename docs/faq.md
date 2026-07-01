@@ -4,7 +4,7 @@ title: FAQ
 
 # Frequently Asked Questions
 
-#### How to use it?
+#### How do I use it?
 See the [guide here](intro.md).
 
 ---
@@ -14,12 +14,12 @@ See the [Docs section](hwid.md#how-does-it-work) for details on how the activati
 
 ---
 
-#### How to activate Windows / Office permanently?
+#### How do I activate Windows / Office permanently?
 Choose the green-highlighted options in [MAS](intro.md) to activate Windows or Office.
 
 ---
 
-#### How to download Windows and Office?
+#### How do I download Windows and Office?
 See the [downloading page](genuine-installation-media.md) for links.
 
 ---
@@ -30,7 +30,7 @@ See the [troubleshooting guide](troubleshoot.md) for help.
 ---
 
 #### Windows 10 ESU (Extended Security Updates)
-- #### How to receive security updates for Windows 10 after October 2025?
+- #### How do I receive security updates for Windows 10 after October 2025?
   You can use [TSforge option in MAS](intro.md) to activate 3 years ESU (Oct 2025 to Oct 2028). [More info](windows10_eol.md).
 
 - #### How can I check if TSforge ESU is activated?   
@@ -49,38 +49,42 @@ See the [troubleshooting guide](troubleshoot.md) for help.
 
   > **Note:**  
   > **Windows Defender** won’t trigger any alerts if you are using the [PowerShell method](intro.md) to launch MAS or the download links listed in Method 2.
-- #### Will I receive updates? How is it different from an official license?
-  MAS does not interfere with Windows or Office updates. It functions in the same way as official licensing methods.
+
+- #### Will I receive updates? 
+  MAS does not interfere with Windows or Office updates. 
+
+- #### How is it different from an official license?
+  The recommended methods for Windows and Office activation are either identical or not meaningfully different from what you'd get after using official activation methods.
 
 - #### Will Microsoft ban my account if I use MAS?
-  No. Windows and Office piracy has existed for decades, and Microsoft has never banned accounts solely for this reason.
+  No. Microsoft has never banned accounts solely for this reason.
 
 - #### Is it legal? Can I face any consequences?
   - By using MAS, you are bypassing official licensing methods and not paying Microsoft, so technically it is not legal.
   - Is it safe?  
-    - **Home users:** Yes, it's safe. Piracy has existed for decades, and Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100-$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine (with MAS, these notifications do not appear). 
+    - **Home users:** Yes, it's safe. Microsoft does not take action against individuals who pirate Windows or Office. Pursuing a home user over a $100-$200 license costs more in legal fees than it would recover and risks bad publicity. At most, you may see notifications that your license is not genuine (with MAS, these notifications do not appear). 
     - **Businesses:** We do not recommend that businesses use MAS. Microsoft conducts audits on business entities to verify licenses. While small businesses might be less likely to face audits, the risk is still yours. If you work in IT at a college or university, consult experienced senior staff about the chances of Microsoft audits at your institution.
 
 ---
 
-#### How to remove MAS?
+#### How do I remove MAS?
 MAS uses different activation methods, see the link below for removal instructions for each one.  
 [HWID](hwid.md#how-to-remove-hwid), [Ohook](ohook.md#how-to-remove-ohook), [TSforge](tsforge.md#how-to-remove-tsforge), [Online KMS](online_kms.md#how-to-remove-online-kms)
 
 ---
 
-#### How to change the Windows edition from Home to Pro?
-In MAS, select the Change Windows Edition option.
+#### How do I change the current Windows edition?
+In MAS, select the ``Change Windows Edition`` option.
 
 ---
 
-#### Will I lose any data in changing the Windows edition from Home to Pro with MAS?
+#### Will I lose any data after changing the Windows edition with MAS?
 No.
 
 ---
 
-#### I changed my Windows edition from Home to Pro and now Windows is deactivated.
-Run HWID activation to activate Pro. Each edition requires separate activation.
+#### Why is my Windows install deactivated after changing the Windows edition?
+You will need to reactivate Windows with MAS after edition changes, as licenses are edition-specific.
 
 ---
 

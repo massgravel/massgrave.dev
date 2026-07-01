@@ -218,7 +218,7 @@ a797d61e-1475-470b-86c8-f737a72c188d   StarterN
   - WLMS service protects the SPPSVC service and prevents it from stopping. Although permanent activation license is available, its officially not supported.
 - **Server Azure Datacenter (ServerTurbine) edition**
   - It does not support activation on non-azure systems.
-- **Windows 10 Consumer ESU (1 Year)**
+- **Windows 10 Consumer ESU (2 Years)**
   - Its licensing is based on CLIP, not SPP.
   - You can activate commercial ESU for 3 years with TSforge.
 
