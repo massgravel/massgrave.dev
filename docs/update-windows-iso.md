@@ -59,7 +59,7 @@ Follow these steps to manually create an updated Windows ISO:
 
 2. **Download W10UI**  
    - Get [W10UI](https://forums.mydigitallife.net/posts/1216064/).  
-     Alternative links: [Link 1](https://kutt.it/W10UI) / [Link 2](https://tiny.cc/W10UI).
+     Alternative links: [Link 1](https://kutt.to/W10UI) / [Link 2](https://tiny.cc/W10UI).
 
 3. **Download Updates**  
    - Go to [UUP Dump](https://uupdump.net/).  
