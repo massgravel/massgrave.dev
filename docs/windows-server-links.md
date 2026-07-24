@@ -8,39 +8,52 @@ All download links lead to genuine files only.
 
 - [**FAQ**](genuine-installation-media.md#faq)
 - [How can I verify that these files are genuine?](genuine-installation-media.md#verify-authenticity-of-files)
--   **Windows Server 2008 and later can be permanently activated with TSforge option in MAS.**
+- **Windows Server 2008 and later can be permanently activated with TSforge option in MAS.**
 - Microsoft provides monthly updated ISOs for Server 2025 and 2022 on the third Tuesday of each month. However, you can [manually update Windows ISO file](update-windows-iso) if needed.
 
-------------------------------------------------------------------------
+---
 
-## Windows Server 2025
+## Download Links
 
-Build - 26100.32995 (June 2026)
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+<TabItem value="Windows Server 2025" label="Windows Server 2025" default>
+
+<Tabs>
+<TabItem value="Latest Release" label="Latest Release" default>
+
+**Windows Server 2025**
+
+Build - 26100.33158 (July 2026)
 
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
-| Czech               | x64  | [cs-cz_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/3bj8n98gcqax)|
-| German              | x64  | [de-de_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/04ca3avx39rr)|
-| English             | x64  | [en-us_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/cgzcwvyyxd6o)|
-| Spanish             | x64  | [es-es_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/ar3iqnrfqspn)|
-| French              | x64  | [fr-fr_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/qeb3oprrp52o)|
-| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/6vh0wm514oim)|
-| Italian             | x64  | [it-it_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/nha1fymh8qa3)|
-| Japanese            | x64  | [ja-jp_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/8b85zo0ndbrz)|
-| Korean              | x64  | [ko-kr_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/fu87b39yxqho)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/n6654gxiln95)|
-| Polish              | x64  | [pl-pl_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/drvz7osvenvk)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/e9lt8x77az2n)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/66g7acek617k)|
-| Russian             | x64  | [ru-ru_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/1p8i7xbfa4k8)|
-| Swedish             | x64  | [sv-se_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/7e2nxyqyy0i1)|
-| Turkish             | x64  | [tr-tr_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/mzkdzfc65bsi)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/zoeda1khr5fn)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_june_2026_x64_dvd_a2d68429.iso](https://buzzheavier.com/27em0x7zuex7)|
+| Czech               | x64  | [cs-cz_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/C67RnJf/)|
+| German              | x64  | [de-de_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/BAChwjX/)|
+| English             | x64  | [en-us_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/duUnGsF/)|
+| Spanish             | x64  | [es-es_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/CjwV5ce/)|
+| French              | x64  | [fr-fr_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/stdCaLk/)|
+| Hungarian           | x64  | [hu-hu_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/yhg4jMv/)|
+| Italian             | x64  | [it-it_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/NCt6DQd/)|
+| Japanese            | x64  | [ja-jp_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/NMPAMHX/)|
+| Korean              | x64  | [ko-kr_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/72Dy6fx/)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/bR3fKX5/)|
+| Polish              | x64  | [pl-pl_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/ojbk4H7/)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/P3t2jbn/)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/F6rYUz5/)|
+| Russian             | x64  | [ru-ru_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/TRKEUso/)|
+| Swedish             | x64  | [sv-se_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/BrsxHpK/)|
+| Turkish             | x64  | [tr-tr_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/ToGb4j3/)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/od6yZEL/)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2025_updated_july_2026_x64_dvd_4e6f5a42.iso](https://zerofs.link/f/GNQsvQw/)|
 
-------------------------------------------------------------------------
+</TabItem>
 
-Windows Server 2025  
+<TabItem value="General Availability Release" label="General Availability Release" default>
+
+**Windows Server 2025**     
 
 Build - 26100.1742  
 The ISO links below are taken from the Official OEM portal.  
@@ -89,46 +102,43 @@ zh-cn_windows_server_2025_x64_dvd_1d93dd12.iso
 zh-tw_windows_server_2025_x64_dvd_6d2c01e3.iso
 ```
 
-------------------------------------------------------------------------
+</TabItem>
+</Tabs>
 
-## Windows Server 2022
+</TabItem>
 
-Build - 20348.5256 (June 2026)
+<TabItem value="Windows Server 2022" label="Windows Server 2022" default>
+
+**Windows Server 2022**
+
+Build - 20348.5386 (July 2026)
 
 | Language            | Arch | Link                                                                                                                                                           |
 |:--------------------|:-----|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Czech               | x64  | [cs-cz_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/74w3ig2owgl9)|
-| German              | x64  | [de-de_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/1dxtm5aqdw2r)|
-| English             | x64  | [en-us_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/12zpr3ry009w)|
-| Spanish             | x64  | [es-es_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/mnile9jfp5rd)|
-| French              | x64  | [fr-fr_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/4ogd0puj6ro7)|
-| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/6z3w2rsd5wso)|
-| Italian             | x64  | [it-it_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/ib7su6egmcs6)|
-| Japanese            | x64  | [ja-jp_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/bkkf0ze720wn)|
-| Korean              | x64  | [ko-kr_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/ahqug5qh9uxs)|
-| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/bv4yex5z8qdd)|
-| Polish              | x64  | [pl-pl_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/5b90fxvvd168)|
-| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/in987l8cgam4)|
-| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/rkfb8y71328h)|
-| Russian             | x64  | [ru-ru_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/4y77m0pnfzkb)|
-| Swedish             | x64  | [sv-se_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/j31a7qow1e3b)|
-| Turkish             | x64  | [tr-tr_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/wbcsl34lnm6w)|
-| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/eb0nreohns8o)|
-| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_june_2026_x64_dvd_dda28eeb.iso](https://buzzheavier.com/hg71hakiltop)|
+| Czech               | x64  | [cs-cz_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/6DXceMX/)|
+| German              | x64  | [de-de_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/N3J6gc5/)|
+| English             | x64  | [en-us_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/6LA54K3/)|
+| Spanish             | x64  | [es-es_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/6yqpjxX/)|
+| French              | x64  | [fr-fr_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/tvR96KY/)|
+| Hungarian           | x64  | [hu-hu_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/mmCpSx4/)|
+| Italian             | x64  | [it-it_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/qXtK7Pq/)|
+| Japanese            | x64  | [ja-jp_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/PZadcE5/)|
+| Korean              | x64  | [ko-kr_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/eU3GkPL/)|
+| Dutch-Netherlands   | x64  | [nl-nl_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/qvg5xqJ/)|
+| Polish              | x64  | [pl-pl_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/eVQQuQg/)|
+| Portuguese-Brazil   | x64  | [pt-br_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/GZYDEwr/)|
+| Portuguese-Portugal | x64  | [pt-pt_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/78VhSer/)|
+| Russian             | x64  | [ru-ru_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/quQZmTd/)|
+| Swedish             | x64  | [sv-se_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/cTtxiR6/)|
+| Turkish             | x64  | [tr-tr_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/DoKZLaV/)|
+| Chinese-Simplified  | x64  | [zh-cn_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/4TN9gBQ/)|
+| Chinese-Traditional | x64  | [zh-tw_windows_server_2022_updated_july_2026_x64_dvd_75aa9e18.iso](https://zerofs.link/f/RNaqLFm/)|
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 23H2 (No GUI)
-#### (Only English ISO is available)
-Build - 25398.2274 (Apr 2026)
+<TabItem value="Windows Server 2019" label="Windows Server 2019" default>
 
-| Language  | Arch | Link                                                                                                                                                                                                             |
-|:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2026_x64_dvd_2a1af4bb.iso](https://zerofs.link/f/ynmNNjij36785QFh_xKBztcbSgHF-aGiOJj4UHeEy5aSmWXR2fn6oXvv1YianugnKrw/)|
-
-------------------------------------------------------------------------
-
-## Windows Server 2019
+**Windows Server 2019**
 
 Updated November 2022 (Build - 17763.3650)
 
@@ -153,9 +163,11 @@ Updated November 2022 (Build - 17763.3650)
 | Chinese-Simplified  | x64  | [zh-cn_windows_server_2019_x64_dvd_19d65722.iso](https://buzzheavier.com/sqddwet2qb3j) |
 | Chinese-Traditional | x64  | [zh-tw_windows_server_2019_x64_dvd_a4c80409.iso](https://buzzheavier.com/iou6g468c7qf) |
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 2016
+<TabItem value="Windows Server 2016" label="Windows Server 2016" default>
+
+**Windows Server 2016**
 
 Updated February 2018 (Build - 14393.1884)
 
@@ -187,9 +199,11 @@ The files below are **DVP patches** that use the above ISO image as a source. Se
 | Swedish             | x64  | [sv_windows_server_2016_vl_x64_dvd_11636706.dvp](https://zerofs.link/f/Kdy2G5qnw-wKjM3kDFCqqWuuNCnu7C0qu5pRRySJdlVQjkpA8zsCqZH1gdW-DeeO2Oc/) |
 | Turkish             | x64  | [tr_windows_server_2016_vl_x64_dvd_11636725.dvp](https://zerofs.link/f/ZJ_7SYv_7Msg1kOn5A_NUXtoZqGxbnqM9--2Iy6USFgPQN9Ppti0t985gKfJiV-Fxgs/) |
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 2012 R2
+<TabItem value="Windows Server 2012 R2" label="Windows Server 2012 R2" default>
+
+**Windows Server 2012 R2**
 
 (Build - 9600.17415)
 
@@ -222,9 +236,11 @@ The files below are **DVP patches** that use the above ISO image as a source. Se
 | Turkish               | x64  | [tr_windows_server_2012_r2_vl_with_update_x64_dvd_6052838.dvp](https://zerofs.link/f/03Z59Gv-9zJsNC1tukUg59s6N5R7CzjsvPYpLHbl_qBNIkuoOh6FODWRLsA6Sw5U4o8/) |
 | Chinese-Traditional   | x64  | [tw_windows_server_2012_r2_vl_with_update_x64_dvd_6052746.dvp](https://zerofs.link/f/ASw0PuwAYZz5ObaURUrWF1KStKCvLxJbfQ23qMw0ZJd7hVwgWMtACxQ_IoI_d5Y7E2Q/) |
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 2008 R2 SP1
+<TabItem value="Windows Server 2008 R2 SP1" label="Windows Server 2008 R2 SP1" default>
+
+**Windows Server 2008 R2 SP1**
 
 (Build - 7601.17514)
 
@@ -257,9 +273,11 @@ The files below are **DVP patches** that use the above ISO image as a source. Se
 | Turkish                 | x64  | [tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.dvp](https://zerofs.link/f/hidLCGSWkiz7iI4aHGSudCdUX_XRQTSEQfRkIIIaFSb1AAV-zMvuefaSFy_T_vI-WLw/) |
 | Chinese - Traditional   | x64  | [tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.dvp](https://zerofs.link/f/3sKV1L0aNJCrhdPUd84m9o3SOpWeKEsx20jNdq6uCdAY8gECeOxrtpV4rNIntHde4J0/) |
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 2008 SP2
+<TabItem value="Windows Server 2008 SP2" label="Windows Server 2008 SP2" default>
+
+**Windows Server 2008 SP2**
 
 (Build - 6002.18005)
 
@@ -311,20 +329,15 @@ The files below are **DVP patches** that use the above ISO images for their resp
 | Chinese-Traditional   | x64  | [tw_windows_server_2008_with_sp2_x64_dvd_x15-41323.dvp](https://zerofs.link/f/qdhtXuToeOHTyKfroiM8WLe7h7f0Rnx6WeMZkNattBydB9BQhKZzhVAssOGRoDzXzdU/) |
 | Chinese-Traditional   | x86  | [tw_windows_server_2008_with_sp2_x86_dvd_x15-41049.dvp](https://zerofs.link/f/KEL87mAMkXj6wjh1U59iCYxfBRsrFBjrmy7-GVemY2vB0rx4CS9DBc9eS3f2naGj4kA/) |
 
-------------------------------------------------------------------------
+</TabItem>
 
-## Windows Server 2003 R2 SP2
-
-(Build - 3790.3959)
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-<Tabs>
 <TabItem value="Windows Server 2003 R2 SP2" label="Windows Server 2003 R2 SP2" default>
 
-<Tabs>
+**Windows Server 2003 R2 SP2**
 
+Build - 3790.3959
+
+<Tabs>
 <TabItem value="Windows Server 2003 R2 Datacenter SP2" label="Windows Server 2003 R2 Datacenter SP2" default>
 
 **Windows Server 2003 R2 Datacenter SP2**
@@ -512,4 +525,17 @@ The files below are **DVP patches** that use the above ISO images for their resp
 </Tabs>
 
 </TabItem>
+
+<TabItem value="Windows Server 23H2 (No GUI)" label="Windows Server 23H2 (No GUI)" default>
+
+**Windows Server 23H2 (No GUI)**  
+**(Only English ISO is available)**  
+Build - 25398.2274 (Apr 2026)
+
+| Language  | Arch | Link                                                                                                                                                                                                             |
+|:----------|:-----|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| English   | x64  | [en-us_windows_server_version_23h2_updated_april_2026_x64_dvd_2a1af4bb.iso](https://zerofs.link/f/ynmNNjij36785QFh_xKBztcbSgHF-aGiOJj4UHeEy5aSmWXR2fn6oXvv1YianugnKrw/)|
+
+</TabItem>
+
 </Tabs>
