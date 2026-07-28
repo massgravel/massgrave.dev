@@ -10,5 +10,5 @@
 ## Support Links
 
 If the issue persists after following the instructions above, **reach out to us with a screenshot of the error**:
-- [Discord](https://discord.gg/j2yFsV5ZVC) ❤️  
+- [Discord](https://discord.gg/4mFR9y9Snw) ❤️  
 - [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues)
