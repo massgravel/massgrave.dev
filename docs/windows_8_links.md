@@ -39,7 +39,7 @@ The files below are **full** ISO images.
 | Language | Arch | Link |
 |:---------|:-----|:---|
 | English  | x64  | [en_windows_8_x64_dvd_915440.iso (Buzzheavier)](https://buzzheavier.com/dn0bb0ozyxup)<br/>[en_windows_8_x64_dvd_915440.iso (ZeroFS)](https://zerofs.link/f/SLzqCc3Mo8NEkBKPUSkWYd9XH5spF7mTFlE6oJBeryFs4d2VBM6D2zyeD67OkSm7nEI/) |
-| English  | x86  | [en_windows_8_x86_dvd_915417.iso (Buzzheavier)](https://buzzheavier.com/4uh1amj718hl)<br/>[en_windows_8_x86_dvd_915417.iso (ZeroFS)](https://zerofs.link/f/q3sOtNK9VYm-ZtX0WYZR2yUOjSHhyEf8GtiwKPln19FUmyGOUe64GF0ro-hu9FtMBJU/) |
+| English  | x86  | [en_windows_8_x86_dvd_915417.iso (Buzzheavier)](https://buzzheavier.com/4uh1amj71817)<br/>[en_windows_8_x86_dvd_915417.iso (ZeroFS)](https://zerofs.link/f/q3sOtNK9VYm-ZtX0WYZR2yUOjSHhyEf8GtiwKPln19FUmyGOUe64GF0ro-hu9FtMBJU/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 

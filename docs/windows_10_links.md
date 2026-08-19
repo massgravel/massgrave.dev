@@ -75,7 +75,7 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 | Italian                | x86  | [it-it_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/8u2xqm70djug) |
 | Japanese               | x64  | [ja-jp_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/8np0lbipg7kj) |
 | Japanese               | x86  | [ja-jp_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/zg3oa8gh1c3r) |
-| Korean                 | x64  | [ko-kr_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/zre3bxvmhruq) |
+| Korean                 | x64  | [ko-kr_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/zre3bxvmhr17) |
 | Korean                 | x86  | [ko-kr_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/mqwuu1x2oztc) |
 | Lithuanian             | x64  | [lt-lt_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/du20op8kb0xp) |
 | Lithuanian             | x86  | [lt-lt_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/byrxzix0yqv3) |
@@ -86,7 +86,7 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 | Dutch-Netherlands      | x64  | [nl-nl_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/0jo3ouv34nw8) |
 | Dutch-Netherlands      | x86  | [nl-nl_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/t139xj50iuq0) |
 | Polish                 | x64  | [pl-pl_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/dxt1njp2tat3) |
-| Polish                 | x86  | [pl-pl_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/yy8won4dmn14) |
+| Polish                 | x86  | [pl-pl_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/yy8won4dmn17) |
 | Portuguese-Brazil      | x64  | [pt-br_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/4xdedb8hiuat) |
 | Portuguese-Brazil      | x86  | [pt-br_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/advlenf9x9l4) |
 | Portuguese-Portugal    | x64  | [pt-pt_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/e5dc8y263b8k) |
@@ -95,8 +95,8 @@ Windows 10 reached end of life on October 14, 2025. Microsoft will no longer pro
 | Romanian               | x86  | [ro-ro_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/o9opgm0k4vud) |
 | Russian                | x64  | [ru-ru_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/nltq3kxobqyy) |
 | Russian                | x86  | [ru-ru_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/kkonwh2ajbyb) |
-| Slovak                 | x64  | [sk-sk_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/wv4f8coiiv4s) |
-| Slovak                 | x86  | [sk-sk_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/b5kumv1lj4bs) |
+| Slovak                 | x64  | [sk-sk_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/wv4f8coiiv17) |
+| Slovak                 | x86  | [sk-sk_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/b5kumv1lj417) |
 | Slovenian              | x64  | [sl-si_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/zhllkx0b0p8m) |
 | Slovenian              | x86  | [sl-si_windows_10_consumer_editions_version_22h2_updated_oct_2025_x86_dvd_38efd00d.iso](https://buzzheavier.com/tgmn65f4zn5l) |
 | Serbian-Latin          | x64  | [sr-latn-rs_windows_10_consumer_editions_version_22h2_updated_oct_2025_x64_dvd_38efd00d.iso](https://buzzheavier.com/mohukqmzp35n) |

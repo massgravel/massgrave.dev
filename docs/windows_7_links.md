@@ -34,8 +34,8 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso (Buzzheavier)](https://buzzheavier.com/lllag2h2ucql)<br/>[en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso (ZeroFS)](https://zerofs.link/f/36zdm11Y91tB617yEtuotWSPiddfRsOkvrMJvAT6bX8WKjuZO2FAtHMbRHXiR2svmoQ/) |
-| English  | x86  | [en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso (Buzzheavier)](https://buzzheavier.com/wru8ac6nwk2x)<br/>[en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso (ZeroFS)](https://zerofs.link/f/rGJq1_4kSvYc8z55--kY62LOdRJjp9MB_VPKu82UVaCKvMOSG-HvytY_o0SotLuS2nk/) |
+| English  | x64  | [en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso (Buzzheavier)](https://buzzheavier.com/lllag2h2uc17)<br/>[en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso (ZeroFS)](https://zerofs.link/f/36zdm11Y91tB617yEtuotWSPiddfRsOkvrMJvAT6bX8WKjuZO2FAtHMbRHXiR2svmoQ/) |
+| English  | x86  | [en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso (Buzzheavier)](https://buzzheavier.com/wru8ac6nwk17)<br/>[en_windows_7_ultimate_with_sp1_x86_dvd_u_677460.iso (ZeroFS)](https://zerofs.link/f/rGJq1_4kSvYc8z55--kY62LOdRJjp9MB_VPKu82UVaCKvMOSG-HvytY_o0SotLuS2nk/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 

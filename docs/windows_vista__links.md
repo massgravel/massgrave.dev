@@ -32,7 +32,7 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_vista_sp2_x64_dvd_342267.iso (Buzzheavier)](https://buzzheavier.com/goby1okwv128)<br/>[en_windows_vista_sp2_x64_dvd_342267.iso (ZeroFS)](https://zerofs.link/f/QsXJfcKOkjSly3HJNyEY0RZz_zRqJSB-z88qL5N_yB23lQJ4zNU_tM2HBdskGI3yqd0/) |
+| English  | x64  | [en_windows_vista_sp2_x64_dvd_342267.iso (Buzzheavier)](https://buzzheavier.com/goby1okwv117)<br/>[en_windows_vista_sp2_x64_dvd_342267.iso (ZeroFS)](https://zerofs.link/f/QsXJfcKOkjSly3HJNyEY0RZz_zRqJSB-z88qL5N_yB23lQJ4zNU_tM2HBdskGI3yqd0/) |
 | English  | x86  | [en_windows_vista_with_sp2_x86_dvd_342266.iso (Buzzheavier)](https://buzzheavier.com/kb51ht343gg1)<br/>[en_windows_vista_with_sp2_x86_dvd_342266.iso (ZeroFS)](https://zerofs.link/f/fQx0xaZWLQcfqWh10k4KHlKPjxYhNd_P3mIAgiNhTkh_KQTT7uAirGsw-7GtQS1XLN8/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
