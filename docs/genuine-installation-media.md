@@ -2,7 +2,7 @@
 :::info
 
 - All download links available on our website lead to genuine files only.
-- Slow download? Use a download manager like [FDM](https://www.freedownloadmanager.org/).
+- Slow download? Use a download manager like [AB](https://abdownloadmanager.com/) or [JDownloader](https://jdownloader.org/jdownloader2/).
 - Download link not working? Try [WARP](https://one.one.one.one/) VPN to unblock.
 
 :::
