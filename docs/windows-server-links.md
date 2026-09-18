@@ -26,7 +26,7 @@ import TabItem from '@theme/TabItem';
 
 **Windows Server 2025**
 
-Build - 26100.33439 (September 2026)
+Build - 26100.33438 (September 2026)
 
 | Language            | Arch | Link |
 |:--------------------|:-----|:---|
