@@ -32,83 +32,83 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_vista_sp2_x64_dvd_342267.iso (Buzzheavier)](https://buzzheavier.com/goby1okwv117)<br/>[en_windows_vista_sp2_x64_dvd_342267.iso (ZeroFS)](https://zerofs.link/f/ARX9I5C9K1NJD0NCGL6KUp3tiqwsuZlW0heBObCPP9ZEm5Y/) |
-| English  | x86  | [en_windows_vista_with_sp2_x86_dvd_342266.iso (Buzzheavier)](https://buzzheavier.com/kb51ht343gg1)<br/>[en_windows_vista_with_sp2_x86_dvd_342266.iso (ZeroFS)](https://zerofs.link/f/W4Buam-U7uQbNdxXsq2JvRu7TNTbaODqWGGtYAOWQMhuzTo/) |
+| English  | x64  | [en_windows_vista_sp2_x64_dvd_342267.iso (Buzzheavier)](https://buzzheavier.com/goby1okwv117)<br/>[en_windows_vista_sp2_x64_dvd_342267.iso (ZeroFS)](https://zerofs.link/f/rjrJkAYnUwDBKz5nzS25Wv_Px4Wlnnl0s2Kg2SEJluL9qck/) |
+| English  | x86  | [en_windows_vista_with_sp2_x86_dvd_342266.iso (Buzzheavier)](https://buzzheavier.com/kb51ht343gg1)<br/>[en_windows_vista_with_sp2_x86_dvd_342266.iso (ZeroFS)](https://zerofs.link/f/mgqXkPCM3uGc7MGIeYKoTeWVb50zhYBFvrgKClRj2HBbdss/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                  | x64  | [ar_windows_vista_with_sp2_x64_dvd_x15-36318.dvp](https://zerofs.link/f/GjOrP2TqSzgPYzqIxHZ56c2GoC76N4hr4t_kMmmJidJSQqM/)          |
-| Arabic                  | x86  | [ar_windows_vista_with_sp2_x86_dvd_x15-36282.dvp](https://zerofs.link/f/ox3JObSBMmcWmZUH_Dh2akd1XRKhEkJaYV3doFwf-MDGrMo/)          |
-| Bulgarian               | x64  | [bg_windows_vista_with_sp2_x64_dvd_x15-36321.dvp](https://zerofs.link/f/2J2Ds3DUzwUdk1oFPQnYmR5ra8t-8wHHFfbyMECWM7m8baA/)          |
-| Bulgarian               | x86  | [bg_windows_vista_with_sp2_x86_dvd_x15-36284.dvp](https://zerofs.link/f/RL-owthFP0muQKhcHrBabvGeZlyp3RkdZGYZj2qCQOKXRs0/)          |
-| Chinese - Simplified    | x64  | [cn_windows_vista_with_sp2_x64_dvd_x15-36322.dvp](https://zerofs.link/f/izjT4u9p1bf-ovmYZyO7lJWfmakVdMIj6oFCIys4Tbh-UOQ/)          |
-| Chinese - Simplified    | x86  | [cn_windows_vista_with_sp2_x86_dvd_x15-36285.dvp](https://zerofs.link/f/ts9Ungo7_ZnRo6QSePb78mlGyIajnUVrAfzdr6r5RRLwsm0/)          |
-| Czech                   | x64  | [cs_windows_vista_with_sp2_x64_dvd_x15-36327.dvp](https://zerofs.link/f/4oTMcKy4j3FHVt0RXefYDz9awmUQXbELX21BhFrRecKwdgA/)          |
-| Czech                   | x86  | [cs_windows_vista_with_sp2_x86_dvd_x15-36289.dvp](https://zerofs.link/f/zMzo7XEc8JmR2LF1v-cg9XpsWDR8Xh2PBhPfflJv1vmbdU8/)          |
-| Danish                  | x64  | [da_windows_vista_with_sp2_x64_dvd_x15-36329.dvp](https://zerofs.link/f/QD5QEezgp3XmyuRps5W0RkYb_IIVvQku066T3zJQZ8UPt7c/)          |
-| Danish                  | x86  | [da_windows_vista_with_sp2_x86_dvd_x15-36290.dvp](https://zerofs.link/f/FiaaMhPQ0UIYeQcylQNAxOzekXyAnUvKIKWxdlzXCxFKPSE/)          |
-| German                  | x64  | [de_windows_vista_sp2_x64_dvd_342287.dvp](https://zerofs.link/f/IpDMhtn3XE51RPqo1cuWl7dNZQB9cI0-dLaqMa3dqbCuzwk/)                  |
-| German                  | x86  | [de_windows_vista_sp2_x86_dvd_342286.dvp](https://zerofs.link/f/-P6uH53dEzhnvIChAfvpM8H0ePKPZawq8rHSXjGbY-BWFfU/)                  |
-| Greek                   | x64  | [el_windows_vista_with_sp2_x64_dvd_x15-36343.dvp](https://zerofs.link/f/q9oEd5MfVby4aSdHSm8JMvAgkUvsp91TqRlN1IMLL3HJSF0/)          |
-| Greek                   | x86  | [el_windows_vista_with_sp2_x86_dvd_x15-36297.dvp](https://zerofs.link/f/EOK1bvFDZhYir88aDDtC2i7S_IbgkUvitnG4pPKVZzGIFNw/)          |
-| Spanish                 | x64  | [es_windows_vista_sp2_x64_dvd_342309.dvp](https://zerofs.link/f/I2g58boOsMOoIBuz6MCc2y8sISA-89SuBk5lACjW4wlbE-g/)                  |
-| Spanish                 | x86  | [es_windows_vista_sp2_x86_dvd_342308.dvp](https://zerofs.link/f/72HvdTiE8w3IWjhEDh7ZdMsk-0NbasOMmKzfA7fICOFrv6Y/)                  |
-| Estonian                | x64  | [et_windows_vista_with_sp2_x64_dvd_x15-36335.dvp](https://zerofs.link/f/Iap_1_7ZheqMJvmNvEfrHZpQ6siYTBu_gT9wJoN9xReX-IY/)          |
-| Estonian                | x86  | [et_windows_vista_with_sp2_x86_dvd_x15-36293.dvp](https://zerofs.link/f/03nwAdA_6QvuTRysVMibIadVQZBlJcoh6IxWZczQCPzrsbo/)          |
-| Finnish                 | x64  | [fi_windows_vista_with_sp2_x64_dvd_x15-36337.dvp](https://zerofs.link/f/J4WrYdYDi0KicAv0r_J2zDxMtttzOD_0OlprKctUOZKK7Q0/)          |
-| Finnish                 | x86  | [fi_windows_vista_with_sp2_x86_dvd_x15-36294.dvp](https://zerofs.link/f/lt2U1D35P35Fyqh7_klcenwbuX2W7PguH-OduDzUctVJm08/)          |
-| French                  | x64  | [fr_windows_vista_sp2_x64_dvd_342277.dvp](https://zerofs.link/f/dze8fCmsMjIAaUdEI1e_Gu7ty0BXYeuJV2f4diaGYeQPo0I/)                  |
-| French                  | x86  | [fr_windows_vista_sp2_x86_dvd_342276.dvp](https://zerofs.link/f/78RIvtAf2GAgQOgdeOUgxThyxJ6-xKmXinHJ75NtI0U5YP8/)                  |
-| Hebrew                  | x64  | [he_windows_vista_with_sp2_x64_dvd_x15-36344.dvp](https://zerofs.link/f/JuFoNttV9uoC07SyPEqt-huoNyhfykm14SUsv_H6jD6dju8/)          |
-| Hebrew                  | x86  | [he_windows_vista_with_sp2_x86_dvd_x15-36298.dvp](https://zerofs.link/f/0JbMZOLcwAI4ehP9bsFm8kGnQTdY6jy-60Ej2R0e6NvUm1U/)          |
-| Chinese - Hong Kong SAR | x64  | [hk_windows_vista_with_sp2_x64_dvd_x15-36324.dvp](https://zerofs.link/f/jWNnwMw_ZMDfNm-hxbwOqPrsd6iQMBXRlqFi9ji1YlrNKlU/)          |
-| Chinese - Hong Kong SAR | x86  | [hk_windows_vista_with_sp2_x86_dvd_x15-36287.dvp](https://zerofs.link/f/xGgedLqk5Q5WrF4hoo4T7sW9qa8RhWUQoRnqfXJ_6yb-qz0/)          |
-| Croatian                | x64  | [hr_windows_vista_with_sp2_x64_dvd_x15-36325.dvp](https://zerofs.link/f/B8PX66F1MssM9lCBodL5kePJs3mrCooFJgM1g3jKwoJqNwU/)          |
-| Croatian                | x86  | [hr_windows_vista_with_sp2_x86_dvd_x15-36288.dvp](https://zerofs.link/f/Y0kNuKgpbhUWM51fFYTkiqhercKI0Y_YOJjsTsI50aA1bRo/)          |
-| Hungarian               | x64  | [hu_windows_vista_with_sp2_x64_dvd_x15-36346.dvp](https://zerofs.link/f/xidFY2C8fplQPEZoHLBytILU61mVodSK73ytasTAYdGRpoY/)          |
-| Hungarian               | x86  | [hu_windows_vista_with_sp2_x86_dvd_x15-36299.dvp](https://zerofs.link/f/PmT-jM2FluQ3dFNp4AJwN-ZzIcc6y09Th6FyaXV6zOneU4E/)          |
-| Italian                 | x64  | [it_windows_vista_with_sp2_x64_dvd_x15-36348.dvp](https://zerofs.link/f/M3O3Ufg-geadxjJr6XvCeRasLOKvCgXY3BYMzktMjz3ha1Y/)          |
-| Italian                 | x86  | [it_windows_vista_with_sp2_x86_dvd_x15-36300.dvp](https://zerofs.link/f/5QJTDzPDdhzogKs8qGRRkBVfxbhQgIiJWrzGlMLDtCURwww/)          |
-| Japanese                | x64  | [ja_windows_vista_sp2_x64_dvd_342298.dvp](https://zerofs.link/f/2RWN4mPZAO2lPj_cc8NEedTzOkOL4BxXfqiOjwkXamvTxtc/)                  |
-| Japanese                | x86  | [ja_windows_vista_sp2_x86_dvd_342296.dvp](https://zerofs.link/f/QY7naJ4lcnIQzE1qTcUyIt8zaOnOk0SZbz-CQwhvVTt_z14/)                  |
-| Korean                  | x86  | [ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.dvp](https://zerofs.link/f/YjCDlJ_pChIhfGlmgZtC8t-wAuG_6eATKNjaoohd_DBOK7I/) |
-| Korean                  | x64  | [ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.dvp](https://zerofs.link/f/ZAQa8QLyX-TeQB-A1_tC0ldC9SVi3W8UEze9nlUnUSgTOEs/)        |
-| Lithuanian              | x64  | [lt_windows_vista_with_sp2_x64_dvd_x15-36355.dvp](https://zerofs.link/f/U6QWc9FW7jeH8x17X0dlYX3W0hQ2OR690VPqT3LPGKyw3oM/)          |
-| Lithuanian              | x86  | [lt_windows_vista_with_sp2_x86_dvd_x15-36304.dvp](https://zerofs.link/f/c-4ZAMaLvj7QE0RwHniHOi79ww_7D0NbI-s6vpndsECx7NM/)          |
-| Latvian                 | x64  | [lv_windows_vista_with_sp2_x64_dvd_x15-36353.dvp](https://zerofs.link/f/pQHLUqlgXLTCrHX6EmqLNAkFtFTBAK4FWIbbaJRcDVTQTAA/)          |
-| Latvian                 | x86  | [lv_windows_vista_with_sp2_x86_dvd_x15-36303.dvp](https://zerofs.link/f/t7lzIFUb3x8Ahjf9JnT-DSYo7oeU70gWXCCFo1OA8vpJ4vw/)          |
-| Dutch                   | x64  | [nl_windows_vista_with_sp2_x64_dvd_x15-36331.dvp](https://zerofs.link/f/zEMLjZkGPN5SzwbTkbujlAeF-gTDhHts0J5cECMbH23d_8I/)          |
-| Dutch                   | x86  | [nl_windows_vista_with_sp2_x86_dvd_x15-36291.dvp](https://zerofs.link/f/qxo44vF8o2DwFsHHiEfvNltUH8LB9j4xNRh4G_LiVSw25XA/)          |
-| Norwegian               | x64  | [no_windows_vista_with_sp2_x64_dvd_x15-36357.dvp](https://zerofs.link/f/65YI86POIgMklv6hJG0LwUazqPDn9wYudF7Ss9kUnY1zs8I/)          |
-| Norwegian               | x86  | [no_windows_vista_with_sp2_x86_dvd_x15-36305.dvp](https://zerofs.link/f/8o2EJPNi4ECObzQknctJ5tzCSAUSVkxkhG7EhTnl3JRUMcU/)          |
-| Polish                  | x64  | [pl_windows_vista_with_sp2_x64_dvd_x15-36359.dvp](https://zerofs.link/f/MDGDAJlQjmyOa_t7fIAyqAZilyf_V4arwcqpJWjy5I7kWBs/)          |
-| Polish                  | x86  | [pl_windows_vista_with_sp2_x86_dvd_x15-36306.dvp](https://zerofs.link/f/zbIUur33cWUgagfJXH22fAHwjneehiv7QjHdWTbN1vyXwIQ/)          |
-| Portuguese - Portugal   | x64  | [pp_windows_vista_with_sp2_x64_dvd_x15-36361.dvp](https://zerofs.link/f/YbDwwq9d9W-1wLH12IaLj5OSMlF4CH8Sy0J_Bc1-TRj9oWM/)          |
-| Portuguese - Portugal   | x86  | [pp_windows_vista_with_sp2_x86_dvd_x15-36307.dvp](https://zerofs.link/f/_WjfjGoSfkx2pgJiMB2B0ezbz-z7aiashJ2yrUPHxKamQsc/)          |
-| Portuguese - Brazil     | x64  | [pt_windows_vista_with_sp2_x64_dvd_x15-36319.dvp](https://zerofs.link/f/RTJnWXxydbY_mCUex-1XwATQNYVAkUXg4xGnKi_M78EPk-k/)          |
-| Portuguese - Brazil     | x86  | [pt_windows_vista_with_sp2_x86_dvd_x15-36283.dvp](https://zerofs.link/f/w9v9dFNmH6J8zet81TN1Ud0UnOoBzEM427PCE8TtJVCvSJQ/)          |
-| Romanian                | x64  | [ro_windows_vista_with_sp2_x64_dvd_x15-36363.dvp](https://zerofs.link/f/2McG6744MqkQLseBfDJ3BG52TNiMYZBXTYJp6fiq1Yzmbb8/)          |
-| Romanian                | x86  | [ro_windows_vista_with_sp2_x86_dvd_x15-36308.dvp](https://zerofs.link/f/Orf8lhdP8bDyxZ6ETEmdb8hVWPXKz92HbbhXVm5BmHwSp_w/)          |
-| Russian                 | x64  | [ru_windows_vista_with_sp2_x64_dvd_x15-36364.dvp](https://zerofs.link/f/24TFv182awiNAq1QefKt21__nezx6aozFzBle1pclcllddk/)          |
-| Russian                 | x86  | [ru_windows_vista_with_sp2_x86_dvd_x15-36309.dvp](https://zerofs.link/f/itf3XwLCuT5sxGfCrzr8ewp1WSZvlOMvsKnXsA_tIKN17dI/)          |
-| Slovak                  | x64  | [sk_windows_vista_with_sp2_x64_dvd_x15-36367.dvp](https://zerofs.link/f/hwaRXTH5GJdI3Q_Ei8a4XSJ1PnYPaGfa_CwBIn2o9IrHi0E/)          |
-| Slovak                  | x86  | [sk_windows_vista_with_sp2_x86_dvd_x15-36311.dvp](https://zerofs.link/f/1p8zlxrEc_gqmMooMvoXEpRBGq5_91R0eU2tST4CMZQpoKQ/)          |
-| Slovenian               | x64  | [sl_windows_vista_with_sp2_x64_dvd_x15-36369.dvp](https://zerofs.link/f/Bm-FMghtVQrXaYyADFrdEf7HyBG_D8SzoDkMxvm5Ur138GA/)          |
-| Slovenian               | x86  | [sl_windows_vista_with_sp2_x86_dvd_x15-36312.dvp](https://zerofs.link/f/PPOemzllW2DpkPLCSLJVB2_1k7OHtDUBOtYgUH_LA2bpOYY/)          |
-| Serbian                 | x64  | [sr_windows_vista_with_sp2_x64_dvd_x15-36365.dvp](https://zerofs.link/f/TSO58o3Vhl2QyNlJHN9purlBQHNFivwYwPsHdYmTxG_CIHw/)          |
-| Serbian                 | x86  | [sr_windows_vista_with_sp2_x86_dvd_x15-36310.dvp](https://zerofs.link/f/0j1GgWRR9eN0ByJvPkgA07L8bZfw7FEFMkEQzyDyEnt5r0s/)          |
-| Swedish                 | x64  | [sv_windows_vista_with_sp2_x64_dvd_x15-36373.dvp](https://zerofs.link/f/eYvYOkKQw33dhpUjA-ftRbnWq1daSd_fKyHVJSwn88j7Yx8/)          |
-| Swedish                 | x86  | [sv_windows_vista_with_sp2_x86_dvd_x15-36314.dvp](https://zerofs.link/f/86TVF-TNLQfXhEvSImWJqU_ghTnsc8QARwaVfh9wIN6udrM/)          |
-| Thai                    | x64  | [th_windows_vista_with_sp2_x64_dvd_x15-36374.dvp](https://zerofs.link/f/k0CrLOYhNGx01AaVlCySOI1QnY0lax9W8sVuDDguJujXfOk/)          |
-| Thai                    | x86  | [th_windows_vista_with_sp2_x86_dvd_x15-36315.dvp](https://zerofs.link/f/mJI8pXvrbnO2GIewG_N-Mbz_oU8AurXr2GYgxph7IY3aEcs/)          |
-| Turkish                 | x64  | [tr_windows_vista_with_sp2_x64_dvd_x15-36375.dvp](https://zerofs.link/f/uEnUKxCBebTJH7bZprmGBFXEOvTkNTmxBI2tgjQVYE60hMw/)          |
-| Turkish                 | x86  | [tr_windows_vista_with_sp2_x86_dvd_x15-36316.dvp](https://zerofs.link/f/PWlJSsFnodJR4biUiq2RhsYrpjW1z_WGLeEQIE7NboqNpeI/)          |
-| Chinese - Traditional   | x64  | [tw_windows_vista_with_sp2_x64_dvd_x15-36323.dvp](https://zerofs.link/f/O1tRmTRW5EViN9PCeGlgTvKHzoJ6MCOqck_GwbCu-www2Js/)          |
-| Chinese - Traditional   | x86  | [tw_windows_vista_with_sp2_x86_dvd_x15-36286.dvp](https://zerofs.link/f/hg5Qs2tRV12FFAhaABfC8AQloxcnnWkwI9IVQmA_ZUXC0-Y/)          |
-| Ukranian                | x64  | [uk_windows_vista_with_sp2_x64_dvd_x15-36376.dvp](https://zerofs.link/f/zeIjynla_FNNvTBizflQmbg3vpHhJPiwql5A3AKX6C0mX8w/)          |
-| Ukranian                | x86  | [uk_windows_vista_with_sp2_x86_dvd_x15-36317.dvp](https://zerofs.link/f/EZWoyAyQDHxtJAKlbPc6pAvtnotze374yfMfHNQPWTtqTt0/)          |
+| Arabic                  | x64  | [ar_windows_vista_with_sp2_x64_dvd_x15-36318.dvp](https://zerofs.link/f/Rj9snjvHnZ9CnVnU5mOWoWzKG4IOToOw5Qx0KA4sxGrixjw/)          |
+| Arabic                  | x86  | [ar_windows_vista_with_sp2_x86_dvd_x15-36282.dvp](https://zerofs.link/f/X8XY50vM8yKuuNI1ZrMlR64YX_5MYk1PkIukyZuiF7z8GGc/)          |
+| Bulgarian               | x64  | [bg_windows_vista_with_sp2_x64_dvd_x15-36321.dvp](https://zerofs.link/f/ks3KxcsYLCFoTbglZJMmQbSougvoWm3B-tKLINRIKtpVzeA/)          |
+| Bulgarian               | x86  | [bg_windows_vista_with_sp2_x86_dvd_x15-36284.dvp](https://zerofs.link/f/NppHVnDb4IBmLa-CzZYMa_zGonHJQbUy34ruf-jGsaJ6Bxc/)          |
+| Chinese - Simplified    | x64  | [cn_windows_vista_with_sp2_x64_dvd_x15-36322.dvp](https://zerofs.link/f/rdO6GN7THFVnTmtijku9QewtgfBYvb5w_iuRA6Ec705aFXE/)          |
+| Chinese - Simplified    | x86  | [cn_windows_vista_with_sp2_x86_dvd_x15-36285.dvp](https://zerofs.link/f/f6DrKo_BWcmiMsp6jTHQR8u49Jv4JPmdRCQwGDR6e3JwwEE/)          |
+| Czech                   | x64  | [cs_windows_vista_with_sp2_x64_dvd_x15-36327.dvp](https://zerofs.link/f/DbuhYDm7eCsm0OEoIH-U5oaA8HZeA4crhbbYMbg8f0xIZFY/)          |
+| Czech                   | x86  | [cs_windows_vista_with_sp2_x86_dvd_x15-36289.dvp](https://zerofs.link/f/2xxQKfor_6AuXTdswUne7AlWNUnybcCxxlOHvsTJrJc8lpQ/)          |
+| Danish                  | x64  | [da_windows_vista_with_sp2_x64_dvd_x15-36329.dvp](https://zerofs.link/f/G0FDbNOdsHW9K2fNosyl93-fNgfi73b-5IKCKf7Qgn8wLlE/)          |
+| Danish                  | x86  | [da_windows_vista_with_sp2_x86_dvd_x15-36290.dvp](https://zerofs.link/f/0BV2ew5B7P1nHlz_fwZpVeW0rrNP1oZFxqfe4_6mYYIqpA0/)          |
+| German                  | x64  | [de_windows_vista_sp2_x64_dvd_342287.dvp](https://zerofs.link/f/p32Qhrb7-EkhhAC9bmZ4Sput2UCLzP-K-BH3BUlBxVjzIZU/)                  |
+| German                  | x86  | [de_windows_vista_sp2_x86_dvd_342286.dvp](https://zerofs.link/f/kR63sAH94IWeeBtCNJYXP1Hb5e05YqG89Ed0djRGzLOZhqM/)                  |
+| Greek                   | x64  | [el_windows_vista_with_sp2_x64_dvd_x15-36343.dvp](https://zerofs.link/f/zXA-qpdfISNuL4lqZvH597ENsTA3jIE4Saqb7vcYuUQor3U/)          |
+| Greek                   | x86  | [el_windows_vista_with_sp2_x86_dvd_x15-36297.dvp](https://zerofs.link/f/MUekCD9jAVbVi_UD555vwR1Nl16Idx1nw-DuH9xLnhRTUBI/)          |
+| Spanish                 | x64  | [es_windows_vista_sp2_x64_dvd_342309.dvp](https://zerofs.link/f/M4ehcohakgYIRGVJ80Pw-d9uOL64qKjUvKqZ2tdLMgEl304/)                  |
+| Spanish                 | x86  | [es_windows_vista_sp2_x86_dvd_342308.dvp](https://zerofs.link/f/cCOF_9RmtLwHa0bvS4j2NuQQHZKrU68ElNxqnybT-Ekf4bA/)                  |
+| Estonian                | x64  | [et_windows_vista_with_sp2_x64_dvd_x15-36335.dvp](https://zerofs.link/f/ErzGxoIKsnpcVzH4Z780f152gTLhBVP8YTezhR1Q2dovv0Q/)          |
+| Estonian                | x86  | [et_windows_vista_with_sp2_x86_dvd_x15-36293.dvp](https://zerofs.link/f/E2xZ5KGpumMwWsaVwIUhrmhNhoZ3511cteH0js-arPVK7Eg/)          |
+| Finnish                 | x64  | [fi_windows_vista_with_sp2_x64_dvd_x15-36337.dvp](https://zerofs.link/f/c8I0a_Xw9virGJwJ3r5Xi0MtGGb0edrYVdOh8SU_dc41iWg/)          |
+| Finnish                 | x86  | [fi_windows_vista_with_sp2_x86_dvd_x15-36294.dvp](https://zerofs.link/f/lYv8n3RKOVRWF65sRCgTp2-zeUkFjXQtEgrobjoSfoEcIUs/)          |
+| French                  | x64  | [fr_windows_vista_sp2_x64_dvd_342277.dvp](https://zerofs.link/f/SDDWKOR7WWkwz0Mp-NRQWiLnvjD7enUmrhrnBy1NM0KNJ3s/)                  |
+| French                  | x86  | [fr_windows_vista_sp2_x86_dvd_342276.dvp](https://zerofs.link/f/f5vyppROXe7XaalmPLPTDANXsR71YQNkLagrbPC_v67NITk/)                  |
+| Hebrew                  | x64  | [he_windows_vista_with_sp2_x64_dvd_x15-36344.dvp](https://zerofs.link/f/mEJC7lzmivwSIL80fYMMwu7daPVCHy403GptZN6LIB1q8bQ/)          |
+| Hebrew                  | x86  | [he_windows_vista_with_sp2_x86_dvd_x15-36298.dvp](https://zerofs.link/f/QvQkSmAGbrkuBKYP1FKhvRgQfcLTLWNtohHpv6PmqNpB_4o/)          |
+| Chinese - Hong Kong SAR | x64  | [hk_windows_vista_with_sp2_x64_dvd_x15-36324.dvp](https://zerofs.link/f/0aG3RVI001DzORWjOZuM0G1kxAcooR7DYw6oqTgaI16u8-s/)          |
+| Chinese - Hong Kong SAR | x86  | [hk_windows_vista_with_sp2_x86_dvd_x15-36287.dvp](https://zerofs.link/f/vShmc780W0ZA8-oI6UzTJetd80nm7rG2Ipfsutd1nBjOslI/)          |
+| Croatian                | x64  | [hr_windows_vista_with_sp2_x64_dvd_x15-36325.dvp](https://zerofs.link/f/PdwIezHX7ijViKnQrEIO_Pv_cU0aiqm6VqRSvUEMboW4jKc/)          |
+| Croatian                | x86  | [hr_windows_vista_with_sp2_x86_dvd_x15-36288.dvp](https://zerofs.link/f/lAZtzB2Yx2OOi666VcGd8rMtIzFsxIebCD1Ln6NCM0VWctI/)          |
+| Hungarian               | x64  | [hu_windows_vista_with_sp2_x64_dvd_x15-36346.dvp](https://zerofs.link/f/T-z6i0rmnCs-DXOADaY8gH8QSOsTYxrLX7fLxwl2NjlB1vA/)          |
+| Hungarian               | x86  | [hu_windows_vista_with_sp2_x86_dvd_x15-36299.dvp](https://zerofs.link/f/C7fnqlh3X4M3GN_Vuzu9dmTU--dSayjlghveWhIf_0H0f3w/)          |
+| Italian                 | x64  | [it_windows_vista_with_sp2_x64_dvd_x15-36348.dvp](https://zerofs.link/f/-g3URBCUsGf_DR47I4z6xKx8d94FnIuYbiqYI7hCR_ksKD8/)          |
+| Italian                 | x86  | [it_windows_vista_with_sp2_x86_dvd_x15-36300.dvp](https://zerofs.link/f/0KQjn_1L4zmeYjP9yac4C4GA5Z2XCi7JzAmJfme9S_L_Rgk/)          |
+| Japanese                | x64  | [ja_windows_vista_sp2_x64_dvd_342298.dvp](https://zerofs.link/f/E4dBOfNTfPYFLZ_4nv-IT6k8z0tCGWGYjOrlMDAhdb5xE-Q/)                  |
+| Japanese                | x86  | [ja_windows_vista_sp2_x86_dvd_342296.dvp](https://zerofs.link/f/GUwEQ2x2HPfMquD88yJ0EZAVjjPZYkONJagzcDsrNLEFEYY/)                  |
+| Korean                  | x86  | [ko_windows_vista_k_and_kn_with_sp2_x86_dvd_x15-36302.dvp](https://zerofs.link/f/6ae-pIJTldUBNlx5gEWwECNka3yWKwQqxc1dRWbKonffxjI/) |
+| Korean                  | x64  | [ko_windows_vista_k_with_sp2_x64_dvd_x15-36350.dvp](https://zerofs.link/f/0xVujVbiKTVt6sUlE-v7Jtj5O_TTl_bBWCUYxm9yM7jZE-w/)        |
+| Lithuanian              | x64  | [lt_windows_vista_with_sp2_x64_dvd_x15-36355.dvp](https://zerofs.link/f/CiQwINEKHc9n8uSAREwlRvAp3c1Kx5QlxJDSEbPFG-xwYxQ/)          |
+| Lithuanian              | x86  | [lt_windows_vista_with_sp2_x86_dvd_x15-36304.dvp](https://zerofs.link/f/3Ppyg4OdtvYDVwG44NElzMU9XmTKJ1PS-82CiaMvWuRqHTA/)          |
+| Latvian                 | x64  | [lv_windows_vista_with_sp2_x64_dvd_x15-36353.dvp](https://zerofs.link/f/uo9mlCoZSyjG8C6OsPuGS0eTyXw2sVfOirN-dqim2_QkFhI/)          |
+| Latvian                 | x86  | [lv_windows_vista_with_sp2_x86_dvd_x15-36303.dvp](https://zerofs.link/f/VQyxyEMLcn8r0YNGxm5lGalmhRnQw_eRpIzr5XQUUccAxA4/)          |
+| Dutch                   | x64  | [nl_windows_vista_with_sp2_x64_dvd_x15-36331.dvp](https://zerofs.link/f/r1O34dZk3Nz22AA9n14K0NyzEMmbB8TA3qwt6Z7dcN85kMw/)          |
+| Dutch                   | x86  | [nl_windows_vista_with_sp2_x86_dvd_x15-36291.dvp](https://zerofs.link/f/T9tw740hz8MkfZ2xRygbySyWWZihzAkfFlhQjXBzfBR4qcY/)          |
+| Norwegian               | x64  | [no_windows_vista_with_sp2_x64_dvd_x15-36357.dvp](https://zerofs.link/f/ueGe21gemd13EYzDO90vk8ZLgZgMeL9DMqV44yU47sW_nNA/)          |
+| Norwegian               | x86  | [no_windows_vista_with_sp2_x86_dvd_x15-36305.dvp](https://zerofs.link/f/Eb44MjEbiifuq4cOojvbeB9_LWp-WaLXLCLFTMhQNPNwi7s/)          |
+| Polish                  | x64  | [pl_windows_vista_with_sp2_x64_dvd_x15-36359.dvp](https://zerofs.link/f/T2uUj6Az-vSjAtvfWdrzsMarJpZgEOVx8BuN0bzcwWhm1ko/)          |
+| Polish                  | x86  | [pl_windows_vista_with_sp2_x86_dvd_x15-36306.dvp](https://zerofs.link/f/LeUyOksyucpiZOK3LkA-RqxMtGwrj0vSoFMwiZiK_-lNuRU/)          |
+| Portuguese - Portugal   | x64  | [pp_windows_vista_with_sp2_x64_dvd_x15-36361.dvp](https://zerofs.link/f/oHJ1qLM932Wv9bWpwt4mbs2ZYTsXnazEyEG6OG5zK7x3FKI/)          |
+| Portuguese - Portugal   | x86  | [pp_windows_vista_with_sp2_x86_dvd_x15-36307.dvp](https://zerofs.link/f/U2YpHyskXsKyge53iqXno6CEvvlL6ABCOvF2HGC4nUvLuTg/)          |
+| Portuguese - Brazil     | x64  | [pt_windows_vista_with_sp2_x64_dvd_x15-36319.dvp](https://zerofs.link/f/6BnTnwn9oGdJILzp7fp5nffp09OTHykePv7iSPR_abhSzcI/)          |
+| Portuguese - Brazil     | x86  | [pt_windows_vista_with_sp2_x86_dvd_x15-36283.dvp](https://zerofs.link/f/PonDRFUa54sP6gHPkfrXY3ArjRvwEbSfttTp-v4-QekAUEA/)          |
+| Romanian                | x64  | [ro_windows_vista_with_sp2_x64_dvd_x15-36363.dvp](https://zerofs.link/f/vY1pJu-vi_aF9b2rSZwM69mgXaoKayadFi60MC8khxdcJ7Q/)          |
+| Romanian                | x86  | [ro_windows_vista_with_sp2_x86_dvd_x15-36308.dvp](https://zerofs.link/f/0iEklbiS2nfQKN5e_B_SCieThdQ-EcSmPzLvg_bwR-nWsGM/)          |
+| Russian                 | x64  | [ru_windows_vista_with_sp2_x64_dvd_x15-36364.dvp](https://zerofs.link/f/3Yx9nCCApym_mnsaf1wfWAHIS6Y4DY341YpWXeNXhFXtzwo/)          |
+| Russian                 | x86  | [ru_windows_vista_with_sp2_x86_dvd_x15-36309.dvp](https://zerofs.link/f/VT4KjdowHC336Vv5JOIpa33zvpNhKU1WAZ_PBDLCSOzjFHA/)          |
+| Slovak                  | x64  | [sk_windows_vista_with_sp2_x64_dvd_x15-36367.dvp](https://zerofs.link/f/f5ECdjJGELtOf58uaJPWJdFM5YQ5whxGOCSl70PkElKPImQ/)          |
+| Slovak                  | x86  | [sk_windows_vista_with_sp2_x86_dvd_x15-36311.dvp](https://zerofs.link/f/JWoA7oqbQAHH9ZtLx6d-Ka7S_NoR5tWpgcaCZigdJIHBm58/)          |
+| Slovenian               | x64  | [sl_windows_vista_with_sp2_x64_dvd_x15-36369.dvp](https://zerofs.link/f/HtIa8aGp2ico9sNeAv0TMPFG2FsFZ-PpV_t9D_W4kKfEGjc/)          |
+| Slovenian               | x86  | [sl_windows_vista_with_sp2_x86_dvd_x15-36312.dvp](https://zerofs.link/f/B2h6hZotxNkkrzZQnyDApHkLkYFJEhSaNx-MKfmMkqruyGc/)          |
+| Serbian                 | x64  | [sr_windows_vista_with_sp2_x64_dvd_x15-36365.dvp](https://zerofs.link/f/BffLfMAAuSMVpbuaLHnb6U09V86miyUbcP-9gw6Chbu9YA0/)          |
+| Serbian                 | x86  | [sr_windows_vista_with_sp2_x86_dvd_x15-36310.dvp](https://zerofs.link/f/Uw3faJT-5LOjm04z1WquG4kCCufwFb-lWoDAu44ew_uOtsE/)          |
+| Swedish                 | x64  | [sv_windows_vista_with_sp2_x64_dvd_x15-36373.dvp](https://zerofs.link/f/grnQQyTKfVrUQ8ezuUUKLfnMqeoF8B3BonijswdSfp1hs08/)          |
+| Swedish                 | x86  | [sv_windows_vista_with_sp2_x86_dvd_x15-36314.dvp](https://zerofs.link/f/lxbQbERSM9yY9hSSFYgoBtRErP4x-cvKH2Nuox1nfQuX-L8/)          |
+| Thai                    | x64  | [th_windows_vista_with_sp2_x64_dvd_x15-36374.dvp](https://zerofs.link/f/Mihs17PawqzPqok0E_ifQ3OX_w8oJgB0v3FLour4jyZ0PZk/)          |
+| Thai                    | x86  | [th_windows_vista_with_sp2_x86_dvd_x15-36315.dvp](https://zerofs.link/f/EsNYYzj0eMketukbfXRK9L6TNcN2GxnOuFu8aeVbbcZJOQs/)          |
+| Turkish                 | x64  | [tr_windows_vista_with_sp2_x64_dvd_x15-36375.dvp](https://zerofs.link/f/220sW49-EWfy-D1VotvSxIAofJMrf5VoXKPDt6It7HhRhSg/)          |
+| Turkish                 | x86  | [tr_windows_vista_with_sp2_x86_dvd_x15-36316.dvp](https://zerofs.link/f/FUUQHu7Dz9pCbspSX76-PHvWarL4d12GGyqE16YBdH4kqpE/)          |
+| Chinese - Traditional   | x64  | [tw_windows_vista_with_sp2_x64_dvd_x15-36323.dvp](https://zerofs.link/f/Bd1UBeHcNufN8_Ibae1AiMmzcIaGT9wvVVGHwatGEsUF158/)          |
+| Chinese - Traditional   | x86  | [tw_windows_vista_with_sp2_x86_dvd_x15-36286.dvp](https://zerofs.link/f/-zoBOH2nZ9U7_5r6es73xMZIiCVhV3eILhJvl-pErxm3m-I/)          |
+| Ukranian                | x64  | [uk_windows_vista_with_sp2_x64_dvd_x15-36376.dvp](https://zerofs.link/f/Nn7LWhXHFQ-ekA2g0JS7Y2mc7ZTLlb8SACbUIV3Z6ON-wc8/)          |
+| Ukranian                | x86  | [uk_windows_vista_with_sp2_x86_dvd_x15-36317.dvp](https://zerofs.link/f/Ip9rzUK1_5EA_RA4DyKrb1SC2hqGiq2rnCbrdaF5V2ecyA4/)          |
 
 </TabItem>
 
@@ -120,85 +120,85 @@ The files below are **full** ISO images.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_vista_enterprise_sp2_x64_dvd_342332.iso (Buzzheavier)](https://buzzheavier.com/fmjop7xpnrtc)<br/>[en_windows_vista_enterprise_sp2_x64_dvd_342332.iso (ZeroFS)](https://zerofs.link/f/3MLVy9pkpcoZHfXsloSO-Brh_IxLUrSsdx2Zvvcv6qsIrco/) |
-| English  | x86  | [en_windows_vista_enterprise_sp2_x86_dvd_342329.iso (Buzzheavier)](https://buzzheavier.com/z5ixqkd50xze)<br/>[en_windows_vista_enterprise_sp2_x86_dvd_342329.iso (ZeroFS)](https://zerofs.link/f/02yBuhtDem-nMN5_IYHPGgok2lZNOLkHdNUxwOeClNsiGdQ/) |
+| English  | x64  | [en_windows_vista_enterprise_sp2_x64_dvd_342332.iso (Buzzheavier)](https://buzzheavier.com/fmjop7xpnrtc)<br/>[en_windows_vista_enterprise_sp2_x64_dvd_342332.iso (ZeroFS)](https://zerofs.link/f/QQZCzsiGvuSWzq2ugGC-GTNsY22w9ow1k3WU6Ek5fOY3LHc/) |
+| English  | x86  | [en_windows_vista_enterprise_sp2_x86_dvd_342329.iso (Buzzheavier)](https://buzzheavier.com/z5ixqkd50xze)<br/>[en_windows_vista_enterprise_sp2_x86_dvd_342329.iso (ZeroFS)](https://zerofs.link/f/rD0z_6jCmVPLXyn0-ezP4Qy_Syo3zG8ekN7zXkjzohRjz30/) |
 
 The files below are **DVP patches** that use the above ISO images for their respective architectures as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic                  | x64  | [ar_windows_vista_enterprise_with_sp2_x64_dvd_x15-40408.dvp](https://zerofs.link/f/KP7scZbHpDCAY25hGl9F6gdyYN35fP0F1uavqNueok4xoDw/)    |
-| Arabic                  | x86  | [ar_windows_vista_enterprise_with_sp2_x86_dvd_x15-40263.dvp](https://zerofs.link/f/TH7BTOBJdJ1ocR5L_UNCwNBv2FWuZvgK1q_zA-72I9vw8fI/)    |
-| Bulgarian               | x64  | [bg_windows_vista_enterprise_with_sp2_x64_dvd_x15-40410.dvp](https://zerofs.link/f/xNGQ4C2YjjC9TepmXkLFwdy5wJQ1cjPJTu-qGcLTslT5c_g/)    |
-| Bulgarian               | x86  | [bg_windows_vista_enterprise_with_sp2_x86_dvd_x15-40265.dvp](https://zerofs.link/f/5TNwZH7hyW8UsRsvnjK-AP9ommYfmAu-0LBjK6WKbBQ_KjY/)    |
-| Chinese - Simplified    | x64  | [cn_windows_vista_enterprise_with_sp2_x64_dvd_x15-40402.dvp](https://zerofs.link/f/sBnE5wLpZdiJVh3rRpWiYnFIAUoxK6imdmtCl--8N9PyQGo/)    |
-| Chinese - Simplified    | x86  | [cn_windows_vista_enterprise_with_sp2_x86_dvd_x15-40257.dvp](https://zerofs.link/f/gZ94TB9TW1vwogdUpyIQrf_RzxplkNvelCQ3m0ArPJQ9O0c/)    |
-| Czech                   | x64  | [cs_windows_vista_enterprise_with_sp2_x64_dvd_x15-40412.dvp](https://zerofs.link/f/-PxM6wnHlf1KlEFSFRBMCPSIAv_Wv26LQZH_M2P7VRs3W9Y/)    |
-| Czech                   | x86  | [cs_windows_vista_enterprise_with_sp2_x86_dvd_x15-40267.dvp](https://zerofs.link/f/41STngnPG93tLgZF1ppY_e60iGVBQLyYALUsijD0FMeKjZU/)    |
-| Danish                  | x64  | [da_windows_vista_enterprise_with_sp2_x64_dvd_x15-40416.dvp](https://zerofs.link/f/cuRZCMkGPJ_-tCdKjqozzz7x1kSAU2a-0odNXfoODvlR6nA/)    |
-| Danish                  | x86  | [da_windows_vista_enterprise_with_sp2_x86_dvd_x15-40271.dvp](https://zerofs.link/f/3NgnY7gEHNSOcjUqseTJgdJOJyk1roAkrhuqaiRyxG9APos/)    |
-| German                  | x64  | [de_windows_vista_enterprise_sp2_x64_dvd_342376.dvp](https://zerofs.link/f/eJdMiXSdDNAG9xhn1zi6EfTSva1xadQ1AMc2uBND1cndmnk/)            |
-| German                  | x86  | [de_windows_vista_enterprise_sp2_x86_dvd_342373.dvp](https://zerofs.link/f/wxF3ucEcJyjsf6dRvdoHpO-TvKXmPwdC6JnD_MMZIkT9oHc/)            |
-| Greek                   | x64  | [el_windows_vista_enterprise_with_sp2_x64_dvd_x15-40423.dvp](https://zerofs.link/f/rju0l4DeHT3VEyeLijFdyXEWPICUmA_3GU8r1dirtrrKftA/)    |
-| Greek                   | x86  | [el_windows_vista_enterprise_with_sp2_x86_dvd_x15-40277.dvp](https://zerofs.link/f/2eL8VwYpje7QeF1PHs7PdwIpzwLbYZo4DpF7OsRlCo2d_nU/)    |
-| Spanish                 | x64  | [es_windows_vista_enterprise_sp2_x64_dvd_342415.dvp](https://zerofs.link/f/OyX8Palbq1Ajtau4kzTZl-37gpZXdunXc4ZY5ZzoKxFeDmQ/)            |
-| Spanish                 | x86  | [es_windows_vista_enterprise_sp2_x86_dvd_342413.dvp](https://zerofs.link/f/eiqromlHTEBIv1m8Q6J5mBrF57qXb7Wl2ayP9eW1rtmN1ZE/)            |
-| Estonian                | x64  | [et_windows_vista_enterprise_with_sp2_x64_dvd_x15-40437.dvp](https://zerofs.link/f/3CnszOMaM2XWlWwak_BS1kZBjy203MoROHiFUJF_ztu_h9Y/)    |
-| Estonian                | x86  | [et_windows_vista_enterprise_with_sp2_x86_dvd_x15-40291.dvp](https://zerofs.link/f/0019grChVpOKeRGH2nMkEj_Ru2qwZsUvoy36LxBBZ5gqlqI/)    |
-| Finnish                 | x64  | [fi_windows_vista_enterprise_with_sp2_x64_dvd_x15-40451.dvp](https://zerofs.link/f/-WOPsxShUFlgPM1BEMVyqTaOUeJViQIAUNPTWaPUu46_toQ/)    |
-| Finnish                 | x86  | [fi_windows_vista_enterprise_with_sp2_x86_dvd_x15-40305.dvp](https://zerofs.link/f/a1iuItmsvkmvTIzzmsTm_5fBx3RyrKG5Oa7CD1upalKPFGw/)    |
-| French                  | x64  | [fr_windows_vista_enterprise_sp2_x64_dvd_342355.dvp](https://zerofs.link/f/Fhiq-0hH8UZVR7ALlFgG67gH7HNWWchj25j8iSDk1tAN0NA/)            |
-| French                  | x86  | [fr_windows_vista_enterprise_sp2_x86_dvd_342352.dvp](https://zerofs.link/f/-L4a3LcAjoQ22xWfDrh6ntS_JsTBpEn1aQ2tYcpzVl7gQI8/)            |
-| Hebrew                  | x64  | [he_windows_vista_enterprise_with_sp2_x64_dvd_x15-40425.dvp](https://zerofs.link/f/DhIyUmWjV0jwJYbhXXiL7dsfThO6XxpSeRzneNUdB9tjftc/)    |
-| Hebrew                  | x86  | [he_windows_vista_enterprise_with_sp2_x86_dvd_x15-40279.dvp](https://zerofs.link/f/altjU5GiJtmqGhPQB5-QA98LoTts8gp1PmFkJRYlgSnIry8/)    |
-| Chinese - Hong Kong SAR | x64  | [hk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40463.dvp](https://zerofs.link/f/x8QUwxtjzM-9sW6owcAZ_8c6K4qRE08_a0evfGi1YYnEguQ/)    |
-| Chinese - Hong Kong SAR | x86  | [hk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40317.dvp](https://zerofs.link/f/YDSZs642CmPyBMu7uRd5QY-VmquXbuZugzWLF7XZDm_W9eY/)    |
-| Croatian                | x64  | [hr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40396.dvp](https://zerofs.link/f/MlZkUiyvmACG1HwhmamYfNplv-9AO78FvrMKIUn_B-4ouJU/)    |
-| Croatian                | x86  | [hr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40251.dvp](https://zerofs.link/f/U7fL6QdMHJf747pUDR0hLaqZOKN1J2hPGn7D0nuPttUDiYg/)    |
-| Hungarian               | x64  | [hu_windows_vista_enterprise_with_sp2_x64_dvd_x15-40427.dvp](https://zerofs.link/f/Hk1tI-0cM180EPMme5edz1acvM0fctytXlVz1FB894Em9ak/)    |
-| Hungarian               | x86  | [hu_windows_vista_enterprise_with_sp2_x86_dvd_x15-40281.dvp](https://zerofs.link/f/QjQEMML8-jSVFnU05TqQzqOnmqScQg59lZZx8UbJcMOAKwM/)    |
-| Italian                 | x64  | [it_windows_vista_enterprise_with_sp2_x64_dvd_x15-40429.dvp](https://zerofs.link/f/xmfysStJhzoWQcAROhYCF_2161LQwHSBd2F1yssRDzofu7E/)    |
-| Italian                 | x86  | [it_windows_vista_enterprise_with_sp2_x86_dvd_x15-40283.dvp](https://zerofs.link/f/kxOv427OcDyHc16p1REVs58UKPNrCA8n-WMg9KiJNtjmYVg/)    |
-| Japanese                | x64  | [ja_windows_vista_enterprise_sp2_x64_dvd_342393.dvp](https://zerofs.link/f/IRxMLRxnviIulAcONLrut6PFAUoUgp4L3LxgnQad1Gx7sQs/)            |
-| Japanese                | x86  | [ja_windows_vista_enterprise_sp2_x86_dvd_342391.dvp](https://zerofs.link/f/rYZez79S2d5K0bkAev_0KpC4E0-A2PaG7_-Zc-EMf1TDkgA/)            |
-| Korean                  | x64  | [ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.dvp](https://zerofs.link/f/DITZ31hmOHxELmmxXSLA67kqBf-DhY8KpCCY7lPOr9rR18A/)  |
-| Korean                  | x86  | [ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.dvp](https://zerofs.link/f/0ZNBDMkIXXiOVK35vgQPn8EFuGCgTGVjwIPA2-zgXQ1JO1I/)  |
-| Korean                  | x64  | [ko_windows_vista_enterprise_kn_with_sp2_x64_dvd_x15-40625.dvp](https://zerofs.link/f/vFP49wsfVGCSNP4lVIr0RmXTvtpqgFyDVODB2Jp6GWtREMg/) |
-| Korean                  | x86  | [ko_windows_vista_enterprise_kn_with_sp2_x86_dvd_x15-40621.dvp](https://zerofs.link/f/-KvBkeQHNblZbo345Zw5CsBQ8Hg8iIa6vYsuCNL40ZBFMmo/) |
-| Lithuanian              | x64  | [lt_windows_vista_enterprise_with_sp2_x64_dvd_x15-40394.dvp](https://zerofs.link/f/ezktkVfqkRNo2akCqs1HrwY5zOUdXbpln0JXUg6CkAdMy1c/)    |
-| Lithuanian              | x86  | [lt_windows_vista_enterprise_with_sp2_x86_dvd_x15-40249.dvp](https://zerofs.link/f/vJcopAysrYoWg4WkzmV21bN8HCkt3lpkBby0BJAJbhhGPH8/)    |
-| Latvian                 | x64  | [lv_windows_vista_enterprise_with_sp2_x64_dvd_x15-40392.dvp](https://zerofs.link/f/ddMaOFct_Uh3UmggG5LUjWEHjIupbkjG9ZyGUUaxUgt1uio/)    |
-| Latvian                 | x86  | [lv_windows_vista_enterprise_with_sp2_x86_dvd_x15-40247.dvp](https://zerofs.link/f/RLgySRX_sozXD6YuXmS1_wejvi2ZwKWXbTJKHjSDSL4vODE/)    |
-| Dutch                   | x64  | [nl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40441.dvp](https://zerofs.link/f/iYqNyNYQXMrdle22g7pLzovyACNi7nYhMpXndbQx03BleZU/)    |
-| Dutch                   | x86  | [nl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40295.dvp](https://zerofs.link/f/SSGY6F_yMdNBET7Tzg_YHTm35bdGDUQwMyDntxk_EBY6_Y8/)    |
-| Norwegian               | x64  | [no_windows_vista_enterprise_with_sp2_x64_dvd_x15-40439.dvp](https://zerofs.link/f/ktY58uipacOdN16x7JGtGuGqaWhoGMlpK5XgDnzhPWIfzKc/)    |
-| Norwegian               | x86  | [no_windows_vista_enterprise_with_sp2_x86_dvd_x15-40293.dvp](https://zerofs.link/f/FeL0DL6-akxsz8rTlhPOFeXLXGreIWFR-6IMZsRAUeRfDzs/)    |
-| Polish                  | x64  | [pl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40445.dvp](https://zerofs.link/f/fCSS4WtNKrl2wtL6FoLI_xJlXc83cq9OrbTK7lKx9GoWtUM/)    |
-| Polish                  | x86  | [pl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40299.dvp](https://zerofs.link/f/85JfCkOsdcxP7nz4Ft5pRuLtWEw8D5ZlJNSjO2o6B7-xvHg/)    |
-| Portuguese - Portugal   | x64  | [pp_windows_vista_enterprise_with_sp2_x64_dvd_x15-40443.dvp](https://zerofs.link/f/P5DQ-A-9EekS5gAIFq7TEYhPy6uUDG5sXuW1uMsSz44Pocw/)    |
-| Portuguese - Portugal   | x86  | [pp_windows_vista_enterprise_with_sp2_x86_dvd_x15-40297.dvp](https://zerofs.link/f/pyNO58Me5elzlomNr0EzYyXSAoGFTHPOh5F7PiLoPKwocbg/)    |
-| Portuguese - Brazil     | x64  | [pt_windows_vista_enterprise_with_sp2_x64_dvd_x15-40400.dvp](https://zerofs.link/f/BZPKS5DpXpCcjtavpwRS9r-pRWaZANBnURdZYzXPQAGiO4g/)    |
-| Portuguese - Brazil     | x86  | [pt_windows_vista_enterprise_with_sp2_x86_dvd_x15-40255.dvp](https://zerofs.link/f/vzYHaGiqcY1Urn978ltsCU2uiL8dK9XjPRAg0DkDyDK8VDA/)    |
-| Romanian                | x64  | [ro_windows_vista_enterprise_with_sp2_x64_dvd_x15-40447.dvp](https://zerofs.link/f/rXCk-NkBuhGTR7hr45l8qk_ScDadb-CgwF_Kfc1AWeZYfeI/)    |
-| Romanian                | x86  | [ro_windows_vista_enterprise_with_sp2_x86_dvd_x15-40301.dvp](https://zerofs.link/f/EnXb5hPtdADJfXYDigO41sI0qTA5icx_Q6P5YCtvJcU83f4/)    |
-| Russian                 | x64  | [ru_windows_vista_enterprise_with_sp2_x64_dvd_x15-40455.dvp](https://zerofs.link/f/ou6YuZSuq85uYoV-aQddruBO0HlQ22GdtNrlD34YC6WYI74/)    |
-| Russian                 | x86  | [ru_windows_vista_enterprise_with_sp2_x86_dvd_x15-40309.dvp](https://zerofs.link/f/bCfCfvn0fkXCyB8prq6MXPM2nVqqwfvOe9IFMP821qIOF5Q/)    |
-| Slovak                  | x64  | [sk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40453.dvp](https://zerofs.link/f/XFWvcfRkGXzgAY-_YADw7eFJY0oSyRgaaEQRKBYCt9U_7Fc/)    |
-| Slovak                  | x86  | [sk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40307.dvp](https://zerofs.link/f/tdGdNL2SYjc8YNsbhDrzaG3_bic2qwoWXJc84z9UyfP2kv4/)    |
-| Slovenian               | x64  | [sl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40435.dvp](https://zerofs.link/f/iupsZIF7NDMb_c-LpJSEfNiuqT7BjwpO4MckiC52PgIBsmc/)    |
-| Slovenian               | x86  | [sl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40289.dvp](https://zerofs.link/f/_1SPhBzBq_f8h3dtXs7hTcKAO7CKEhBc5WXQslKSlnGNpcc/)    |
-| Serbian                 | x64  | [sr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40406.dvp](https://zerofs.link/f/s_620g16zUu6cXYzJDjZbhHo0C-T9F8c0U0DVwQ_FEvOkBA/)    |
-| Serbian                 | x86  | [sr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40261.dvp](https://zerofs.link/f/mLsuiv8R_yw10gzE_tVDW4s4KWLf1Eo_-kdTXeE_IWQ2OKk/)    |
-| Swedish                 | x64  | [sv_windows_vista_enterprise_with_sp2_x64_dvd_x15-40449.dvp](https://zerofs.link/f/vLhCLtwUY7oqRv6tuMY_P-d5r7C6RS2s69PXUn1hG_j23sk/)    |
-| Swedish                 | x86  | [sv_windows_vista_enterprise_with_sp2_x86_dvd_x15-40303.dvp](https://zerofs.link/f/krpfdoD-4CXjoR9I0EtmIyhojTpMB7dF2kkPbP4kPp8c2Dg/)    |
-| Thai                    | x64  | [th_windows_vista_enterprise_with_sp2_x64_dvd_x15-40457.dvp](https://zerofs.link/f/KPm-nv1oGuAoPK9Yl5ELzHRZPFsxM1uEOEt4mfx29z49g0s/)    |
-| Thai                    | x86  | [th_windows_vista_enterprise_with_sp2_x86_dvd_x15-40311.dvp](https://zerofs.link/f/PSe-UsuYa502DAk0HBgmwRH2OPkigKgY6pkBRkPE6I_pW7U/)    |
-| Turkish                 | x64  | [tr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40459.dvp](https://zerofs.link/f/Tsq78y5NV6XfLcYwfjY2RKfx8B3F3SYHQD6yejlZ_bKm9QQ/)    |
-| Turkish                 | x86  | [tr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40313.dvp](https://zerofs.link/f/dpAZFULErn9n5B5qeeNj3rlEOSuklHrAt7nb2nJ7wBXj77A/)    |
-| Chinese - Traditional   | x64  | [tw_windows_vista_enterprise_with_sp2_x64_dvd_x15-40461.dvp](https://zerofs.link/f/o_NkkKdfuN4SwboUr3RfDXUkw-7AlfC-7Iub5oBWVHDmbV4/)    |
-| Chinese - Traditional   | x86  | [tw_windows_vista_enterprise_with_sp2_x86_dvd_x15-40315.dvp](https://zerofs.link/f/OIvAarG19ZvpPbsnYMgD1fqGSm8J0aNgDQt8zyY_aj79WHs/)    |
-| Ukranian                | x64  | [uk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40398.dvp](https://zerofs.link/f/Ts5rO_n6z0yjUbFLG3TvO_eHk5VVjaWbN9HnN0tSLJ_Ck3c/)    |
-| Ukranian                | x86  | [uk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40253.dvp](https://zerofs.link/f/iWfUE1HJthIjcOdQS-TEyGG59QhCpbUwqyeRYJa07U2jcZ8/)    |
+| Arabic                  | x64  | [ar_windows_vista_enterprise_with_sp2_x64_dvd_x15-40408.dvp](https://zerofs.link/f/UPgU8grNvWD5HE-SNtTt1WpD7JSgm4Wu_-d-bAo_-EFM5vU/)    |
+| Arabic                  | x86  | [ar_windows_vista_enterprise_with_sp2_x86_dvd_x15-40263.dvp](https://zerofs.link/f/ohV7rvQS82PZs4le6sDqOPKNkC0f3t3aGwkoW74zzjonO6A/)    |
+| Bulgarian               | x64  | [bg_windows_vista_enterprise_with_sp2_x64_dvd_x15-40410.dvp](https://zerofs.link/f/H7cTQo1MghMlKbRS4rYGUie0GnIrVnEClgrzcqph3UyMDN4/)    |
+| Bulgarian               | x86  | [bg_windows_vista_enterprise_with_sp2_x86_dvd_x15-40265.dvp](https://zerofs.link/f/PGq8kZoCAAPxD_VZ-oGw3sficABdrXSqRzCYwflRf4_j0Dc/)    |
+| Chinese - Simplified    | x64  | [cn_windows_vista_enterprise_with_sp2_x64_dvd_x15-40402.dvp](https://zerofs.link/f/OxNoN4gNsUsDPUyODabi2B9JRUqpRb0zIyxBAUuDlRo67nc/)    |
+| Chinese - Simplified    | x86  | [cn_windows_vista_enterprise_with_sp2_x86_dvd_x15-40257.dvp](https://zerofs.link/f/_b8jARuhWEV2C6nBYGC0TeWgfCZFT6Bq7j3cPw6AIEecOt4/)    |
+| Czech                   | x64  | [cs_windows_vista_enterprise_with_sp2_x64_dvd_x15-40412.dvp](https://zerofs.link/f/qygWtbPWoNyI0hAmsK-eYCwDcwb3RIj0WOpb7zwbUBoNZSE/)    |
+| Czech                   | x86  | [cs_windows_vista_enterprise_with_sp2_x86_dvd_x15-40267.dvp](https://zerofs.link/f/oRP-KEMf5I47P6Ajb-aoWlNAsuURJs7CzIRRdFJTnKsgkhI/)    |
+| Danish                  | x64  | [da_windows_vista_enterprise_with_sp2_x64_dvd_x15-40416.dvp](https://zerofs.link/f/OFNKKdqSv33WGs426-FvHRXWGIQjwti_ezswIsRe0pTE6Nc/)    |
+| Danish                  | x86  | [da_windows_vista_enterprise_with_sp2_x86_dvd_x15-40271.dvp](https://zerofs.link/f/wRa_IO7BdDr4l1Tb0ACvYMplF2qEsElu-WXUMghJCW8zx1Y/)    |
+| German                  | x64  | [de_windows_vista_enterprise_sp2_x64_dvd_342376.dvp](https://zerofs.link/f/xO6i5SEYQMvEicnfWzpmBI7xoG5m-eHNrQjpkKy_lUdxD8g/)            |
+| German                  | x86  | [de_windows_vista_enterprise_sp2_x86_dvd_342373.dvp](https://zerofs.link/f/m041ByMGCcyHgfuFMKf-CL5BmZMEOXMw-WiPZ-SiU1k9H24/)            |
+| Greek                   | x64  | [el_windows_vista_enterprise_with_sp2_x64_dvd_x15-40423.dvp](https://zerofs.link/f/tJuWJ0T8jiovPqvNz9T1-4VKvkFGBN6TIfG9lk_akZ2_pU4/)    |
+| Greek                   | x86  | [el_windows_vista_enterprise_with_sp2_x86_dvd_x15-40277.dvp](https://zerofs.link/f/M9lOus6jMmBxlsWmYEvytgQInjZKcSIxpSyBsS38VPIcGyQ/)    |
+| Spanish                 | x64  | [es_windows_vista_enterprise_sp2_x64_dvd_342415.dvp](https://zerofs.link/f/Qt4tqxaM75jgXWryh907OBUhPlOcEGUv3vG976DvMR2ZTXo/)            |
+| Spanish                 | x86  | [es_windows_vista_enterprise_sp2_x86_dvd_342413.dvp](https://zerofs.link/f/HHEOCO5jDgbFvurJcY_gc4ZYRf9yEj7M0f9OiLQAtBbZQas/)            |
+| Estonian                | x64  | [et_windows_vista_enterprise_with_sp2_x64_dvd_x15-40437.dvp](https://zerofs.link/f/Xd1okOCU6Yg1ElZbAITzfv-hMU0mJUg6gBEIyBYXMgAO3Y0/)    |
+| Estonian                | x86  | [et_windows_vista_enterprise_with_sp2_x86_dvd_x15-40291.dvp](https://zerofs.link/f/Q2BnR2C6QIDpCVjokXNZTmvRVq2OAUFd_Q7KN6r33vIx-VI/)    |
+| Finnish                 | x64  | [fi_windows_vista_enterprise_with_sp2_x64_dvd_x15-40451.dvp](https://zerofs.link/f/_Sx57OB6L2-OUDv-cvkcBDGe5SEBnriAkZ2XHJ-i040ty54/)    |
+| Finnish                 | x86  | [fi_windows_vista_enterprise_with_sp2_x86_dvd_x15-40305.dvp](https://zerofs.link/f/5O4KQVTm71Y5drWktc3JCHb_5rB0v3UxadW9WwRpnBhWqVE/)    |
+| French                  | x64  | [fr_windows_vista_enterprise_sp2_x64_dvd_342355.dvp](https://zerofs.link/f/E2hG60ReWo4upNJ_LtLhmOggyaZsZlNA0AKpurZTlOk5Z0g/)            |
+| French                  | x86  | [fr_windows_vista_enterprise_sp2_x86_dvd_342352.dvp](https://zerofs.link/f/Ps0H0WjP1rGr0YZ5z_z8eDiHa89xj5zkYiLAUuNs62X4cnw/)            |
+| Hebrew                  | x64  | [he_windows_vista_enterprise_with_sp2_x64_dvd_x15-40425.dvp](https://zerofs.link/f/5Mso2k3hDu_QAKz7oa9DezVxf0HiKlRgREo4GD3myGseGOQ/)    |
+| Hebrew                  | x86  | [he_windows_vista_enterprise_with_sp2_x86_dvd_x15-40279.dvp](https://zerofs.link/f/xNLKBMDjZkRhLzYrn9TClazWMjWgQmrJKtBzZk4G-T6jbSU/)    |
+| Chinese - Hong Kong SAR | x64  | [hk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40463.dvp](https://zerofs.link/f/7NAj_sBhup7LafjaM9j-H8NokJeJaq4M6sy_0-lEYsxa26M/)    |
+| Chinese - Hong Kong SAR | x86  | [hk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40317.dvp](https://zerofs.link/f/8vHSOyVFXItCzl1RLI7WTFFd92VtF-4frcHVKR-o9ef8FT8/)    |
+| Croatian                | x64  | [hr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40396.dvp](https://zerofs.link/f/FlAcb5v4sQs6GCbMXXFiaBd27qS7aapxDDz3Hu4hgxc0HOA/)    |
+| Croatian                | x86  | [hr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40251.dvp](https://zerofs.link/f/b2uVvxULbJWYI36BO45AguxCaIj4aMJfC22-rtGcN2mm1Eo/)    |
+| Hungarian               | x64  | [hu_windows_vista_enterprise_with_sp2_x64_dvd_x15-40427.dvp](https://zerofs.link/f/SwsEqcxeC6Ydeg4gOHeEd9tUxWQFYYeQE0DksL4HMPMrFUo/)    |
+| Hungarian               | x86  | [hu_windows_vista_enterprise_with_sp2_x86_dvd_x15-40281.dvp](https://zerofs.link/f/Z_AIxAThqs4qiLpq1UBjFn-x91tzVYKG1FHs6hwqYElumDk/)    |
+| Italian                 | x64  | [it_windows_vista_enterprise_with_sp2_x64_dvd_x15-40429.dvp](https://zerofs.link/f/DO2f0TdNh0pacavoOofqhycErI7mdZasU7CJ2FRIlBat_0o/)    |
+| Italian                 | x86  | [it_windows_vista_enterprise_with_sp2_x86_dvd_x15-40283.dvp](https://zerofs.link/f/QTCgzdulbWyJb5_xZzn3UNnBhna2WGjyvifPG6GUQGy5X9Y/)    |
+| Japanese                | x64  | [ja_windows_vista_enterprise_sp2_x64_dvd_342393.dvp](https://zerofs.link/f/tWWjCNIS86MwQMEMnkz3hClckrEkWeCsQP_7h3BbKvWwZPU/)            |
+| Japanese                | x86  | [ja_windows_vista_enterprise_sp2_x86_dvd_342391.dvp](https://zerofs.link/f/Qw2_fvVK3uDQ2pXBFjYG3YWbxlqcK5w-kEfBFr6lfiZpIbs/)            |
+| Korean                  | x64  | [ko_windows_vista_enterprise_k_with_sp2_x64_dvd_x15-40433.dvp](https://zerofs.link/f/mE2sJUxBDWIyrgAX8ERyev_H_9tKEPi1uX9MrF5ckqZSIbo/)  |
+| Korean                  | x86  | [ko_windows_vista_enterprise_k_with_sp2_x86_dvd_x15-40287.dvp](https://zerofs.link/f/RFtv3Yc32YQZg8qwmOflqCs6rpl2INxTWrxzky2elvnRAFQ/)  |
+| Korean                  | x64  | [ko_windows_vista_enterprise_kn_with_sp2_x64_dvd_x15-40625.dvp](https://zerofs.link/f/vJUyHwv12EvMgh7YlvKzBdkB8eg9ay6Q-d_fBKCfk1J0ca8/) |
+| Korean                  | x86  | [ko_windows_vista_enterprise_kn_with_sp2_x86_dvd_x15-40621.dvp](https://zerofs.link/f/1S2EyVEiRzxhpgb5ijQFgn60_9_fBCA-sHOp6aloYnQnhDA/) |
+| Lithuanian              | x64  | [lt_windows_vista_enterprise_with_sp2_x64_dvd_x15-40394.dvp](https://zerofs.link/f/Z65mKonzz4YGk2OvgL4hUtK1DMK4YTW62CtcHXCmdGyrrnQ/)    |
+| Lithuanian              | x86  | [lt_windows_vista_enterprise_with_sp2_x86_dvd_x15-40249.dvp](https://zerofs.link/f/eO6Tr1kYkyXcU_XpFUS_ceTztnXofmhmH4IU9MMb6aiR388/)    |
+| Latvian                 | x64  | [lv_windows_vista_enterprise_with_sp2_x64_dvd_x15-40392.dvp](https://zerofs.link/f/QeSTKsYh19PO5B49DYZV6gZBQn0RYdcLc3SzSGfjrRbKIm4/)    |
+| Latvian                 | x86  | [lv_windows_vista_enterprise_with_sp2_x86_dvd_x15-40247.dvp](https://zerofs.link/f/-jIvTRCJkBhAg9G-HFLKo_6qbeHvY13gRX1BSRz-L6uo3tk/)    |
+| Dutch                   | x64  | [nl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40441.dvp](https://zerofs.link/f/fkN6zmsbOEfOMsfJlH72je_9QpuOYa0ti1b0XH7VChBo0Q8/)    |
+| Dutch                   | x86  | [nl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40295.dvp](https://zerofs.link/f/nehOyMbwToMeHnC1Dkr13MBdDyhUnxxJX9mGXqOWYgCUcOc/)    |
+| Norwegian               | x64  | [no_windows_vista_enterprise_with_sp2_x64_dvd_x15-40439.dvp](https://zerofs.link/f/VRIyytKL7sS7wAVV46XLiBaXFfdykdrtID3cACf3TT3Hwlc/)    |
+| Norwegian               | x86  | [no_windows_vista_enterprise_with_sp2_x86_dvd_x15-40293.dvp](https://zerofs.link/f/FbeoFgdoZVzTH-iaYOpxasn5KAVmtiMDN8Fv5MpjBWd_Kxs/)    |
+| Polish                  | x64  | [pl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40445.dvp](https://zerofs.link/f/Pb9FkJDoY5oBv-NjP3uthKT0VpyVWxeogMGnV90QfCMyUQY/)    |
+| Polish                  | x86  | [pl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40299.dvp](https://zerofs.link/f/JTzF9LOnEk1LjAYxAvhyszjt7j8AIVllfUMI8e44jx5jQto/)    |
+| Portuguese - Portugal   | x64  | [pp_windows_vista_enterprise_with_sp2_x64_dvd_x15-40443.dvp](https://zerofs.link/f/NR5wBUa7f4zQlKwt-H35Wbwyv-GY-U7WTGZLYA7M14Nv27Y/)    |
+| Portuguese - Portugal   | x86  | [pp_windows_vista_enterprise_with_sp2_x86_dvd_x15-40297.dvp](https://zerofs.link/f/WX_kKGtRH3DQOVp-n7JNWLI7cPXU0PitiM1YXfMtU0wG7Uo/)    |
+| Portuguese - Brazil     | x64  | [pt_windows_vista_enterprise_with_sp2_x64_dvd_x15-40400.dvp](https://zerofs.link/f/SUOySBLHAGlIXaUOF9l-ST-j9oPDWZdDqhDWqatk3FodKMk/)    |
+| Portuguese - Brazil     | x86  | [pt_windows_vista_enterprise_with_sp2_x86_dvd_x15-40255.dvp](https://zerofs.link/f/A78VB26Pkz4unpQiKca_PoopWjy7VdMurZlBUTGqziwVz0M/)    |
+| Romanian                | x64  | [ro_windows_vista_enterprise_with_sp2_x64_dvd_x15-40447.dvp](https://zerofs.link/f/uBUrtqYKLAyQJ1NJsse9pKgmCf2LxRkM9zUCy7gkRnaRom4/)    |
+| Romanian                | x86  | [ro_windows_vista_enterprise_with_sp2_x86_dvd_x15-40301.dvp](https://zerofs.link/f/-BwZvKNtZ8krdJdsOY9ZqhmK8EwurYj8he68jrKsG1OcBi8/)    |
+| Russian                 | x64  | [ru_windows_vista_enterprise_with_sp2_x64_dvd_x15-40455.dvp](https://zerofs.link/f/nG2BIiHuFCRzE6wxgar2EPcWxPCZ8YDK7Q72tNhFjqmtlZ0/)    |
+| Russian                 | x86  | [ru_windows_vista_enterprise_with_sp2_x86_dvd_x15-40309.dvp](https://zerofs.link/f/_Vfd7OFnEbq6x01tQdQdRg9WQQIRd9F_FqErIZh7FpOCDU8/)    |
+| Slovak                  | x64  | [sk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40453.dvp](https://zerofs.link/f/cVOjuAcPOndWoqlU6whB_mWjLOxiQjOSsuIDNaJG59Z4OtA/)    |
+| Slovak                  | x86  | [sk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40307.dvp](https://zerofs.link/f/ATDz2DO8Tj3FLbzafkOaPu4teOAY8hHmeC5NeuvVNSw2Uys/)    |
+| Slovenian               | x64  | [sl_windows_vista_enterprise_with_sp2_x64_dvd_x15-40435.dvp](https://zerofs.link/f/4SsEu1BXU0QxPOT_9n7s6nJBi6X3ujfvir6ttGPru4k-hFQ/)    |
+| Slovenian               | x86  | [sl_windows_vista_enterprise_with_sp2_x86_dvd_x15-40289.dvp](https://zerofs.link/f/o11i0AMutL5MclKAbxj5Pvq0NJF1LENPSHXx7BUfFPs8TsY/)    |
+| Serbian                 | x64  | [sr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40406.dvp](https://zerofs.link/f/oYK6dfJiTBXgZOlP1hrnXxz226qSnwquy0ErYjASAwulroU/)    |
+| Serbian                 | x86  | [sr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40261.dvp](https://zerofs.link/f/pf1TP0GjhTqvh-zpehpC3YVZDx7Zu2mzI4RZG5TKfyyq008/)    |
+| Swedish                 | x64  | [sv_windows_vista_enterprise_with_sp2_x64_dvd_x15-40449.dvp](https://zerofs.link/f/esBfbhRzEVrnrzDn07GZvSzRQjVrtHZZBDD2W4nDxFqbF9o/)    |
+| Swedish                 | x86  | [sv_windows_vista_enterprise_with_sp2_x86_dvd_x15-40303.dvp](https://zerofs.link/f/P34DIU1pK6BwCFDcOhq7ch58KiRSGFQReBZO3bo6YxJenZI/)    |
+| Thai                    | x64  | [th_windows_vista_enterprise_with_sp2_x64_dvd_x15-40457.dvp](https://zerofs.link/f/jBL3XO1Dgzx8Z3kP1DmzKVCeXccLbtAoNqrKLJdJkgbOx6g/)    |
+| Thai                    | x86  | [th_windows_vista_enterprise_with_sp2_x86_dvd_x15-40311.dvp](https://zerofs.link/f/q-vJr-xQ2jhrwRsrmclIshHBPCujI5GeggjRAIBdmQCDcsA/)    |
+| Turkish                 | x64  | [tr_windows_vista_enterprise_with_sp2_x64_dvd_x15-40459.dvp](https://zerofs.link/f/SXFE8wUu9Qvy7Xd-xS_Jcxef7vwbqeFbEPSfdjdgKrzTXkE/)    |
+| Turkish                 | x86  | [tr_windows_vista_enterprise_with_sp2_x86_dvd_x15-40313.dvp](https://zerofs.link/f/hE7tW_Qnh2ZWfVufxZ2-kaEYscB9yMPfnGDvH3n67oYe0Kw/)    |
+| Chinese - Traditional   | x64  | [tw_windows_vista_enterprise_with_sp2_x64_dvd_x15-40461.dvp](https://zerofs.link/f/M-nRpozTTHdMkE0O5MItODzpnvlGN1kM9S3ShJ9lmBckaQg/)    |
+| Chinese - Traditional   | x86  | [tw_windows_vista_enterprise_with_sp2_x86_dvd_x15-40315.dvp](https://zerofs.link/f/YrsMfql_dIhBs36wTfrXusWbIvmaHFYja1k0747GeFOnCJ8/)    |
+| Ukranian                | x64  | [uk_windows_vista_enterprise_with_sp2_x64_dvd_x15-40398.dvp](https://zerofs.link/f/T4F1VvBodBiBXNscobzv75ouiqtd62AzZwdsWYqqc_va7dc/)    |
+| Ukranian                | x86  | [uk_windows_vista_enterprise_with_sp2_x86_dvd_x15-40253.dvp](https://zerofs.link/f/OLP6SGutOYJ5algRYM_rmt89TkXqD8t_skAPQvQI0xZ1K5g/)    |
 
 </TabItem>
 </Tabs>
@@ -217,34 +217,34 @@ The file below is a **full** ISO image.
 
 | Language | Arch | Link |
 |:---------|:-----|:---|
-| English  | x64  | [en_windows_vista_n_sp2_x64_dvd_342268.iso (Buzzheavier)](https://buzzheavier.com/rxrt0706faat)<br/>[en_windows_vista_n_sp2_x64_dvd_342268.iso (ZeroFS)](https://zerofs.link/f/EeMzUL8_IRYFKGmeBbdSPm1bOIf7TAhJmtPvONvc-VHgn-Q/) |
+| English  | x64  | [en_windows_vista_n_sp2_x64_dvd_342268.iso (Buzzheavier)](https://buzzheavier.com/rxrt0706faat)<br/>[en_windows_vista_n_sp2_x64_dvd_342268.iso (ZeroFS)](https://zerofs.link/f/FyhMlGVPlS2fYSwOnZ-752RRrMbUwXk1WDSXxmgmjET7CbY/) |
 
 The files below are **DVP patches** that use the above ISO image as a source. See [here](dumbversion_patches.md) to learn how to use them.
 
 | Language                | Arch | Link                                                                                                                                             |
 | :---------------------- | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Bulgarian               | x64  | [bg_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36320.dvp](https://zerofs.link/f/auhm6of5qrRqNbiU2f_DyEUmaQJnn8BF3uXw1O_0KvemS-g/)            |
-| Czech                   | x64  | [cs_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36326.dvp](https://zerofs.link/f/BzcZPMuzUt3eK1qWEK68IwXuxjTaNNVnvWZe8XbwKbx8HUg/)            |
-| Danish                  | x64  | [da_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36328.dvp](https://zerofs.link/f/iwWdTxETRJR1kJebeM01-dmbbT3U3IlKWqghZjBYaPVBor8/)            |
-| German                  | x64  | [de_windows_vista_n_sp2_x64_dvd_342288.dvp](https://zerofs.link/f/eQr8nMX7I10CXX1PKECsdavubuSEOogfA9y3G2b4Bd3VsuU/)                                              |
-| Greek                   | x64  | [el_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36342.dvp](https://zerofs.link/f/quMvvP0vsTvz0xNTtH1zAn-e4l3vOeMO1C_wHaTJu_4uovo/)            |
-| Spanish                 | x64  | [es_windows_vista_n_sp2_x64_dvd_342311.dvp](https://zerofs.link/f/iJRj1X4bBdL9YsXjxT6xTCFtFjh6T1AtPyRe7FFEAi4Zuj4/)                                              |
-| Estonian                | x64  | [et_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36334.dvp](https://zerofs.link/f/VyMNldIMzd6YsxY-E5OhZMmeR5Bh3fhj82H7htayL24odLk/)            |
-| Finnish                 | x64  | [fi_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36336.dvp](https://zerofs.link/f/KqcP0XriigK_Z-D0oc89goTnxlsXsMayoPY2Y9prcIAjkOY/) |
-| French                  | x64  | [fr_windows_vista_n_sp2_x64_dvd_342278.dvp](https://zerofs.link/f/Z1QfOvaTcrpWHCIqHP0q1gWefStogKORdllPtqgj2DLh1Fo/)                                              |
-| Hungarian               | x64  | [hu_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36345.dvp](https://zerofs.link/f/BkPWYsE_mjnHXAhLBLQNwRXpeIbgD_o4oxANQMaBxBnoKgk/) |
-| Italian                 | x64  | [it_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36347.dvp](https://zerofs.link/f/Zd-_6IGqTSzppy6zSAvEM6wFstuIN-SvMwlIfLRcoWrpzIY/)            |
-| Korean                  | x64  | [ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.dvp](https://zerofs.link/f/Vik4rrv1kroNY43qhy5hxkvAHNdzUEzp6GGDCmD29eiYNc8/)                                     |
-| Lithuanian              | x64  | [lt_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36354.dvp](https://zerofs.link/f/_0hwjlkFxJWsfnPIRpAj8hh_hE4k9Ah9Zk1DMrrseAt_Qcw/)            |
-| Latvian                 | x64  | [lv_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36352.dvp](https://zerofs.link/f/T_PkUURPKnFZ09EP-EgsAYGHON4i20gC0w_EMKdabEMhJuE/)            |
-| Dutch                   | x64  | [nl_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36330.dvp](https://zerofs.link/f/pAjocG608Cbd3XhzrmJKZoLo2kDwCxqXQLh_slIzdgNDlHU/) |
-| Norwegian               | x64  | [no_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36356.dvp](https://zerofs.link/f/H8UoRnZd627_Pm1Gb9JRA6-YzF0vBzAjTfpSr699I-zVxYk/)            |
-| Polish                  | x64  | [pl_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36358.dvp](https://zerofs.link/f/C6kC9cZQ3A2ctoQilWvXlhjuxgNoM7AHjuyKwaH8w67T84c/)            |
-| Portuguese - Portugal   | x64  | [pp_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36360.dvp](https://zerofs.link/f/zct7QBxczjN8OBuDURgiO1qRKdGLKfOIgSMm2zs8EGeaOtw/)            |
-| Romanian                | x64  | [ro_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36362.dvp](https://zerofs.link/f/Iaw778NsVRykm1wPrWX7OktgxoIbivvNybVhNQppDLR3bNg/)            |
-| Slovak                  | x64  | [sk_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36366.dvp](https://zerofs.link/f/gvVjUxcCJzLU-_N_7HSmzT9S3s_wsm1q-qwCM67XoD-63Yw/)            |
-| Slovenian               | x64  | [sl_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36368.dvp](https://zerofs.link/f/ho1Ta04b1MvIG-5HuQ9oJbxpeldLTZdPVqnZmcop284ONBA/)            |
-| Swedish                 | x64  | [sv_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36372.dvp](https://zerofs.link/f/dtrEA8PFHanu5hdimkjiRmHJnDwOSFNuEs-S8mYlH8Re9Ew/)            |
+| Bulgarian               | x64  | [bg_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36320.dvp](https://zerofs.link/f/oE0x6p9y4gGAWa_u-XPXyl1tUsKpdELCsoE5jO8oLl63jyA/)            |
+| Czech                   | x64  | [cs_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36326.dvp](https://zerofs.link/f/I745yVfDTil-xkWO5TYAMIyR-twrXBerUPXjjnAOBHzZSAw/)            |
+| Danish                  | x64  | [da_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36328.dvp](https://zerofs.link/f/6R-dBmdvNDCjsKRTgNgNsTVXD98OgxBBHsyQ3IAX9QeAWGY/)            |
+| German                  | x64  | [de_windows_vista_n_sp2_x64_dvd_342288.dvp](https://zerofs.link/f/zSJk7YLoob0GMMfSxHUbRBnRmIKfLNt-pjw09iJsJCxBDMU/)                                              |
+| Greek                   | x64  | [el_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36342.dvp](https://zerofs.link/f/cB1aOMf3YVDRI2_kNuHSIQLXUmSh8gPQ49iLSNCIYFyb9J0/)            |
+| Spanish                 | x64  | [es_windows_vista_n_sp2_x64_dvd_342311.dvp](https://zerofs.link/f/eH860r-apFwRsx83oJgxCyCFzDMpHn_MLSnPw82KZauDQvY/)                                              |
+| Estonian                | x64  | [et_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36334.dvp](https://zerofs.link/f/d6yJI6HQt9c2q4gKShwg6z_DDdLXIuSatn9tbScZgGtARL8/)            |
+| Finnish                 | x64  | [fi_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36336.dvp](https://zerofs.link/f/0ariMETuDGm1rhBZvTzCsR9eZN00w-CQMrfA863Q0hJfDzw/) |
+| French                  | x64  | [fr_windows_vista_n_sp2_x64_dvd_342278.dvp](https://zerofs.link/f/wcO8hMaFOT4H62QsUkl-dzO9NsXv4lF_NydaMv7Xhi_ddJ4/)                                              |
+| Hungarian               | x64  | [hu_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36345.dvp](https://zerofs.link/f/hTxLnxpzbIbQiI-S79EAkBJF3twyJF6iW-eaQx8YGJjxwpA/) |
+| Italian                 | x64  | [it_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36347.dvp](https://zerofs.link/f/gcjzaUriVw8Nb_62NE0tU6IY-xjTeWwi3o5W83vgRyePluc/)            |
+| Korean                  | x64  | [ko_windows_vista_kn_with_sp2_x64_dvd_x15-36351.dvp](https://zerofs.link/f/yJ0x8jDAPv_u7YVWakyXfKwFNiXE610oI6PiBJHQqIG-C0Y/)                                     |
+| Lithuanian              | x64  | [lt_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36354.dvp](https://zerofs.link/f/Ueww2CATk0bffjp9CbFFUCfAkTXZr5LbxSH7K0Lq5U6yizY/)            |
+| Latvian                 | x64  | [lv_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36352.dvp](https://zerofs.link/f/rbg9G6Hgv3h0MHSWKxWBzpZKHCc92bKsLFQUKUf2ctkrHGs/)            |
+| Dutch                   | x64  | [nl_windows_vista_business_n_and_home_basic_n_with_service_pack_2_x64_dvd_x15-36330.dvp](https://zerofs.link/f/_KAVaWpGFNJN1enafCN39bzG-11yHfUcLNcZuTyC5BTdSTw/) |
+| Norwegian               | x64  | [no_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36356.dvp](https://zerofs.link/f/F2O-1Ln9-8TwAF1_PYvvc3dfXFWtqXkUdIHsTq9FJAL-5Qs/)            |
+| Polish                  | x64  | [pl_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36358.dvp](https://zerofs.link/f/nDcNB7x2XRD4DdNTPlWiYdCmcI6oZPQNFoI9VqVKpmu2alA/)            |
+| Portuguese - Portugal   | x64  | [pp_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36360.dvp](https://zerofs.link/f/TpNXw42P2ko-l60pneSYU9hnNegIRAXAJJgVwVUDtmLAyNY/)            |
+| Romanian                | x64  | [ro_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36362.dvp](https://zerofs.link/f/nn_TcDZjVX_kjKF5CiKoBi1LdLePvNirOXB2U6eHMRk6ZWE/)            |
+| Slovak                  | x64  | [sk_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36366.dvp](https://zerofs.link/f/XSlDsjqqMUaqKtl9hwiC1RuamoQcAwwHCGcS1mleguzRhsk/)            |
+| Slovenian               | x64  | [sl_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36368.dvp](https://zerofs.link/f/-HPjKj0CRCAcB0IljlPClKFWro6CDxntluKdGhBYDjPrFEI/)            |
+| Swedish                 | x64  | [sv_windows_vista_business_n_and_home_basic_n_with_sp2_x64_dvd_x15-36372.dvp](https://zerofs.link/f/0opf5CtaTWLkConPjIuahYNyW2MORPAeMtqMeC1LXzlKx7Q/)            |
 
 </TabItem>
 
