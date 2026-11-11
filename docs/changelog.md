@@ -1,5 +1,17 @@
 # MAS Changelog
 
+## 3.14
+
+**So Sorry!**
+
+#### TSForge
+- Fixed 4-6y ESU detection
+
+#### Ohook
+- Fixed Ohook Script crash
+
+------------------------------------------------------------------------
+
 ## 3.13
 
 **Vote for Queen!**
