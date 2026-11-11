@@ -83,7 +83,7 @@ import TabItem from '@theme/TabItem';
 
 ## MAS Latest Release
 
-Latest Release: v3.12 (4-Jul-2026)  
+Latest Release: v3.13 (11-Nov-2026)  
 [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts) / [Azure DevOps](https://dev.azure.com/massgrave/_git/Microsoft-Activation-Scripts) / [Self-hosted Git](https://git.activated.win/Microsoft-Activation-Scripts)
 
 ------------------------------------------------------------------------
