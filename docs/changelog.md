@@ -1,5 +1,22 @@
 # MAS Changelog
 
+## 3.13
+
+**Vote for Queen!**
+
+**If you have previously activated Windows 10 ESU, please reactivate it using this version.**
+
+#### TSforge
+- Added Windows 10 Enterprise LTSC 2021 ESU.
+- Removed year 6 ESU update activation.
+- Added auto-removal for year 4-6 ESU licenses, which prevent update detection.
+
+#### Ohook
+- Changed Smart App Control detection message.
+
+#### All
+- Added guidance for activating Office on Remote Desktop host.
+
 ------------------------------------------------------------------------
 
 ## 3.12
