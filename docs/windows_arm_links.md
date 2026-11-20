@@ -136,7 +136,7 @@ The ARM64 version of the IoT Enterprise ISO is only available in English.
 
 | Language | Arch  | Link |
 |:---------|:------|:---|
-| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_26h2_arm64_dvd_28350d72.iso](https://zerofs.link/f/tuxjCKLfy7QK9xFWOoLo44bxM9iGxtZaU8QlORvjH8bMFec/) |
+| English  | ARM64 | [en-us_windows_11_iot_enterprise_version_26h2_arm64_dvd_28350d72.iso](https://zerofs.link/f/gN5bf8J/) |
 
 
 :::info
